@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP07-T"
+    id="id-0d06642d-4ebc-4a3f-965d-68e33d6503f3"
+    documentation="Windows Server 2019 TimeXtender test en acceptatie Zevenaar">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="TimeXtender"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="9dbe48d5-3129-4b4c-8070-74fd77eceb99"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

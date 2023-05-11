@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VTLB Calculator Zevenaar"
+    id="id-b3de7d7a-8025-41c8-891f-91a24efb7751">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jurrien de Kramer"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Leverancier"
+      value="Bureau Wsnp"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="6ab61fd5-f8ad-4339-b2bd-15eae2011643"/>
+</archimate:ApplicationComponent>

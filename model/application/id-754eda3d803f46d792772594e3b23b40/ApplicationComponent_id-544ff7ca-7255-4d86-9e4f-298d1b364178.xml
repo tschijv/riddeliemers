@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZorgMail Adresboek RSD"
+    id="id-544ff7ca-7255-4d86-9e4f-298d1b364178">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RSD de Liemers"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Enovation"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Danny van Leeuwen"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Object ID"
+      value="2e9a2602-bcc1-4bb5-87ff-b9de5a37b004"/>
+</archimate:ApplicationComponent>

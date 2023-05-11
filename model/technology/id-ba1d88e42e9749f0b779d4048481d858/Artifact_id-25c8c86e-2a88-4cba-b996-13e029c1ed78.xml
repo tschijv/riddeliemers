@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVNTTP"
+    id="id-25c8c86e-2a88-4cba-b996-13e029c1ed78">
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Timetell DVN"/>
+  <properties
+      key="Object ID"
+      value="a89c4d88-da23-4492-b9e6-c1e161434cca"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

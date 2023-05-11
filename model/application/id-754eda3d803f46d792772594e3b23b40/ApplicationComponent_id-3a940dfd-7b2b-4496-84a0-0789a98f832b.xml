@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microstation"
+    id="id-3a940dfd-7b2b-4496-84a0-0789a98f832b">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Bram Wieringa"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="Bentley Systems Europe B.V."/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Object ID"
+      value="bbf1b394-a2d7-4709-ad64-5cd8610dbd3d"/>
+</archimate:ApplicationComponent>

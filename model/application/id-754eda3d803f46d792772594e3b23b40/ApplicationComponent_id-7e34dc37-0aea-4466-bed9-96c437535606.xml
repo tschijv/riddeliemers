@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decos Join ZVN"
+    id="id-7e34dc37-0aea-4466-bed9-96c437535606">
+  <properties
+      key="Applicatiesoort"
+      value="Kernsoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Lars Rikkers"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Leverancier"
+      value="Decos"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Grego Notten"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Decos Support"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP XenDesktop"/>
+  <properties
+      key="Object ID"
+      value="385f097a-1e65-4fe6-a37c-3c3f9c27896e"/>
+</archimate:ApplicationComponent>

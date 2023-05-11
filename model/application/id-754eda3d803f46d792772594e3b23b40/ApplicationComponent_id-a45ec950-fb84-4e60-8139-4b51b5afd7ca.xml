@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VTLB Calculator 1Stroom"
+    id="id-a45ec950-fb84-4e60-8139-4b51b5afd7ca">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jurrien de Kramer"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Bureau Wsnp"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Object ID"
+      value="671d807f-b083-435a-8e76-ebcad6f14776"/>
+</archimate:ApplicationComponent>

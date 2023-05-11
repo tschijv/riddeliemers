@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timetell DVN"
+    id="id-3cde6a63-010e-47d6-9e95-e4423661e276">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Rosalien Senhorst"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP125-P"/>
+  <properties
+      key="Leverancier"
+      value="TimeTell BV"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="DVNTTP"/>
+  <properties
+      key="Object ID"
+      value="96e2b8cf-6aa9-423f-a6d2-255da4d24ed6"/>
+</archimate:ApplicationComponent>

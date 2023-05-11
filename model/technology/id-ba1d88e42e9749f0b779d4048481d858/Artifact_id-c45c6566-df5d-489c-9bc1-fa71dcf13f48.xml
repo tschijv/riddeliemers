@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVNPIVP"
+    id="id-c45c6566-df5d-489c-9bc1-fa71dcf13f48">
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Key2Burgerzaken DVN Portaal Burgerzaken DVN"/>
+  <properties
+      key="Object ID"
+      value="9de23b88-1f46-4c0d-bc5e-d4d99d59501b"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

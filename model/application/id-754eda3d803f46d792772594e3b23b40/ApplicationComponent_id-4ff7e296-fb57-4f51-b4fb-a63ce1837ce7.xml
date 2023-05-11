@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JKC 1Stroom"
+    id="id-4ff7e296-fb57-4f51-b4fb-a63ce1837ce7">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Grego Notten"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Decos"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="SDWJKCP"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-JKC04-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Object ID"
+      value="7cc1086f-055b-41ee-bb56-7f7da3cabca9"/>
+</archimate:ApplicationComponent>

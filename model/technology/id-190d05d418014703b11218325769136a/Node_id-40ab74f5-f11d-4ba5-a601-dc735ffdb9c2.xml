@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP46-P"
+    id="id-40ab74f5-f11d-4ba5-a601-dc735ffdb9c2">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="c5efb681-b641-462a-8c0f-96ed6543bd1e"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

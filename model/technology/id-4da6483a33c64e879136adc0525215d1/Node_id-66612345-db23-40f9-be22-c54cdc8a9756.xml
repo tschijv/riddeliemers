@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-MON02-P"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9756">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="PRTG Monitoring"/>
+  <properties
+      key="Object ID"
+      value="b49ef0eb-31d9-4285-af1b-8f2eb374717b"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

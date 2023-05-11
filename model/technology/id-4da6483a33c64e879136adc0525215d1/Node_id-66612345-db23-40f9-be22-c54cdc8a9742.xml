@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vMBG1_mrt2021"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9742">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="4126ed39-7ca5-47a4-a9b2-c4fa27b30cd4"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

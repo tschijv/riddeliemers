@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google Chrome"
+    id="id-6c387b0f-c653-40f2-b3e6-8746f950025f">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Fysieke werkplek XenAPP XenDesktop"/>
+  <properties
+      key="Leverancier"
+      value="Google"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Object ID"
+      value="32ff5c5b-a8b3-43df-b016-ca945d18625a"/>
+</archimate:ApplicationComponent>

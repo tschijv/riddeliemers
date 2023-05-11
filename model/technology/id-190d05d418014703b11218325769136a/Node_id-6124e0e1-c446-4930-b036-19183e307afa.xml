@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-WLS13-P"
+    id="id-6124e0e1-c446-4930-b036-19183e307afa">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Key2Berichtenmodule Key2BAG Key2Berichtenmodule Key2BG Key2Berichtenmodule Key2DDS Key2Berichtenmodule Key2FIS Key2BerichtenModule Key2GWS Key2Burgerzaken DVN Key2Burgerzaken WTV Key2Burgerzaken ZVN Key2Datadistributie Key2Financien 1Stroom Key2Financien ZVN Key2Parkeren Key2VOA Zevenaar"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="8d31df35-3255-47aa-b6b0-972a7529ded6"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

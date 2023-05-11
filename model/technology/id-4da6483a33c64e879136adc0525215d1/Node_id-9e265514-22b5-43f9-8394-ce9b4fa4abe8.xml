@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP121-P"
+    id="id-9e265514-22b5-43f9-8394-ce9b4fa4abe8">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Intranet RID Intranet RSD"/>
+  <properties
+      key="Object ID"
+      value="c9e49342-14da-4ba7-bba0-4c637bf2ce8b"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

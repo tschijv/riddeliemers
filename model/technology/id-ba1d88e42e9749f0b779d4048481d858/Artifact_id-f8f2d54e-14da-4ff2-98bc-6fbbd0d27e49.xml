@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1STRJCCPS_GPLAN"
+    id="id-f8f2d54e-14da-4ff2-98bc-6fbbd0d27e49">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="JCC Afspraken en Reserveren 1Stroom"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="65611017-eb82-4f0b-907e-21cbe79711bd"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

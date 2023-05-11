@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TIC Narrowcasting"
+    id="id-d029d7f4-ca9e-4a0d-8916-bbb1cc46823b">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP03-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="TiC Narrow Casting"/>
+  <properties
+      key="Object ID"
+      value="b87681f1-cdf3-4cca-abfb-7ef456bde88c"/>
+</archimate:ApplicationComponent>

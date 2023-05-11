@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel MiCollab Server"
+    id="id-b87a5e8c-a590-4ba7-8406-474062d0eb6c">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Robin Exoo"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Max Holland"/>
+  <properties
+      key="Leverancier"
+      value="Zetacom"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="vMiCollab_nov_2020"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Marcel van Maren"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Object ID"
+      value="75aa1739-e1fe-4393-91c5-52b7a4f463b7"/>
+</archimate:SystemSoftware>

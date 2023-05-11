@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP98-P"
+    id="id-cd15b134-1bf1-433c-b3df-552e8f431fee">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="JCC Afspraken en Reserveren ZVN JCC Assistant Zevenaar JCC Betalen ZVN JCC Klantgeleiding ZVN JCC Personeelsplanning ZVN"/>
+  <properties
+      key="Object ID"
+      value="984b452e-b8e9-48a8-ad48-f1398ff8d01f"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

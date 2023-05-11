@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ivanti Automation Manager"
+    id="id-93363848-2064-47dd-a2c5-7326db9bedc7">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Leverancier"
+      value="Ivanti"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-AM02-P SV-AM03-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="RES-AM"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="e13d0eda-e048-4658-8c0c-6dce2d3cdd87"/>
+</archimate:SystemSoftware>

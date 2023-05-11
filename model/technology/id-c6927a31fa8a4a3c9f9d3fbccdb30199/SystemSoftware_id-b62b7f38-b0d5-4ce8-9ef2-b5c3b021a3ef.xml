@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DigiNetwerk"
+    id="id-b62b7f38-b0d5-4ce8-9ef2-b5c3b021a3ef">
+  <properties
+      key="Applicatiesoort"
+      value="Kernsoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Gemnet Router"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="KPN"/>
+  <properties
+      key="Object ID"
+      value="cfae2c8d-8edc-4f1e-8c99-91da5e261c1d"/>
+</archimate:SystemSoftware>

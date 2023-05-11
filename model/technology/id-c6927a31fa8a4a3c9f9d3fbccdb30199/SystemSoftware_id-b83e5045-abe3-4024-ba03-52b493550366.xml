@@ -1,0 +1,29 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPAM"
+    id="id-b83e5045-abe3-4024-ba03-52b493550366">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-MGM10-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="d3b85937-6aed-47c4-80a7-12bb3f527f8f"/>
+</archimate:SystemSoftware>

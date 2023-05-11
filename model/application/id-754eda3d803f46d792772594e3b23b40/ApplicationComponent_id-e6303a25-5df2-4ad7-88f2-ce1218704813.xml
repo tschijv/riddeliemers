@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Xtendis Outlook Connector"
+    id="id-e6303a25-5df2-4ad7-88f2-ce1218704813">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Kees van Galen"/>
+  <properties
+      key="Leverancier"
+      value="Expansion BV"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="MGR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Object ID"
+      value="59d29180-5e07-4496-859e-54ef30b96ca1"/>
+</archimate:ApplicationComponent>

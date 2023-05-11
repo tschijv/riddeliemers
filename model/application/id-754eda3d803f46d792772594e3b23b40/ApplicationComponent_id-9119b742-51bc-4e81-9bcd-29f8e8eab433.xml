@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beaufort 1stroom"
+    id="id-9119b742-51bc-4e81-9bcd-29f8e8eab433">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Rosalien Senhorst"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Visma | Raet"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP XenDesktop"/>
+  <properties
+      key="Object ID"
+      value="11344f14-cda5-4030-94b7-4c04a81ab53d"/>
+</archimate:ApplicationComponent>

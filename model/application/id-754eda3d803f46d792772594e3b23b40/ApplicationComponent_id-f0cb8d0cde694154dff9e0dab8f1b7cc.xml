@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flexwhere"
+    id="id-f0cb8d0cde694154dff9e0dab8f1b7cc">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maikel Bouwman"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Leverancier"
+      value="FlexWhere"/>
+  <properties
+      key="Object ID"
+      value="c4db2c60-0458-44f5-9001-c5740820f279"/>
+</archimate:ApplicationComponent>

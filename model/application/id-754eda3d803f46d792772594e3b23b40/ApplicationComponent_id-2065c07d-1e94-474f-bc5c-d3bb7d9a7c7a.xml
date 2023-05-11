@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Xtendis Cockpit"
+    id="id-2065c07d-1e94-474f-bc5c-d3bb7d9a7c7a">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Kees van Galen"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-PR11-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="MGR"/>
+  <properties
+      key="Leverancier"
+      value="Expansion BV"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="387c7d43-6cd2-46d0-afea-19f14184a837"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-MDU05-T"
+    id="id-90c1e630-3001-4291-92ac-ec1d24f6f816">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="MDU WTV"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="fd422d84-a34d-449e-beb1-7b070b223017"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

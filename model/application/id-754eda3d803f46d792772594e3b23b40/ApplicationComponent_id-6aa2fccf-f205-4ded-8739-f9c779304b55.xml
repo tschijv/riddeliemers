@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brutis"
+    id="id-6aa2fccf-f205-4ded-8739-f9c779304b55"
+    documentation="Opvolger kikker">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Samenvatting"
+      value="Opvolger kikker"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Bram Wieringa"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Leverancier"
+      value="Riodesk"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Notities"
+      value="De applicatie is gekoppeld aan Oracle 19 Database SDLBGT en SDLBGP, draaiend op de ODA - Tevens maakt de applicatie gebruik van ODBC koppeling en is de opvolger van Kikker - Er zijn op de service bus ook ko0ppelingen."/>
+  <properties
+      key="Object ID"
+      value="01d96ef5-dc64-4351-82fa-72d4c4e06726"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoekhuis"
+    id="id-63e6627f-27aa-4910-a279-c338710aa9a2">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Wilma Dikker"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Hans Hetterschijt"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Leverancier"
+      value="Hedaal B.V."/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Object ID"
+      value="7a5aa12b-1f5c-4b4e-af05-77b7a9e0ac83"/>
+</archimate:ApplicationComponent>

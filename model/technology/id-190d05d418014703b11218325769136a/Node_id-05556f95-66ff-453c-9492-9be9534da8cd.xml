@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-XS42-P"
+    id="id-05556f95-66ff-453c-9492-9be9534da8cd">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Object ID"
+      value="b142951c-e424-43b2-a4d6-716003505b63"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

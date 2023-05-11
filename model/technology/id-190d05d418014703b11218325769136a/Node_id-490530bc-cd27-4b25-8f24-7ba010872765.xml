@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-CAL01-P"
+    id="id-490530bc-cd27-4b25-8f24-7ba010872765">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="TrendMicro ApexOne Server"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="4579efd4-83db-4d61-9393-497ffc1eb03c"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

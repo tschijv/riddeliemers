@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZEVENAARJCCP_SYNERGY"
+    id="id-ea2e6ed1-4328-4e63-a5c8-b3155378ed88">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="JCC Personeelsplanning ZVN"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Object ID"
+      value="81cd49aa-af47-4a35-9782-921b7054535e"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EB Match client"
+    id="id-c04fbeec-fbec-4bb0-89eb-6bbd718a7a57">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Rudo van Gellekom"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenDesktop"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Object ID"
+      value="6269929f-7ae4-4608-9ea3-d7f5466d8212"/>
+</archimate:ApplicationComponent>

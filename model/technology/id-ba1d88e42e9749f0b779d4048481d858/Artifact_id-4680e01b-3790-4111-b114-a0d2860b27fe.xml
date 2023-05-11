@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IvantiWorkspaceControle"
+    id="id-4680e01b-3790-4111-b114-a0d2860b27fe">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Ivanti Workspace Control"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="8a62c5f2-749d-4ff4-a937-a552d65364e7"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

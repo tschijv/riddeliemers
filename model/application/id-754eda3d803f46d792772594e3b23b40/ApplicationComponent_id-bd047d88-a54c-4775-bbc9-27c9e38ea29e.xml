@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Builder DVN"
+    id="id-bd047d88-a54c-4775-bbc9-27c9e38ea29e">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Rosalien Senhorst"/>
+  <properties
+      key="Leverancier"
+      value="Microsoft"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="cab68ebd-2788-4d72-a367-8085baf99866"/>
+</archimate:ApplicationComponent>

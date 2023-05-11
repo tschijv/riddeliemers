@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SkillsTown Academy RID"
+    id="id-2d0a7e6f-4083-4cf9-9b40-5c7b250ab3fc">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Object ID"
+      value="6cd66185-fc22-4021-82f9-9fb7f0795f84"/>
+</archimate:ApplicationComponent>

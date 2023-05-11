@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Personeelsplanning 1Stroom"
+    id="id-d4ce5707-46b8-4e70-8743-9e28895e8e92">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Marlies Heutink"/>
+  <properties
+      key="Leverancier"
+      value="JCC Software"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP93-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="1STRJCCPS_SYN"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Object ID"
+      value="c4ba94d3-05ef-4fcc-acf0-1cf3e730e9b8"/>
+</archimate:ApplicationComponent>

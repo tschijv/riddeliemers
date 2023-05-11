@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MiVoice Business"
+    id="id-c39f1ee6-133c-4e7d-913f-7ae447566b95">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Robin Exoo"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="vMCD1_2019 vMCD2_2019"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Marcel van Maren"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Max Holland"/>
+  <properties
+      key="Object ID"
+      value="dc1f5d28-f39e-41c7-96f5-f63f4b632134"/>
+</archimate:SystemSoftware>

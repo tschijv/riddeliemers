@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bomgar"
+    id="id-d09be8ba-4f44-4069-883a-f69de205b366">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="DCA-HFDLOC-PAM01"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Max Holland"/>
+  <properties
+      key="Leverancier"
+      value="BeyondTrust (v.h. Bomgar)"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="b056ddc6-4df3-4bb7-9acc-417b088bebac"/>
+</archimate:SystemSoftware>

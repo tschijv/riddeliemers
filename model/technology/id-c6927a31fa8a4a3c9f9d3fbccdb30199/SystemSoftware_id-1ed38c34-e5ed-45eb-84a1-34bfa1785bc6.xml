@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemnet"
+    id="id-1ed38c34-e5ed-45eb-84a1-34bfa1785bc6">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Leverancier"
+      value="KPN"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Gemnet Router"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="d2357fdd-90a7-44e1-9aa0-5e6052718141"/>
+</archimate:SystemSoftware>

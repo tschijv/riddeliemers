@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lias"
+    id="id-c882c02b-15f1-4808-8363-795b31745905">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Erwin Heusinkveld"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Hans Geurts"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Frans Schepers"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Leverancier"
+      value="Inergy"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP123-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVNLIASP"/>
+  <properties
+      key="Object ID"
+      value="7f111821-2f6b-4b2f-bab5-67edf5303071"/>
+</archimate:ApplicationComponent>

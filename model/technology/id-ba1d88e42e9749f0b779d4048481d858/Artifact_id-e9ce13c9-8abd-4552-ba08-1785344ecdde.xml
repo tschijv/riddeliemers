@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ALGKIKP"
+    id="id-e9ce13c9-8abd-4552-ba08-1785344ecdde">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-DBS01-P"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Kikker Groen DVN Kikker Groen WTV Kikker Groen ZVN Kikker Riool DVN Kikker Riool WTV Kikker Riool ZVN Kikker Wegen DVN Kikker Wegen WTV Kikker Wegen ZVN Kikker WTV Klicviewer"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Object ID"
+      value="c259e32d-7989-419f-ac88-aa248df37fbd"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

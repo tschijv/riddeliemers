@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRTG Monitoring"
+    id="id-46a853b5-f7a5-4f65-9b00-ef5e3f6dee2b">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Danny van Leeuwen"/>
+  <properties
+      key="Leverancier"
+      value="Paessler"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-MON01-P SV-MON02-P"/>
+  <properties
+      key="Object ID"
+      value="9682d110-737d-46fc-a6b4-0f90e20a94fa"/>
+</archimate:SystemSoftware>

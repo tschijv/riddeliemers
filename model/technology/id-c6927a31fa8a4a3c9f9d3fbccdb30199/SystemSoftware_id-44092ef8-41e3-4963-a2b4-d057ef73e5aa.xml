@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway"
+    id="id-44092ef8-41e3-4963-a2b4-d057ef73e5aa">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jeroen Louwerse"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Guido van der Vegt"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-GATEWAY01-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="1210e34b-5fca-4c58-82a2-c42aaf360db9"/>
+</archimate:SystemSoftware>

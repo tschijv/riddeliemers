@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trimble Connect"
+    id="id-09febe01-f6a9-4690-aaca-99e36b7e044a">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Trimble"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Object ID"
+      value="7c7ab8ea-94b2-434c-97bd-4ee153ac5c77"/>
+</archimate:ApplicationComponent>

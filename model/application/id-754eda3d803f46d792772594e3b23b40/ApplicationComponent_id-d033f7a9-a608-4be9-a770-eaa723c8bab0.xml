@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workrave"
+    id="id-d033f7a9-a608-4be9-a770-eaa723c8bab0">
+  <properties
+      key="Applicatiesoort"
+      value="Systeem Software"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP XenDesktop"/>
+  <properties
+      key="Leverancier"
+      value="Workrave"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="85c767c6-6b7d-42c8-9130-49f95de5f72c"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDU WTV"
+    id="id-9523eb1d-80b7-40b6-bb3b-20c7a27aea38">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="RSD vragen/verzoeken Applicatiebeheer"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-MDU04-P"/>
+  <properties
+      key="Object ID"
+      value="22e310b5-34ac-4983-a54c-3fe1813f7109"/>
+</archimate:ApplicationComponent>

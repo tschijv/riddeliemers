@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-pr12-p"
+    id="id-1df05c91-e80f-4870-af0d-89e0597c0802"
+    documentation="PrintServer 2016">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Xtendis Cockpit"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="6d38d74c-3d27-4dc6-8037-c6156eb8985f"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

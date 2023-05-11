@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WTVROTP"
+    id="id-f55abbbe-964b-46c0-b2cb-e0883c9c02a1">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Squit 20/20 WRO WTV"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Object ID"
+      value="086dd585-e608-4b4b-aaa2-0150b704ebf8"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeoServer"
+    id="id-11514c79-600d-412e-b88b-8e4019117b1b"
+    documentation="tbv kaartlagen in BAG / KEY2Begraven / Kaartviewer">
+  <properties
+      key="Samenvatting"
+      value="tbv kaartlagen in BAG / KEY2Begraven / Kaartviewer"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP103-P SV-APP75-P SV-APP99-P"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ALGGBELP1"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="45b080c1-8103-4b4e-8815-7c33a2cb56d9"/>
+</archimate:ApplicationComponent>

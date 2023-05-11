@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-WLS20-P"
+    id="id-66612345-db23-40f9-be22-c54cdc8a97a8">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Key2BAG"/>
+  <properties
+      key="Object ID"
+      value="96d2e119-77ba-4b15-a461-995bddb9f177"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

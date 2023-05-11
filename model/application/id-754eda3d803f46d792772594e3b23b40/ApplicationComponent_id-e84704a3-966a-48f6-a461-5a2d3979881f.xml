@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sharefile Drive Mapper"
+    id="id-e84704a3-966a-48f6-a461-5a2d3979881f">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Leverancier"
+      value="Citrix"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Object ID"
+      value="e556500e-6082-4499-a424-3af12105d670"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-JKC03-T"
+    id="id-53daa1fb-27b0-49ba-b028-24ea2f910d26"
+    documentation="Windows server 2019 - JKC server  Zevenaar- Test">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="JKC ZVN"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="f9e0fdfd-b220-48a6-bd5e-b057c170a208"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

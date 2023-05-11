@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-SF03-P"
+    id="id-2dff8e7c-bb18-4a02-9838-a66f34a6e519">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Citrix Provisioning Services"/>
+  <properties
+      key="Object ID"
+      value="fe75acca-1721-4707-a832-928f42cd85cf"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

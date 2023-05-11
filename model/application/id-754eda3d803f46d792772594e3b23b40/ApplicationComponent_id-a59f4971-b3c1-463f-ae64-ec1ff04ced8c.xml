@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audacity"
+    id="id-a59f4971-b3c1-463f-ae64-ec1ff04ced8c">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Elke van Raaij"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Object ID"
+      value="c72a185a-a740-464b-929d-f9e6c44decde"/>
+</archimate:ApplicationComponent>

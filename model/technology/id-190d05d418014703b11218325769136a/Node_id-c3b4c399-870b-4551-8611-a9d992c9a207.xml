@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-JKC04-T"
+    id="id-c3b4c399-870b-4551-8611-a9d992c9a207"
+    documentation="Windows server 2016 - JKC server  1Stroom- Test">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="JKC 1Stroom"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="82d2d248-ae00-40c3-8018-457815fb9d83"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

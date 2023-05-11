@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensmagazijn Vicrea"
+    id="id-9bc37cfc-f3f6-49bc-b316-d0d5e757be3d">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="SDLNGMP"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP106-P SV-APP107-T"/>
+  <properties
+      key="Leverancier"
+      value="Vicrea"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Object ID"
+      value="98131dc2-8497-4c0b-96bc-2f796a44725d"/>
+</archimate:ApplicationComponent>

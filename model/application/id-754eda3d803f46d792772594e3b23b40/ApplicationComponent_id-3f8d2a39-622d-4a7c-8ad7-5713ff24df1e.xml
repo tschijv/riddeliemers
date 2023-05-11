@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Riobase"
+    id="id-3f8d2a39-622d-4a7c-8ad7-5713ff24df1e">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Leverancier"
+      value="Global Vitis b.v."/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Object ID"
+      value="14ae09b9-3462-449e-ab19-bca1d4924064"/>
+</archimate:ApplicationComponent>

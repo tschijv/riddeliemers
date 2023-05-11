@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="7-zip"
+    id="id-438a2a15-0343-4f7d-88e7-3d8940d4ba31">
+  <properties
+      key="Applicatiesoort"
+      value="Systeem Software"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP XenDesktop"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Leverancier"
+      value="Igor Pavlov (Solvusoft)"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Object ID"
+      value="acf9eb4e-e741-450f-81ec-9ff2b7c4bbb6"/>
+</archimate:ApplicationComponent>

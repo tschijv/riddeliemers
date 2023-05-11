@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektor ZVN"
+    id="id-52f732d1-7aa7-4e03-88a9-3f788b6a89cb">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Informatiebeveiliging"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Fenna Schiks"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP69-P"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="EL0299"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Leverancier"
+      value="TSA Verkiezingen b.v."/>
+  <properties
+      key="Object ID"
+      value="91870d1a-384c-4cc4-970c-87dda972b91f"/>
+</archimate:ApplicationComponent>

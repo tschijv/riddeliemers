@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vMBG4_mrt2021"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9744">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Mitel Micollab Trunk"/>
+  <properties
+      key="Object ID"
+      value="75d0b578-0c18-4aad-8712-0f48cda1ab8c"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

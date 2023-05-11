@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FME client"
+    id="id-59fd2e93-7f67-4ee5-ba3d-d76db31642e9">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Safe Software"/>
+  <properties
+      key="Object ID"
+      value="cf353578-37a1-42df-a556-23c70bec860a"/>
+</archimate:ApplicationComponent>

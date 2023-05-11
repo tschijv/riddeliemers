@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-XA217-P"
+    id="id-81a71f6a-21b1-4efc-91e8-bd2d6dcb42f0">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="8d6fb8c2-d1a1-4899-ab56-7e1ee7a0809c"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

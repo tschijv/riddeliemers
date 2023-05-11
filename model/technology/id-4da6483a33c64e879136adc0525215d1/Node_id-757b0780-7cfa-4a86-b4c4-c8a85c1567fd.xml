@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-NPS03-P"
+    id="id-757b0780-7cfa-4a86-b4c4-c8a85c1567fd">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="PRTG Monitoring"/>
+  <properties
+      key="Object ID"
+      value="c5414f3e-3fe3-41a6-82b0-14a3bb56cb71"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

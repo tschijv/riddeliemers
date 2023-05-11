@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avepoint Backup"
+    id="id-4fd6660f-8585-4e48-aa19-5da6eb9992f5">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Danny van Leeuwen"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Leverancier"
+      value="Avepoint Netherlands"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Duran Oruc"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-CMG01-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Object ID"
+      value="bb9b4e8f-2fdc-4a98-a874-e8405a113eda"/>
+</archimate:SystemSoftware>

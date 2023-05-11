@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kikker WTV"
+    id="id-9cc88639-9702-4e9f-9d1b-300a6a7a4c3f">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Bram Wieringa"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Riodesk"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ALGKIKP"/>
+  <properties
+      key="Object ID"
+      value="e1894bc6-56fd-441d-94a1-fa9eb0062aaa"/>
+</archimate:ApplicationComponent>

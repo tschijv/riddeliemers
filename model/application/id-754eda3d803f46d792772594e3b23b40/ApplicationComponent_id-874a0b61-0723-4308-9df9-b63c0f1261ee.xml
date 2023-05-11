@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet ZVN"
+    id="id-874a0b61-0723-4308-9df9-b63c0f1261ee">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Notities"
+      value="Contact via: webteam@zevenaar.nl"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP67-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Leverancier"
+      value="Mett"/>
+  <properties
+      key="Object ID"
+      value="ebe21e85-e9e8-4659-838b-9d0a9b8c1582"/>
+</archimate:ApplicationComponent>

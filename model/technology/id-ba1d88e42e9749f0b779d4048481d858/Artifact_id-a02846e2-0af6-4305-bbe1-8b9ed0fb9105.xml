@@ -1,0 +1,16 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VeeamBackupReporting"
+    id="id-a02846e2-0af6-4305-bbe1-8b9ed0fb9105">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-VEE01-P"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="148f80ed-b74f-46b5-b9eb-ed0816c99353"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

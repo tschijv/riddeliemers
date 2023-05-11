@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APS01-P"
+    id="id-a82f2a9d-eafd-4dd9-b117-d8cd4c74e5fe">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="BAG GOUW 1Stroom GeoServer GOUW DVN GOUW WTV GOUW ZVN"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="ec2b96ad-d6a9-4934-ad7f-408868f653e5"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

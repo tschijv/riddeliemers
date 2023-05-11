@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mail Exchange Online"
+    id="id-ddf750fa-d09d-4331-9152-83fa3193cda7">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Exchange Online SV-EX10-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Duran Oruc"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Leverancier"
+      value="Microsoft"/>
+  <properties
+      key="Object ID"
+      value="a80dcba8-2c58-4ca7-ab55-52346152e2ed"/>
+</archimate:ApplicationComponent>

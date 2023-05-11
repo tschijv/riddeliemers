@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Service Bus (ESB)"
+    id="id-f2bd63b2-4185-4d07-a10f-ed9834636ad6">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Guido van der Vegt"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jeroen Louwerse"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="SDLADEPP"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-CON01-P SV-CON02-T"/>
+  <properties
+      key="Leverancier"
+      value="Enable-U"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="624d43dc-4e80-4cf7-8bb6-39b30aa22fe9"/>
+</archimate:ApplicationComponent>

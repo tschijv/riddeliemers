@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Afspraken en Reserveren ZVN"
+    id="id-8e2f6bce-7cf5-440e-b07e-f58467990166">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Marleen te Poele"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Ilse Boerboom"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Luc Boerboom"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Leverancier"
+      value="JCC Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP97-P"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZEVENAARJCCPGP"/>
+  <properties
+      key="Object ID"
+      value="16e62e43-c261-4e57-832c-70d28dc250b3"/>
+</archimate:ApplicationComponent>

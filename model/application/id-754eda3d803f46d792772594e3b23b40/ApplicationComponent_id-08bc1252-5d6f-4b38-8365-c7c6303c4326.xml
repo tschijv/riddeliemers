@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Berichtenmodule Key2PBZ Duiven"
+    id="id-08bc1252-5d6f-4b38-8365-c7c6303c4326"
+    documentation="tbv Key2burgerzaken Duiven">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Samenvatting"
+      value="tbv Key2burgerzaken Duiven"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Simone Geerts"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="DVNDDSP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Duiven"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Object ID"
+      value="2331324a-89a8-401f-8ffe-cc6d0b12ef25"/>
+</archimate:ApplicationComponent>

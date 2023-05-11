@@ -1,0 +1,20 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=".NET Framework"
+    id="id-e5a0db6d-b875-4dea-a150-95d97f7f8710">
+  <properties
+      key="Applicatiesoort"
+      value="Systeem Software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="0079065d-8e6e-4ab8-b70a-25b6ce886c17"/>
+</archimate:SystemSoftware>

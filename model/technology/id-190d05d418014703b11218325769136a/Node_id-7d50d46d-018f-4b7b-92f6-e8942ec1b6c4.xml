@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP124-T"
+    id="id-7d50d46d-018f-4b7b-92f6-e8942ec1b6c4">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Lias Stratech"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="f1be3575-8e6a-4373-95c0-0a0e5ae7916f"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

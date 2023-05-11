@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teamviewer"
+    id="id-f317dcb8-a2c4-4328-94da-ad7148b758c1">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Leverancier"
+      value="Teamviewer"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP XenDesktop"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Object ID"
+      value="f864b181-6c89-4020-a22a-83a58b532114"/>
+</archimate:SystemSoftware>

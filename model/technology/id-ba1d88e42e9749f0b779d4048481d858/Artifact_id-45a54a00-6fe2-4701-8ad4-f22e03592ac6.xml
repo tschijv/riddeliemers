@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZVCOGNP1"
+    id="id-45a54a00-6fe2-4701-8ad4-f22e03592ac6">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Cognos"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Object ID"
+      value="f41aad87-bdba-4adf-8243-99db775f9162"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

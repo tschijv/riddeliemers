@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Restore bestanden"
+    id="id-1223901c-433c-46e1-bce0-07ad1449f4bb">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Danny van Leeuwen"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Veeam Backup &amp; Replication"/>
+  <properties
+      key="Object ID"
+      value="02822330-ae7e-4bd8-8596-96d3036d7964"/>
+</archimate:ApplicationComponent>

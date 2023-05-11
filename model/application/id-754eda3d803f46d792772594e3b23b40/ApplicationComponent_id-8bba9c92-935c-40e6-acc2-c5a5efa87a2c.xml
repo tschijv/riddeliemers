@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TimeXtender"
+    id="id-8bba9c92-935c-40e6-acc2-c5a5efa87a2c">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Pieter Veenhuijsen"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Tim Schuitema"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="Zevenaar_TX_DM Zevenaar_TX_DP Zevenaar_TX_ODX Zevenaar_TX_Repo"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Marcel van Maren"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP05-P"/>
+  <properties
+      key="Leverancier"
+      value="FourPoints"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Object ID"
+      value="89ffdc7c-e7fe-44e6-b7f8-1e5915020179"/>
+</archimate:ApplicationComponent>

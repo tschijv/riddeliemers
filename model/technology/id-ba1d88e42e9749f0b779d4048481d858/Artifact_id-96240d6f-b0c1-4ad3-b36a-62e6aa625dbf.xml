@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCCGKAS_Zevenaar"
+    id="id-96240d6f-b0c1-4ad3-b36a-62e6aa625dbf">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="SV-APP97-P"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-APP93-P SV-SQL03-P"/>
+  <properties
+      key="Object ID"
+      value="a31f30ee-3d52-4035-b968-279b770efda2"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

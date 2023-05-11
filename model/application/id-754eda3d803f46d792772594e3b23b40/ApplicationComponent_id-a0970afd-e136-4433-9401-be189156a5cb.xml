@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timetell WTV"
+    id="id-a0970afd-e136-4433-9401-be189156a5cb">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Sevgi Demirci"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Rosalien Senhorst"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP125-P"/>
+  <properties
+      key="Leverancier"
+      value="TimeTell BV"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="WTVTTP"/>
+  <properties
+      key="Object ID"
+      value="e8ed67df-a0b5-4b9b-becc-3c7572b987ac"/>
+</archimate:ApplicationComponent>

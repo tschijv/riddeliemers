@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Matrix Frame"
+    id="id-6e364ffc-bcf3-40bb-b5ef-c5616535d296">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jurjen Venema"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Leverancier"
+      value="Matrix Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Object ID"
+      value="071a5ee6-0c9d-45f0-baea-48b944121989"/>
+</archimate:ApplicationComponent>

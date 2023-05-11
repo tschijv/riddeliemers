@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP75-P"
+    id="id-aaff49c7-991b-441d-84fb-1f855a29482c">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Suite WIZ"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="6c939075-b38e-4995-8a76-ea92613286dd"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

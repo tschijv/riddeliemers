@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-XS38-P"
+    id="id-77c7fd04-8ccc-46de-8743-89c9820303ad">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Object ID"
+      value="172bec74-dbe4-419c-9554-ef53e50d202e"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

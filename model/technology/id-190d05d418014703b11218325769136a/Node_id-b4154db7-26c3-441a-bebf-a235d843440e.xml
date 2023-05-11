@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-DDC04-P"
+    id="id-b4154db7-26c3-441a-bebf-a235d843440e">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Citrix Delivery Controller Services"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="baaa4046-0b65-4139-bf59-d66e1a6c0737"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

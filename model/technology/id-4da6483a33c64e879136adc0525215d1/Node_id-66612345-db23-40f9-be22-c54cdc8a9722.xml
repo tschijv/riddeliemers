@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BaliePC"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9722">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="7zip Adobe CC Adobe reader AutoCAD 3D Map Beaufort 1stroom Beaufort ZVN Decos Join 1Stroom Decos Join SDL Decos Join ZVN DWG TrueView EB Match client Evernote GML Viewer Google Chrome Imro 2012 iWriter365 JCC Afspraken Outlook add-in Klicviewer Microsoft office 365 Mitel Micollab Client Mozilla firefox PerfectView Begraafplaats Plankaart - TabEdit Power PDF Prevent Ro-Totaal SAP GUI client Supernova Suwinet Teamviewer Trend Micro Client VLC Player Workrave Youforce Zorgmail Veilig verzenden Outlook add-in"/>
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Object ID"
+      value="cd8630a4-5674-4b8c-86fc-1b6faa7d029b"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

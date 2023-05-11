@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud"
+    id="id-bb9f41b0-32a4-418d-9f0f-aa2067ec6b88">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Keepass Securitech document scanner"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="4ac1d277-1432-4b25-9f3c-498e41ecbd2c"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

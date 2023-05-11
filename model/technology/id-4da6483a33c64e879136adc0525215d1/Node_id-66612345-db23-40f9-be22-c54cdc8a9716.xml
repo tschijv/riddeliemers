@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exchange Online"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9716">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Wifi"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="49d41ad9-519f-42de-b2c2-66a5543f1c6c"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

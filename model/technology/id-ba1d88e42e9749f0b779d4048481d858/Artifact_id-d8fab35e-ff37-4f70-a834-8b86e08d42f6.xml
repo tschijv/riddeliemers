@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDLADEPP"
+    id="id-d8fab35e-ff37-4f70-a834-8b86e08d42f6">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Enterprise Service Bus (ESB)"/>
+  <properties
+      key="Object ID"
+      value="b7bd0c5a-771f-46bd-9b93-df6c0f469846"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet RSD"
+    id="id-dfdc1163-9491-4acb-a86a-be128b0fbecf">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Mett"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RSD de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP120-P"/>
+  <properties
+      key="Object ID"
+      value="3684aa65-aba1-4f38-9a70-017a4e43c882"/>
+</archimate:ApplicationComponent>

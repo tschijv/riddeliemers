@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2VOA Duiven"
+    id="id-541352a0-afae-4ffe-912c-9dd580751a6b"
+    documentation="Verzend en Ontvangststation voor afnemers van het GBA netwer">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Samenvatting"
+      value="Verzend en Ontvangststation voor afnemers van het GBA netwer"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="DVNDDSP"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Duiven"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Object ID"
+      value="a1707b75-ca84-4603-a114-337d4708f851"/>
+</archimate:ApplicationComponent>

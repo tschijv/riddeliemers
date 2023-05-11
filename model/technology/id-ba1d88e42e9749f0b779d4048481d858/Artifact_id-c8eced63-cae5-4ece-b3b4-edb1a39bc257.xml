@@ -1,0 +1,16 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCCGKAS_Westervoort"
+    id="id-c8eced63-cae5-4ece-b3b4-edb1a39bc257">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-APP93-P SV-SQL03-P"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="277ebadd-bc85-44f2-b7e6-978a69d022d6"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

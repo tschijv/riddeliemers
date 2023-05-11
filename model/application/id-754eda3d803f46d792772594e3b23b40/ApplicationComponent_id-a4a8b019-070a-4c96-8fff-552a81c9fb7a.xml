@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decos Join 1Stroom"
+    id="id-a4a8b019-070a-4c96-8fff-552a81c9fb7a">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Lydia Knijf"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Guus Benkers"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Leverancier"
+      value="Decos"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP XenDesktop"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Grego Notten"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Decos Support"/>
+  <properties
+      key="Object ID"
+      value="28ae6205-cccd-4faf-a228-a07c7e7fcaf5"/>
+</archimate:ApplicationComponent>

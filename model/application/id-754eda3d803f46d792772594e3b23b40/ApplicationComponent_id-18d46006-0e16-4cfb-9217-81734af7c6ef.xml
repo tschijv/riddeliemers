@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 Webserver ZVN"
+    id="id-18d46006-0e16-4cfb-9217-81734af7c6ef">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Andrea Schuil"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="Roxit_PRD_SPM_Zevenaar"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP78-P"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Object ID"
+      value="8a689b70-4391-437d-9d5b-4cd44a991093"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,17 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-CMS01-P"
+    id="id-a5536ccb-85e9-4e69-aa3e-a427056e8fa6"
+    documentation="Centric Beheer server">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Ivanti Workspace Manager"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="aa26104c-0bae-4c07-8422-5ff98c65424b"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

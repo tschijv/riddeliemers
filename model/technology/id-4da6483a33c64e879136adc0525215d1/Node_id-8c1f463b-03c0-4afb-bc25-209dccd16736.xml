@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-DC04-P"
+    id="id-8c1f463b-03c0-4afb-bc25-209dccd16736">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Azure AD Connect - SSO-MFA Lastpass connector"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="c995fc81-984b-49dc-8758-0fbeea1a67b0"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

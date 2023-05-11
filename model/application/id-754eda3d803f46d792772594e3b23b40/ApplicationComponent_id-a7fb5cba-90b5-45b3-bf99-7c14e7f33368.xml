@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOUW WTV"
+    id="id-a7fb5cba-90b5-45b3-bf99-7c14e7f33368">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Wilma Dikker"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ALGGBELP1"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP100-P SV-APP99-P"/>
+  <properties
+      key="Leverancier"
+      value="GouwIT"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="2bd6995b-bfa0-46b9-9093-ef54a1a584cf"/>
+</archimate:ApplicationComponent>

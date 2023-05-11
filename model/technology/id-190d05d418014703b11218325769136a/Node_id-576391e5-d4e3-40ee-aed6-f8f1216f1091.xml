@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-SQL03-P"
+    id="id-576391e5-d4e3-40ee-aed6-f8f1216f1091">
+  <properties
+      key="Database hosting (Kind-middelen)"
+      value="1STRJCCPS_GPLAN 1STRJCCPS_SYN AWRSRegister_Duiven Hectronic_Zevenaar JCC Klantgeleiding ZVN JCCGKAS_Duiven JCCGKAS_Westervoort JCCGKAS_Zevenaar Roxit_PRD_SPM_1Stroom Roxit_PRD_SPM_Zevenaar Zevenaar_TX_DM Zevenaar_TX_DP Zevenaar_TX_ODX Zevenaar_TX_Repo ZEVENAARJCCKLGP ZEVENAARJCCP_SYNERGY ZEVENAARJCCPGP"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="1ffda264-a3a3-4822-b74c-0eb3adac906d"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

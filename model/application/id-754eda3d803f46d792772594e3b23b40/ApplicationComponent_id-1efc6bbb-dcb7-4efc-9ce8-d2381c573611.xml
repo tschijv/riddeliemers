@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Betalen WTV"
+    id="id-1efc6bbb-dcb7-4efc-9ce8-d2381c573611">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Marlies Heutink"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="JCC Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP93-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Object ID"
+      value="829f5fdd-3c28-47db-a08b-11944db9c23a"/>
+</archimate:ApplicationComponent>

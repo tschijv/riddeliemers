@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fixi WTV"
+    id="id-47989656-352f-4582-8cc2-db1d53182e85">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Marleen te Poele"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Marlies Heutink"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Grego Notten"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Decos Support"/>
+  <properties
+      key="Leverancier"
+      value="Decos"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Object ID"
+      value="796571f5-b57f-4bfe-b494-c9eafc042871"/>
+</archimate:ApplicationComponent>

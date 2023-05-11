@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal Burgerzaken ZVN"
+    id="id-2021503a-128b-4675-a33a-35a44e91bbc3">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Fenna Schiks"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Marcel van Maren"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP70-P SV-APP86-P"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVPIVP1"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Object ID"
+      value="b4d383a0-a2c2-4caf-8847-911db944acd1"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal Burgerzaken DVN"
+    id="id-7079a50a-cdf8-4f68-ad5a-9f8c1eeaaa50">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jolanda Smeijer"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Carmen Dahles"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="DVNPIVP"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Marcel van Maren"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP118-P SV-APP119-P"/>
+  <properties
+      key="Object ID"
+      value="b42cfdaf-a456-4839-b612-502a677d836f"/>
+</archimate:ApplicationComponent>

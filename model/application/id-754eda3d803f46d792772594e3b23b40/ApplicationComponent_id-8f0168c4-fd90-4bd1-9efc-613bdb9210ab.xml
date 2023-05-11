@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kikker Groen DVN"
+    id="id-8f0168c4-fd90-4bd1-9efc-613bdb9210ab">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Bram Wieringa"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Riodesk"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ALGKIKP"/>
+  <properties
+      key="Object ID"
+      value="4cac177c-f33e-4ae5-8cab-275af6b86af7"/>
+</archimate:ApplicationComponent>

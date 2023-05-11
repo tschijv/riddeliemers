@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP70-P"
+    id="id-66612345-db23-40f9-be22-c54cdc8a97a9">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Elektor DVN Elektor WTV Elektor ZVN"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="04e28227-df09-4320-9199-5c4d998754a2"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tangelo"
+    id="id-9e1024ac-6773-4f5e-987f-e7bf02362e7d">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Mark Jordens"/>
+  <properties
+      key="Leverancier"
+      value="Tangelo Software B.V."/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP125-P"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="SDWTANP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="0dfacc82-b449-43c0-b5e4-87f70cd7b0e4"/>
+</archimate:ApplicationComponent>

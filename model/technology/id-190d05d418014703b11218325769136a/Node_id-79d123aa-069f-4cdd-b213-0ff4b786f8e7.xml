@@ -1,0 +1,19 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VXR01.DOMAIN.LOCAL"
+    id="id-79d123aa-069f-4cdd-b213-0ff4b786f8e7">
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Solarwinds"/>
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Mitel OIG"/>
+  <properties
+      key="Object ID"
+      value="a5b5837d-e2e2-4803-a96b-e92ab158c5d8"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

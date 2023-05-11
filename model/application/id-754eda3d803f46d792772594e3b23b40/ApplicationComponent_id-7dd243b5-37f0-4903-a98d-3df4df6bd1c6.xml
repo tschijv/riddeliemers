@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BAG GOUW 1Stroom"
+    id="id-7dd243b5-37f0-4903-a98d-3df4df6bd1c6"
+    documentation="t.b.v. Duiven en Westervoort">
+  <properties
+      key="Samenvatting"
+      value="t.b.v. Duiven en Westervoort"/>
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Anita Briggeman"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Storage, VMWare &amp; Back-up"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Karen Jacobs"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="GouwIT"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Duiven Gemeente Westervoort"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ALGGBELP1"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP99-P"/>
+  <properties
+      key="Object ID"
+      value="1505c94e-02e2-418c-9c53-1670feeae306"/>
+</archimate:ApplicationComponent>

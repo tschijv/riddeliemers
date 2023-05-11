@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Klantgeleiding ZVN"
+    id="id-2e3bff55-f840-453e-87b9-051c1c9e4990">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Ilse Boerboom"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Luc Boerboom"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Marleen te Poele"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP97-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Leverancier"
+      value="JCC Software"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Object ID"
+      value="7446f030-584f-4b00-aba0-0cd6d6f7db6c"/>
+</archimate:ApplicationComponent>

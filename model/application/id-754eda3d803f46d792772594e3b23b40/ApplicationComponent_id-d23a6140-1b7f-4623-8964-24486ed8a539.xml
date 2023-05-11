@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 Webserver 1Stroom"
+    id="id-d23a6140-1b7f-4623-8964-24486ed8a539">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Informatiebeveiliging"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP78-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="Roxit_PRD_SPM_1Stroom"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Object ID"
+      value="c6b7967f-ab16-4ea7-9f91-ac73bb51da4a"/>
+</archimate:ApplicationComponent>

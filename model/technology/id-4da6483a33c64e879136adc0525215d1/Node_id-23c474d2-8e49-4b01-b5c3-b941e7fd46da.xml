@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VA-FWMGM01-P"
+    id="id-23c474d2-8e49-4b01-b5c3-b941e7fd46da">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Checkpoint Smartevent"/>
+  <properties
+      key="Object ID"
+      value="048d3c72-dc4e-43b6-92ec-10064371c600"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

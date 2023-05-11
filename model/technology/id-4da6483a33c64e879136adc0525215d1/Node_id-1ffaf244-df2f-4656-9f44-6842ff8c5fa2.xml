@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-SF04-P"
+    id="id-1ffaf244-df2f-4656-9f44-6842ff8c5fa2">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Citrix StoreFront"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="20704263-c079-46e1-890f-1c9732696bc9"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

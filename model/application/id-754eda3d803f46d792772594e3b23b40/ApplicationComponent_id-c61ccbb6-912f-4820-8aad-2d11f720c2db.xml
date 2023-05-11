@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDU RSD"
+    id="id-c61ccbb6-912f-4820-8aad-2d11f720c2db">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="RSD vragen/verzoeken Applicatiebeheer"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Exchange Online"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-MDU01-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RSD de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Object ID"
+      value="2326ec68-1adb-42f3-82ed-0add3a69db1a"/>
+</archimate:ApplicationComponent>

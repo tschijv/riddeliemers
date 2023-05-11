@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iBabs WTV"
+    id="id-7affaaff-4c2b-45f5-acf7-fb1305e0a4d3">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP125-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Leverancier"
+      value="PayGlobal Technology"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Object ID"
+      value="e0d9a4e0-3ef0-4b01-9b2d-d21bbfddcd85"/>
+</archimate:ApplicationComponent>

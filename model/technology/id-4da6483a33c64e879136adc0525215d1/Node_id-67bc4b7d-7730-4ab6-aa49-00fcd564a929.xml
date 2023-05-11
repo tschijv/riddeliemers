@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-CER02-P"
+    id="id-67bc4b7d-7730-4ab6-aa49-00fcd564a929">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Certificaten intern"/>
+  <properties
+      key="Object ID"
+      value="d5e87bd5-3137-4a9c-9c03-96178061fce3"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

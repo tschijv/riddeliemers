@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2GBAV Westervoort"
+    id="id-e44bd7c8-0d68-4446-b5ba-a37ee3fee360">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="WTVDDSP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Westervoort"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="8ff19df6-c90d-4a34-8c41-4b6626416f03"/>
+</archimate:ApplicationComponent>

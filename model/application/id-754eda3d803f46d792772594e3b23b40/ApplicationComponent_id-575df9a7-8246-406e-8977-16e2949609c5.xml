@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Berichtenmodule Key2PIV Zevenaar"
+    id="id-575df9a7-8246-406e-8977-16e2949609c5"
+    documentation="tbv key2burgerzaken">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Samenvatting"
+      value="tbv key2burgerzaken"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Fenna Schiks"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Zevenaar"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVDDSP1"/>
+  <properties
+      key="Object ID"
+      value="b341bcef-eae5-4544-bdd1-b05165ad5e19"/>
+</archimate:ApplicationComponent>

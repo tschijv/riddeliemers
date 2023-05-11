@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netscaler"
+    id="id-5adb2084-65b2-442f-837b-99ebcafdfc64">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="VA-NS01 VA-NS02"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Marcel van Maren"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Object ID"
+      value="735ad9f1-f05d-4c59-8f26-c74aff3db110"/>
+</archimate:SystemSoftware>

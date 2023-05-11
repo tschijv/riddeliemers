@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel OIG"
+    id="id-a2401953-8281-44dd-9cb5-fe9c5d15d7a7">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Robin Exoo"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Leverancier"
+      value="Zetacom"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Max Holland"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="vOIG"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Marcel van Maren"/>
+  <properties
+      key="Object ID"
+      value="32427b92-bcfc-400c-8d71-9d897d3abcff"/>
+</archimate:SystemSoftware>

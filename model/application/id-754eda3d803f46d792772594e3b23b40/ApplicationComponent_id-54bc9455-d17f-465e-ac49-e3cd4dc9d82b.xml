@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Berichtenmodule Key2FIS"
+    id="id-54bc9455-d17f-465e-ac49-e3cd4dc9d82b">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Rudo van Gellekom"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Lynsey Woerts"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-WLS10-P SV-WLS20-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Object ID"
+      value="1d05e030-c1fb-4a9a-8f0d-1adc77c9b6fb"/>
+</archimate:ApplicationComponent>

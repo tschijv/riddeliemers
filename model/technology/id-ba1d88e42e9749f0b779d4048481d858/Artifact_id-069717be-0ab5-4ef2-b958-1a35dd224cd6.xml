@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVNPREVP"
+    id="id-069717be-0ab5-4ef2-b958-1a35dd224cd6">
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Prevent"/>
+  <properties
+      key="Object ID"
+      value="799bdaaf-5851-4a79-b0c6-de8c568d7de1"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

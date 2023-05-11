@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RAP HRM"
+    id="id-eaadb23d-d40c-417b-ba2d-9c02e82d1ffc"
+    documentation="t.b.v. medewerker P&amp;O Zevenaar">
+  <properties
+      key="Samenvatting"
+      value="t.b.v. medewerker P&amp;O Zevenaar"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Sevgi Demirci"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Inge Veer"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Zevenaar"/>
+  <properties
+      key="Object ID"
+      value="b02facd7-cbdb-4372-8aad-88bc3a0cab93"/>
+</archimate:ApplicationComponent>

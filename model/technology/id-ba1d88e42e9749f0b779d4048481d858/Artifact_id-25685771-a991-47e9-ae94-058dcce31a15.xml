@@ -1,0 +1,16 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDLBRKP"
+    id="id-25685771-a991-47e9-ae94-058dcce31a15">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Object ID"
+      value="aa12b9d7-3378-4c9b-991d-911ebba60ee4"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

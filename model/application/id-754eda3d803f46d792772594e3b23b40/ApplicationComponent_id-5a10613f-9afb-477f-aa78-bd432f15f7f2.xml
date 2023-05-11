@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Financien.NET"
+    id="id-5a10613f-9afb-477f-aa78-bd432f15f7f2">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Rudo van Gellekom"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP70-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Object ID"
+      value="104ba489-b861-413f-b3b3-1383264c25a2"/>
+</archimate:ApplicationComponent>

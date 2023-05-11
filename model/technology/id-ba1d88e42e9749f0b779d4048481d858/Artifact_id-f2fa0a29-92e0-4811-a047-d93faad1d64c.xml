@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EL0293"
+    id="id-f2fa0a29-92e0-4811-a047-d93faad1d64c">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Elektor WTV"/>
+  <properties
+      key="Database soort"
+      value="SQL Express"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-APP69-P"/>
+  <properties
+      key="Object ID"
+      value="8798879e-d676-4ecf-81e6-1d2fd1ef4098"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

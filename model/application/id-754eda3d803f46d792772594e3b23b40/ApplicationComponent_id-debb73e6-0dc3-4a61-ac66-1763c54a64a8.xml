@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clearpass Policy Manager"
+    id="id-debb73e6-0dc3-4a61-ac66-1763c54a64a8">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Sharon Glashouwer"/>
+  <properties
+      key="Leverancier"
+      value="IBM Nederland B.V."/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVCOGNP1"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP96-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Object ID"
+      value="7c98399f-6861-42c0-9a3e-feaa14cccded"/>
+</archimate:ApplicationComponent>

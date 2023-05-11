@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="I-Navigator Zevenaar"
+    id="id-cb4127d0-6f6e-4410-acba-034dbeb946cb">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Marion Hartog"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Leverancier"
+      value="iBabs B.V."/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Guido van der Vegt"/>
+  <properties
+      key="Object ID"
+      value="247709ed-c59e-4ce4-b88f-59df4cacc23c"/>
+</archimate:ApplicationComponent>

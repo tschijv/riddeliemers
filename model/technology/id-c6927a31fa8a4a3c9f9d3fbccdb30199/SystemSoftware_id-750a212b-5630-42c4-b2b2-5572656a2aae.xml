@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel SIP Trunk Vodafone"
+    id="id-750a212b-5630-42c4-b2b2-5572656a2aae">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Robin Exoo"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="vMBG1_mrt2021 vMBG2_mrt2021 vMBG4_mrt2021 vMBG5_mrt2021"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Marcel van Maren"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Max Holland"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Zetacom"/>
+  <properties
+      key="Object ID"
+      value="79c3331f-14ff-4d61-b12b-f2c6260b3c16"/>
+</archimate:SystemSoftware>

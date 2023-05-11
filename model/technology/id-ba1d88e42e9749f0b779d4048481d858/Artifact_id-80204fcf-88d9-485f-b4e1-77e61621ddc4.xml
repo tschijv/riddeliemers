@@ -1,0 +1,16 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PCGraf.mdb"
+    id="id-80204fcf-88d9-485f-b4e1-77e61621ddc4">
+  <properties
+      key="Database soort"
+      value="MS Access"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Object ID"
+      value="d09c8253-b32a-4575-a533-b29311824ccb"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

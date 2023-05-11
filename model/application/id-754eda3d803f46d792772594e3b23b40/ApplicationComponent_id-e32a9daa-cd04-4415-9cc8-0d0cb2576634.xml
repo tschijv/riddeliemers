@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Betalen DVN"
+    id="id-e32a9daa-cd04-4415-9cc8-0d0cb2576634">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Marlies Heutink"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Topdesk Applicatiebeheer"/>
+  <properties
+      key="Leverancier"
+      value="JCC Software"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP93-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="f21caba9-973f-4a6f-a186-523bb18fdc7c"/>
+</archimate:ApplicationComponent>

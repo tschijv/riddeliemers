@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papercut Mail2Print Server"
+    id="id-11a45f42-a9e4-4cc2-b027-1225f63728de">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RSD de Liemers"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-PS03-P"/>
+  <properties
+      key="Leverancier"
+      value="PCI  Nederland  bv"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Robin Exoo"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Wouter Spaan"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="aa6c6a71-b6b6-4737-9296-3085457e7888"/>
+</archimate:SystemSoftware>

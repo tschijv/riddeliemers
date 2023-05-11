@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal Burgerzaken WTV"
+    id="id-22945401-e181-4412-a901-66b13d5af633">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jolanda Smeijer"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Carmen Dahles"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP118-P SV-APP119-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Marcel van Maren"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="WTVPIVP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Object ID"
+      value="91b51cde-004e-41b7-94a4-97e08aeb0a6d"/>
+</archimate:ApplicationComponent>

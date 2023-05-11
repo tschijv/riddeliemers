@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP110-T"
+    id="id-d01d5494-ef10-456f-9860-7a72b02a43f4">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Hectronic Hecpoll"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="5011ed17-c190-4870-8851-c793c1efddcb"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

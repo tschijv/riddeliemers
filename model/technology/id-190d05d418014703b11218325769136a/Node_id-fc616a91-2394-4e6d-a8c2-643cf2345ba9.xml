@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP68-P"
+    id="id-fc616a91-2394-4e6d-a8c2-643cf2345ba9">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Intranet 1stroom Intranet ZVN"/>
+  <properties
+      key="Object ID"
+      value="c2cd581d-fdc3-4bcc-9aaf-44db6dd12a1f"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

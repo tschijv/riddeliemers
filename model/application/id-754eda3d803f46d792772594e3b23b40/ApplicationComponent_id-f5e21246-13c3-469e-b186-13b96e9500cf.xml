@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DormaKaba"
+    id="id-f5e21246-13c3-469e-b186-13b96e9500cf">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Peter Reijnen"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="John Geven"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Dormakaba Nederland b.v."/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP17-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Object ID"
+      value="189421aa-70bb-421c-9356-80984e069e79"/>
+</archimate:ApplicationComponent>

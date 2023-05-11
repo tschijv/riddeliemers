@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GT-WOZ"
+    id="id-29539711-d515-430d-81f0-d62aab5a86e5">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Ruud Fritsema"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP104-P"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="WTVGTWP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Leverancier"
+      value="GeoTax Software B.V."/>
+  <properties
+      key="Object ID"
+      value="47f73983-ff4f-4b19-9d98-040b5d80b017"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-08086f60-63c5-1adf-c0a6-dca9a7ac1b22"
+    documentation="Database hosting (Ouders)">
+  <properties
+      key="Object ID"
+      value="bce5c7de-dfbb-4f4c-ae61-7f78d14b2945"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-ee36ff0a-81b6-4a6e-85bd-955c0723e074.xml#id-ee36ff0a-81b6-4a6e-85bd-955c0723e074"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-35fcf8e0-7862-4eaf-bd35-ae59a6e08757.xml#id-35fcf8e0-7862-4eaf-bd35-ae59a6e08757"/>
+</archimate:AccessRelationship>

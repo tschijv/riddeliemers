@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JKC ZVN"
+    id="id-3c2c1310-75f1-4976-876e-fd56267dc7cf">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Luc Boerboom"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Grego Notten"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-JKC03-P"/>
+  <properties
+      key="Leverancier"
+      value="Decos"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVNJKCP"/>
+  <properties
+      key="Object ID"
+      value="cef2f2d7-6314-42e5-b947-4c6e2504d97e"/>
+</archimate:ApplicationComponent>

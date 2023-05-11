@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Berichtenmodule Key2PBZ Westervoort"
+    id="id-e5d30311-2054-4c39-9fc0-bba0e5264602"
+    documentation="tbv Key2burgerzaken Westervoort">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Samenvatting"
+      value="tbv Key2burgerzaken Westervoort"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Simone Geerts"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="WTVDDSP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Westervoort"/>
+  <properties
+      key="Object ID"
+      value="7fed55aa-895b-4c1c-af75-5c5a0a3bbc71"/>
+</archimate:ApplicationComponent>

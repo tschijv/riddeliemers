@@ -1,0 +1,20 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VA-VMP01-P"
+    id="id-6949b896-dc2d-4abb-a778-2245270f08f5"
+    documentation="Vulnarability scanner">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Netscaler"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="VMWare"/>
+  <properties
+      key="Object ID"
+      value="6c101221-58d0-46bf-b3e4-4cce9289b07e"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

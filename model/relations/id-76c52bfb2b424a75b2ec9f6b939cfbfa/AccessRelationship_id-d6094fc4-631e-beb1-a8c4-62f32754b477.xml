@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d6094fc4-631e-beb1-a8c4-62f32754b477"
+    documentation="Data hosting (Kind-middelen)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2cc5eb9b-417f-461d-abd4-55c2e62afdb6.xml#id-2cc5eb9b-417f-461d-abd4-55c2e62afdb6"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-a314ab44-2a87-4373-a6f5-61a06999f5a0.xml#id-a314ab44-2a87-4373-a6f5-61a06999f5a0"/>
+</archimate:AccessRelationship>

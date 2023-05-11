@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Financien ZVN"
+    id="id-ad0a2b16-d134-4268-9cc9-6fdaabc86465">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Marcel Tuenter"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Rudo van Gellekom"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Marcel van Maren"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVFISAP1"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-WLS10-P SV-WLS20-P"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Object ID"
+      value="8eb8ff7c-fc6d-41b5-8fbd-2eb5fdffa47c"/>
+</archimate:ApplicationComponent>

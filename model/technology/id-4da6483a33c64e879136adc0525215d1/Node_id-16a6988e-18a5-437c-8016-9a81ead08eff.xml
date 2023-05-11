@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-CPM02-P"
+    id="id-16a6988e-18a5-437c-8016-9a81ead08eff">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Clearpass Policy Manager"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="7fa0fed7-cf8f-4f9f-bec6-76b7a77a1f0b"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

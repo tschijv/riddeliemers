@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Giskit"
+    id="id-c9d6f9fd-87b0-4ce7-95c9-0c4270baa822">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Andrea Schuil"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Leverancier"
+      value="GIskit"/>
+  <properties
+      key="Object ID"
+      value="658b2659-be0f-4878-ad22-318a4c60355f"/>
+</archimate:ApplicationComponent>

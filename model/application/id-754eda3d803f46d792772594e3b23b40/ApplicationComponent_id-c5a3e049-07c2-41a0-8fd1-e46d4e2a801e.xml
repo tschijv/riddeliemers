@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SquitXO ZVN"
+    id="id-c5a3e049-07c2-41a0-8fd1-e46d4e2a801e">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Nikos Emmanouil"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Oscar Peters"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVNSXOP"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP126-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Object ID"
+      value="2ad9125b-746e-4ef9-9ce5-7f67ea7a6713"/>
+</archimate:ApplicationComponent>

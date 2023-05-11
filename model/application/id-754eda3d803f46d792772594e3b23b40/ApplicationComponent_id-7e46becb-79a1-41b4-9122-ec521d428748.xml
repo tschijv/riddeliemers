@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hectronic Hecpoll"
+    id="id-7e46becb-79a1-41b4-9122-ec521d428748">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP108-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Leverancier"
+      value="Hamer B.V."/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="Hectronic_Zevenaar"/>
+  <properties
+      key="Object ID"
+      value="b3cb550f-5b0d-4cdc-94b8-1669d90dc04f"/>
+</archimate:ApplicationComponent>

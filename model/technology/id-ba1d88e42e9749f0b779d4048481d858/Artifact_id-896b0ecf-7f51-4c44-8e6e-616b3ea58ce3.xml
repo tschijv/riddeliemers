@@ -1,0 +1,15 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZEVENAARJCCKLGP"
+    id="id-896b0ecf-7f51-4c44-8e6e-616b3ea58ce3">
+  <properties
+      key="Database soort"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Object ID"
+      value="ad77908d-6bbb-4152-b5f5-e1c297105c68"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

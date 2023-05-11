@@ -1,0 +1,16 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCCGKAS_Duiven"
+    id="id-6d518fd0-3fa0-4151-b5d3-50ac2d180a04">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL04-P"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="23540959-fc51-40c9-9fb5-a1e545c23f41"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

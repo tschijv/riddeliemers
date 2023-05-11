@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PVS-RID"
+    id="id-4cd5367f-45e1-43cc-9a60-97526c9ec49a">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-FS01-P"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Citrix Provisioning Services"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="3f40eed7-72ff-432f-a8c8-9c44fbc4715d"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

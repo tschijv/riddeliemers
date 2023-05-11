@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektor WTV"
+    id="id-4f31637d-7745-4728-a23b-4621de92cb0e">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Jolanda Smeijer"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Carmen Dahles"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="EL0293"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="TSA Verkiezingen b.v."/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP69-P"/>
+  <properties
+      key="Object ID"
+      value="d63f15c5-d19f-4ee3-a1b7-2add797c10e1"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zevenaar_TX_Repo"
+    id="id-7032cfc8-3209-432a-942a-a6c42ca030d2">
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="TimeXtender"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Object ID"
+      value="0f75a483-2e4d-45fc-b503-b5701a468fcc"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

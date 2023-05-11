@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ALGGBELP1"
+    id="id-f70943d0-eda0-4d29-946a-b99929f3b110">
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="BAG GOUW 1Stroom GeoServer GOUW DVN GOUW WTV GOUW ZVN"/>
+  <properties
+      key="Object ID"
+      value="fc372653-ebb0-4b7b-b2f1-642f0ce3963b"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

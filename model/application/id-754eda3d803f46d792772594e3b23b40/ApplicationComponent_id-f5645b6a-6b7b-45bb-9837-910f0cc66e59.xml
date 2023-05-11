@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fixi DVN"
+    id="id-f5645b6a-6b7b-45bb-9837-910f0cc66e59">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Marleen te Poele"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Marlies Heutink"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Grego Notten"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Decos Support"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Leverancier"
+      value="Decos"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="64459e3a-a21d-48cc-93c6-7bb7488da30d"/>
+</archimate:ApplicationComponent>

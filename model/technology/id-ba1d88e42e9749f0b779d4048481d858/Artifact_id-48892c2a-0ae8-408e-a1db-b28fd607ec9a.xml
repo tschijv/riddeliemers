@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RID.kdbx"
+    id="id-48892c2a-0ae8-408e-a1db-b28fd607ec9a">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Keesing 1Stroom"/>
+  <properties
+      key="Database soort"
+      value="MS Access"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL04-P"/>
+  <properties
+      key="Object ID"
+      value="aaf215e1-11bc-44dd-af3d-1420f47f09c9"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

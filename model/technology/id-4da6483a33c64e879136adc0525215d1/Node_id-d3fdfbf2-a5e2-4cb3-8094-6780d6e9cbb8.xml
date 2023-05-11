@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VA-AMM01-P"
+    id="id-d3fdfbf2-a5e2-4cb3-8094-6780d6e9cbb8">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="70709d5d-8f6f-46a6-9b60-76eb223df194"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VA-NS02"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9749">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Netscaler"/>
+  <properties
+      key="Object ID"
+      value="26d0558b-65a3-4506-9fca-a2ae40a16112"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

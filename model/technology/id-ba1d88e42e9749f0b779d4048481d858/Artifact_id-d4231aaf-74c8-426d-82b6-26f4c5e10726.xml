@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZVPIVP1"
+    id="id-d4231aaf-74c8-426d-82b6-26f4c5e10726">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Key2Burgerzaken ZVN Portaal Burgerzaken ZVN"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Object ID"
+      value="62349cb0-5fdb-4c4f-b08b-f24ad24992ce"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

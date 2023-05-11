@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDWTTP"
+    id="id-9e45181a-cd50-47d1-96b0-2fdbcf95ae6c">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Timetell SDL"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Object ID"
+      value="d9e49986-c697-49c5-8584-1075b6b847dd"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZVBGP1"
+    id="id-69778b48-4ce4-4e05-8f0b-8cd545f95472">
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Key2Begraven"/>
+  <properties
+      key="Object ID"
+      value="def81ebe-e6b0-48e2-893d-c232df33b223"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

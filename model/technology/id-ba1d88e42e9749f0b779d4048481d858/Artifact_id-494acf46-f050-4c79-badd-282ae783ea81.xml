@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RES-Workspacemanager"
+    id="id-494acf46-f050-4c79-badd-282ae783ea81">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Ivanti Automation Manager"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL04-P"/>
+  <properties
+      key="Object ID"
+      value="3c71f7d4-9b1b-4260-a1dc-c8528fa07082"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

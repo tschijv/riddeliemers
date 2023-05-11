@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-VCS01-P"
+    id="id-50072ce7-c953-4a12-b958-d09c99f8274a">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Sharefile"/>
+  <properties
+      key="Object ID"
+      value="794135b7-da51-47f1-a274-811b51b4706b"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

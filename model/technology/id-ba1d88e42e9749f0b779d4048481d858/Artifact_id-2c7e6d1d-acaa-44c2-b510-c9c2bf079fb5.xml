@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWRSRegister_Duiven"
+    id="id-2c7e6d1d-acaa-44c2-b510-c9c2bf079fb5">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="AWRSRegister"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="32449415-2d93-4c4b-85d4-e76936c3e37f"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

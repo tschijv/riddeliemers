@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sharefile"
+    id="id-80351824-9762-42e2-bb03-35ea28b98198">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Leverancier"
+      value="Citrix"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-SSC02-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="510f7292-65de-420c-ae42-c09a25863bf8"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-PCS01-P"
+    id="id-7cf1a580-c193-4538-bb13-8df9415f6f0a">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Oracle Enterprise Manager"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="84a1cce0-5169-47d0-8320-a0c56165731b"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

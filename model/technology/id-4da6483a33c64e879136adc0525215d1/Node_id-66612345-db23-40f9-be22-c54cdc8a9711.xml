@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-MDU03-P"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9711">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="MDU ZVN"/>
+  <properties
+      key="Object ID"
+      value="4895800e-719c-42c6-93a0-fd3653890145"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

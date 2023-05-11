@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VA-FWEVT01-p"
+    id="id-955e35e3-8b3a-4bae-bec6-2e40b2c10a2f">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Aruba Mobility Master"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="24d90b27-e380-4aec-9342-07e9bf26adf5"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

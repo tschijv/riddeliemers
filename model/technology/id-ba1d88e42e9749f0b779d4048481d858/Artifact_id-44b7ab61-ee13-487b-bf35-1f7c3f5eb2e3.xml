@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTX-RIDLogging"
+    id="id-44b7ab61-ee13-487b-bf35-1f7c3f5eb2e3">
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Citrix Provisioning Services"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Object ID"
+      value="d5d028bd-d1a6-434a-bbf7-50f57c771107"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

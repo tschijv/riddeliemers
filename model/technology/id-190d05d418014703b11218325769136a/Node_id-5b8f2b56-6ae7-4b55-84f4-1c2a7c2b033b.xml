@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-KLEEFSEWAARD-ODABASE-N1"
+    id="id-5b8f2b56-6ae7-4b55-84f4-1c2a7c2b033b">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Object ID"
+      value="280fd031-6e91-4ec4-b094-39d5200f6cc0"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

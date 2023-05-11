@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APL02-P"
+    id="id-1b0dba6b-62d1-4400-abb7-7930e17d46be"
+    documentation="Windows Server 2016">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="0c5d01be-e31c-402c-8d89-1a43d6489b57"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

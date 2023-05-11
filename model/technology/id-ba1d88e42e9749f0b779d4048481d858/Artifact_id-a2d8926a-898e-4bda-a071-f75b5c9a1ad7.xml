@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVNVIEWP"
+    id="id-a2d8926a-898e-4bda-a071-f75b5c9a1ad7">
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="PerfectView Begraafplaats"/>
+  <properties
+      key="Object ID"
+      value="65194e2b-7020-437c-857d-82fa5e8f3d15"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

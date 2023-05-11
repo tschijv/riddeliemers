@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-GATEWAY01-P"
+    id="id-c80aff56-a33d-447d-961f-70ae290869fb">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Citrix Profile Manager"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="75eb7f46-1fb4-42d6-99aa-0b3c3037cf81"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

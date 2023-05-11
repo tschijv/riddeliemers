@@ -1,0 +1,19 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-FS01-P"
+    id="id-10a367dc-c740-43d6-b994-89a2abfe52d3">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Citrix Federator Authentication Service"/>
+  <properties
+      key="Database hosting (Kind-middelen)"
+      value="EBKSI.mdb PCGraf.mdb RID.kdbx"/>
+  <properties
+      key="Object ID"
+      value="36dc646b-f3cb-418e-a480-7ce77b0b5b9c"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

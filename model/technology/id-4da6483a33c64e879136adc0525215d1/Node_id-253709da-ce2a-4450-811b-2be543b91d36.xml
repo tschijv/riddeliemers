@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-CMG01-P"
+    id="id-253709da-ce2a-4450-811b-2be543b91d36">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Certificaten intern"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="b17deb1b-a844-43d5-973e-dc39e8823c97"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

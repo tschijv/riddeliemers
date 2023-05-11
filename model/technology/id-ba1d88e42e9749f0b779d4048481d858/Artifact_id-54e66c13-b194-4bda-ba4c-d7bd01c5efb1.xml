@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVNDDSP"
+    id="id-54e66c13-b194-4bda-ba4c-d7bd01c5efb1">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Key2Berichtenmodule Key2PBZ Duiven Key2GBAV Duiven Key2VOA Duiven"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Object ID"
+      value="92ac2e04-584c-42fe-a953-70b29383eb4b"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XenDesktop"
+    id="id-14981f87-db23-40f9-be22-c54cdc8a97aa">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="7zip Adobe CC Adobe reader Audacity AWRSRegister Beaufort 1stroom Beaufort ZVN Belastingdienst Aspera connect Bizagi ProcesModeler Camera systeem Zevenaar Central Station CityPermit Dataland Decos Join 1Stroom Decos Join SDL Decos Join ZVN Dis4all Financien ZVN Dis4Fis koppelmodule DWG TrueView EasySign EPCheck Evernote Fixi DVN Fixi WTV Fixi ZVN Flexwhere FME client GML Viewer Google Chrome Greenshot iBabs DVN iBabs WTV iBabs ZVN Instrumentengids-eva Invoice iWriter365 JCC Afspraken Outlook add-in Kikker Groen DVN Kikker Groen WTV Kikker Groen ZVN Kikker Riool DVN Kikker Riool WTV Kikker Riool ZVN Kikker Wegen DVN Kikker Wegen WTV Kikker Wegen ZVN Kikker WTV Klicviewer Matrix Frame Microsoft office 365 Microsoft Power BI Desktop Microstation Mitel Micollab Client Mozilla firefox Naviswork 3d viewer Nice Label Pro Notepad++ Paint.Net PerfectView Begraafplaats Power PDF Prevent QGIS Report Builder DVN Report Builder ZVN Riobase Ro-Totaal SAP GUI client Sharefile Drive Mapper Sharefile Outlook Plugin SkillsTown Academy 1Stroom SkillsTown Academy MGR SkillsTown Academy RID SkillsTown Academy RSD SkillsTown Academy WSP Suwinet Teamviewer TIS Web Topdesk TotalCommander Trend Micro Client Trimble Connect VLC Player VTLB Calculator 1Stroom VTLB Calculator Zevenaar Workrave XML BluePrint Xtendis Outlook Connector Youforce Zevenaar Academie Zoekhuis ZorgMail Adresboek RSD ZorgMail Adresboek WTV ZorgMail Adresboek ZVN Zorgmail Veilig verzenden Outlook add-in Zynyo"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="5337668f-a328-4f83-8aff-111bf8d9494f"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

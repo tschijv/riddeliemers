@@ -1,0 +1,19 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-HFDLOC-ODA01"
+    id="id-b406e7f2-0af7-4c30-85a8-d822c7537191">
+  <properties
+      key="Database hosting (Kind-middelen)"
+      value="ALGKIKP DVNTTP RNWDFISP RNWGVGIP RNWIRSP RNWVGSP SDLADEPP SDLBRKP SDLGWSP1 SDWJKCP SDWSXOP SDWTTP ZVBAGP1 ZVBAGP1  ZVBGP1 ZVCOGNP1 ZVFISAP1 ZVNFISP ZVNGVGP zvninvp1 ZVNJKCP ZVNPARP ZVNROTP ZVNSXOP"/>
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Gasten wifi"/>
+  <properties
+      key="Object ID"
+      value="18da61c9-bb92-490c-88ca-68202273b2d0"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

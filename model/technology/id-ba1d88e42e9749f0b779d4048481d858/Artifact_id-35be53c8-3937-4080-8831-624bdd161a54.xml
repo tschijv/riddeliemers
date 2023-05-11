@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVNROTP"
+    id="id-35be53c8-3937-4080-8831-624bdd161a54">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Squit 20/20 Publiceren DVN Squit 20/20 WRO DVN"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Object ID"
+      value="e2af07ce-8766-47e6-9448-766225c526f4"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

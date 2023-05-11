@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FW-aanbiedstation-zevenaar"
+    id="id-89449efe-430e-4da3-adfe-f4ef1d1a40c8">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Mail Exchange Online Zorgmail Safe Relay"/>
+  <properties
+      key="Object ID"
+      value="04b21dc2-b52d-40c6-8b6c-45900ef9d3b0"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

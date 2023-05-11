@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="I-Navigator 1Stroom"
+    id="id-e5c13b10-f613-4765-9a30-404e42f188a3">
+  <properties
+      key="Applicatiesoort"
+      value="Systeem Software"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Elke van Raaij"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Guido van der Vegt"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Leverancier"
+      value="iBabs B.V."/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="3b201148-f55c-46df-a200-a0f1a6578a85"/>
+</archimate:ApplicationComponent>

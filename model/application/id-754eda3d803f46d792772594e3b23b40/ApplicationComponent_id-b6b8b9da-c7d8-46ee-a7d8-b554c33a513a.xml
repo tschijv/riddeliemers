@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 Webserver WTV"
+    id="id-b6b8b9da-c7d8-46ee-a7d8-b554c33a513a">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Spam, Phishing &amp; Mail"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Ole van Beers"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="Roxit_PRD_SPM_1Stroom"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP78-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Object ID"
+      value="031c2948-c59b-4ab8-a380-61708afd7bfd"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decos Join SDL"
+    id="id-37af0f28-0876-4cfb-ad5a-48b771b8fee4">
+  <properties
+      key="Applicatiesoort"
+      value="Kernsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jurgen Stoffer"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Decos Support"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP XenDesktop"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Grego Notten"/>
+  <properties
+      key="Leverancier"
+      value="Decos"/>
+  <properties
+      key="Object ID"
+      value="6e88a049-225f-4b38-90ad-e60c38e5074f"/>
+</archimate:ApplicationComponent>

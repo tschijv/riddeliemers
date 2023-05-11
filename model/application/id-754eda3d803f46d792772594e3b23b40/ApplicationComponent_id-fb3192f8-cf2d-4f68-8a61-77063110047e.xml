@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Afspraken en Reserveren 1Stroom"
+    id="id-fb3192f8-cf2d-4f68-8a61-77063110047e">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Brigitte Kerkhof"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Anouk Polman"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP93-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="JCC Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="1STRJCCPS_GPLAN"/>
+  <properties
+      key="Object ID"
+      value="ec1ceeda-07cd-4dbb-a5d2-da13b02633d0"/>
+</archimate:ApplicationComponent>

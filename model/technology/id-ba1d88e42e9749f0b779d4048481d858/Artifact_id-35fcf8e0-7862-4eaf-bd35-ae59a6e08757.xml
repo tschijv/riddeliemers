@@ -1,0 +1,16 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVNUDSAP"
+    id="id-35fcf8e0-7862-4eaf-bd35-ae59a6e08757">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Object ID"
+      value="9c209da2-5304-4dec-8c07-b38334725f1e"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

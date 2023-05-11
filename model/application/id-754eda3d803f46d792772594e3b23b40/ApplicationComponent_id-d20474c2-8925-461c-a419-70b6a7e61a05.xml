@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C-SAM Beheer BGT"
+    id="id-d20474c2-8925-461c-a419-70b6a7e61a05">
+  <properties
+      key="Applicatiesoort"
+      value="Basis Software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Object ID"
+      value="7fbbdfd7-58a0-4b4c-a2ef-30b1a0618c28"/>
+</archimate:ApplicationComponent>

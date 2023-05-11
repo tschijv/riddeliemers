@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generieke kaartviewer"
+    id="id-96f43849-e588-4f0d-8b26-d5bc574cf4ca">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Joris van Embden"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP103-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="GeoNovation"/>
+  <properties
+      key="Object ID"
+      value="ff8aea7e-395d-470e-a3a2-bf06428216fb"/>
+</archimate:ApplicationComponent>

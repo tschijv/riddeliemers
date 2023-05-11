@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VXR08.DOMAIN.LOCAL"
+    id="id-b330993c-45ba-4084-a655-b53e57a0cad7">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-VCS01-P"/>
+  <properties
+      key="Object ID"
+      value="9b3f414d-9ea2-49f2-b776-1651efa1a09f"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

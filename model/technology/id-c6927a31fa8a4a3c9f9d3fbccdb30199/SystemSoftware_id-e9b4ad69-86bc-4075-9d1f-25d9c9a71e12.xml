@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure AD Connect - SSO-MFA"
+    id="id-e9b4ad69-86bc-4075-9d1f-25d9c9a71e12">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Microsoft"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-DC03-P SV-DC04-P SV-NPS03-P"/>
+  <properties
+      key="Object ID"
+      value="c79bffdb-be84-4693-94cd-b59ffb2e88b0"/>
+</archimate:SystemSoftware>

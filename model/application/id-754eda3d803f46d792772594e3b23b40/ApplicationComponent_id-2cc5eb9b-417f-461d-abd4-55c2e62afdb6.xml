@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stratech"
+    id="id-2cc5eb9b-417f-461d-abd4-55c2e62afdb6">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Diane Peters"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVNSSHVP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Leverancier"
+      value="Stratech"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP123-P"/>
+  <properties
+      key="Object ID"
+      value="7daf7f08-d0c6-43c6-9216-7ef24285e585"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrendMicro ApexOne Server"
+    id="id-7b905e63-00ea-41a0-a5a0-b92a48a130f9">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="Trend Micro"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-AV10-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hamid Serraj"/>
+  <properties
+      key="Object ID"
+      value="64bb852d-08e9-44cf-9564-49c716d029b6"/>
+</archimate:SystemSoftware>

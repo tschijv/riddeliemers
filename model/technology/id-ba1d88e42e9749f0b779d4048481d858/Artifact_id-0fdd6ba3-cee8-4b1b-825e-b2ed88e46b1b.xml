@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZEVENAARJCCPGP"
+    id="id-0fdd6ba3-cee8-4b1b-825e-b2ed88e46b1b">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="JCC Afspraken en Reserveren ZVN"/>
+  <properties
+      key="Object ID"
+      value="37703cdf-8b2a-4935-95de-01095d608ce9"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

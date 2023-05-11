@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP89-T"
+    id="id-3f1e0fde-71db-4f45-b7e6-b71eb3e33fa0">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Autorisatiebeheer DDS Autorisatiebeheer ZVN"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="5737f1fa-9011-48a1-9c15-656d1117eee5"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

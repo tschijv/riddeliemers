@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-XA200-P"
+    id="id-22fb80bc-65c6-4f6c-afd5-3ad0b852d33b">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="WSUS"/>
+  <properties
+      key="Object ID"
+      value="fed36dde-0e8b-4600-b50c-6aae076135d1"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

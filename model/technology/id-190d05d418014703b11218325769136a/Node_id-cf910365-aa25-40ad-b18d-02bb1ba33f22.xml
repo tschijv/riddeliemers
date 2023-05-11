@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-LOG02-P"
+    id="id-cf910365-aa25-40ad-b18d-02bb1ba33f22">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="KMS Server"/>
+  <properties
+      key="Object ID"
+      value="6f6ae488-37a6-49ce-9064-51684d1cb2af"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

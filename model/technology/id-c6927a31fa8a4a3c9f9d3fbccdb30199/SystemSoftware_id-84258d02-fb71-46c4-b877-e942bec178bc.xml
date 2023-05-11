@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spam Mail"
+    id="id-84258d02-fb71-46c4-b877-e942bec178bc">
+  <properties
+      key="Applicatiesoort"
+      value="Systeem Software"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Leverancier"
+      value="Microsoft"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Duran Oruc"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="VA-IMS01-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="06f2d390-dea3-4f6b-a7e4-27ac28380874"/>
+</archimate:SystemSoftware>

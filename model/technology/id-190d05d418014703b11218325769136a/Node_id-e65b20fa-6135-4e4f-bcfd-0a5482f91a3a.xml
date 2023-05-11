@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-VCS11-P"
+    id="id-e65b20fa-6135-4e4f-bcfd-0a5482f91a3a">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="VXR01.DOMAIN.LOCAL VXR02.DOMAIN.LOCAL VXR03.DOMAIN.LOCAL VXR04.DOMAIN.LOCAL VXR05.DOMAIN.LOCAL VXR06.DOMAIN.LOCAL VXR07.DOMAIN.LOCAL VXR08.DOMAIN.LOCAL"/>
+  <properties
+      key="Object ID"
+      value="02fcf345-5ba7-4caf-8441-90c2382e798c"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RAP Medewerkers"
+    id="id-8371d662-33ce-44d4-b035-52372357c9c5"
+    documentation="t.b.v. RAP medewerkers  Zevenaar">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Samenvatting"
+      value="t.b.v. RAP medewerkers  Zevenaar"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Inge Veer"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Sevgi Demirci"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="0cccb9dc-9f3d-4344-99d4-f6e9c2a3d550"/>
+</archimate:ApplicationComponent>

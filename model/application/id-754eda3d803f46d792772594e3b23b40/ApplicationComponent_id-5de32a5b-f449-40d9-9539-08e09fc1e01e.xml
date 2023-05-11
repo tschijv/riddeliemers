@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Securitech document scanner"
+    id="id-5de32a5b-f449-40d9-9539-08e09fc1e01e">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Marleen te Poele"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Fenna Schiks"/>
+  <properties
+      key="Leverancier"
+      value="Securitech Detection &amp; Verification B.V."/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Robin Exoo"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="BaliePC"/>
+  <properties
+      key="Object ID"
+      value="9d1c3d12-af69-4882-a999-0c9ffa77638e"/>
+</archimate:ApplicationComponent>

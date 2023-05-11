@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote Desktop Manager"
+    id="id-fd1d8067-9add-49bc-ab3e-7d9862043fb5">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="RDMDB"/>
+  <properties
+      key="Leverancier"
+      value="Devolutions"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Danny van Leeuwen"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-CMG01-P"/>
+  <properties
+      key="Object ID"
+      value="e5a91689-8c76-429e-a1ae-7aa5c5b9e308"/>
+</archimate:SystemSoftware>

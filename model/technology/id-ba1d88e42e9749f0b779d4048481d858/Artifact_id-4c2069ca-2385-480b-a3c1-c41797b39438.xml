@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hectronic_Zevenaar"
+    id="id-4c2069ca-2385-480b-a3c1-c41797b39438">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-APP69-P"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Hectronic Hecpoll"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="eb5606af-f414-4b96-826d-131846962110"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

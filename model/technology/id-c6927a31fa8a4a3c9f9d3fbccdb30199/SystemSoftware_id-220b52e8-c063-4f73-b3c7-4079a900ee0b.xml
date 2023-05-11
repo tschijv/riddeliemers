@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix Profile Manager"
+    id="id-220b52e8-c063-4f73-b3c7-4079a900ee0b">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-PVS01-P SV-PVS02-P"/>
+  <properties
+      key="Leverancier"
+      value="Citrix"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="CTX-RIDLogging CTX-RIDMonitoring CTX-RIDSite PVS-RID"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Object ID"
+      value="a7992edc-a7ca-4d7b-b624-21b397a4dfd2"/>
+</archimate:SystemSoftware>

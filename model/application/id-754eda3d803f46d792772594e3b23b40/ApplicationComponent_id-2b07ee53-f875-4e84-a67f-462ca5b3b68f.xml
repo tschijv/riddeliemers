@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raas aanvraagstation WTV"
+    id="id-2b07ee53-f875-4e84-a67f-462ca5b3b68f">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Carmen Dahles"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Simone Geerts"/>
+  <properties
+      key="Notities"
+      value="WPB is alleen verantwoordelijk ivm met vervangen van het raasstation. "/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Raas werkstation"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="RvIG (Rijksdienst voor Identiteitsgegevens)"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Westervoort"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Robin Exoo"/>
+  <properties
+      key="Object ID"
+      value="c6d9b85b-3421-48e2-a61c-d75aae571428"/>
+</archimate:ApplicationComponent>

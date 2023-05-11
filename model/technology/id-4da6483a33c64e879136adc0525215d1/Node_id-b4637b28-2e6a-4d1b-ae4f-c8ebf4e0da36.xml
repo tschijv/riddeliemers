@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-PVS01-P"
+    id="id-b4637b28-2e6a-4d1b-ae4f-c8ebf4e0da36">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Papercut Mail2Print Server"/>
+  <properties
+      key="Object ID"
+      value="dced2f18-d88c-4875-92a9-4f2d7847d942"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

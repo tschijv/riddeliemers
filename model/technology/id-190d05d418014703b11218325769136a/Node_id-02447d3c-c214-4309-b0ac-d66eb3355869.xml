@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VXR02.DOMAIN.LOCAL"
+    id="id-02447d3c-c214-4309-b0ac-d66eb3355869">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="HOLM Security"/>
+  <properties
+      key="Object ID"
+      value="dcdcce5b-1f46-4375-9d33-a2b15e8908f5"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

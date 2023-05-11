@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2BAG"
+    id="id-75f5da27-4d65-490a-9750-4070a8092709"
+    documentation="Objectregistratie">
+  <properties
+      key="Samenvatting"
+      value="Objectregistratie"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Cyrilla Ruisch"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP75-P SV-WLS17-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVBAGP1 "/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Object ID"
+      value="5a80b72d-dabf-4c10-9d8f-a4a8b3716b55"/>
+</archimate:ApplicationComponent>

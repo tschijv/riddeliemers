@@ -1,0 +1,30 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ElasticSearch"
+    id="id-c902218b-5b1c-4c75-b52f-f7642b2fe8b2"
+    documentation="syslog server">
+  <properties
+      key="Samenvatting"
+      value="syslog server"/>
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hamid Serraj"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-ELK01-P"/>
+  <properties
+      key="Object ID"
+      value="d5069af6-7c0d-4da5-a526-e9d162ed719e"/>
+</archimate:SystemSoftware>

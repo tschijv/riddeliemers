@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDWJKCP"
+    id="id-40bcbf17-ec27-4ef3-aa85-6468b91b5b85">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="JKC 1Stroom"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Object ID"
+      value="9aa7ca8a-087c-46ed-949e-f049fd40886c"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

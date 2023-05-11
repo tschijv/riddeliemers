@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgmail Safe Relay"
+    id="id-80c9c1b6-bafc-4162-864f-ec39dd6b586a">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Leverancier"
+      value="Enovation"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Duran Oruc"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Exchange Online"/>
+  <properties
+      key="Object ID"
+      value="72dd974a-5d38-47a0-a6ff-79af911ddb7c"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WTVPIVP"
+    id="id-48c232de-af6f-4a9b-8f35-97a2be9c9497">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Key2Burgerzaken WTV Portaal Burgerzaken WTV"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Object ID"
+      value="851e66cb-9037-4a1f-be8e-e58ffb38108b"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

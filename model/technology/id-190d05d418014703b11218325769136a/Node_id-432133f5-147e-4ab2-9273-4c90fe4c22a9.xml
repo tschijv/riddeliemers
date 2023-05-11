@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-DVN02-P"
+    id="id-432133f5-147e-4ab2-9273-4c90fe4c22a9"
+    documentation="FTP Server Duiven - Windows server 2019">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="c75cbea6-96e2-4cfc-aa53-1dcd8df88218"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

@@ -1,0 +1,36 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solarwinds"
+    id="id-eb50ca83-5c84-447b-b9e8-0a7871cb77d1"
+    documentation="Patchmanagement">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Samenvatting"
+      value="Patchmanagement"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="SV-WSUS01-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hamid Serraj"/>
+  <properties
+      key="Object ID"
+      value="0ba0bf8a-76c8-4fd8-a3ff-e746298e077d"/>
+</archimate:SystemSoftware>

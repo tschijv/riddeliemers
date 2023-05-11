@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vMBG5_mrt2021"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9745">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Mitel SIP Trunk Vodafone"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="44af5f93-325e-4fb8-b355-8320ec9f131d"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

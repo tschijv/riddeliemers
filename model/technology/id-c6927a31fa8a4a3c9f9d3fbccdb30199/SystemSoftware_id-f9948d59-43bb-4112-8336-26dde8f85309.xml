@@ -1,0 +1,36 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CityPermit"
+    id="id-f9948d59-43bb-4112-8336-26dde8f85309"
+    documentation="Parkeerapplicatie Zevenaar">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-CPM01-P SV-CPM02-P"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Leverancier"
+      value="Aruba"/>
+  <properties
+      key="Object ID"
+      value="fffb5eee-fcbb-40f5-87a4-0d8f0dc6c38a"/>
+</archimate:SystemSoftware>

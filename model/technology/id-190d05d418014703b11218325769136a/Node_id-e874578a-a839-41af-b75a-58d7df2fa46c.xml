@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-CON03-T"
+    id="id-e874578a-a839-41af-b75a-58d7df2fa46c">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Enterprise Service Bus (ESB)"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="c643688b-a8aa-4d3d-8671-6933468ba17b"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

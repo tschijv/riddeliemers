@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plankaart - TabEdit"
+    id="id-0b671194-49a2-41bb-b42c-648979c84bac">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Andrea Schuil"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Leverancier"
+      value="GIskit"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenDesktop"/>
+  <properties
+      key="Object ID"
+      value="04cd765f-0551-4d8d-b1ac-a09d34f4bc62"/>
+</archimate:ApplicationComponent>

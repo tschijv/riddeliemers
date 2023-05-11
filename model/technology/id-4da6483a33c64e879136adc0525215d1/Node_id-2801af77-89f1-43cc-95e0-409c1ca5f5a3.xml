@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCA-HFDLOC-PAM01"
+    id="id-2801af77-89f1-43cc-95e0-409c1ca5f5a3">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Object ID"
+      value="6a3d0d23-c216-421a-94dd-ba93d65ac25c"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

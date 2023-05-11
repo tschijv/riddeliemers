@@ -1,0 +1,17 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RID De Liemers (TopDesk Import)"
+    id="id-cc86978300e94651a9580cf2ba744134"
+    version="5.0.0">
+  <properties
+      key="Object ID"
+      value="e6921311-f489-455d-9f37-a7378ea9ca6a"/>
+  <profiles
+      name="database"
+      id="id-297b0c07021b4774b1889d5607577ea2"
+      conceptType="Artifact"/>
+  <profiles
+      name="server"
+      id="id-941c950902d247a3833d689865804ccb"
+      conceptType="Node"/>
+</archimate:ArchimateModel>

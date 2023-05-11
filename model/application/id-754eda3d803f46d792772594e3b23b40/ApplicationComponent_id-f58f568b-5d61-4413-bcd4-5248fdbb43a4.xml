@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FME server"
+    id="id-f58f568b-5d61-4413-bcd4-5248fdbb43a4">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP106-P SV-APP107-T"/>
+  <properties
+      key="Leverancier"
+      value="Red Geographics"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Object ID"
+      value="64a57f6c-0d72-40b5-bc86-b7aabc07e699"/>
+</archimate:ApplicationComponent>

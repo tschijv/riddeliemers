@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VA-NS01"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9748">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Spam Mail"/>
+  <properties
+      key="Object ID"
+      value="e304c054-6deb-4058-a18e-022ef0733da5"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

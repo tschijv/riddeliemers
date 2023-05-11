@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-DDC03-P"
+    id="id-441133f8-491c-4a19-b1cc-146d50891241">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Azure AD Connect - SSO-MFA"/>
+  <properties
+      key="Object ID"
+      value="a8e3148c-4565-4bec-bd8c-77515ed9bab4"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

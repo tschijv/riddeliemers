@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-PVS02-P"
+    id="id-765d44f7-3fd2-4da9-ba46-f84c60069924">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Citrix Provisioning Services"/>
+  <properties
+      key="Object ID"
+      value="cc68037b-c21c-46e4-b18f-13e7013dd1ae"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

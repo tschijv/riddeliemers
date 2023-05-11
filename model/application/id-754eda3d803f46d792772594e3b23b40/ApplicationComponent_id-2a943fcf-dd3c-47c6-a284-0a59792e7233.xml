@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Begraven"
+    id="id-2a943fcf-dd3c-47c6-a284-0a59792e7233">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ZVBGP1"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP75-P"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Object ID"
+      value="ece46c66-4e46-4fc1-8ce4-aec0d855298a"/>
+</archimate:ApplicationComponent>

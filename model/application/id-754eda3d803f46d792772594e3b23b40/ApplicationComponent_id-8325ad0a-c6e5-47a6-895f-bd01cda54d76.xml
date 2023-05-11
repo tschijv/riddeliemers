@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix StoreFront"
+    id="id-8325ad0a-c6e5-47a6-895f-bd01cda54d76">
+  <properties
+      key="Samenvatting"
+      value="Parkeerapplicatie Zevenaar"/>
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Patricia van Dijk"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Pieter Veenhuijsen"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Joriena van Hummel"/>
+  <properties
+      key="Leverancier"
+      value="Sigmax"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Object ID"
+      value="34283dfd-798e-4bad-9953-d3ae2e8c6b38"/>
+</archimate:ApplicationComponent>

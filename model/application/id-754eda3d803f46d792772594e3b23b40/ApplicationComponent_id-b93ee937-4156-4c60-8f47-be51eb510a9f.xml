@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VMWare"
+    id="id-b93ee937-4156-4c60-8f47-be51eb510a9f"
+    documentation="virtualisatie platform">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Samenvatting"
+      value="virtualisatie platform"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Danny van Leeuwen"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="SV-VCS01-P, SV-VCS11-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Object ID"
+      value="2df7c7df-996b-49cf-928d-338d6737c63e"/>
+</archimate:ApplicationComponent>

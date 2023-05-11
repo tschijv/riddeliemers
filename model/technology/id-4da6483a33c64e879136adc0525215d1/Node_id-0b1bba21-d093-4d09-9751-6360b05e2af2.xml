@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP96-P"
+    id="id-0b1bba21-d093-4d09-9751-6360b05e2af2">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="JCC Afspraken en Reserveren 1Stroom JCC Assistent 1Stroom JCC Betalen DVN JCC Betalen WTV JCC Klantgeleiding 1Stroom JCC Personeelsplanning 1Stroom"/>
+  <properties
+      key="Object ID"
+      value="dc168e86-1866-4d3f-b611-010e01cf19ab"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

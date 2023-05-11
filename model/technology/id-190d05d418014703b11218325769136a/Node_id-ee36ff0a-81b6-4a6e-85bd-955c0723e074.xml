@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-HFDLOC-ODABASE-N1"
+    id="id-ee36ff0a-81b6-4a6e-85bd-955c0723e074">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Database hosting (Kind-middelen)"
+      value="DVNAUTP DVNDDSP DVNDECAP DVNPIVP DVNPREVP DVNROTP DVNUDSAP DVNVIEWP SDLBGTP SDLNGMP SDWTANP WTVAUTP WTVDDSP WTVGTWP WTVPIVP WTVROTP WTVTTP ZVDDSP1 ZVNAUTP1 ZVNLIASP ZVNSSHVP ZVPIVP1"/>
+  <properties
+      key="Object ID"
+      value="6e959eae-dd84-4eb3-a7a2-383a123dcf87"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

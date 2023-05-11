@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ivanti Workspace Manager"
+    id="id-91fd4fad-137b-4715-b431-73fa3c65e81f">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-CMG02-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="RES-Workspacemanager RES_Workspacemanager_Log"/>
+  <properties
+      key="Leverancier"
+      value="Ivanti"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Object ID"
+      value="02380949-d3db-41fd-a50d-d5d714fd8f28"/>
+</archimate:SystemSoftware>

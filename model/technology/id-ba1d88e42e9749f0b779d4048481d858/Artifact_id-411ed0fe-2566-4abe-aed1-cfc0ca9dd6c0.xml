@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDLBGTP"
+    id="id-411ed0fe-2566-4abe-aed1-cfc0ca9dd6c0">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="C-SAM Beheer BGT"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Object ID"
+      value="a063aca8-9c0e-4276-b0a8-f388faba1936"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

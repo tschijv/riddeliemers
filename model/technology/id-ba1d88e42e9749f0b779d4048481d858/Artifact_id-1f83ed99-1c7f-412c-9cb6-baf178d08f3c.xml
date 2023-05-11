@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WTVGTWP"
+    id="id-1f83ed99-1c7f-412c-9cb6-baf178d08f3c">
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="GT-WOZ"/>
+  <properties
+      key="Object ID"
+      value="de7ea9cd-559c-48c8-864c-91da707bf4f4"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

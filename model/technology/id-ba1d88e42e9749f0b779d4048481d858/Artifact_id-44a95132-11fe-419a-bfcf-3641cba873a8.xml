@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDLGWSP1"
+    id="id-44a95132-11fe-419a-bfcf-3641cba873a8">
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Suite WIZ"/>
+  <properties
+      key="Object ID"
+      value="059fc2f8-a456-4930-ab20-6304568dd5c7"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

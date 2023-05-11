@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zynyo"
+    id="id-04dc8021-2c4a-4389-bc5a-4fc24fab9ea9"
+    documentation="Digitaal ondertekenen van PDF's">
+  <properties
+      key="Samenvatting"
+      value="Digitaal ondertekenen van PDF's"/>
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Robin Stafleu"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Lydia Knijf"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Guus Benkers"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Object ID"
+      value="19329f08-727e-4cb3-b277-bfeff4f2e853"/>
+</archimate:ApplicationComponent>

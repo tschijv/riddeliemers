@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-FAS02-P"
+    id="id-c324f80c-a8aa-47e6-a2ba-05b5fe303b80">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Citrix Federator Authentication Service"/>
+  <properties
+      key="Object ID"
+      value="17dcab86-9f0d-4e58-8af6-b16716e41731"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

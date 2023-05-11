@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVNAUTP"
+    id="id-7177d352-d04e-43cc-b614-918cbb882211">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Autorisatiebeheer DVN"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL04-P"/>
+  <properties
+      key="Object ID"
+      value="0c286f0f-aeea-486d-a713-ed3075d151fc"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

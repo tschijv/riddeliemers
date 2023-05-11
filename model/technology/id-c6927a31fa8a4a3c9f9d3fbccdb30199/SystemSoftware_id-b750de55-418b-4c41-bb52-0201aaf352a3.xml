@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papercut Scan Server"
+    id="id-b750de55-418b-4c41-bb52-0201aaf352a3">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="PCI  Nederland  bv"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Wouter Spaan"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Robin Exoo"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-PS02-P"/>
+  <properties
+      key="Object ID"
+      value="74810db8-40e5-4a9a-b270-1ffd050cca0e"/>
+</archimate:SystemSoftware>

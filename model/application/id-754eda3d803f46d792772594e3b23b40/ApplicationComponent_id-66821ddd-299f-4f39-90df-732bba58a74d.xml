@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDU ZVN"
+    id="id-66821ddd-299f-4f39-90df-732bba58a74d">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="RSD vragen/verzoeken Applicatiebeheer"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-MDU02-P"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Object ID"
+      value="bc66751a-8e07-48ab-a550-1f7a0eee90d5"/>
+</archimate:ApplicationComponent>

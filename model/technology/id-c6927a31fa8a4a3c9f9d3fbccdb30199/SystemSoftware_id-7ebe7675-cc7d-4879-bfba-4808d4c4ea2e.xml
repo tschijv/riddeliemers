@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papercut Print Server"
+    id="id-7ebe7675-cc7d-4879-bfba-4808d4c4ea2e">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-PS01-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Robin Exoo"/>
+  <properties
+      key="Leverancier"
+      value="PCI  Nederland  bv"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Wouter Spaan"/>
+  <properties
+      key="Object ID"
+      value="bc3d0f4a-b34d-44ba-9ffb-e0cf26f2bd06"/>
+</archimate:SystemSoftware>

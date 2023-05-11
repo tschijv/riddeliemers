@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EBKSI.mdb"
+    id="id-9dd8731c-9228-4419-bed8-444ec5308a63">
+  <properties
+      key="Database soort"
+      value="MS Access"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="EB Match"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Object ID"
+      value="671f4394-313e-4f96-9629-e0d2084fc1cb"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-VPX13-P"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9772">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Veeam Backup &amp; Replication"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="a2a7825d-841e-4090-88d1-7a59a019e13e"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

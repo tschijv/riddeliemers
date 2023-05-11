@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cognos"
+    id="id-aaaa9518-3853-4dc2-b084-6145d8fc4eac">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Joris van Embden"/>
+  <properties
+      key="Leverancier"
+      value="The People Group"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP121-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="SDLBGTP"/>
+  <properties
+      key="Object ID"
+      value="6aa4d446-4779-4256-b15c-f22450c97251"/>
+</archimate:ApplicationComponent>

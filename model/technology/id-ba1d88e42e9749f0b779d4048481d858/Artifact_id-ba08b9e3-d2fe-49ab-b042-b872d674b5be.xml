@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EL0299"
+    id="id-ba08b9e3-d2fe-49ab-b042-b872d674b5be">
+  <properties
+      key="Database soort"
+      value="SQL Express"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Elektor ZVN"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-APP69-P"/>
+  <properties
+      key="Object ID"
+      value="78060715-d1ba-4e8b-87c8-8fc790dd1c04"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

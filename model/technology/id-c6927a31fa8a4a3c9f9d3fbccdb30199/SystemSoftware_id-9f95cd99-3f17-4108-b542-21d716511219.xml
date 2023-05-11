@@ -1,0 +1,36 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HOLM Security"
+    id="id-9f95cd99-3f17-4108-b542-21d716511219"
+    documentation="Vulnarability scanner">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Samenvatting"
+      value="Vulnarability scanner"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="VA-VMP01-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hamid Serraj"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Max Holland"/>
+  <properties
+      key="Object ID"
+      value="872337b7-ef87-49ee-b18c-e17f19111285"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2GBAV Duiven"
+    id="id-07545d78-a445-491e-9860-baf0c130e3a8">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="DVNDDSP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Duiven"/>
+  <properties
+      key="Object ID"
+      value="a032a7ff-e6ee-445d-93f1-08dd30c2851d"/>
+</archimate:ApplicationComponent>

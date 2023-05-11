@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2VOA Westervoort"
+    id="id-88af41c2-bc04-48fa-a8ad-8b9789b6fe81"
+    documentation="Verzend en Ontvangststation voor afnemers van het GBA netwer">
+  <properties
+      key="Samenvatting"
+      value="Verzend en Ontvangststation voor afnemers van het GBA netwer"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="WTVDDSP"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Centric TAB"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Westervoort"/>
+  <properties
+      key="Object ID"
+      value="d2c26f68-aa39-4911-921c-4a2d7131093a"/>
+</archimate:ApplicationComponent>

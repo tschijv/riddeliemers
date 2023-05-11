@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roxit_PRD_SPM_1Stroom"
+    id="id-0d429d1c-1e00-4dd2-b522-cfefac4599dd">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Squit 20/20 Webserver 1Stroom Squit 20/20 Webserver WTV"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Object ID"
+      value="deab8860-cdd4-40e2-9e50-0b400e10dce1"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

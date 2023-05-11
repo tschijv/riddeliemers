@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keesing 1Stroom"
+    id="id-a7edb832-e9f8-4d71-8463-c87d78f145b8">
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="RID.kdbx"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-FS01-P"/>
+  <properties
+      key="Object ID"
+      value="e8d2f3fa-2e91-4463-b62a-9a3533e36905"/>
+</archimate:ApplicationComponent>

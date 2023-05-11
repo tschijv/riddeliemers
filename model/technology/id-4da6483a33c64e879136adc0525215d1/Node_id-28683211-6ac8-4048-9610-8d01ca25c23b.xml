@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP69-P"
+    id="id-28683211-6ac8-4048-9610-8d01ca25c23b">
+  <properties
+      key="Database hosting (Kind-middelen)"
+      value="EL0226 EL0293 EL0299"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="786bc8ec-c1d0-46c5-a98c-0f3b0daf49a9"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

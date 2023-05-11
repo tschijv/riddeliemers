@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-FAS01-P"
+    id="id-0c225b3a-0549-4e87-8f39-8af12a73572a">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Mail Exchange Online Suwimail"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="4c23c8f7-f63c-44a5-a7b6-cdf463595bd5"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

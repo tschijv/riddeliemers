@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-DMZ03-P"
+    id="id-79a918ee-364a-461a-954d-ef6d6b723ac6"
+    documentation="Windows server 2019 - DHCP server gasten netwerk">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="189b018f-b303-4e79-a869-43e241d3db41"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

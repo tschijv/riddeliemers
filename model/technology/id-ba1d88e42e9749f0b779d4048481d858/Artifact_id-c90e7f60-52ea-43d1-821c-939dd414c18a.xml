@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WTVDDSP"
+    id="id-c90e7f60-52ea-43d1-821c-939dd414c18a">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Key2Berichtenmodule Key2PBZ Westervoort Key2GBAV Westervoort Key2VOA Westervoort"/>
+  <properties
+      key="Object ID"
+      value="bcf30789-4688-4a9f-8ec3-eee422fd9b17"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

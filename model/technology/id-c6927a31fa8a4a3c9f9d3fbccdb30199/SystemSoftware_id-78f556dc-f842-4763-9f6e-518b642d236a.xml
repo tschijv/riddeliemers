@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wifi"
+    id="id-78f556dc-f842-4763-9f6e-518b642d236a">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Storage, VMWare &amp; Back-up"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Leverancier"
+      value="Aruba"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="DCA-HFDLOC-WMC01 DCA-HFDLOC-WMC02"/>
+  <properties
+      key="Object ID"
+      value="f80cfd97-da2c-4075-ab64-2b570d41c2b9"/>
+</archimate:SystemSoftware>

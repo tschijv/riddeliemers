@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roxit_PRD_SPM_Zevenaar"
+    id="id-695aa654-6886-485f-ba50-104166c2185f">
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Squit 20/20 Webserver ZVN"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Object ID"
+      value="53863ee4-043e-48dc-acf0-b5efac2a38f4"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

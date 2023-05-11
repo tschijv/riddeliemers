@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZVFISAP1"
+    id="id-d81602c9-5ac6-4d77-9e80-0293d20c7deb">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Key2Financien 1Stroom Key2Financien ZVN"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODABASE-N1"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Object ID"
+      value="50548ab9-3488-4639-9aef-63b797454917"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

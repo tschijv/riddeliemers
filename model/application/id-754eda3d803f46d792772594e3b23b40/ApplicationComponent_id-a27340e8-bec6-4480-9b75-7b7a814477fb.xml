@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOUW DVN"
+    id="id-a27340e8-bec6-4480-9b75-7b7a814477fb">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Wilma Dikker"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="GouwIT"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP100-P SV-APP99-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="ALGGBELP1"/>
+  <properties
+      key="Object ID"
+      value="576c8853-0b9b-468b-9b0b-f5c159fdd513"/>
+</archimate:ApplicationComponent>

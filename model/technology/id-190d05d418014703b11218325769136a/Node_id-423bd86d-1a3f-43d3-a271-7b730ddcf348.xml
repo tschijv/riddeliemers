@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-SQL04-P"
+    id="id-423bd86d-1a3f-43d3-a271-7b730ddcf348">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Database hosting (Kind-middelen)"
+      value="CTX-RIDLogging CTX-RIDMonitoring CTX-RIDSite IvantiWorkspaceControle PVS-RID RDMDB RES-AM RES-Workspacemanager RES_Workspacemanager_Log"/>
+  <properties
+      key="Object ID"
+      value="06044a05-7169-4527-b4ba-6af9caf24e34"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

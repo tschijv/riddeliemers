@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suite WIZ"
+    id="id-270e5c3b-c964-4518-ba82-394b133aba3e"
+    documentation="Suite 4 Sociale Regie">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Samenvatting"
+      value="Suite 4 Sociale Regie"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="RSD vragen/verzoeken Applicatiebeheer"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP71-P SV-APP72-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="SDLGWSP1"/>
+  <properties
+      key="Object ID"
+      value="a88ebf3c-0fe0-41ea-9b2e-268661cc0f4c"/>
+</archimate:ApplicationComponent>

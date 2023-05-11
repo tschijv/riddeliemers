@@ -1,0 +1,41 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektor DVN"
+    id="id-5428d690-0127-4a03-817f-338fa6fcd413">
+  <properties
+      key="Applicatiesoort"
+      value="Systeem Software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Jolanda Smeijer"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Carmen Dahles"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="EL0226"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Leverancier"
+      value="TSA Verkiezingen b.v."/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Duiven"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP69-P"/>
+  <properties
+      key="Object ID"
+      value="c803e030-84d8-4914-a79c-d3508fb32d1f"/>
+</archimate:ApplicationComponent>

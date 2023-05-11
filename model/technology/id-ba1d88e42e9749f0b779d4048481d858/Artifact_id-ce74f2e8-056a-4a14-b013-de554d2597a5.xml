@@ -1,0 +1,16 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RNWDFISP"
+    id="id-ce74f2e8-056a-4a14-b013-de554d2597a5">
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-FS01-P"/>
+  <properties
+      key="Object ID"
+      value="5f399ac4-2e58-4467-8ee4-87399d07f1bc"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

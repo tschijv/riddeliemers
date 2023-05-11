@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP120-P"
+    id="id-66612345-db23-40f9-be22-c54cdc8a97ay">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Portaal Burgerzaken DVN Portaal Burgerzaken WTV"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="64c547aa-1c7c-47dc-b252-f6ec8d8ef192"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

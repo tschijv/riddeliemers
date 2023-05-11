@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gasten wifi"
+    id="id-0f381f6d-796e-41f8-933f-a2c0b077d67a">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-gwf01-p"/>
+  <properties
+      key="Leverancier"
+      value="Vodafone"/>
+  <properties
+      key="Object ID"
+      value="9124e2d0-1395-4410-84ac-3e20bdb660dd"/>
+</archimate:SystemSoftware>

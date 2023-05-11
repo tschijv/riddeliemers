@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suwimail"
+    id="id-5932802e-13ca-44d5-9b22-f33b5c41417a">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Arif Toygar"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Sharon Glashouwer"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RSD de Liemers"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-EX10-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="BKWI  (Bureau Keteninformatisering Werk en Inkomen)"/>
+  <properties
+      key="Object ID"
+      value="c0404875-33c8-4a34-a00f-35c4faaa0b9d"/>
+</archimate:ApplicationComponent>

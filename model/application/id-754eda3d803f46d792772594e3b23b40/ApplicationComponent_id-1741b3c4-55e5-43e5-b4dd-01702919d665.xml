@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SquitXO 1stroom"
+    id="id-1741b3c4-55e5-43e5-b4dd-01702919d665">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicaties"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jurjen Venema"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Martijn Schiltman"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Marcel Claassen"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP126-P"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="SDWSXOP"/>
+  <properties
+      key="Object ID"
+      value="ca57f55a-8bf2-47c9-ae4a-28bbfb19b9b6"/>
+</archimate:ApplicationComponent>

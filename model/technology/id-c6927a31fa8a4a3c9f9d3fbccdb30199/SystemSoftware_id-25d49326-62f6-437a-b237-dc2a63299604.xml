@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VLTrader"
+    id="id-25d49326-62f6-437a-b237-dc2a63299604">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jeroen Louwerse"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-DIGIKOP03-P"/>
+  <properties
+      key="Leverancier"
+      value="Enable-U"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="74212880-a3c2-4a27-b1c6-7cd4a71cd7ab"/>
+</archimate:SystemSoftware>

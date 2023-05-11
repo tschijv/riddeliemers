@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP122-T"
+    id="id-94e6e402-4513-4047-8740-e09e7cacfce7">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="C-SAM Beheer BGT"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="eec0c168-472f-4a45-9503-ee88797e14a7"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

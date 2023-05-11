@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZVNAUTP1"
+    id="id-87f0ab1f-ab1c-4f7e-ae57-f405e3480d72">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Autorisatiebeheer ZVN"/>
+  <properties
+      key="Object ID"
+      value="d2b8b2dd-2840-468d-9575-204cc9f9e368"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

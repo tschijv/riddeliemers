@@ -1,0 +1,35 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veeam Backup &amp; Replication"
+    id="id-cd0e6506-f7d3-4da6-a9ef-94124428f4eb">
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Veeam Software B.V."/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Danny van Leeuwen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Restore bestanden SV-VEE01-P SV-VPX02-P SV-VPX03-P SV-VPX04-P SV-VPX05-P SV-VPX06-P SV-VPX07-P SV-VPX08-P SV-VPX11-P SV-VPX12-P SV-VPX13-P SV-VPX14-P"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Enes Korkmaz"/>
+  <properties
+      key="Object ID"
+      value="c396e698-0813-49da-8f5c-6d2d8f891247"/>
+</archimate:SystemSoftware>

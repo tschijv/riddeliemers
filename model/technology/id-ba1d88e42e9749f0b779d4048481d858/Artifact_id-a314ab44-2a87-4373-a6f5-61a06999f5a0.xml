@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZVNSSHVP"
+    id="id-a314ab44-2a87-4373-a6f5-61a06999f5a0">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Stratech"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-HFDLOC-ODA01"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Object ID"
+      value="d5fe3757-623a-454b-8bd8-95225f857903"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

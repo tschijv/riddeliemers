@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDMDB"
+    id="id-6872ac93-17ba-468e-89cc-7b137779edeb">
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Remote Desktop Manager"/>
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL04-P"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="746daaeb-039e-4ca3-9442-39d4807451c5"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

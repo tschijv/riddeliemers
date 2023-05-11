@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-AMP01-P"
+    id="id-07f9c336-825f-494e-a2a4-75cd357ff4a2">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Ivanti Automation Manager"/>
+  <properties
+      key="Object ID"
+      value="f7a9067e-f08f-4618-a3e2-e211b7e29cb0"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1STRJCCPS_SYN"
+    id="id-f78c5185-9a81-45fe-b042-a365286631b6">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-SQL03-P"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="JCC Personeelsplanning 1Stroom"/>
+  <properties
+      key="Database soort"
+      value="SQL"/>
+  <properties
+      key="Object ID"
+      value="3b225416-85c3-4d8e-868c-58ffd741b7e5"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

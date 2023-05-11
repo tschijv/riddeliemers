@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-JKC04-P"
+    id="id-66612345-db23-40f9-be22-c54cdc8a97a4"
+    documentation="Windows server 2019 - JKC server  1Stroom- Productie">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="ec19b916-83f8-4c66-b438-3cf3fd1b7eb7"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-MGMINT01-P"
+    id="id-d5d7e675-4c30-492f-9fa2-5f3e153b7f57">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="IPAM"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Object ID"
+      value="0567dd12-0b82-4d4c-a6a4-dc7892b315bf"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

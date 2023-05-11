@@ -1,0 +1,13 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Restore bestanden"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9761">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Raas aanvraagstation DVN Raas aanvraagstation WTV Raas aanvraagstation ZVN"/>
+  <properties
+      key="Object ID"
+      value="768ad445-9e49-4904-b95a-29f87b1e0a71"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

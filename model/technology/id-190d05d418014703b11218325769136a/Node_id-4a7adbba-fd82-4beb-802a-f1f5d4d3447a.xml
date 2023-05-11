@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-APP101-T"
+    id="id-4a7adbba-fd82-4beb-802a-f1f5d4d3447a">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="GOUW DVN GOUW WTV GOUW ZVN"/>
+  <properties
+      key="Object ID"
+      value="be0c83b5-282b-48cb-a288-53babe30e634"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

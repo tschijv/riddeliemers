@@ -1,0 +1,44 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suwinet"
+    id="id-fdaf778d-b087-47a1-bdc1-474db9c85ee5">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende software"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Centric TAB"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Sharon Glashouwer"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Arif Toygar"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="BKWI  (Bureau Keteninformatisering Werk en Inkomen)"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Walter Hermsen"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP XenDesktop"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RSD de Liemers"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Object ID"
+      value="b4e7cc39-55fc-4d93-b4fe-4b3a2cf20970"/>
+</archimate:ApplicationComponent>

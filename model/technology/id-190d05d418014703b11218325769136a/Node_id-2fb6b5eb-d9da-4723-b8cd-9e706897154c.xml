@@ -1,0 +1,19 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-DBS01-P"
+    id="id-2fb6b5eb-d9da-4723-b8cd-9e706897154c">
+  <properties
+      key="Database hosting (Kind-middelen)"
+      value="ALGGBELP1"/>
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Clearpass Policy Manager"/>
+  <properties
+      key="Object ID"
+      value="f673664d-593a-4b6c-9bac-c57d1266d982"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

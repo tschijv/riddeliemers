@@ -1,0 +1,19 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WTVAUTP"
+    id="id-146c1047-deef-489d-b9d4-8b6f045f259f">
+  <properties
+      key="Database hosting (Ouders)"
+      value="SV-VEE01-P"/>
+  <properties
+      key="Database soort"
+      value="Oracle"/>
+  <properties
+      key="Data hosting (Kind-middelen)"
+      value="Autorisatiebeheer WTV"/>
+  <properties
+      key="Object ID"
+      value="e11ad8f1-6f05-42ee-9628-c53963e4e27d"/>
+  <profiles
+      href="folder.xml#id-297b0c07021b4774b1889d5607577ea2"/>
+</archimate:Artifact>

@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SV-MON01-P"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9755">
+  <properties
+      key="Type server"
+      value="Fysiek"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Message Handler GWS"/>
+  <properties
+      key="Object ID"
+      value="42828e19-a912-4e47-a8e9-8d4f458721dd"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>

@@ -1,0 +1,16 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VA-IMS01-P"
+    id="id-66612345-db23-40f9-be22-c54cdc8a9758">
+  <properties
+      key="Type server"
+      value="Virtueel"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Checkpoint management"/>
+  <properties
+      key="Object ID"
+      value="73553528-3d6b-4d13-879f-19e8dea4bc1f"/>
+  <profiles
+      href="folder.xml#id-941c950902d247a3833d689865804ccb"/>
+</archimate:Node>
