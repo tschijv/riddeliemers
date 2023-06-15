@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Securitech document scanner - BaliePC"
+    id="id-c95b1c10-4e6e-46a8-9c3e-f631539464df"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5de32a5b-f449-40d9-9539-08e09fc1e01e.xml#id-5de32a5b-f449-40d9-9539-08e09fc1e01e"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9722.xml#id-66612345-db23-40f9-be22-c54cdc8a9722"/>
+</archimate:AssociationRelationship>

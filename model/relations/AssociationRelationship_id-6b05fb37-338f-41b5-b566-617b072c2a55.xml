@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S4SD - Centric"
+    id="id-6b05fb37-338f-41b5-b566-617b072c2a55"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4d15f126-14ec-48d1-ba03-20d2c73983e1.xml#id-4d15f126-14ec-48d1-ba03-20d2c73983e1"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-038c6434-4304-4c40-9599-1c4cbc9fa888.xml#id-038c6434-4304-4c40-9599-1c4cbc9fa888"/>
+</archimate:AssociationRelationship>

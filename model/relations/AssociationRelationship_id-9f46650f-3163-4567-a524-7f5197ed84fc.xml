@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ivanti Automation Manager - SV-AM03-P"
+    id="id-9f46650f-3163-4567-a524-7f5197ed84fc"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-93363848-2064-47dd-a2c5-7326db9bedc7.xml#id-93363848-2064-47dd-a2c5-7326db9bedc7"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9733.xml#id-66612345-db23-40f9-be22-c54cdc8a9733"/>
+</archimate:AssociationRelationship>

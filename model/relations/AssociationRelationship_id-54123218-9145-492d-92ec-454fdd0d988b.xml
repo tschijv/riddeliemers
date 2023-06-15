@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notepad++ - Don Ho"
+    id="id-54123218-9145-492d-92ec-454fdd0d988b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5ad7c29a-c572-424f-a133-19fc3a9ca08f.xml#id-5ad7c29a-c572-424f-a133-19fc3a9ca08f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-203eaf11-e3fe-4442-9b49-3b465e7f5969.xml#id-203eaf11-e3fe-4442-9b49-3b465e7f5969"/>
+</archimate:AssociationRelationship>

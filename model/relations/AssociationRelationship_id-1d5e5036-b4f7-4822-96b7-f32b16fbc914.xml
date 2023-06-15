@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lias - SV-APP123-P"
+    id="id-1d5e5036-b4f7-4822-96b7-f32b16fbc914"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c882c02b-15f1-4808-8363-795b31745905.xml#id-c882c02b-15f1-4808-8363-795b31745905"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9710.xml#id-66612345-db23-40f9-be22-c54cdc8a9710"/>
+</archimate:AssociationRelationship>

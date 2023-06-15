@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDU DVN - Duiven"
+    id="id-aabce540-ef45-472f-ba83-c52b8c810d6d"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-35b09caf-bb94-46c2-8726-5a8d1fed0f71.xml#id-35b09caf-bb94-46c2-8726-5a8d1fed0f71"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-e114b9dd-d92d-4057-bfa8-f6056945fdc5.xml#id-e114b9dd-d92d-4057-bfa8-f6056945fdc5"/>
+</archimate:AssociationRelationship>

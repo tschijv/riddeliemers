@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure AD Connect - SSO-MFA - RID de Liemers"
+    id="id-ef294ce6-d9df-48a1-b9d3-176259d015fc"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-e9b4ad69-86bc-4075-9d1f-25d9c9a71e12.xml#id-e9b4ad69-86bc-4075-9d1f-25d9c9a71e12"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-690f51a9-1eb9-4591-96ec-9ce5f179a67d.xml#id-690f51a9-1eb9-4591-96ec-9ce5f179a67d"/>
+</archimate:AssociationRelationship>

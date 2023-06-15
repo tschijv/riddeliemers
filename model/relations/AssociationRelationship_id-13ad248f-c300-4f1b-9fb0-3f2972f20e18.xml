@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="City Control - Sigmax"
+    id="id-13ad248f-c300-4f1b-9fb0-3f2972f20e18"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ab6f7de-7738-4efb-b9e3-9c31f44199d4.xml#id-0ab6f7de-7738-4efb-b9e3-9c31f44199d4"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-69b0ba12-86cd-47ba-ad6a-07eadeeebaaf.xml#id-69b0ba12-86cd-47ba-ad6a-07eadeeebaaf"/>
+</archimate:AssociationRelationship>

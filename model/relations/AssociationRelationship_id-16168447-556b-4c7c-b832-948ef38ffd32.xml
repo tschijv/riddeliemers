@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ABS Spelen - DCTT"
+    id="id-16168447-556b-4c7c-b832-948ef38ffd32"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-413298e4-a3dc-4952-b514-6957e68ce4e0.xml#id-413298e4-a3dc-4952-b514-6957e68ce4e0"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-ff6766da-79d7-4b20-bf82-2da694703a96.xml#id-ff6766da-79d7-4b20-bf82-2da694703a96"/>
+</archimate:AssociationRelationship>

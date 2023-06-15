@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XML BluePrint - XenAPP"
+    id="id-d133eb1e-61d9-4b54-9e62-55de8399c6bc"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7507644c-8917-49a0-a0cb-0a9fb985b65d.xml#id-7507644c-8917-49a0-a0cb-0a9fb985b65d"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-86db55db-e09f-4dfa-baea-f267af254c18.xml#id-86db55db-e09f-4dfa-baea-f267af254c18"/>
+</archimate:AssociationRelationship>

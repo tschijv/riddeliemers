@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certificaten publiek - KPN"
+    id="id-e2f39f80-1a89-47c4-a994-2af5111ff306"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7c40925d-4b34-4338-ae01-7820b2501dcb.xml#id-7c40925d-4b34-4338-ae01-7820b2501dcb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4af22efe-da4a-4df2-b40f-ef7792efc22b.xml#id-4af22efe-da4a-4df2-b40f-ef7792efc22b"/>
+</archimate:AssociationRelationship>

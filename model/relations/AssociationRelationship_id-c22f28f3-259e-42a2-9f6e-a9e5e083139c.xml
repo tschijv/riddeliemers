@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektor WTV - SV-APP69-P"
+    id="id-c22f28f3-259e-42a2-9f6e-a9e5e083139c"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4f31637d-7745-4728-a23b-4621de92cb0e.xml#id-4f31637d-7745-4728-a23b-4621de92cb0e"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-28683211-6ac8-4048-9610-8d01ca25c23b.xml#id-28683211-6ac8-4048-9610-8d01ca25c23b"/>
+</archimate:AssociationRelationship>

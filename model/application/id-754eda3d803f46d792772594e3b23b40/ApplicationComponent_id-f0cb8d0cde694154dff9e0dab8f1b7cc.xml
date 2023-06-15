@@ -4,7 +4,7 @@
     id="id-f0cb8d0cde694154dff9e0dab8f1b7cc">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Maikel Bouwman"/>
@@ -13,7 +13,7 @@
       value="Klasse C"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="c4db2c60-0458-44f5-9001-c5740820f279"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:47:38.38"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:ApplicationComponent>

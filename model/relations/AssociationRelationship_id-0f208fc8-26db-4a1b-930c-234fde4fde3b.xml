@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AutoCAD 3D Map - Autodesk"
+    id="id-0f208fc8-26db-4a1b-930c-234fde4fde3b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-abc4a2a6-9280-4911-8e07-d38f11a3f01e.xml#id-abc4a2a6-9280-4911-8e07-d38f11a3f01e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-734c3be7-bc16-4b0e-ae9c-56e2272ef00e.xml#id-734c3be7-bc16-4b0e-ae9c-56e2272ef00e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel OIG - Zetacom"
+    id="id-62b26f33-a3f3-4f5f-8861-29d914f7295e"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-a2401953-8281-44dd-9cb5-fe9c5d15d7a7.xml#id-a2401953-8281-44dd-9cb5-fe9c5d15d7a7"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-72bd5c54-fbda-4501-b58c-a72b20cb6cd4.xml#id-72bd5c54-fbda-4501-b58c-a72b20cb6cd4"/>
+</archimate:AssociationRelationship>

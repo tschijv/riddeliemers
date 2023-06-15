@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instrumentengids-eva - Mett"
+    id="id-25c4527d-0747-4788-abba-163244268ffe"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e6cbd1bc-0caa-400e-b197-32b79da492b4.xml#id-e6cbd1bc-0caa-400e-b197-32b79da492b4"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-41dd157f-143b-4c88-8dea-f8358c07dcce.xml#id-41dd157f-143b-4c88-8dea-f8358c07dcce"/>
+</archimate:AssociationRelationship>

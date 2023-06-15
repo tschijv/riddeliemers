@@ -1,16 +1,17 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Workrave"
-    id="id-d033f7a9-a608-4be9-a770-eaa723c8bab0">
+    id="id-d033f7a9-a608-4be9-a770-eaa723c8bab0"
+    documentation=" software voor het verlichten van RSI">
   <properties
       key="Applicatiesoort"
-      value="Systeem Software"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse C"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Hille Veenstra"/>
@@ -32,4 +33,13 @@
   <properties
       key="Object ID"
       value="85c767c6-6b7d-42c8-9130-49f95de5f72c"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:11.11"/>
+  <properties
+      key="Specification"
+      value=" software voor het verlichten van RSI"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-12-02T11:30:33.33"/>
 </archimate:ApplicationComponent>

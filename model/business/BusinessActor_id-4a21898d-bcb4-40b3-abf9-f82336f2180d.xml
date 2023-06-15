@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Company Webcast"
+    id="id-4a21898d-bcb4-40b3-abf9-f82336f2180d"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-4eb6b7ae5d2445808a3f7b56820a0da2"/>
+</archimate:BusinessActor>

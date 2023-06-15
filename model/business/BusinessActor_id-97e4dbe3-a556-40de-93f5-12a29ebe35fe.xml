@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GoBright"
+    id="id-97e4dbe3-a556-40de-93f5-12a29ebe35fe"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-2ec4b51db57e4aeaaa65c53f9a818348"/>
+</archimate:BusinessActor>

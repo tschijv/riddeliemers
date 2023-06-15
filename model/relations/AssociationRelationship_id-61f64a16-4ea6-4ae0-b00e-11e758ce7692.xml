@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trend Micro Client - XenAPP"
+    id="id-61f64a16-4ea6-4ae0-b00e-11e758ce7692"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-2165e1bb-64ce-4f35-9d8b-7b6c1cf9a6fb.xml#id-2165e1bb-64ce-4f35-9d8b-7b6c1cf9a6fb"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-86db55db-e09f-4dfa-baea-f267af254c18.xml#id-86db55db-e09f-4dfa-baea-f267af254c18"/>
+</archimate:AssociationRelationship>

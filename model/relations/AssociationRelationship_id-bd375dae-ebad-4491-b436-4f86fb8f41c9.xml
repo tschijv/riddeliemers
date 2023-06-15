@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hydronet - Hydrologic"
+    id="id-bd375dae-ebad-4491-b436-4f86fb8f41c9"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4a368894-3325-4ec0-8c85-e1343932a212.xml#id-4a368894-3325-4ec0-8c85-e1343932a212"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-388a3df0-c7c9-4b35-a1f8-0e591a3ff7af.xml#id-388a3df0-c7c9-4b35-a1f8-0e591a3ff7af"/>
+</archimate:AssociationRelationship>

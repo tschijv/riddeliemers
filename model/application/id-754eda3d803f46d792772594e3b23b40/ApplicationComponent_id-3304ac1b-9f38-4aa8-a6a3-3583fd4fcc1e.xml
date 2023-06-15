@@ -4,7 +4,7 @@
     id="id-3304ac1b-9f38-4aa8-a6a3-3583fd4fcc1e">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Petra Spijkerman"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="52fddeba-ce38-4232-8a99-f35d9f2a2a82"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:18:19.19"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:ApplicationComponent>

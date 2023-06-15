@@ -4,10 +4,10 @@
     id="id-3cde6a63-010e-47d6-9e95-e4423661e276">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Rosalien Senhorst"/>
+      value="Arif Toygar"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -35,4 +35,13 @@
   <properties
       key="Object ID"
       value="96e2b8cf-6aa9-423f-a6d2-255da4d24ed6"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Eltjo Stoete"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-07-08T11:58:32.32"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-23T09:35:05.05"/>
 </archimate:ApplicationComponent>

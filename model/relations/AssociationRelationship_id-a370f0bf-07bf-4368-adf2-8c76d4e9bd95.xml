@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektor ZVN - TSA Verkiezingen b.v."
+    id="id-a370f0bf-07bf-4368-adf2-8c76d4e9bd95"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-52f732d1-7aa7-4e03-88a9-3f788b6a89cb.xml#id-52f732d1-7aa7-4e03-88a9-3f788b6a89cb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-165cfeba-ae3b-4b09-8d97-c45b09b3ffaf.xml#id-165cfeba-ae3b-4b09-8d97-c45b09b3ffaf"/>
+</archimate:AssociationRelationship>

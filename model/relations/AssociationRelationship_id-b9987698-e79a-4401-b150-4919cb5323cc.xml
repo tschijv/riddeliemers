@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iBabs ZVN - iBabs B.V."
+    id="id-b9987698-e79a-4401-b150-4919cb5323cc"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-ecddebdf-30dd-4dda-93cd-30c16cb82862.xml#id-ecddebdf-30dd-4dda-93cd-30c16cb82862"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-aa78d162-4dcd-4a27-9cfc-3ed50015dd70.xml#id-aa78d162-4dcd-4a27-9cfc-3ed50015dd70"/>
+</archimate:AssociationRelationship>

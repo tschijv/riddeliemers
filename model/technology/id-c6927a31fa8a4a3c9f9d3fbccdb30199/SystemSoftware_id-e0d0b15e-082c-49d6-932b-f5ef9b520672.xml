@@ -10,7 +10,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Technisch applicatiebeheerder 2"
       value="Hille Veenstra"/>
@@ -29,4 +29,10 @@
   <properties
       key="Object ID"
       value="0c0b3623-c6d0-416f-8864-8002d326e939"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2021-10-08T12:30:19.19"/>
 </archimate:SystemSoftware>

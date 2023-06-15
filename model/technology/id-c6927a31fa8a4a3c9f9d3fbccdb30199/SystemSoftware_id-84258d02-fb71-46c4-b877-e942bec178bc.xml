@@ -4,16 +4,16 @@
     id="id-84258d02-fb71-46c4-b877-e942bec178bc">
   <properties
       key="Applicatiesoort"
-      value="Systeem Software"/>
+      value="Systeemsoftware"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Behandelaarsgroep"
-      value="Technisch Applicatiebeheer"/>
+      value="Spam, Phishing &amp; Mail"/>
   <properties
       key="Leverancier"
       value="Microsoft"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="06f2d390-dea3-4f6b-a7e4-27ac28380874"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:07:23.23"/>
 </archimate:SystemSoftware>

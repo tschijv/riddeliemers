@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ARCgis bomen"
+    id="id-275e047d-554b-48ee-9522-d15577bc8612"
+    documentation="Verwerken snoeigegevens in systeem tbv boomveiligheidscontro">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:22:23.23"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:24:30.30"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Specification"
+      value="Verwerken snoeigegevens in systeem tbv boomveiligheidscontro"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Dick Molema"/>
+  <properties
+      key="Leverancier"
+      value="ARCgis"/>
+</archimate:ApplicationComponent>

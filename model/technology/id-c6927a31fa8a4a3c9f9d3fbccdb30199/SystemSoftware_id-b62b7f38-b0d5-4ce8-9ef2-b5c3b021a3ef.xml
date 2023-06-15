@@ -4,13 +4,13 @@
     id="id-b62b7f38-b0d5-4ce8-9ef2-b5c3b021a3ef">
   <properties
       key="Applicatiesoort"
-      value="Kernsoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse A"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Applicatie hosting (Ouders)"
       value="Gemnet Router"/>
@@ -29,4 +29,10 @@
   <properties
       key="Object ID"
       value="cfae2c8d-8edc-4f1e-8c99-91da5e261c1d"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T13:52:29.29"/>
 </archimate:SystemSoftware>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tangelo - SV-APP125-P"
+    id="id-794d26ea-45b4-4156-8039-ab8bd1b43e5d"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9e1024ac-6773-4f5e-987f-e7bf02362e7d.xml#id-9e1024ac-6773-4f5e-987f-e7bf02362e7d"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97aa.xml#id-66612345-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

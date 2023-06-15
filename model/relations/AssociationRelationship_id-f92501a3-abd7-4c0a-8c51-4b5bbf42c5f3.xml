@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamask ZVN - Datamask B.V."
+    id="id-f92501a3-abd7-4c0a-8c51-4b5bbf42c5f3"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1b418c98-f387-43d5-b9be-151ad6c43a7b.xml#id-1b418c98-f387-43d5-b9be-151ad6c43a7b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9e3fdc02-d819-44a1-a3de-6a9170de516a.xml#id-9e3fdc02-d819-44a1-a3de-6a9170de516a"/>
+</archimate:AssociationRelationship>

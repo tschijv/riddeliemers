@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatiebeheer ZVN - SV-APP88-P"
+    id="id-f2f514ea-c458-4ed0-bff0-f25b68573841"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b9c2cad4-3535-466e-99b9-5a5d7e481388.xml#id-b9c2cad4-3535-466e-99b9-5a5d7e481388"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-8c15a3e7-01da-439a-98fa-48de69aef6bd.xml#id-8c15a3e7-01da-439a-98fa-48de69aef6bd"/>
+</archimate:AssociationRelationship>

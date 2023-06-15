@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DormaKaba - SV-APP17-P"
+    id="id-5e2e1253-5cf8-4fcd-969f-99fdd36530a3"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f5e21246-13c3-469e-b186-13b96e9500cf.xml#id-f5e21246-13c3-469e-b186-13b96e9500cf"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-7653be48-f8c7-4098-aebd-15ec6573470a.xml#id-7653be48-f8c7-4098-aebd-15ec6573470a"/>
+</archimate:AssociationRelationship>

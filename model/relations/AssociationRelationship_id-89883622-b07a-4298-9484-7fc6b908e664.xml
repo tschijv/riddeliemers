@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certificaten publiek - SV-CMG01-P"
+    id="id-89883622-b07a-4298-9484-7fc6b908e664"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7c40925d-4b34-4338-ae01-7820b2501dcb.xml#id-7c40925d-4b34-4338-ae01-7820b2501dcb"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-253709da-ce2a-4450-811b-2be543b91d36.xml#id-253709da-ce2a-4450-811b-2be543b91d36"/>
+</archimate:AssociationRelationship>

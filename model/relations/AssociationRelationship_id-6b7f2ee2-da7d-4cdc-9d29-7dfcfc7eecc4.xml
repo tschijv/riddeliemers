@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teamviewer - Teamviewer"
+    id="id-6b7f2ee2-da7d-4cdc-9d29-7dfcfc7eecc4"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-f317dcb8-a2c4-4328-94da-ad7148b758c1.xml#id-f317dcb8-a2c4-4328-94da-ad7148b758c1"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-dae5f092-d458-4e89-b8dd-f1370c2e5a03.xml#id-dae5f092-d458-4e89-b8dd-f1370c2e5a03"/>
+</archimate:AssociationRelationship>

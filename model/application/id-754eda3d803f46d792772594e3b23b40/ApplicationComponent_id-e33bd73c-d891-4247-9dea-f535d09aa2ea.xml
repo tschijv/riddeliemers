@@ -4,7 +4,7 @@
     id="id-e33bd73c-d891-4247-9dea-f535d09aa2ea">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Simone Geerts"/>
@@ -35,4 +35,16 @@
   <properties
       key="Object ID"
       value="7b99d169-0d5d-40fb-aadd-aa0a99a6037a"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:10:22.22"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-21T13:55:17.17"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Carmen Dahles"/>
 </archimate:ApplicationComponent>

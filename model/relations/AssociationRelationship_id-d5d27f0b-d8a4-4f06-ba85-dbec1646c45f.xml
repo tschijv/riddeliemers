@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MiVoice Business - vMCD1_2019"
+    id="id-d5d27f0b-d8a4-4f06-ba85-dbec1646c45f"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-c39f1ee6-133c-4e7d-913f-7ae447566b95.xml#id-c39f1ee6-133c-4e7d-913f-7ae447566b95"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9746.xml#id-66612345-db23-40f9-be22-c54cdc8a9746"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Financien 1Stroom - Centric"
+    id="id-5ff001d5-b70f-4a10-8feb-2e5144ff41c5"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-69575535-413b-4ad9-b517-eba08f0163c7.xml#id-69575535-413b-4ad9-b517-eba08f0163c7"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-038c6434-4304-4c40-9599-1c4cbc9fa888.xml#id-038c6434-4304-4c40-9599-1c4cbc9fa888"/>
+</archimate:AssociationRelationship>

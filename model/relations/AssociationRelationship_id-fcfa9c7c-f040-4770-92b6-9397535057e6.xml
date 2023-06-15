@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hectronic Hecpoll - Zevenaar"
+    id="id-fcfa9c7c-f040-4770-92b6-9397535057e6"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7e46becb-79a1-41b4-9122-ec521d428748.xml#id-7e46becb-79a1-41b4-9122-ec521d428748"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-c2044ed1-da47-456f-9478-34f7f9342fe4.xml#id-c2044ed1-da47-456f-9478-34f7f9342fe4"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Greenshot - SDL"
+    id="id-f2f5774b-f249-4e2f-aa16-c162ee2ebabf"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2aa0d47c-bea1-4646-9289-f7988560a7db.xml#id-2aa0d47c-bea1-4646-9289-f7988560a7db"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-9617854c-292d-4be1-9b80-e71241e11370.xml#id-9617854c-292d-4be1-9b80-e71241e11370"/>
+</archimate:AssociationRelationship>

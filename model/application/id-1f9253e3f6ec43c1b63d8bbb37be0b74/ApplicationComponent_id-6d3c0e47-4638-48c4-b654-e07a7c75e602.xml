@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAM"
+    id="id-6d3c0e47-4638-48c4-b654-e07a7c75e602"
+    documentation="Beheer riool gemalen">
+  <properties
+      key="Specification"
+      value="Beheer riool gemalen"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maarten Kuster"/>
+  <properties
+      key="Leverancier"
+      value="Sencon"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:00:21.21"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:02:59.59"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beaufort 1Stroom/Duiven/Westervoort/SDL - XenDesktop"
+    id="id-3564f9ef-acc9-460e-a8f6-e8e8b57a6ad8"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-aea7cc0a-4371-4abf-af7c-9144fceb4ea4.xml#id-aea7cc0a-4371-4abf-af7c-9144fceb4ea4"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-14981f87-db23-40f9-be22-c54cdc8a97aa.xml#id-14981f87-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

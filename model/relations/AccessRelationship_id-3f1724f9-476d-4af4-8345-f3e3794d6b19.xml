@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Financien 1Stroom - ZVFISAP1"
+    id="id-3f1724f9-476d-4af4-8345-f3e3794d6b19"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-69575535-413b-4ad9-b517-eba08f0163c7.xml#id-69575535-413b-4ad9-b517-eba08f0163c7"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-d81602c9-5ac6-4d77-9e80-0293d20c7deb.xml#id-d81602c9-5ac6-4d77-9e80-0293d20c7deb"/>
+</archimate:AccessRelationship>

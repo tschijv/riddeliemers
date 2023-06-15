@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GVOP - Ministerie van Binnenlandse Zaken"
+    id="id-0fcbb301-147c-4d8f-9602-7bd54ad7482f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-271898ea-fa89-4c32-84df-358aa3592b9d.xml#id-271898ea-fa89-4c32-84df-358aa3592b9d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-31682812-8a5b-47e4-a96d-3268e1e636de.xml#id-31682812-8a5b-47e4-a96d-3268e1e636de"/>
+</archimate:AssociationRelationship>

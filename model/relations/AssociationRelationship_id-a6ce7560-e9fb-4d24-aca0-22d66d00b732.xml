@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet RID - Mett"
+    id="id-a6ce7560-e9fb-4d24-aca0-22d66d00b732"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b1d454d0-146a-4a0a-bedb-07baff6bb6db.xml#id-b1d454d0-146a-4a0a-bedb-07baff6bb6db"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-41dd157f-143b-4c88-8dea-f8358c07dcce.xml#id-41dd157f-143b-4c88-8dea-f8358c07dcce"/>
+</archimate:AssociationRelationship>

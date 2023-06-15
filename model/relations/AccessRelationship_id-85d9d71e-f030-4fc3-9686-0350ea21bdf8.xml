@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C-SAM Beheer BGT - SDLBGTP"
+    id="id-85d9d71e-f030-4fc3-9686-0350ea21bdf8"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d20474c2-8925-461c-a419-70b6a7e61a05.xml#id-d20474c2-8925-461c-a419-70b6a7e61a05"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-411ed0fe-2566-4abe-aed1-cfc0ca9dd6c0.xml#id-411ed0fe-2566-4abe-aed1-cfc0ca9dd6c0"/>
+</archimate:AccessRelationship>

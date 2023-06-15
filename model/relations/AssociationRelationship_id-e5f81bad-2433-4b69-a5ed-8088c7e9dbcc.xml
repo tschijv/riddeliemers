@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Financien.NET - Centric"
+    id="id-e5f81bad-2433-4b69-a5ed-8088c7e9dbcc"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5a10613f-9afb-477f-aa78-bd432f15f7f2.xml#id-5a10613f-9afb-477f-aa78-bd432f15f7f2"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-038c6434-4304-4c40-9599-1c4cbc9fa888.xml#id-038c6434-4304-4c40-9599-1c4cbc9fa888"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Xtendis Outlook Connector - Expansion BV"
+    id="id-d5e4f9a2-ec74-498b-a195-f77cf9c2eb30"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e6303a25-5df2-4ad7-88f2-ce1218704813.xml#id-e6303a25-5df2-4ad7-88f2-ce1218704813"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f7d350da-50a8-4ce9-b03c-68f70f26c387.xml#id-f7d350da-50a8-4ce9-b03c-68f70f26c387"/>
+</archimate:AssociationRelationship>

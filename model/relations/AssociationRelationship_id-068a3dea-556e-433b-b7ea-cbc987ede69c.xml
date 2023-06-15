@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRTG Monitoring - SV-MON01-P"
+    id="id-068a3dea-556e-433b-b7ea-cbc987ede69c"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-46a853b5-f7a5-4f65-9b00-ef5e3f6dee2b.xml#id-46a853b5-f7a5-4f65-9b00-ef5e3f6dee2b"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9755.xml#id-66612345-db23-40f9-be22-c54cdc8a9755"/>
+</archimate:AssociationRelationship>

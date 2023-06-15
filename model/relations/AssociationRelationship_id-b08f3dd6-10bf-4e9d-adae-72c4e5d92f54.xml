@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sharefile Outlook Plugin - Citrix"
+    id="id-b08f3dd6-10bf-4e9d-adae-72c4e5d92f54"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-66f5112b-53a1-462f-8b7d-10d4c86b7ece.xml#id-66f5112b-53a1-462f-8b7d-10d4c86b7ece"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-67bd95dd-9bad-408c-8292-a250df775468.xml#id-67bd95dd-9bad-408c-8292-a250df775468"/>
+</archimate:AssociationRelationship>

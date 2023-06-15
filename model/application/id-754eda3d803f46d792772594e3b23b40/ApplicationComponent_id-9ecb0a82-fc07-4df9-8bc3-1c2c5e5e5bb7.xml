@@ -4,13 +4,13 @@
     id="id-9ecb0a82-fc07-4df9-8bc3-1c2c5e5e5bb7">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse C"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="91bad23e-75c4-472b-9523-fb09f9f38377"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:50:58.58"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
 </archimate:ApplicationComponent>

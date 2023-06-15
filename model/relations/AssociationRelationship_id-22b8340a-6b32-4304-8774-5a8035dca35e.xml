@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keepass - BaliePC"
+    id="id-22b8340a-6b32-4304-8774-5a8035dca35e"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-438ded38-57c7-42b1-b430-b1f5afc68e23.xml#id-438ded38-57c7-42b1-b430-b1f5afc68e23"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9722.xml#id-66612345-db23-40f9-be22-c54cdc8a9722"/>
+</archimate:AssociationRelationship>

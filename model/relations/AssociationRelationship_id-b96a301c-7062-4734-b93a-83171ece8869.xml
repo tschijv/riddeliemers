@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brutis Wegen WTV - Gemeente Westervoort"
+    id="id-b96a301c-7062-4734-b93a-83171ece8869"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-803d3057-14dd-4dcb-a516-5c2ec2280d35.xml#id-803d3057-14dd-4dcb-a516-5c2ec2280d35"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-c135c0a6-2239-4563-b1a4-f0cac2b2d6b8.xml#id-c135c0a6-2239-4563-b1a4-f0cac2b2d6b8"/>
+</archimate:AssociationRelationship>

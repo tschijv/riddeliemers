@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel Micollab Trunk - Zetacom"
+    id="id-51ecc296-e261-43fd-b9f8-c7c071f223c9"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-f6ba0949-f026-420a-a494-9818e109819f.xml#id-f6ba0949-f026-420a-a494-9818e109819f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-72bd5c54-fbda-4501-b58c-a72b20cb6cd4.xml#id-72bd5c54-fbda-4501-b58c-a72b20cb6cd4"/>
+</archimate:AssociationRelationship>

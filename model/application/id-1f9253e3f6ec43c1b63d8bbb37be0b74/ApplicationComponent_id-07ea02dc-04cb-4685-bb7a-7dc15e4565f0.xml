@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RxZone 1Stroom"
+    id="id-07ea02dc-04cb-4685-bb7a-7dc15e4565f0">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:30:00.00"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Marcel Claassen"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jurjen Venema"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-09T14:57:17.17"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Martijn Schiltman"/>
+</archimate:ApplicationComponent>

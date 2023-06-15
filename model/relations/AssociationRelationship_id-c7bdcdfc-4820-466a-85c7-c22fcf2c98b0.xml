@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 WRO WTV - VISMA | Roxit"
+    id="id-c7bdcdfc-4820-466a-85c7-c22fcf2c98b0"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9c07bada-1093-4951-aac2-ab75659d1bbd.xml#id-9c07bada-1093-4951-aac2-ab75659d1bbd"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a.xml#id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a"/>
+</archimate:AssociationRelationship>

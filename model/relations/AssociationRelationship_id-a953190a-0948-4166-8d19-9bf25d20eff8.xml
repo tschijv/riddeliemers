@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sharefile - Citrix"
+    id="id-a953190a-0948-4166-8d19-9bf25d20eff8"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-80351824-9762-42e2-bb03-35ea28b98198.xml#id-80351824-9762-42e2-bb03-35ea28b98198"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-67bd95dd-9bad-408c-8292-a250df775468.xml#id-67bd95dd-9bad-408c-8292-a250df775468"/>
+</archimate:AssociationRelationship>

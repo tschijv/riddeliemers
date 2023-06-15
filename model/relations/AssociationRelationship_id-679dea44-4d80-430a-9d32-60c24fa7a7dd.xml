@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kikker Groen DVN - Riodesk"
+    id="id-679dea44-4d80-430a-9d32-60c24fa7a7dd"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8f0168c4-fd90-4bd1-9efc-613bdb9210ab.xml#id-8f0168c4-fd90-4bd1-9efc-613bdb9210ab"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9f93de46-e92d-467f-9c6f-1caae2ca381c.xml#id-9f93de46-e92d-467f-9c6f-1caae2ca381c"/>
+</archimate:AssociationRelationship>

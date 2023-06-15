@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel CCC - Zetacom"
+    id="id-8b2dc098-618b-48ed-bd70-60dcf4f36963"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-1d416ea2-a980-4ea0-ba0a-ef2117557b5e.xml#id-1d416ea2-a980-4ea0-ba0a-ef2117557b5e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-72bd5c54-fbda-4501-b58c-a72b20cb6cd4.xml#id-72bd5c54-fbda-4501-b58c-a72b20cb6cd4"/>
+</archimate:AssociationRelationship>

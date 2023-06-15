@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dis4Fis koppelmodule - XenAPP"
+    id="id-fd457c08-b4f7-4bfe-b43c-fd88dac2c5f0"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8ae6edea-0457-41bb-b857-f92faeedd549.xml#id-8ae6edea-0457-41bb-b857-f92faeedd549"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-86db55db-e09f-4dfa-baea-f267af254c18.xml#id-86db55db-e09f-4dfa-baea-f267af254c18"/>
+</archimate:AssociationRelationship>

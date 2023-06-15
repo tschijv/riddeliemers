@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2GBAV Zevenaar - ZVDDSP1"
+    id="id-cabbfe5d-1072-45ae-9d3c-8e8c94f43ba2"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07ba26ce-7f52-4eb6-abd8-06a075db67a6.xml#id-07ba26ce-7f52-4eb6-abd8-06a075db67a6"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-d3015059-0422-452b-b843-41a8ca301967.xml#id-d3015059-0422-452b-b843-41a8ca301967"/>
+</archimate:AccessRelationship>

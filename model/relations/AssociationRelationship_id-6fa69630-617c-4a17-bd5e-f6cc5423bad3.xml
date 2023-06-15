@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Builder DVN - Microsoft"
+    id="id-6fa69630-617c-4a17-bd5e-f6cc5423bad3"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bd047d88-a54c-4775-bbc9-27c9e38ea29e.xml#id-bd047d88-a54c-4775-bbc9-27c9e38ea29e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2da12636-19bd-4985-aecb-9daedf5732a4.xml#id-2da12636-19bd-4985-aecb-9daedf5732a4"/>
+</archimate:AssociationRelationship>

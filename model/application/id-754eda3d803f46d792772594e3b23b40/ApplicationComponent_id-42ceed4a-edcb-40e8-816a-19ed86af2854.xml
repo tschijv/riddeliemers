@@ -4,10 +4,10 @@
     id="id-42ceed4a-edcb-40e8-816a-19ed86af2854">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
@@ -20,4 +20,13 @@
   <properties
       key="Object ID"
       value="53a14353-c974-4e24-b75e-02d2fa08a846"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:52:46.46"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-10-08T12:30:06.06"/>
 </archimate:ApplicationComponent>

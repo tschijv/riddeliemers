@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spryng - Spryng"
+    id="id-d411863a-0519-48e7-9779-18b7bcb2568f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30f51347-ed41-480c-9ef8-fb8c2504d14e.xml#id-30f51347-ed41-480c-9ef8-fb8c2504d14e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-270493d9-6396-4dc1-b05f-b415aa8c6955.xml#id-270493d9-6396-4dc1-b05f-b415aa8c6955"/>
+</archimate:AssociationRelationship>

@@ -4,7 +4,7 @@
     id="id-2cc5eb9b-417f-461d-abd4-55c2e62afdb6">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -13,7 +13,7 @@
       value="ONWAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Diane Peters"/>
+      value="Ingrid Sluiter"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="7daf7f08-d0c6-43c6-9216-7ef24285e585"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:33:25.25"/>
 </archimate:ApplicationComponent>

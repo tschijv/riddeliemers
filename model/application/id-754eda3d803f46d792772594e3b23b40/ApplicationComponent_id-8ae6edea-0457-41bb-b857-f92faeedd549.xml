@@ -7,13 +7,13 @@
       value="Kernapplicatie"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Rudo van Gellekom"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Marcel van Maren"/>
@@ -35,4 +35,13 @@
   <properties
       key="Object ID"
       value="7d112b02-05e6-445d-b4bd-2500fb4cfa04"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-28T14:41:02.02"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
 </archimate:ApplicationComponent>

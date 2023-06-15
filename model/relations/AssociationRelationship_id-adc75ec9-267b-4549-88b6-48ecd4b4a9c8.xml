@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timetell DVN - TimeTell BV"
+    id="id-adc75ec9-267b-4549-88b6-48ecd4b4a9c8"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3cde6a63-010e-47d6-9e95-e4423661e276.xml#id-3cde6a63-010e-47d6-9e95-e4423661e276"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5aa22b78-ec8c-4ca7-aff1-f276bf3c5910.xml#id-5aa22b78-ec8c-4ca7-aff1-f276bf3c5910"/>
+</archimate:AssociationRelationship>

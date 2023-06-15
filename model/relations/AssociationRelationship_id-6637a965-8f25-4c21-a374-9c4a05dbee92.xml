@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S4SR - SV-APP72-P"
+    id="id-6637a965-8f25-4c21-a374-9c4a05dbee92"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8818fbd4-7777-454d-aefe-dcb7265d2bf1.xml#id-8818fbd4-7777-454d-aefe-dcb7265d2bf1"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9727.xml#id-66612345-db23-40f9-be22-c54cdc8a9727"/>
+</archimate:AssociationRelationship>

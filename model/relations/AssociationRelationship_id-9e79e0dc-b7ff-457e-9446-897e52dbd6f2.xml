@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SkillsTown Academy RSD - XenAPP"
+    id="id-9e79e0dc-b7ff-457e-9446-897e52dbd6f2"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c461dadb-8ab0-4da7-8750-b3ecac70ce63.xml#id-c461dadb-8ab0-4da7-8750-b3ecac70ce63"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-86db55db-e09f-4dfa-baea-f267af254c18.xml#id-86db55db-e09f-4dfa-baea-f267af254c18"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamask ZVN"
+    id="id-1b418c98-f387-43d5-b9be-151ad6c43a7b"
+    documentation="anonimiseren van documenten">
+  <properties
+      key="Notities"
+      value="Koppeling: Ja, met Decos Join (niet via de ESB, maar rechtstreeks)"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-05T09:30:57.57"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-05T09:30:57.57"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Decos Join ZVN"/>
+  <properties
+      key="Leverancier"
+      value="Datamask B.V."/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Duchan Sommers"/>
+  <properties
+      key="Specification"
+      value="anonimiseren van documenten"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware "/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Patrick Veldman"/>
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+</archimate:ApplicationComponent>

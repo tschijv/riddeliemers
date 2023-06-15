@@ -4,7 +4,7 @@
     id="id-4b4ff698-1589-4c6d-a628-13796ed8bae4">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Gerrie van den Boom"/>
@@ -13,7 +13,7 @@
       value="Technisch Applicatiebeheer"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="25f48251-ee40-4941-b306-ec2538286473"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T12:04:58.58"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:10:18.18"/>
 </archimate:ApplicationComponent>

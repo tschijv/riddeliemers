@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raas aanvraagstation WTV - RvIG (Rijksdienst voor Identiteitsgegevens)"
+    id="id-64d5de4e-e857-43cd-8a6a-9c878f2113d2"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b07ee53-f875-4e84-a67f-462ca5b3b68f.xml#id-2b07ee53-f875-4e84-a67f-462ca5b3b68f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-21b9401e-f015-4cc1-86df-18db5ad2d880.xml#id-21b9401e-f015-4cc1-86df-18db5ad2d880"/>
+</archimate:AssociationRelationship>

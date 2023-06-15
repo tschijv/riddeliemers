@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mail Exchange Online - Microsoft"
+    id="id-22e68f5e-cec6-4e08-9d10-8703db3fb97f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ddf750fa-d09d-4331-9152-83fa3193cda7.xml#id-ddf750fa-d09d-4331-9152-83fa3193cda7"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2da12636-19bd-4985-aecb-9daedf5732a4.xml#id-2da12636-19bd-4985-aecb-9daedf5732a4"/>
+</archimate:AssociationRelationship>

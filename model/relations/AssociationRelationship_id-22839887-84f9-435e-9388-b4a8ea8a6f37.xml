@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cognos - IBM Nederland B.V."
+    id="id-22839887-84f9-435e-9388-b4a8ea8a6f37"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-aaaa9518-3853-4dc2-b084-6145d8fc4eac.xml#id-aaaa9518-3853-4dc2-b084-6145d8fc4eac"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4c1b6656-1780-4eb2-8791-92091b3c7b0a.xml#id-4c1b6656-1780-4eb2-8791-92091b3c7b0a"/>
+</archimate:AssociationRelationship>

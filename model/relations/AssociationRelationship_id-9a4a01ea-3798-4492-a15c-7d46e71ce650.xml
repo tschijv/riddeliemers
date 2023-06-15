@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal Zorginkoop - Vecozo"
+    id="id-9a4a01ea-3798-4492-a15c-7d46e71ce650"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c60416b4-4fc6-4a0d-ad67-ef43bdd4bd6f.xml#id-c60416b4-4fc6-4a0d-ad67-ef43bdd4bd6f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1503071a-488d-4f73-8563-4f57506a3d26.xml#id-1503071a-488d-4f73-8563-4f57506a3d26"/>
+</archimate:AssociationRelationship>

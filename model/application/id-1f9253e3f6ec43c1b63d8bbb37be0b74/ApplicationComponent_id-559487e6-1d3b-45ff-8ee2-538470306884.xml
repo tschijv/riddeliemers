@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bristoets"
+    id="id-559487e6-1d3b-45ff-8ee2-538470306884"
+    documentation="normen tbv. toetsing bouwvergunningen">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:37:33.33"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Specification"
+      value="normen tbv. toetsing bouwvergunningen"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:37:33.33"/>
+  <properties
+      key="Leverancier"
+      value="Bris"/>
+</archimate:ApplicationComponent>

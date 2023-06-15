@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FortiAnalyzer - Fortinet"
+    id="id-aa5c8557-931f-4f8e-9e05-3188e6881850"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-86320c97-5f3a-4586-85c3-b0378ba8e4e0.xml#id-86320c97-5f3a-4586-85c3-b0378ba8e4e0"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-68da9e0d-521a-4ee7-896e-62744f88376e.xml#id-68da9e0d-521a-4ee7-896e-62744f88376e"/>
+</archimate:AssociationRelationship>

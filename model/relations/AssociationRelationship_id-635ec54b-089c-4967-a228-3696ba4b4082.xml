@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Munisense - IBland"
+    id="id-635ec54b-089c-4967-a228-3696ba4b4082"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2a11369d-dd6b-4a82-a021-1d54afc80a7b.xml#id-2a11369d-dd6b-4a82-a021-1d54afc80a7b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d2b31d49-464f-40e5-a805-971a6e67a6fa.xml#id-d2b31d49-464f-40e5-a805-971a6e67a6fa"/>
+</archimate:AssociationRelationship>

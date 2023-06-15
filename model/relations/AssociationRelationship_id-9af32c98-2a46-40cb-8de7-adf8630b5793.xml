@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WSUS - SV-WSUS01-P"
+    id="id-9af32c98-2a46-40cb-8de7-adf8630b5793"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-0e4c2cd5-b91f-44eb-98c2-15d2cd867a0a.xml#id-0e4c2cd5-b91f-44eb-98c2-15d2cd867a0a"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9777.xml#id-66612345-db23-40f9-be22-c54cdc8a9777"/>
+</archimate:AssociationRelationship>

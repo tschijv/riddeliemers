@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrendMicro ApexOne Server - Trend Micro"
+    id="id-5f551ff1-a009-42fc-b447-9af15a77ba30"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7b905e63-00ea-41a0-a5a0-b92a48a130f9.xml#id-7b905e63-00ea-41a0-a5a0-b92a48a130f9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-25d695f4-68d1-4805-aef7-41b75442ea63.xml#id-25d695f4-68d1-4805-aef7-41b75442ea63"/>
+</archimate:AssociationRelationship>

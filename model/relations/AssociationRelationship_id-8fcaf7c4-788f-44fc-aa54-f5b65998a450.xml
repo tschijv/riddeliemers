@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Service Bus (ESB) - SV-CON01-P"
+    id="id-8fcaf7c4-788f-44fc-aa54-f5b65998a450"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f2bd63b2-4185-4d07-a10f-ed9834636ad6.xml#id-f2bd63b2-4185-4d07-a10f-ed9834636ad6"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-0add306a-8600-4202-8783-fa1bd6562dd4.xml#id-0add306a-8600-4202-8783-fa1bd6562dd4"/>
+</archimate:AssociationRelationship>

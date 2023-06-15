@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Personeelsplanning ZVN - ZEVENAARJCCP_SYNERGY"
+    id="id-6cf82a5d-8930-4d37-8d2a-76657e3ff43b"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f5b4605a-7a04-489d-9601-4451ae7b9936.xml#id-f5b4605a-7a04-489d-9601-4451ae7b9936"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-ea2e6ed1-4328-4e63-a5c8-b3155378ed88.xml#id-ea2e6ed1-4328-4e63-a5c8-b3155378ed88"/>
+</archimate:AccessRelationship>

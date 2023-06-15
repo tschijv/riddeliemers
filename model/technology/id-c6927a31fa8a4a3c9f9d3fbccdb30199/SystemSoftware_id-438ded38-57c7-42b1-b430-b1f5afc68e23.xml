@@ -4,13 +4,13 @@
     id="id-438ded38-57c7-42b1-b430-b1f5afc68e23">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Systeemsoftware"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Toewijzingen - Locaties"
       value="RID de Liemers"/>
@@ -29,4 +29,10 @@
   <properties
       key="Object ID"
       value="2f5e25a9-66e8-4fe2-9e13-cbad7c48aa47"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:02:46.46"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:05.05"/>
 </archimate:SystemSoftware>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veeam Backup &amp; Replication - Veeam Software B.V."
+    id="id-3c565a5b-9dfa-47a5-b230-187b49c049b3"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-cd0e6506-f7d3-4da6-a9ef-94124428f4eb.xml#id-cd0e6506-f7d3-4da6-a9ef-94124428f4eb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-597c88f5-c3be-4421-9e45-4d6dfc368fbf.xml#id-597c88f5-c3be-4421-9e45-4d6dfc368fbf"/>
+</archimate:AssociationRelationship>

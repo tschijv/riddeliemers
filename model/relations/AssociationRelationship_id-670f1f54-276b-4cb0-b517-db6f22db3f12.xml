@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trimble Connect - Trimble"
+    id="id-670f1f54-276b-4cb0-b517-db6f22db3f12"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-09febe01-f6a9-4690-aaca-99e36b7e044a.xml#id-09febe01-f6a9-4690-aaca-99e36b7e044a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-6ca07857-df62-4819-ba34-4fafa2990cba.xml#id-6ca07857-df62-4819-ba34-4fafa2990cba"/>
+</archimate:AssociationRelationship>

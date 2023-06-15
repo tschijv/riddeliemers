@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brutis Groen DVN"
+    id="id-f6832905-2c3a-4cb5-8493-5b8f4f852a20">
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T10:59:14.14"/>
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware "/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Duiven"/>
+  <properties
+      key="Leverancier"
+      value="Riodesk"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Bram Wieringa"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-16T08:53:32.32"/>
+</archimate:ApplicationComponent>

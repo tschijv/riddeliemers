@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C-SAM Beheer BGT - SV-APP121-P"
+    id="id-1a50ad27-9fac-4e21-9d61-683e9180e1c6"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d20474c2-8925-461c-a419-70b6a7e61a05.xml#id-d20474c2-8925-461c-a419-70b6a7e61a05"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-9e265514-22b5-43f9-8394-ce9b4fa4abe8.xml#id-9e265514-22b5-43f9-8394-ce9b4fa4abe8"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VTLB Calculator 1Stroom - Bureau Wsnp"
+    id="id-2def14d8-bc80-4205-953b-2fe1e98fb465"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a45ec950-fb84-4e60-8139-4b51b5afd7ca.xml#id-a45ec950-fb84-4e60-8139-4b51b5afd7ca"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f6ff18b9-bb68-446d-8b5e-67eebcabf08e.xml#id-f6ff18b9-bb68-446d-8b5e-67eebcabf08e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adobe reader - XenAPP"
+    id="id-7f8309de-d36c-4823-bb5b-c35be8ec85df"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a032ebc5-77e6-4237-b9bd-1f345bb1dafa.xml#id-a032ebc5-77e6-4237-b9bd-1f345bb1dafa"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-86db55db-e09f-4dfa-baea-f267af254c18.xml#id-86db55db-e09f-4dfa-baea-f267af254c18"/>
+</archimate:AssociationRelationship>

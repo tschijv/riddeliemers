@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Berichtenmodule Key2PBZ Westervoort - Gemeente Westervoort"
+    id="id-bcf9ca97-e248-4577-b8b9-b22414243fa7"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e5d30311-2054-4c39-9fc0-bba0e5264602.xml#id-e5d30311-2054-4c39-9fc0-bba0e5264602"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-c135c0a6-2239-4563-b1a4-f0cac2b2d6b8.xml#id-c135c0a6-2239-4563-b1a4-f0cac2b2d6b8"/>
+</archimate:AssociationRelationship>

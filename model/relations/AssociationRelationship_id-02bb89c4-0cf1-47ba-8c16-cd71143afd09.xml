@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WSUS - Microsoft"
+    id="id-02bb89c4-0cf1-47ba-8c16-cd71143afd09"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-0e4c2cd5-b91f-44eb-98c2-15d2cd867a0a.xml#id-0e4c2cd5-b91f-44eb-98c2-15d2cd867a0a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2da12636-19bd-4985-aecb-9daedf5732a4.xml#id-2da12636-19bd-4985-aecb-9daedf5732a4"/>
+</archimate:AssociationRelationship>

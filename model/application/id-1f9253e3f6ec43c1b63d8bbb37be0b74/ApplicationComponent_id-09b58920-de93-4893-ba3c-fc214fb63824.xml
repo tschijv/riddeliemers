@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LMS"
+    id="id-09b58920-de93-4893-ba3c-fc214fb63824"
+    documentation="Beheer openbare verlichting">
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maarten Hageman"/>
+  <properties
+      key="Specification"
+      value="Beheer openbare verlichting"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:37:19.19"/>
+  <properties
+      key="Leverancier"
+      value="Nederlands Licht Instituut (NLI)"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:39:48.48"/>
+</archimate:ApplicationComponent>

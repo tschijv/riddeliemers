@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ministerie van Binnenlandse Zaken"
+    id="id-31682812-8a5b-47e4-a96d-3268e1e636de"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-88ea4e069bb345e2a5a9f1cddf3f485f"/>
+</archimate:BusinessActor>

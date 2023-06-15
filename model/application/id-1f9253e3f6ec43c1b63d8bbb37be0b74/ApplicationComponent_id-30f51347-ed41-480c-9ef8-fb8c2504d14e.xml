@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spryng"
+    id="id-30f51347-ed41-480c-9ef8-fb8c2504d14e"
+    documentation="SMS dienst (ophaal service rijbewijzen / paspoorten)">
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-23T11:45:21.21"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Specification"
+      value="SMS dienst (ophaal service rijbewijzen / paspoorten)"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Leverancier"
+      value="Spryng"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jolanda Smeijer"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-23T11:43:03.03"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

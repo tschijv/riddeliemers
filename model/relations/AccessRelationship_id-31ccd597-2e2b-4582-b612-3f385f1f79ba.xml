@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatiebeheer ZVN - ZVNAUTP1"
+    id="id-31ccd597-2e2b-4582-b612-3f385f1f79ba"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b9c2cad4-3535-466e-99b9-5a5d7e481388.xml#id-b9c2cad4-3535-466e-99b9-5a5d7e481388"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-87f0ab1f-ab1c-4f7e-ae57-f405e3480d72.xml#id-87f0ab1f-ab1c-4f7e-ae57-f405e3480d72"/>
+</archimate:AccessRelationship>

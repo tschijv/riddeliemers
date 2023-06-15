@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft SQL Server"
+    id="id-fecd11ae-c622-4411-989f-bb7972120af3">
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-04-20T09:38:54.54"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-20T09:38:54.54"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

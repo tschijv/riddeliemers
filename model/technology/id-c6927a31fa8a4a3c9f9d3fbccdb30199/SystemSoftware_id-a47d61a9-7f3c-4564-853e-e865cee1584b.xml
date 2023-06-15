@@ -10,7 +10,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse B"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -22,11 +22,17 @@
       value="Walter Hermsen"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="SV-FAS01-P SV-FAS02-P"/>
+      value="SV-DDC03-P"/>
   <properties
       key="Technisch applicatiebeheerder 2"
       value="Hille Veenstra"/>
   <properties
       key="Object ID"
       value="0a64fb73-0615-49a4-8c78-19d04e2def0f"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-01-14T13:40:18.18"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:04.04"/>
 </archimate:SystemSoftware>

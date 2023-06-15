@@ -4,13 +4,13 @@
     id="id-6311bed5-ec30-4d9b-9fce-6c5d232c4dc2">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse C"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Hille Veenstra"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="de6174ad-dfe3-4eec-96aa-2aae1e41c5ee"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T16:10:32.32"/>
 </archimate:ApplicationComponent>

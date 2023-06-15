@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aruba Mobility Master - VA-AMM02-P"
+    id="id-0bb54358-067f-4220-bad1-8150c8cb8f89"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-a400ec95-e664-47df-9400-695380a0d012.xml#id-a400ec95-e664-47df-9400-695380a0d012"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-201867a7-7dbb-44cd-afec-1c09f54c4d86.xml#id-201867a7-7dbb-44cd-afec-1c09f54c4d86"/>
+</archimate:AssociationRelationship>

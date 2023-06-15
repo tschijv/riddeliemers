@@ -4,7 +4,7 @@
     id="id-e9b4ad69-86bc-4075-9d1f-25d9c9a71e12">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende Software"/>
+      value="Systeemsoftware"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="c79bffdb-be84-4693-94cd-b59ffb2e88b0"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:04.04"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-22T11:30:09.09"/>
 </archimate:SystemSoftware>

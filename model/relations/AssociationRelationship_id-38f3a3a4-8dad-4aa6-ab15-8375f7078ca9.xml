@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suwinet - XenDesktop"
+    id="id-38f3a3a4-8dad-4aa6-ab15-8375f7078ca9"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fdaf778d-b087-47a1-bdc1-474db9c85ee5.xml#id-fdaf778d-b087-47a1-bdc1-474db9c85ee5"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-14981f87-db23-40f9-be22-c54cdc8a97aa.xml#id-14981f87-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

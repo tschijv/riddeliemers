@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brutis Riool DVN - Riodesk"
+    id="id-1c72ca8e-3e79-47dd-978c-8fa32214241e"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-befcc12f-5c6e-4a36-a8d9-db1fa3d5d208.xml#id-befcc12f-5c6e-4a36-a8d9-db1fa3d5d208"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9f93de46-e92d-467f-9c6f-1caae2ca381c.xml#id-9f93de46-e92d-467f-9c6f-1caae2ca381c"/>
+</archimate:AssociationRelationship>

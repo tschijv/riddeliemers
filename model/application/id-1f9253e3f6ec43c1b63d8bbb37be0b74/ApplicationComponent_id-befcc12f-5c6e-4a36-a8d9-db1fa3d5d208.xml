@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brutis Riool DVN"
+    id="id-befcc12f-5c6e-4a36-a8d9-db1fa3d5d208">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:02:12.12"/>
+  <properties
+      key="Leverancier"
+      value="Riodesk"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Duiven"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-16T08:55:43.43"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Bram Wieringa"/>
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware "/>
+</archimate:ApplicationComponent>

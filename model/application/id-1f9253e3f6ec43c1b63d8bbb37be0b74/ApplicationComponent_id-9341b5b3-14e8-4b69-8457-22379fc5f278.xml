@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invasieve soorten"
+    id="id-9341b5b3-14e8-4b69-8457-22379fc5f278"
+    documentation="Verwerken resultaten bestrijden/bijhouden locaties">
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:04:59.59"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T11:55:52.52"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Dick Molema"/>
+  <properties
+      key="Specification"
+      value="Verwerken resultaten bestrijden/bijhouden locaties"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+</archimate:ApplicationComponent>

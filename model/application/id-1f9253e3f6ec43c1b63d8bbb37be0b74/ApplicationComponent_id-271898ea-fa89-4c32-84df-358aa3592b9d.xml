@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GVOP"
+    id="id-271898ea-fa89-4c32-84df-358aa3592b9d"
+    documentation="registratie verordeningen">
+  <properties
+      key="Leverancier"
+      value="Ministerie van Binnenlandse Zaken"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:18:14.14"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:14:37.37"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Specification"
+      value="registratie verordeningen"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+</archimate:ApplicationComponent>

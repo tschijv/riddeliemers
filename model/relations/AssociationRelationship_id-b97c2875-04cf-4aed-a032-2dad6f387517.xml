@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 Webserver 1Stroom - SV-APP78-P"
+    id="id-b97c2875-04cf-4aed-a032-2dad6f387517"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d23a6140-1b7f-4623-8964-24486ed8a539.xml#id-d23a6140-1b7f-4623-8964-24486ed8a539"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9723.xml#id-66612345-db23-40f9-be22-c54cdc8a9723"/>
+</archimate:AssociationRelationship>

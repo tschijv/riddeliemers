@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Afspraken en Reserveren 1Stroom - JCC Software"
+    id="id-8075a813-3d06-4b45-8b3a-7a607f8a93bd"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fb3192f8-cf2d-4f68-8a61-77063110047e.xml#id-fb3192f8-cf2d-4f68-8a61-77063110047e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2079d48c-1609-45c0-8650-a8f268ef83c4.xml#id-2079d48c-1609-45c0-8650-a8f268ef83c4"/>
+</archimate:AssociationRelationship>

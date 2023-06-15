@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EB Match client - XenDesktop"
+    id="id-4ef69316-890e-4e54-b3cb-bb21f8602f16"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c04fbeec-fbec-4bb0-89eb-6bbd718a7a57.xml#id-c04fbeec-fbec-4bb0-89eb-6bbd718a7a57"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-14981f87-db23-40f9-be22-c54cdc8a97aa.xml#id-14981f87-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aruba Mobility Master - Aruba"
+    id="id-79fe401d-7053-47db-965a-c95cdeae9b44"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-a400ec95-e664-47df-9400-695380a0d012.xml#id-a400ec95-e664-47df-9400-695380a0d012"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-796c2b1d-ccc2-4d87-99bb-1f94d77045d8.xml#id-796c2b1d-ccc2-4d87-99bb-1f94d77045d8"/>
+</archimate:AssociationRelationship>

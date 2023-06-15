@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNS beheer - SV-CMG01-P"
+    id="id-3e9d6688-d34e-4716-9705-19e2d52d0da3"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-74c2a45c-658d-4b85-8aa7-6900165f178c.xml#id-74c2a45c-658d-4b85-8aa7-6900165f178c"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-253709da-ce2a-4450-811b-2be543b91d36.xml#id-253709da-ce2a-4450-811b-2be543b91d36"/>
+</archimate:AssociationRelationship>

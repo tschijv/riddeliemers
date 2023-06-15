@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote Desktop Manager - RDMDB"
+    id="id-8423501b-1ca4-45be-8373-128cac77597b"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-fd1d8067-9add-49bc-ab3e-7d9862043fb5.xml#id-fd1d8067-9add-49bc-ab3e-7d9862043fb5"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-6872ac93-17ba-468e-89cc-7b137779edeb.xml#id-6872ac93-17ba-468e-89cc-7b137779edeb"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeentelijk Incidenten Registratiesysteem (GIR) - A&amp;O fonds gemeenten"
+    id="id-61ee9944-b9f4-40ef-bc93-a0cde8beb0f6"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1225b0d3-77f4-4c35-8ff1-493fcc0fe390.xml#id-1225b0d3-77f4-4c35-8ff1-493fcc0fe390"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-44e5750e-e5aa-4315-9795-109bd2dd58b4.xml#id-44e5750e-e5aa-4315-9795-109bd2dd58b4"/>
+</archimate:AssociationRelationship>

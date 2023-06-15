@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2VOA Duiven - Gemeente Duiven"
+    id="id-5951ccee-0367-441b-ab31-04944ce2728a"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-541352a0-afae-4ffe-912c-9dd580751a6b.xml#id-541352a0-afae-4ffe-912c-9dd580751a6b"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-1882c044-4fce-4d54-8cc2-0654c222d3ee.xml#id-1882c044-4fce-4d54-8cc2-0654c222d3ee"/>
+</archimate:AssociationRelationship>

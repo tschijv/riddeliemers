@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RX.Zone Webserver WTV - SV-APP78-P"
+    id="id-dda292bb-f9db-4256-ba92-a25d5d339616"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cee3f1fe-b0de-435c-b3af-eaa0b33ede8e.xml#id-cee3f1fe-b0de-435c-b3af-eaa0b33ede8e"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9723.xml#id-66612345-db23-40f9-be22-c54cdc8a9723"/>
+</archimate:AssociationRelationship>

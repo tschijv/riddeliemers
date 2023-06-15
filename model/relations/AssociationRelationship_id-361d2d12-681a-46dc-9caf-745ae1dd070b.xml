@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handboek bomen - Normen instituut bomen"
+    id="id-361d2d12-681a-46dc-9caf-745ae1dd070b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7d626a43-a423-4476-89b5-479847f3b6a1.xml#id-7d626a43-a423-4476-89b5-479847f3b6a1"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-59520c74-40e9-44de-b247-d0efac4efb45.xml#id-59520c74-40e9-44de-b247-d0efac4efb45"/>
+</archimate:AssociationRelationship>

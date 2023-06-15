@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brutis Groen WTV - Riodesk"
+    id="id-a39d5053-028e-46cb-bb85-7e82a4d1e902"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7a86594c-bdae-4b75-bb5d-3a379bf3c767.xml#id-7a86594c-bdae-4b75-bb5d-3a379bf3c767"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9f93de46-e92d-467f-9c6f-1caae2ca381c.xml#id-9f93de46-e92d-467f-9c6f-1caae2ca381c"/>
+</archimate:AssociationRelationship>

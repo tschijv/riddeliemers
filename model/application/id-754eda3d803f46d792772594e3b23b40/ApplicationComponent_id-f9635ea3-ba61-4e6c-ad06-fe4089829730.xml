@@ -4,13 +4,13 @@
     id="id-f9635ea3-ba61-4e6c-ad06-fe4089829730">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Leverancier"
       value="Microsoft"/>
@@ -32,4 +32,13 @@
   <properties
       key="Object ID"
       value="19eb0540-e630-434b-9476-583e40780b8d"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Pieter Veenhuijsen"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:50:24.24"/>
 </archimate:ApplicationComponent>

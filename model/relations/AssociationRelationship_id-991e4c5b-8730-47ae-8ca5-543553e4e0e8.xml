@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Berichtenmodule Key2PBZ Duiven - Gemeente Duiven"
+    id="id-991e4c5b-8730-47ae-8ca5-543553e4e0e8"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-08bc1252-5d6f-4b38-8365-c7c6303c4326.xml#id-08bc1252-5d6f-4b38-8365-c7c6303c4326"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-1882c044-4fce-4d54-8cc2-0654c222d3ee.xml#id-1882c044-4fce-4d54-8cc2-0654c222d3ee"/>
+</archimate:AssociationRelationship>

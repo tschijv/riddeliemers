@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FME server - SV-APP107-T"
+    id="id-764d7b9e-b058-4836-b489-865bfe987cc7"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f58f568b-5d61-4413-bcd4-5248fdbb43a4.xml#id-f58f568b-5d61-4413-bcd4-5248fdbb43a4"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ef07fddc-79b4-459c-870d-8582e619a7fa.xml#id-ef07fddc-79b4-459c-870d-8582e619a7fa"/>
+</archimate:AssociationRelationship>

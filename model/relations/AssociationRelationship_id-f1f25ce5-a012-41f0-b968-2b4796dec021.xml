@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 WRO DVN - P:\appdata"
+    id="id-f1f25ce5-a012-41f0-b968-2b4796dec021"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f403d528-d7c1-445b-b819-1ddd09a8a315.xml#id-f403d528-d7c1-445b-b819-1ddd09a8a315"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9724.xml#id-66612345-db23-40f9-be22-c54cdc8a9724"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LIAS Pauw - Inergy"
+    id="id-5840523d-e857-4d16-a986-fbb47a11528b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4528e765-7507-4e4e-9348-46356dcab441.xml#id-4528e765-7507-4e4e-9348-46356dcab441"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-14db52bf-a0aa-4f35-a087-256fee3d2e58.xml#id-14db52bf-a0aa-4f35-a087-256fee3d2e58"/>
+</archimate:AssociationRelationship>

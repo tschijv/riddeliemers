@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennismodule Wegontwerp Bibeko met ASVV"
+    id="id-104f1476-5974-48a9-8a3b-faaae98cfe35">
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Leverancier"
+      value="CROW"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:50:17.17"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:52:20.20"/>
+</archimate:ApplicationComponent>

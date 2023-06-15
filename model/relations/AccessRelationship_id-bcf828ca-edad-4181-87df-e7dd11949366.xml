@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 WRO Zevenaar - ZVNROTP"
+    id="id-bcf828ca-edad-4181-87df-e7dd11949366"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-796462e7-a34f-4fae-ac62-4a4be7fa64b3.xml#id-796462e7-a34f-4fae-ac62-4a4be7fa64b3"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-d063dc12-9488-46e5-9c92-395363327f16.xml#id-d063dc12-9488-46e5-9c92-395363327f16"/>
+</archimate:AccessRelationship>

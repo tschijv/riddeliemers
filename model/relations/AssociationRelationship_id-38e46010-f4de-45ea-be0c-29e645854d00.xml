@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tangelo - Tangelo Software B.V."
+    id="id-38e46010-f4de-45ea-be0c-29e645854d00"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9e1024ac-6773-4f5e-987f-e7bf02362e7d.xml#id-9e1024ac-6773-4f5e-987f-e7bf02362e7d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c02b2b6f-2235-4474-b0b3-beb9ff51ec08.xml#id-c02b2b6f-2235-4474-b0b3-beb9ff51ec08"/>
+</archimate:AssociationRelationship>

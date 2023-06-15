@@ -4,16 +4,16 @@
     id="id-fb72763a-1769-4a2f-bf8f-4b2a0bbfd78b">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Behandelaarsgroep"
       value="Technisch Applicatiebeheer"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse C"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Hille Veenstra"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="04818ff2-b1b0-43a2-8ef5-b27d11b994df"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T10:32:39.39"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:18:42.42"/>
 </archimate:ApplicationComponent>

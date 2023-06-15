@@ -4,7 +4,7 @@
     id="id-3f8d2a39-622d-4a7c-8ad7-5713ff24df1e">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicatie"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
@@ -19,7 +19,7 @@
       value="Global Vitis b.v."/>
   <properties
       key="Toewijzingen - Locaties"
-      value="Zevenaar"/>
+      value="1Stroom"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="14ae09b9-3462-449e-ab19-bca1d4924064"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:18:42.42"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-09T15:14:52.52"/>
 </archimate:ApplicationComponent>

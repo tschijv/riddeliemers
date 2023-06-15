@@ -4,7 +4,7 @@
     id="id-dd3cb038-ec55-4e63-9145-dc8871026c7c">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -16,7 +16,7 @@
       value="Rudo van Gellekom"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Leverancier"
       value="Centric"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="32b91168-5bf8-4f0b-9705-82cb5851b526"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T16:27:05.05"/>
 </archimate:ApplicationComponent>

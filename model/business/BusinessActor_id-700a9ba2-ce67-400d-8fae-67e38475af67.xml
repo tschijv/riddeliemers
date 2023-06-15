@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoBrowser"
+    id="id-700a9ba2-ce67-400d-8fae-67e38475af67"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-2e3b0fdfc0c542f4bb562fc5961f83ee"/>
+</archimate:BusinessActor>

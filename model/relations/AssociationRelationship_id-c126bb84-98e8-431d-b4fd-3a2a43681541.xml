@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel MiCollab Server - vMiCollab_nov_2020"
+    id="id-c126bb84-98e8-431d-b4fd-3a2a43681541"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-b87a5e8c-a590-4ba7-8406-474062d0eb6c.xml#id-b87a5e8c-a590-4ba7-8406-474062d0eb6c"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9739.xml#id-66612345-db23-40f9-be22-c54cdc8a9739"/>
+</archimate:AssociationRelationship>

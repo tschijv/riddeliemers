@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Defender"
+    id="id-ac2eb4e5-e6ee-4e85-88c2-bbcf6e92cb15">
+  <properties
+      key="Aanmaakdatum"
+      value="2023-04-21T09:44:52.52"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Microsoft"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-21T09:44:52.52"/>
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse A"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZorgMail Adresboek RSD - Enovation"
+    id="id-2ba930cc-2ec6-4634-af5a-1aafe26b4e86"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-544ff7ca-7255-4d86-9e4f-298d1b364178.xml#id-544ff7ca-7255-4d86-9e4f-298d1b364178"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7b78efdc-7de0-44fd-835b-424b79cd5c19.xml#id-7b78efdc-7de0-44fd-835b-424b79cd5c19"/>
+</archimate:AssociationRelationship>

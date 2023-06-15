@@ -4,16 +4,16 @@
     id="id-37af0f28-0876-4cfb-ad5a-48b771b8fee4">
   <properties
       key="Applicatiesoort"
-      value="Kernsoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Jurgen Stoffer"/>
+      value="Arif Toygar"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Toewijzingen - Locaties"
       value="SDL"/>
@@ -35,4 +35,13 @@
   <properties
       key="Object ID"
       value="6e88a049-225f-4b38-90ad-e60c38e5074f"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T15:41:40.40"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Eltjo Stoete"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:35:02.02"/>
 </archimate:ApplicationComponent>

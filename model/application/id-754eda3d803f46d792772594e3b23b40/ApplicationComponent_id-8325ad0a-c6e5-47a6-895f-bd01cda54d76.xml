@@ -25,14 +25,29 @@
       value="Joriena van Hummel"/>
   <properties
       key="Leverancier"
-      value="Sigmax"/>
+      value="Citrix"/>
   <properties
       key="Single Sign On"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="XenAPP"/>
+      value="SV-SF03-P SV-SF04-P"/>
   <properties
       key="Object ID"
       value="34283dfd-798e-4bad-9953-d3ae2e8c6b38"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-09T15:47:48.48"/>
 </archimate:ApplicationComponent>

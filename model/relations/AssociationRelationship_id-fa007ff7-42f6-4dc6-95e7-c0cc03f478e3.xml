@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBeaver - DBeaver"
+    id="id-fa007ff7-42f6-4dc6-95e7-c0cc03f478e3"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-759cc985-8c0d-4d84-a123-19a9818b0c65.xml#id-759cc985-8c0d-4d84-a123-19a9818b0c65"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4569b5b5-dc30-4cb3-a692-fcaa10cf1948.xml#id-4569b5b5-dc30-4cb3-a692-fcaa10cf1948"/>
+</archimate:AssociationRelationship>

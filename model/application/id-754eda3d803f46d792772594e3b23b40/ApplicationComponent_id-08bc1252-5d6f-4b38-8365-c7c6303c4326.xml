@@ -5,13 +5,13 @@
     documentation="tbv Key2burgerzaken Duiven">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Samenvatting"
       value="tbv Key2burgerzaken Duiven"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Petra Spijkerman"/>
+      value="Carmen Dahles"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -39,4 +39,16 @@
   <properties
       key="Object ID"
       value="2331324a-89a8-401f-8ffe-cc6d0b12ef25"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-29T14:57:47.47"/>
+  <properties
+      key="Specification"
+      value="tbv Key2burgerzaken Duiven"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-09T13:46:12.12"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Petra Spijkerman"/>
 </archimate:ApplicationComponent>

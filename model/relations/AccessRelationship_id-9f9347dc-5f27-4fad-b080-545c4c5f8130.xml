@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal Burgerzaken WTV - WTVPIVP"
+    id="id-9f9347dc-5f27-4fad-b080-545c4c5f8130"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-22945401-e181-4412-a901-66b13d5af633.xml#id-22945401-e181-4412-a901-66b13d5af633"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-48c232de-af6f-4a9b-8f35-97a2be9c9497.xml#id-48c232de-af6f-4a9b-8f35-97a2be9c9497"/>
+</archimate:AccessRelationship>

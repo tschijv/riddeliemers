@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOOR"
+    id="id-6fb71457-e32d-429e-950a-e535814b521c"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-56df59629cc34c749169fb29196940f0"/>
+</archimate:BusinessActor>

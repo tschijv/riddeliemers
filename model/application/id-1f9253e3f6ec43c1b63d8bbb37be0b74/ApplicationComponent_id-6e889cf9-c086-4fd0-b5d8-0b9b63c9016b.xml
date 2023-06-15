@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4WOZ"
+    id="id-6e889cf9-c086-4fd0-b5d8-0b9b63c9016b"
+    documentation="taxatie">
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:07:31.31"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:07:31.31"/>
+  <properties
+      key="Specification"
+      value="taxatie"/>
+  <properties
+      key="Leverancier"
+      value="4Value"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+</archimate:ApplicationComponent>

@@ -4,7 +4,7 @@
     id="id-9dac5bcf-5622-4370-b077-b352ec1761f2">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Behandelaarsgroep"
       value="Technisch Applicatiebeheer"/>
@@ -13,7 +13,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Danny van Leeuwen"/>
@@ -23,4 +23,13 @@
   <properties
       key="Object ID"
       value="3a0c7426-baae-4b23-a610-d9339ec48d6b"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-10-24T11:01:57.57"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-10-24T11:01:57.57"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
 </archimate:ApplicationComponent>

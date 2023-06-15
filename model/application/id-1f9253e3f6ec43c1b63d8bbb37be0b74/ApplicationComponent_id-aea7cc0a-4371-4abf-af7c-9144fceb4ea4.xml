@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beaufort 1Stroom/Duiven/Westervoort/SDL"
+    id="id-aea7cc0a-4371-4abf-af7c-9144fceb4ea4">
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Rosalien Senhorst"/>
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware "/>
+  <properties
+      key="Leverancier"
+      value="Visma | Raet"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenAPP XenDesktop"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Hille Veenstra"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-09T11:50:41.41"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Westervoort 1Stroom SDL Gemeente Duiven"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

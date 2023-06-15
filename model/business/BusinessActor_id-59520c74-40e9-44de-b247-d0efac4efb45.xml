@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Normen instituut bomen"
+    id="id-59520c74-40e9-44de-b247-d0efac4efb45"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-5522abc7d21a42a5ba6b2a9506951f21"/>
+</archimate:BusinessActor>

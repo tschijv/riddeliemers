@@ -4,13 +4,13 @@
     id="id-f2bd63b2-4185-4d07-a10f-ed9834636ad6">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse A"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Guido van der Vegt"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="624d43dc-4e80-4cf7-8bb6-39b30aa22fe9"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:09:16.16"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T15:41:40.40"/>
 </archimate:ApplicationComponent>

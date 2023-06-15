@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STTR Builder - Zevenaar"
+    id="id-e4546bba-0b1a-40de-a162-c19a6c9df2e1"
+    documentation="Ruimtelijke Ordening software">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-30T10:06:33.33"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Specification"
+      value="Ruimtelijke Ordening software"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:33:42.42"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Andrea Schuil"/>
+</archimate:ApplicationComponent>

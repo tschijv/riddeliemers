@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Xtendis Cockpit - SV-PR11-P"
+    id="id-86ad9be3-2e40-4b37-9c7d-640e06f02e6b"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2065c07d-1e94-474f-bc5c-d3bb7d9a7c7a.xml#id-2065c07d-1e94-474f-bc5c-d3bb7d9a7c7a"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9760.xml#id-66612345-db23-40f9-be22-c54cdc8a9760"/>
+</archimate:AssociationRelationship>

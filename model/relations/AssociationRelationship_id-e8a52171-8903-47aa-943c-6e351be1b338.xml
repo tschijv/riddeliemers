@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RxMission Publiceren 1Stroom - VISMA | Roxit"
+    id="id-e8a52171-8903-47aa-943c-6e351be1b338"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30609e0e-4c40-413b-98ef-b8f611a1836e.xml#id-30609e0e-4c40-413b-98ef-b8f611a1836e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a.xml#id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a"/>
+</archimate:AssociationRelationship>

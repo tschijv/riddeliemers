@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SquitXO ZVN - ZVNSXOP"
+    id="id-96c135fb-bc4c-4173-9e18-06376b35dffc"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c5a3e049-07c2-41a0-8fd1-e46d4e2a801e.xml#id-c5a3e049-07c2-41a0-8fd1-e46d4e2a801e"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-4f346bad-ed2c-4a7c-8732-ccfb9aa3c2c7.xml#id-4f346bad-ed2c-4a7c-8732-ccfb9aa3c2c7"/>
+</archimate:AccessRelationship>

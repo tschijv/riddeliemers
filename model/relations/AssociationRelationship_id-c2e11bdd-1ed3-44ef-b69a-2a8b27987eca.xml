@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Berichtenmodule Key2BAG - SV-WLS10-P"
+    id="id-c2e11bdd-1ed3-44ef-b69a-2a8b27987eca"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3304ac1b-9f38-4aa8-a6a3-3583fd4fcc1e.xml#id-3304ac1b-9f38-4aa8-a6a3-3583fd4fcc1e"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a7.xml#id-66612345-db23-40f9-be22-c54cdc8a97a7"/>
+</archimate:AssociationRelationship>

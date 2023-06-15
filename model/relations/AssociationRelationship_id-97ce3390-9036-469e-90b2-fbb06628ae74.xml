@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ibanc - PayGlobal Technology"
+    id="id-97ce3390-9036-469e-90b2-fbb06628ae74"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11a2203f-53d4-4393-b11f-58542b7c173d.xml#id-11a2203f-53d4-4393-b11f-58542b7c173d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-99e96126-8f90-4098-a4da-c73e1dfd230b.xml#id-99e96126-8f90-4098-a4da-c73e1dfd230b"/>
+</archimate:AssociationRelationship>

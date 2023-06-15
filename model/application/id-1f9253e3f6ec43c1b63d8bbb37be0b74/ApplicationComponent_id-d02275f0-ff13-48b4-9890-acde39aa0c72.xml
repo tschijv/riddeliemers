@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aruba Networks OS"
+    id="id-d02275f0-ff13-48b4-9890-acde39aa0c72">
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-20T09:28:09.09"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Leverancier"
+      value="Aruba"/>
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-04-20T09:28:09.09"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

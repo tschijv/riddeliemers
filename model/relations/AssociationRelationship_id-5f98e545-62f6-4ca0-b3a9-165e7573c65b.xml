@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papercut Scan Server - SV-PS02-P"
+    id="id-5f98e545-62f6-4ca0-b3a9-165e7573c65b"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-b750de55-418b-4c41-bb52-0201aaf352a3.xml#id-b750de55-418b-4c41-bb52-0201aaf352a3"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9754.xml#id-66612345-db23-40f9-be22-c54cdc8a9754"/>
+</archimate:AssociationRelationship>

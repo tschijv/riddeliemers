@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4WOZ - 4Value"
+    id="id-cd7386e9-0d21-49a1-8755-d497cd0cfe8b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6e889cf9-c086-4fd0-b5d8-0b9b63c9016b.xml#id-6e889cf9-c086-4fd0-b5d8-0b9b63c9016b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1c07fd84-9640-41b9-8293-14b949b36c7e.xml#id-1c07fd84-9640-41b9-8293-14b949b36c7e"/>
+</archimate:AssociationRelationship>

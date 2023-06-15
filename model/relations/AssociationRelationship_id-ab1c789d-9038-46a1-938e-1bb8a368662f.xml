@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schulinck Participatiewet - RSD de Liemers"
+    id="id-ab1c789d-9038-46a1-938e-1bb8a368662f"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1021508a-4f32-462a-80cd-25fd3f317888.xml#id-1021508a-4f32-462a-80cd-25fd3f317888"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_Id-c2055sd1-da47-456f-9478-34f7f9342fe4.xml#Id-c2055sd1-da47-456f-9478-34f7f9342fe4"/>
+</archimate:AssociationRelationship>

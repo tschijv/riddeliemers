@@ -4,7 +4,7 @@
     id="id-07ba26ce-7f52-4eb6-abd8-06a075db67a6">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -41,4 +41,10 @@
   <properties
       key="Object ID"
       value="3b4c638e-f6c5-47e8-ba2c-991fda97db57"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-10-08T11:31:35.35"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:36:24.24"/>
 </archimate:ApplicationComponent>

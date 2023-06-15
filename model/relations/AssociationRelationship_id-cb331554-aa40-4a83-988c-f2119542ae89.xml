@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DigiNetwerk - KPN"
+    id="id-cb331554-aa40-4a83-988c-f2119542ae89"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-b62b7f38-b0d5-4ce8-9ef2-b5c3b021a3ef.xml#id-b62b7f38-b0d5-4ce8-9ef2-b5c3b021a3ef"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4af22efe-da4a-4df2-b40f-ef7792efc22b.xml#id-4af22efe-da4a-4df2-b40f-ef7792efc22b"/>
+</archimate:AssociationRelationship>

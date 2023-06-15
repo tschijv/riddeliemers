@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logius"
+    id="id-f1f71f47-57d9-49fb-9fd1-c880098130c9"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-a76a5e93a1474f3f8eb0fb0036da6c73"/>
+</archimate:BusinessActor>

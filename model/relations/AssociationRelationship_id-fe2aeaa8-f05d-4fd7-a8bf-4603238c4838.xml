@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Naviswork 3d viewer - Autodesk"
+    id="id-fe2aeaa8-f05d-4fd7-a8bf-4603238c4838"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6311bed5-ec30-4d9b-9fce-6c5d232c4dc2.xml#id-6311bed5-ec30-4d9b-9fce-6c5d232c4dc2"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-734c3be7-bc16-4b0e-ae9c-56e2272ef00e.xml#id-734c3be7-bc16-4b0e-ae9c-56e2272ef00e"/>
+</archimate:AssociationRelationship>

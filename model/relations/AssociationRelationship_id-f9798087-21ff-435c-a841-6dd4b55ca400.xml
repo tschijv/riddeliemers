@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennismodule Wegontwerp Bibeko met ASVV - CROW"
+    id="id-f9798087-21ff-435c-a841-6dd4b55ca400"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-104f1476-5974-48a9-8a3b-faaae98cfe35.xml#id-104f1476-5974-48a9-8a3b-faaae98cfe35"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f7698f15-c6d0-4e7b-b8ca-ba6b41a8b445.xml#id-f7698f15-c6d0-4e7b-b8ca-ba6b41a8b445"/>
+</archimate:AssociationRelationship>

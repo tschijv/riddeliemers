@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Begraven - SV-APP75-P"
+    id="id-515872a5-bbd1-406f-9666-f195b2ea5add"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2a943fcf-dd3c-47c6-a284-0a59792e7233.xml#id-2a943fcf-dd3c-47c6-a284-0a59792e7233"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-aaff49c7-991b-441d-84fb-1f855a29482c.xml#id-aaff49c7-991b-441d-84fb-1f855a29482c"/>
+</archimate:AssociationRelationship>

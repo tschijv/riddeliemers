@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel Micollab Trunk - vMBG3_nov_2020"
+    id="id-ef1484ab-7e63-42f8-a60a-4e4c9d5830f6"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-f6ba0949-f026-420a-a494-9818e109819f.xml#id-f6ba0949-f026-420a-a494-9818e109819f"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9740.xml#id-66612345-db23-40f9-be22-c54cdc8a9740"/>
+</archimate:AssociationRelationship>

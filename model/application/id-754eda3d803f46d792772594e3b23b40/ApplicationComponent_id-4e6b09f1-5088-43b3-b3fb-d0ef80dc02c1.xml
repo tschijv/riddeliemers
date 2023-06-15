@@ -4,19 +4,19 @@
     id="id-4e6b09f1-5088-43b3-b3fb-d0ef80dc02c1">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Pieter Veenhuijsen"/>
+      value="Patricia van Dijk"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Patricia van Dijk"/>
+      value="Pieter Veenhuijsen"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="7c70a475-b2a9-48d8-971d-8e32f7b140dd"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:10:24.24"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:ApplicationComponent>

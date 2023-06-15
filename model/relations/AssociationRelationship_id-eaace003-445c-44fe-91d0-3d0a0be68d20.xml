@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iWOZ - MOSS BV"
+    id="id-eaace003-445c-44fe-91d0-3d0a0be68d20"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d7c6d516-97bb-4bde-a390-a4a0a80a224e.xml#id-d7c6d516-97bb-4bde-a390-a4a0a80a224e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5049eec0-c09a-42b6-9838-4b31ceceb909.xml#id-5049eec0-c09a-42b6-9838-4b31ceceb909"/>
+</archimate:AssociationRelationship>

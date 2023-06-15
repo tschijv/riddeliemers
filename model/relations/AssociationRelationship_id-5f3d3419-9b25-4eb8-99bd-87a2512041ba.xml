@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lastpass connector - LogMeIn"
+    id="id-5f3d3419-9b25-4eb8-99bd-87a2512041ba"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8231ec34-6476-47b8-939f-e157cec62ae3.xml#id-8231ec34-6476-47b8-939f-e157cec62ae3"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d3723f40-193a-4ffe-a2c1-eb156df56032.xml#id-d3723f40-193a-4ffe-a2c1-eb156df56032"/>
+</archimate:AssociationRelationship>

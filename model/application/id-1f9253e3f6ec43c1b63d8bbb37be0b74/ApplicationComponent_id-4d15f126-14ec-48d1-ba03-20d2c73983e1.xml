@@ -1,0 +1,48 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S4SD"
+    id="id-4d15f126-14ec-48d1-ba03-20d2c73983e1"
+    documentation="Suite4SociaalDomein (blauwe)">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Centric TAB"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Arif Toygar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:31:02.02"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="SDLGWSP1"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP71-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Specification"
+      value="Suite4SociaalDomein (blauwe)"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Eltjo Stoete"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+</archimate:ApplicationComponent>

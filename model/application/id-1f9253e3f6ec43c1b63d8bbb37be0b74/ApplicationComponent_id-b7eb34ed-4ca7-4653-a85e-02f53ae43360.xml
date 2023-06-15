@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bris warehouse"
+    id="id-b7eb34ed-4ca7-4653-a85e-02f53ae43360"
+    documentation="normen tbv. toetsing bouwvergunningen">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:36:05.05"/>
+  <properties
+      key="Leverancier"
+      value="Bris"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:32:09.09"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Specification"
+      value="normen tbv. toetsing bouwvergunningen"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

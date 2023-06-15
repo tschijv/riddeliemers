@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix Federator Authentication Service - SV-FAS02-P"
+    id="id-e0da2e7a-e0a8-4e1a-a829-d4f550b93408"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-6c858e5e-5fe5-45f7-a566-bb62b76e7d6c.xml#id-6c858e5e-5fe5-45f7-a566-bb62b76e7d6c"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-c324f80c-a8aa-47e6-a2ba-05b5fe303b80.xml#id-c324f80c-a8aa-47e6-a2ba-05b5fe303b80"/>
+</archimate:AssociationRelationship>

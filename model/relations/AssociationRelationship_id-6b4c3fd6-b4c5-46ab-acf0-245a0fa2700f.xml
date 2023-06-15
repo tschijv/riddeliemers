@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papercut Scan Server - PCI  Nederland  bv"
+    id="id-6b4c3fd6-b4c5-46ab-acf0-245a0fa2700f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-b750de55-418b-4c41-bb52-0201aaf352a3.xml#id-b750de55-418b-4c41-bb52-0201aaf352a3"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3a33386b-c39c-42bd-99b7-3c1b9a8c85c1.xml#id-3a33386b-c39c-42bd-99b7-3c1b9a8c85c1"/>
+</archimate:AssociationRelationship>

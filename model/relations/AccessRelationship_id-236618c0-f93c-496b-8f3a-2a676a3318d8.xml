@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cognos - ZVCOGNP1"
+    id="id-236618c0-f93c-496b-8f3a-2a676a3318d8"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-aaaa9518-3853-4dc2-b084-6145d8fc4eac.xml#id-aaaa9518-3853-4dc2-b084-6145d8fc4eac"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-45a54a00-6fe2-4701-8ad4-f22e03592ac6.xml#id-45a54a00-6fe2-4701-8ad4-f22e03592ac6"/>
+</archimate:AccessRelationship>

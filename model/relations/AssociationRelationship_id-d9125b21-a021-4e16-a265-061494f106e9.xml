@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netscaler - VA-NS01"
+    id="id-d9125b21-a021-4e16-a265-061494f106e9"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-5adb2084-65b2-442f-837b-99ebcafdfc64.xml#id-5adb2084-65b2-442f-837b-99ebcafdfc64"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9748.xml#id-66612345-db23-40f9-be22-c54cdc8a9748"/>
+</archimate:AssociationRelationship>

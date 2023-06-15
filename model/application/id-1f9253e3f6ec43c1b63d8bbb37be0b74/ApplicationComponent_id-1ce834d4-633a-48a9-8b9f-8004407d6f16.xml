@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoTekst - Zevenaar"
+    id="id-1ce834d4-633a-48a9-8b9f-8004407d6f16"
+    documentation="Ruimtelijke Ordening software">
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Andrea Schuil"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:27:45.45"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-30T09:57:23.23"/>
+  <properties
+      key="Specification"
+      value="Ruimtelijke Ordening software"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+</archimate:ApplicationComponent>

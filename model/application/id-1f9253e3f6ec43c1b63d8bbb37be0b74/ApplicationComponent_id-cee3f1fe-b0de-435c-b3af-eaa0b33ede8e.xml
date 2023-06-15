@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RX.Zone Webserver WTV"
+    id="id-cee3f1fe-b0de-435c-b3af-eaa0b33ede8e">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Roxit_PRD_SPM_1Stroom"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Ole van Beers"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Westervoort"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-09T15:10:55.55"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:28:45.45"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP78-P"/>
+</archimate:ApplicationComponent>

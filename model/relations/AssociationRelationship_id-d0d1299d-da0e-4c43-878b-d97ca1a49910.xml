@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Readsoft invoice - SV-APP90-P"
+    id="id-d0d1299d-da0e-4c43-878b-d97ca1a49910"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dd3cb038-ec55-4e63-9145-dc8871026c7c.xml#id-dd3cb038-ec55-4e63-9145-dc8871026c7c"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9721.xml#id-66612345-db23-40f9-be22-c54cdc8a9721"/>
+</archimate:AssociationRelationship>

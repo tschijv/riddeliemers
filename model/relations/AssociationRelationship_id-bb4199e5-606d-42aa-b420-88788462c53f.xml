@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDU ZVN - SV-MDU02-P"
+    id="id-bb4199e5-606d-42aa-b420-88788462c53f"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-66821ddd-299f-4f39-90df-732bba58a74d.xml#id-66821ddd-299f-4f39-90df-732bba58a74d"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9714.xml#id-66612345-db23-40f9-be22-c54cdc8a9714"/>
+</archimate:AssociationRelationship>

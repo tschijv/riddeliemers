@@ -1,16 +1,17 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Power PDF"
-    id="id-faa7f174-1d87-4c7f-8bc9-aaea0b7818f7">
+    id="id-faa7f174-1d87-4c7f-8bc9-aaea0b7818f7"
+    documentation="Kofax Power PDF">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -35,4 +36,13 @@
   <properties
       key="Object ID"
       value="00962d25-4f6c-4921-b78e-8ad97a171b23"/>
+  <properties
+      key="Specification"
+      value="Kofax Power PDF"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-19T08:30:57.57"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
 </archimate:ApplicationComponent>

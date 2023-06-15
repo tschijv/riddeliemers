@@ -4,7 +4,7 @@
     id="id-0ab50cf2-51e8-47f2-9a94-4f81bde35367">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -13,7 +13,7 @@
       value="Sevgi Demirci"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Applicatie hosting (Ouders)"
       value="XenAPP XenDesktop"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="1c647e2b-1817-4729-936d-92726036deb1"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:05.05"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T13:43:52.52"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAM - Sencon"
+    id="id-5aafff57-1063-4130-ac9a-6fedea68a91a"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6d3c0e47-4638-48c4-b654-e07a7c75e602.xml#id-6d3c0e47-4638-48c4-b654-e07a7c75e602"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e33327ba-c2fa-4607-b460-50b26d544f48.xml#id-e33327ba-c2fa-4607-b460-50b26d544f48"/>
+</archimate:AssociationRelationship>

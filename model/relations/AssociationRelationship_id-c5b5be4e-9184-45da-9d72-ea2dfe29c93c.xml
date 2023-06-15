@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sharefile - SV-SSC02-P"
+    id="id-c5b5be4e-9184-45da-9d72-ea2dfe29c93c"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-80351824-9762-42e2-bb03-35ea28b98198.xml#id-80351824-9762-42e2-bb03-35ea28b98198"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9757.xml#id-66612345-db23-40f9-be22-c54cdc8a9757"/>
+</archimate:AssociationRelationship>

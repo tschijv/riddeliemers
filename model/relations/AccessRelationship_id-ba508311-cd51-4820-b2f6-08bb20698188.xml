@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JKC ZVN - ZVNJKCP"
+    id="id-ba508311-cd51-4820-b2f6-08bb20698188"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3c2c1310-75f1-4976-876e-fd56267dc7cf.xml#id-3c2c1310-75f1-4976-876e-fd56267dc7cf"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-3d2a8561-f9d3-4cca-90b8-c7b4ca86d171.xml#id-3d2a8561-f9d3-4cca-90b8-c7b4ca86d171"/>
+</archimate:AccessRelationship>

@@ -4,7 +4,7 @@
     id="id-f5e21246-13c3-469e-b186-13b96e9500cf">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -38,4 +38,13 @@
   <properties
       key="Object ID"
       value="189421aa-70bb-421c-9356-80984e069e79"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Hadi Tabrizi"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:46:51.51"/>
 </archimate:ApplicationComponent>

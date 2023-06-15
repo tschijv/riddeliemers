@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoView - Zevenaar - VISMA | Roxit"
+    id="id-fb8074e3-cd13-46f6-8f2e-d06b3128ca58"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e5444c62-e1cc-411f-9468-f42e85c5561e.xml#id-e5444c62-e1cc-411f-9468-f42e85c5561e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a.xml#id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a"/>
+</archimate:AssociationRelationship>

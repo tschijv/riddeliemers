@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Datadistributie - ZVDDSP1"
+    id="id-4f6f539e-3028-49c5-967b-1d2175f60f27"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c8cef201-e0bd-4462-b283-a0569f8bc2d3.xml#id-c8cef201-e0bd-4462-b283-a0569f8bc2d3"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-d3015059-0422-452b-b843-41a8ca301967.xml#id-d3015059-0422-452b-b843-41a8ca301967"/>
+</archimate:AccessRelationship>

@@ -4,7 +4,7 @@
     id="id-1d416ea2-a980-4ea0-ba0a-ef2117557b5e">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Robin Exoo"/>
@@ -13,7 +13,7 @@
       value="Marleen te Poele"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse A"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="519d0d49-5c4e-4b9f-8100-245afc0215a9"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:03:23.23"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T15:41:41.41"/>
 </archimate:SystemSoftware>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatiebeheer DVN - DVNAUTP"
+    id="id-48fe35df-9d3d-44f9-8e59-2bd7933dabf0"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3fd6f5fc-7600-4283-a468-7df8ae3a6d73.xml#id-3fd6f5fc-7600-4283-a468-7df8ae3a6d73"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-7177d352-d04e-43cc-b614-918cbb882211.xml#id-7177d352-d04e-43cc-b614-918cbb882211"/>
+</archimate:AccessRelationship>

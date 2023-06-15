@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papercut Print Server - SV-PS01-P"
+    id="id-83ab4798-a4d8-44d6-a758-d3abbbaa5b47"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7ebe7675-cc7d-4879-bfba-4808d4c4ea2e.xml#id-7ebe7675-cc7d-4879-bfba-4808d4c4ea2e"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9753.xml#id-66612345-db23-40f9-be22-c54cdc8a9753"/>
+</archimate:AssociationRelationship>

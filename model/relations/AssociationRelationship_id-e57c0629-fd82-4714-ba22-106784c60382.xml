@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GML Viewer - XenDesktop"
+    id="id-e57c0629-fd82-4714-ba22-106784c60382"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2f286a7d-eb23-4f7e-bc0a-8b49fbda4dfc.xml#id-2f286a7d-eb23-4f7e-bc0a-8b49fbda4dfc"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-14981f87-db23-40f9-be22-c54cdc8a97aa.xml#id-14981f87-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

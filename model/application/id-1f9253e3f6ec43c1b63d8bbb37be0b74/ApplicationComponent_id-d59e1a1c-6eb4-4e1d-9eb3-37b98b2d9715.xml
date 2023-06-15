@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Power Automate"
+    id="id-d59e1a1c-6eb4-4e1d-9eb3-37b98b2d9715">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="SV-APP05-P"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-02-28T09:06:12.12"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-02-28T08:39:58.58"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Danny van Leeuwen"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Robin de Pagter"/>
+</archimate:ApplicationComponent>

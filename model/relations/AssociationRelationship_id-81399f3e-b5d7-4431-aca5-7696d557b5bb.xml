@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Youforce - Visma | Raet"
+    id="id-81399f3e-b5d7-4431-aca5-7696d557b5bb"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-69e66b42-0bdd-47b1-9aee-c4c76de3c625.xml#id-69e66b42-0bdd-47b1-9aee-c4c76de3c625"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-57695d97-b2cc-4b7f-8835-18af6481932f.xml#id-57695d97-b2cc-4b7f-8835-18af6481932f"/>
+</archimate:AssociationRelationship>

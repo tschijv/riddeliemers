@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kikker WTV - ALGKIKP"
+    id="id-853e657e-5758-41b0-8552-46e895a19bd4"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9cc88639-9702-4e9f-9d1b-300a6a7a4c3f.xml#id-9cc88639-9702-4e9f-9d1b-300a6a7a4c3f"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-e9ce13c9-8abd-4552-ba08-1785344ecdde.xml#id-e9ce13c9-8abd-4552-ba08-1785344ecdde"/>
+</archimate:AccessRelationship>

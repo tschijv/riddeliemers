@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google Chrome - Google"
+    id="id-dc944e64-906c-484c-8313-54947f9d3726"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6c387b0f-c653-40f2-b3e6-8746f950025f.xml#id-6c387b0f-c653-40f2-b3e6-8746f950025f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-999eac0b-d83d-4a98-8a7e-b90b26fb45e4.xml#id-999eac0b-d83d-4a98-8a7e-b90b26fb45e4"/>
+</archimate:AssociationRelationship>

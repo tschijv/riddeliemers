@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektor ZVN - EL0299"
+    id="id-189d9ae0-2d99-41d4-b1b1-0140323bd218"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-52f732d1-7aa7-4e03-88a9-3f788b6a89cb.xml#id-52f732d1-7aa7-4e03-88a9-3f788b6a89cb"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-ba08b9e3-d2fe-49ab-b042-b872d674b5be.xml#id-ba08b9e3-d2fe-49ab-b042-b872d674b5be"/>
+</archimate:AccessRelationship>

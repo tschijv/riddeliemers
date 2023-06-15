@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SquitXO 1stroom - SV-APP126-P"
+    id="id-3746550b-ebcc-4914-a366-5ba139d5532e"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1741b3c4-55e5-43e5-b4dd-01702919d665.xml#id-1741b3c4-55e5-43e5-b4dd-01702919d665"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9725.xml#id-66612345-db23-40f9-be22-c54cdc8a9725"/>
+</archimate:AssociationRelationship>

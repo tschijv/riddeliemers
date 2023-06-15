@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RX-Zone DVN"
+    id="id-fed70238-9a87-4f7a-a59a-6ea0775ec774">
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:30:33.33"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="DVNROTP"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="P:\appdata"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Ole van Beers"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Duiven"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-09T15:12:56.56"/>
+</archimate:ApplicationComponent>

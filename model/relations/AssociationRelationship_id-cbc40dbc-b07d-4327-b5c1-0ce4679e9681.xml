@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Afspraken Outlook add-in - XenDesktop"
+    id="id-cbc40dbc-b07d-4327-b5c1-0ce4679e9681"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-78177072-c01d-4b2c-8aed-8d8dccec97e0.xml#id-78177072-c01d-4b2c-8aed-8d8dccec97e0"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-14981f87-db23-40f9-be22-c54cdc8a97aa.xml#id-14981f87-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

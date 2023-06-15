@@ -4,7 +4,7 @@
     id="id-35b09caf-bb94-46c2-8726-5a8d1fed0f71">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -13,7 +13,7 @@
       value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="RSD vragen/verzoeken Applicatiebeheer"/>
+      value="Arif Toygar"/>
   <properties
       key="Toewijzingen - Locaties"
       value="Duiven"/>
@@ -32,4 +32,13 @@
   <properties
       key="Object ID"
       value="3e65bd4d-7ebb-4d1e-9664-38c3247b9117"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:24:44.44"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:04.04"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Eltjo Stoete"/>
 </archimate:ApplicationComponent>

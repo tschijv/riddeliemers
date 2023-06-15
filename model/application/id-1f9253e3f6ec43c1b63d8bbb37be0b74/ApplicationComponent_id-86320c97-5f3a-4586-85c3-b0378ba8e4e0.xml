@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FortiAnalyzer"
+    id="id-86320c97-5f3a-4586-85c3-b0378ba8e4e0">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-03-21T10:08:24.24"/>
+  <properties
+      key="Leverancier"
+      value="Fortinet"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Informatiebeveiliging"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-03-21T10:04:32.32"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="SV-FA01-P"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+</archimate:ApplicationComponent>

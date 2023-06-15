@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fixi ZVN - Decos"
+    id="id-ef2d739e-502f-4c49-b30a-e0eadc2cc388"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ebb17bf4-c728-438b-8491-6ba5fe5a79f4.xml#id-ebb17bf4-c728-438b-8491-6ba5fe5a79f4"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-bf106048-3ff7-4ccc-a81a-8b52b1030e46.xml#id-bf106048-3ff7-4ccc-a81a-8b52b1030e46"/>
+</archimate:AssociationRelationship>

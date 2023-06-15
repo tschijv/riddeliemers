@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Company Webcast - Company Webcast"
+    id="id-6c139991-4f38-4778-8190-8e9030608246"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fce4b64c-b3ff-41c3-830c-ca2ea112fe98.xml#id-fce4b64c-b3ff-41c3-830c-ca2ea112fe98"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4a21898d-bcb4-40b3-abf9-f82336f2180d.xml#id-4a21898d-bcb4-40b3-abf9-f82336f2180d"/>
+</archimate:AssociationRelationship>

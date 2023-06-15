@@ -10,7 +10,7 @@
       value="Klasse B"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Leverancier"
       value="Ivanti"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="e13d0eda-e048-4658-8c0c-6dce2d3cdd87"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:02:04.04"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
 </archimate:SystemSoftware>

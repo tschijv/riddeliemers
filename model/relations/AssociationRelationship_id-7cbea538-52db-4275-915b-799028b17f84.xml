@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spam Mail - Microsoft"
+    id="id-7cbea538-52db-4275-915b-799028b17f84"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-84258d02-fb71-46c4-b877-e942bec178bc.xml#id-84258d02-fb71-46c4-b877-e942bec178bc"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2da12636-19bd-4985-aecb-9daedf5732a4.xml#id-2da12636-19bd-4985-aecb-9daedf5732a4"/>
+</archimate:AssociationRelationship>

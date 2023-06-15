@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Personeelsplanning ZVN - JCC Software"
+    id="id-29e8ecc8-db19-4f9e-9ded-48e51744a75b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f5b4605a-7a04-489d-9601-4451ae7b9936.xml#id-f5b4605a-7a04-489d-9601-4451ae7b9936"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2079d48c-1609-45c0-8650-a8f268ef83c4.xml#id-2079d48c-1609-45c0-8650-a8f268ef83c4"/>
+</archimate:AssociationRelationship>

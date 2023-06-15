@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hydronet"
+    id="id-4a368894-3325-4ec0-8c85-e1343932a212"
+    documentation="Neerslag data">
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T13:20:42.42"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Budi Subroto"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T13:23:50.50"/>
+  <properties
+      key="Leverancier"
+      value="Hydrologic"/>
+  <properties
+      key="Specification"
+      value="Neerslag data"/>
+</archimate:ApplicationComponent>

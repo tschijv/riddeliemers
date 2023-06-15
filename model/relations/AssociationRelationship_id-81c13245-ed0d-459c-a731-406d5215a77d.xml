@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sharefile Drive Mapper - Citrix"
+    id="id-81c13245-ed0d-459c-a731-406d5215a77d"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e84704a3-966a-48f6-a461-5a2d3979881f.xml#id-e84704a3-966a-48f6-a461-5a2d3979881f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-67bd95dd-9bad-408c-8292-a250df775468.xml#id-67bd95dd-9bad-408c-8292-a250df775468"/>
+</archimate:AssociationRelationship>

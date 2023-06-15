@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VIND-IM (i-Navigator, model-DSP) - SDU"
+    id="id-27e01ee7-b6d7-43ed-94fc-268cc0f46fc4"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7419ecc1-a42b-461a-be6b-090545c08873.xml#id-7419ecc1-a42b-461a-be6b-090545c08873"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-00ccf243-da58-4faa-9d8f-a10992a66047.xml#id-00ccf243-da58-4faa-9d8f-a10992a66047"/>
+</archimate:AssociationRelationship>

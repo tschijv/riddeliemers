@@ -4,7 +4,7 @@
     id="id-54bc9455-d17f-465e-ac49-e3cd4dc9d82b">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Rudo van Gellekom"/>
@@ -41,4 +41,10 @@
   <properties
       key="Object ID"
       value="1d05e030-c1fb-4a9a-8f0d-1adc77c9b6fb"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:19:18.18"/>
 </archimate:ApplicationComponent>

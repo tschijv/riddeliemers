@@ -16,17 +16,26 @@
       value="Hille Veenstra"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="SV-DDC03-P"/>
+      value="VA-FWEVT01-p"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
   <properties
       key="Technisch applicatiebeheerder 1"
-      value="Walter Hermsen"/>
+      value="Max Holland"/>
   <properties
       key="Toewijzingen - Locaties"
       value="RID de Liemers"/>
   <properties
       key="Object ID"
       value="116f06ae-fed3-49d1-9f73-68ef8ac77964"/>
+  <properties
+      key="Leverancier"
+      value="KPN"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-07T13:29:33.33"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
 </archimate:SystemSoftware>

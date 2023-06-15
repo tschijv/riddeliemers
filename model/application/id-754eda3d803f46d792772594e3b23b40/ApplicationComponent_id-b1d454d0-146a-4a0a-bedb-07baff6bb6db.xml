@@ -4,13 +4,13 @@
     id="id-b1d454d0-146a-4a0a-bedb-07baff6bb6db">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Wouter Spaan"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="d466eb22-d0f0-4f32-9303-b5f3ea783796"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-01T13:51:31.31"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeoServer - SV-APP103-P"
+    id="id-4e1fb3a6-34d3-4567-92fb-32d9867b013f"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11514c79-600d-412e-b88b-8e4019117b1b.xml#id-11514c79-600d-412e-b88b-8e4019117b1b"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-321963aa-627c-45fe-88d9-0154780af83b.xml#id-321963aa-627c-45fe-88d9-0154780af83b"/>
+</archimate:AssociationRelationship>

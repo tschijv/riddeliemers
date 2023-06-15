@@ -5,32 +5,47 @@
     documentation="Parkeerapplicatie Zevenaar">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Max Holland"/>
+      value="Duchan Sommers"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="SV-CPM01-P SV-CPM02-P"/>
+      value="XenAPP"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="SDL"/>
+      value="Zevenaar"/>
   <properties
       key="Single Sign On"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Max Holland"/>
   <properties
       key="Leverancier"
-      value="Aruba"/>
+      value="Sigmax"/>
   <properties
       key="Object ID"
       value="fffb5eee-fcbb-40f5-87a4-0d8f0dc6c38a"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Pieter Veenhuijsen"/>
+  <properties
+      key="Specification"
+      value="Parkeerapplicatie Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-07-08T10:58:43.43"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:10:35.35"/>
 </archimate:SystemSoftware>

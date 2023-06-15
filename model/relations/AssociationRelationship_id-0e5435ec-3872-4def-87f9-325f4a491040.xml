@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Defender - Microsoft"
+    id="id-0e5435ec-3872-4def-87f9-325f4a491040"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ac2eb4e5-e6ee-4e85-88c2-bbcf6e92cb15.xml#id-ac2eb4e5-e6ee-4e85-88c2-bbcf6e92cb15"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2da12636-19bd-4985-aecb-9daedf5732a4.xml#id-2da12636-19bd-4985-aecb-9daedf5732a4"/>
+</archimate:AssociationRelationship>

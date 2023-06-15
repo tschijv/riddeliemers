@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sketchup - Construsoft"
+    id="id-e97de3b0-30cf-473e-b2d2-8d61ccd4d1db"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4ea384c0-09a2-4ec6-b5e5-7befc4b090fc.xml#id-4ea384c0-09a2-4ec6-b5e5-7befc4b090fc"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b1f61e3f-b6bc-4074-b174-c74903f281a1.xml#id-b1f61e3f-b6bc-4074-b174-c74903f281a1"/>
+</archimate:AssociationRelationship>

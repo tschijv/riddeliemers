@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Afspraken en Reserveren 1Stroom - 1STRJCCPS_GPLAN"
+    id="id-587fde5f-68e2-499d-95b8-cac48d65603a"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fb3192f8-cf2d-4f68-8a61-77063110047e.xml#id-fb3192f8-cf2d-4f68-8a61-77063110047e"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-f8f2d54e-14da-4ff2-98bc-6fbbd0d27e49.xml#id-f8f2d54e-14da-4ff2-98bc-6fbbd0d27e49"/>
+</archimate:AccessRelationship>

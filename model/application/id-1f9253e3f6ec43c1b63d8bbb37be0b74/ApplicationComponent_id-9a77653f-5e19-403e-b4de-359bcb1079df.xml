@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MindMaple"
+    id="id-9a77653f-5e19-403e-b4de-359bcb1079df"
+    documentation="Maken van Mindmaps">
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="P:\appdata"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="MindMaple"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware "/>
+  <properties
+      key="Specification"
+      value="Maken van Mindmaps"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-22T15:50:05.05"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-11-22T15:46:11.11"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensmagazijn Vicrea - SV-APP106-P"
+    id="id-dcff3d0c-ac5e-4bec-a8b4-649d706373eb"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9bc37cfc-f3f6-49bc-b316-d0d5e757be3d.xml#id-9bc37cfc-f3f6-49bc-b316-d0d5e757be3d"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-18fe4d87-2b75-4eda-9220-da55da18f647.xml#id-18fe4d87-2b75-4eda-9220-da55da18f647"/>
+</archimate:AssociationRelationship>

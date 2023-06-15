@@ -4,7 +4,7 @@
     id="id-69e66b42-0bdd-47b1-9aee-c4c76de3c625">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Sevgi Demirci"/>
@@ -13,7 +13,7 @@
       value="Rosalien Senhorst"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="3013ffd2-b308-4610-a31f-b607a7f151be"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:18:42.42"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-01T15:43:38.38"/>
 </archimate:ApplicationComponent>

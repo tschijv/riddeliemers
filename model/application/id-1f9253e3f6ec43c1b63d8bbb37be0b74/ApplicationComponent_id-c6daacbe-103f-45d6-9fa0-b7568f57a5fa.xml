@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klimaatatlas"
+    id="id-c6daacbe-103f-45d6-9fa0-b7568f57a5fa"
+    documentation="Klimaat atlas Zevenaar">
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T13:59:35.35"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Specification"
+      value="Klimaat atlas Zevenaar"/>
+  <properties
+      key="Leverancier"
+      value="Klimaatatlas"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:01:44.44"/>
+</archimate:ApplicationComponent>

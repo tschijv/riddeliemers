@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klimaatatlas - Klimaatatlas"
+    id="id-25a3ba3b-25dc-4589-a609-daa8a64f4800"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c6daacbe-103f-45d6-9fa0-b7568f57a5fa.xml#id-c6daacbe-103f-45d6-9fa0-b7568f57a5fa"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-712018a6-bb9a-44d1-bc63-e71d40584c35.xml#id-712018a6-bb9a-44d1-bc63-e71d40584c35"/>
+</archimate:AssociationRelationship>

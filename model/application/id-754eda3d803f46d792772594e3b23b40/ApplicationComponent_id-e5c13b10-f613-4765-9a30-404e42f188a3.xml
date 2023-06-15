@@ -4,16 +4,16 @@
     id="id-e5c13b10-f613-4765-9a30-404e42f188a3">
   <properties
       key="Applicatiesoort"
-      value="Systeem Software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Elke van Raaij"/>
+      value="Lydia Knijf"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Guido van der Vegt"/>
@@ -22,14 +22,23 @@
       value="XenAPP"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="Duiven"/>
+      value="1Stroom"/>
   <properties
       key="Leverancier"
-      value="iBabs B.V."/>
+      value="VHIC"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
   <properties
       key="Object ID"
       value="3b201148-f55c-46df-a200-a0f1a6578a85"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-21T13:56:35.35"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-10-03T08:40:36.36"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Robin Stafleu"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avepoint Backup - Avepoint Netherlands"
+    id="id-2ff47570-5393-4167-8f96-240a5efe38de"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-4fd6660f-8585-4e48-aa19-5da6eb9992f5.xml#id-4fd6660f-8585-4e48-aa19-5da6eb9992f5"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d48ced53-3b04-49ff-ae6f-538e2d1220d7.xml#id-d48ced53-3b04-49ff-ae6f-538e2d1220d7"/>
+</archimate:AssociationRelationship>

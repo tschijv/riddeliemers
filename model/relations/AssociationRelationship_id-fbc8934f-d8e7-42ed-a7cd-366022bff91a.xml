@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix StoreFront - SV-SF04-P"
+    id="id-fbc8934f-d8e7-42ed-a7cd-366022bff91a"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8325ad0a-c6e5-47a6-895f-bd01cda54d76.xml#id-8325ad0a-c6e5-47a6-895f-bd01cda54d76"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-1ffaf244-df2f-4656-9f44-6842ff8c5fa2.xml#id-1ffaf244-df2f-4656-9f44-6842ff8c5fa2"/>
+</archimate:AssociationRelationship>

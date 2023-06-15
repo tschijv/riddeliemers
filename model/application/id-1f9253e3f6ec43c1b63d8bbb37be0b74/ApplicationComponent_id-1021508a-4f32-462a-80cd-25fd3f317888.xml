@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schulinck Participatiewet"
+    id="id-1021508a-4f32-462a-80cd-25fd3f317888">
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Eltjo Stoete"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-23T09:57:23.23"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Arif Toygar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-16T12:09:24.24"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RSD de Liemers"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Wolters Kluwer"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+</archimate:ApplicationComponent>

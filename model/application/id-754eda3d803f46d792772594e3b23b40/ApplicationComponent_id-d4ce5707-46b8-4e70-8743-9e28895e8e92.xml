@@ -4,7 +4,7 @@
     id="id-d4ce5707-46b8-4e70-8743-9e28895e8e92">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -13,7 +13,7 @@
       value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Marlies Heutink"/>
+      value="Anouk Polman"/>
   <properties
       key="Leverancier"
       value="JCC Software"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="c4ba94d3-05ef-4fcc-acf0-1cf3e730e9b8"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:05.05"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:13:41.41"/>
 </archimate:ApplicationComponent>

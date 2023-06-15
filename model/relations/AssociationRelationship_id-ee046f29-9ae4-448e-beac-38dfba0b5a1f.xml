@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice - Centric"
+    id="id-ee046f29-9ae4-448e-beac-38dfba0b5a1f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-220a5bcb-cd65-46ea-a9eb-0000f414fd8e.xml#id-220a5bcb-cd65-46ea-a9eb-0000f414fd8e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-038c6434-4304-4c40-9599-1c4cbc9fa888.xml#id-038c6434-4304-4c40-9599-1c4cbc9fa888"/>
+</archimate:AssociationRelationship>

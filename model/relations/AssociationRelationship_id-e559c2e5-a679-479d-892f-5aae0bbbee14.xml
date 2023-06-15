@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aruba Networks OS - Aruba"
+    id="id-e559c2e5-a679-479d-892f-5aae0bbbee14"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d02275f0-ff13-48b4-9890-acde39aa0c72.xml#id-d02275f0-ff13-48b4-9890-acde39aa0c72"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-796c2b1d-ccc2-4d87-99bb-1f94d77045d8.xml#id-796c2b1d-ccc2-4d87-99bb-1f94d77045d8"/>
+</archimate:AssociationRelationship>

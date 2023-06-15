@@ -4,7 +4,7 @@
     id="id-b6b8b9da-c7d8-46ee-a7d8-b554c33a513a">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Behandelaarsgroep"
       value="Spam, Phishing &amp; Mail"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="031c2948-c59b-4ab8-a380-61708afd7bfd"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:31:49.49"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
 </archimate:ApplicationComponent>

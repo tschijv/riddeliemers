@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handboek bomen"
+    id="id-7d626a43-a423-4476-89b5-479847f3b6a1"
+    documentation="Verwijzen naar handboek in bestekken, tbv kwaliteit, ......">
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Leverancier"
+      value="Normen instituut bomen"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID Verwijzen naar handboek in bestekken, tbv kwaliteit, informatie laatste stand van zaken, ontwerptool"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:44:08.08"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Dick Molema"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:41:46.46"/>
+  <properties
+      key="Specification"
+      value="Verwijzen naar handboek in bestekken, tbv kwaliteit, ......"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+</archimate:ApplicationComponent>

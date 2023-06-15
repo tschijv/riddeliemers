@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VHIC"
+    id="id-fda9ee0e-55df-4f59-a98a-7367c1ea51b7"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-9eb0372d989e4a779dbc820a34b3d672"/>
+</archimate:BusinessActor>

@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logboek app"
+    id="id-e6a48588-1d46-4d71-92f3-f089dfdd90e2"
+    documentation="Logboek voor toezichthouders">
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Demian de Vries"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:18:01.01"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:20:51.51"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Specification"
+      value="Logboek voor toezichthouders"/>
+  <properties
+      key="Leverancier"
+      value="Werktools/AndSafety"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+</archimate:ApplicationComponent>

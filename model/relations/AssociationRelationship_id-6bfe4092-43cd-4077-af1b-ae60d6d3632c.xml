@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bink/dywag - DGMR Software B.V."
+    id="id-6bfe4092-43cd-4077-af1b-ae60d6d3632c"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8f1e8b1e-c380-4420-957c-0c12ec8dcda3.xml#id-8f1e8b1e-c380-4420-957c-0c12ec8dcda3"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-6f26dda1-df32-4b83-a4fb-2b3ce7481af6.xml#id-6f26dda1-df32-4b83-a4fb-2b3ce7481af6"/>
+</archimate:AssociationRelationship>

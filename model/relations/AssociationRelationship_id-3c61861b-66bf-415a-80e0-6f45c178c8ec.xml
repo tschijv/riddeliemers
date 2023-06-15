@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Personeelsplanning 1Stroom - SV-APP93-P"
+    id="id-3c61861b-66bf-415a-80e0-6f45c178c8ec"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d4ce5707-46b8-4e70-8743-9e28895e8e92.xml#id-d4ce5707-46b8-4e70-8743-9e28895e8e92"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a2.xml#id-66612345-db23-40f9-be22-c54cdc8a97a2"/>
+</archimate:AssociationRelationship>

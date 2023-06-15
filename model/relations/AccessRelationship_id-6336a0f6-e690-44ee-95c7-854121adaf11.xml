@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensmagazijn Vicrea - SDLNGMP"
+    id="id-6336a0f6-e690-44ee-95c7-854121adaf11"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9bc37cfc-f3f6-49bc-b316-d0d5e757be3d.xml#id-9bc37cfc-f3f6-49bc-b316-d0d5e757be3d"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-9fc2dac3-3f35-49f5-bc7f-d40aa593f3f2.xml#id-9fc2dac3-3f35-49f5-bc7f-d40aa593f3f2"/>
+</archimate:AccessRelationship>

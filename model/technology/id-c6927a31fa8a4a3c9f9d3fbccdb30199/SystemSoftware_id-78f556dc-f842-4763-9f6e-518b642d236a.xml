@@ -4,7 +4,7 @@
     id="id-78f556dc-f842-4763-9f6e-518b642d236a">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Behandelaarsgroep"
       value="Storage, VMWare &amp; Back-up"/>
@@ -13,7 +13,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse A"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="f80cfd97-da2c-4075-ab64-2b570d41c2b9"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:10:11.11"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
 </archimate:SystemSoftware>

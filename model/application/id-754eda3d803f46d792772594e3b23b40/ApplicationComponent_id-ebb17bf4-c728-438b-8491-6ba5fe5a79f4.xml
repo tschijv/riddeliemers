@@ -4,10 +4,10 @@
     id="id-ebb17bf4-c728-438b-8491-6ba5fe5a79f4">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Ilse Boerboom"/>
@@ -41,4 +41,10 @@
   <properties
       key="Object ID"
       value="5eb76117-590b-451e-a6b6-af64c6464a02"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T13:48:13.13"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:47:24.24"/>
 </archimate:ApplicationComponent>

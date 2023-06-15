@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RxZone 1Stroom - VISMA | Roxit"
+    id="id-193d5c38-f039-4891-8e94-b39004d18c44"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07ea02dc-04cb-4685-bb7a-7dc15e4565f0.xml#id-07ea02dc-04cb-4685-bb7a-7dc15e4565f0"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a.xml#id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a"/>
+</archimate:AssociationRelationship>

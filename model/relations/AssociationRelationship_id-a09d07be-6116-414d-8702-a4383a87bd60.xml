@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stratech - Stratech"
+    id="id-a09d07be-6116-414d-8702-a4383a87bd60"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2cc5eb9b-417f-461d-abd4-55c2e62afdb6.xml#id-2cc5eb9b-417f-461d-abd4-55c2e62afdb6"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-00e0dbf5-2075-44f1-92a4-eea71d76f558.xml#id-00e0dbf5-2075-44f1-92a4-eea71d76f558"/>
+</archimate:AssociationRelationship>

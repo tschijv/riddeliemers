@@ -4,7 +4,7 @@
     id="id-15a8ec60-a77a-45a0-b241-bafd00ebd503">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Fenna Schiks"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="d59b0130-107a-4fa4-a05f-461eae1dac80"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:27:05.05"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:ApplicationComponent>

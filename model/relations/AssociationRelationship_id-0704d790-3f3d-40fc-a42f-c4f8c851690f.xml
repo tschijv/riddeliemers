@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FME client - Safe Software"
+    id="id-0704d790-3f3d-40fc-a42f-c4f8c851690f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-59fd2e93-7f67-4ee5-ba3d-d76db31642e9.xml#id-59fd2e93-7f67-4ee5-ba3d-d76db31642e9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d03b1b15-30f6-4f5e-a980-1c7cd816eb5e.xml#id-d03b1b15-30f6-4f5e-a980-1c7cd816eb5e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VLTrader - SV-DIGIKOP03-P"
+    id="id-f8e35b5b-360f-46b3-b285-891af94f0543"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-25d49326-62f6-437a-b237-dc2a63299604.xml#id-25d49326-62f6-437a-b237-dc2a63299604"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9774.xml#id-66612345-db23-40f9-be22-c54cdc8a9774"/>
+</archimate:AssociationRelationship>

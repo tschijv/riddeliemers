@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fortinet"
+    id="id-68da9e0d-521a-4ee7-896e-62744f88376e"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-7c5aa660542e46728cf7a2b3afd259a8"/>
+</archimate:BusinessActor>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 Publiceren DVN - DVNROTP"
+    id="id-4e9dd10e-4754-4015-80bb-497473cbb2aa"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-017f42f5-aba9-4e3b-b252-05c93f4a9b9c.xml#id-017f42f5-aba9-4e3b-b252-05c93f4a9b9c"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-35be53c8-3937-4080-8831-624bdd161a54.xml#id-35be53c8-3937-4080-8831-624bdd161a54"/>
+</archimate:AccessRelationship>

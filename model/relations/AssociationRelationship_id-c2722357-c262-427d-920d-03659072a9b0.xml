@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="App Layering - SV-APS02-P"
+    id="id-c2722357-c262-427d-920d-03659072a9b0"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-e0d0b15e-082c-49d6-932b-f5ef9b520672.xml#id-e0d0b15e-082c-49d6-932b-f5ef9b520672"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-978a97e7-177c-48ea-82ea-e568f5c90ddb.xml#id-978a97e7-177c-48ea-82ea-e568f5c90ddb"/>
+</archimate:AssociationRelationship>

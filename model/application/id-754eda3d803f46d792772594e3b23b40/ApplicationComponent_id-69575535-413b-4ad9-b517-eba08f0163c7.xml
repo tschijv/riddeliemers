@@ -4,16 +4,16 @@
     id="id-69575535-413b-4ad9-b517-eba08f0163c7">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Lynsey Woerts"/>
+      value="Rudo van Gellekom"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Rudo van Gellekom"/>
+      value="Lynsey Woerts"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -41,4 +41,10 @@
   <properties
       key="Object ID"
       value="47a52148-bfa4-4001-9a01-3389cdf2fc56"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:10:18.18"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:21:56.56"/>
 </archimate:ApplicationComponent>

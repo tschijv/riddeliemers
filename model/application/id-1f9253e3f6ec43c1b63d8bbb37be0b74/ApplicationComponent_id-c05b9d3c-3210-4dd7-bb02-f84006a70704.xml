@@ -1,0 +1,48 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamask 1Stroom"
+    id="id-c05b9d3c-3210-4dd7-bb02-f84006a70704"
+    documentation="anonimiseren van documenten">
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Specification"
+      value="anonimiseren van documenten"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="Datamask B.V."/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Patrick Veldman"/>
+  <properties
+      key="Notities"
+      value="Koppeling: Ja, met Decos Join (niet via de ESB, maar rechtstreeks)"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Lydia Knijf"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="Decos Join 1Stroom"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Robin Stafleu"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-05T09:05:48.48"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-05T09:29:18.18"/>
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware "/>
+</archimate:ApplicationComponent>

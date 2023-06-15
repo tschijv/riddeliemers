@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Parkeren - SV-WLS20-P"
+    id="id-4058e0ec-f350-499b-843f-b8caf2e53a3e"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b01deb87-2cf6-4895-acc3-a30126f9de8c.xml#id-b01deb87-2cf6-4895-acc3-a30126f9de8c"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a8.xml#id-66612345-db23-40f9-be22-c54cdc8a97a8"/>
+</archimate:AssociationRelationship>

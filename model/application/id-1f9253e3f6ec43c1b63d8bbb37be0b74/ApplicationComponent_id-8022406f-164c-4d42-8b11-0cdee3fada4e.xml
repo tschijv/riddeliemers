@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC klantgeleiding zuilbeheer 1Stroom"
+    id="id-8022406f-164c-4d42-8b11-0cdee3fada4e">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-04T14:08:24.24"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Nardie Langenhof"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Anouk Polman"/>
+  <properties
+      key="Leverancier"
+      value="JCC Software"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-04T14:07:34.34"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STTR Builder - Zevenaar - VISMA | Roxit"
+    id="id-6c773a4e-fa51-4155-87f9-2688eefee927"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e4546bba-0b1a-40de-a162-c19a6c9df2e1.xml#id-e4546bba-0b1a-40de-a162-c19a6c9df2e1"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a.xml#id-a9faae7a-f1d4-42c6-8f6a-e2f0c50d746a"/>
+</archimate:AssociationRelationship>

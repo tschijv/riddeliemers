@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JKC ZVN - SV-JKC03-P"
+    id="id-c05fb3b9-60d3-4a62-877e-eab32675e084"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3c2c1310-75f1-4976-876e-fd56267dc7cf.xml#id-3c2c1310-75f1-4976-876e-fd56267dc7cf"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a5.xml#id-66612345-db23-40f9-be22-c54cdc8a97a5"/>
+</archimate:AssociationRelationship>

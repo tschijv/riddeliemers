@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beaufort 1Stroom/Duiven/Westervoort/SDL - Visma | Raet"
+    id="id-beeb12ba-2dfe-4a5d-addd-38a2df9cd12b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-aea7cc0a-4371-4abf-af7c-9144fceb4ea4.xml#id-aea7cc0a-4371-4abf-af7c-9144fceb4ea4"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-57695d97-b2cc-4b7f-8835-18af6481932f.xml#id-57695d97-b2cc-4b7f-8835-18af6481932f"/>
+</archimate:AssociationRelationship>

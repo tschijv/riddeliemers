@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Igel UMS - SV-APP92-P"
+    id="id-0eb14717-29fd-45c0-8520-06d31284fe8e"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3197aad-7a55-4e2d-a6af-bf4ed2dfcd5a.xml#id-b3197aad-7a55-4e2d-a6af-bf4ed2dfcd5a"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9730.xml#id-66612345-db23-40f9-be22-c54cdc8a9730"/>
+</archimate:AssociationRelationship>

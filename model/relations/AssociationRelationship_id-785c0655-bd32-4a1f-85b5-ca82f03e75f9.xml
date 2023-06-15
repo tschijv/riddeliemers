@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2VOA Zevenaar - SV-WLS20-P"
+    id="id-785c0655-bd32-4a1f-85b5-ca82f03e75f9"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ec1c783-dfca-48f9-bdad-8eda67775a66.xml#id-0ec1c783-dfca-48f9-bdad-8eda67775a66"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a8.xml#id-66612345-db23-40f9-be22-c54cdc8a97a8"/>
+</archimate:AssociationRelationship>

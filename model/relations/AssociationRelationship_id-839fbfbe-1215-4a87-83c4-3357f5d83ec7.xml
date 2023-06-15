@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brutis WTV - Riodesk"
+    id="id-839fbfbe-1215-4a87-83c4-3357f5d83ec7"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-062ff74f-0fe9-42d3-a7e3-cf4ecb1eb2d8.xml#id-062ff74f-0fe9-42d3-a7e3-cf4ecb1eb2d8"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9f93de46-e92d-467f-9c6f-1caae2ca381c.xml#id-9f93de46-e92d-467f-9c6f-1caae2ca381c"/>
+</archimate:AssociationRelationship>

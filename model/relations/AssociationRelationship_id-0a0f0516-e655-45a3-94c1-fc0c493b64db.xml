@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgmail Veilig verzenden Outlook add-in - Enovation"
+    id="id-0a0f0516-e655-45a3-94c1-fc0c493b64db"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ca73631a-b20d-4365-bf11-a36f47ca75c6.xml#id-ca73631a-b20d-4365-bf11-a36f47ca75c6"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7b78efdc-7de0-44fd-835b-424b79cd5c19.xml#id-7b78efdc-7de0-44fd-835b-424b79cd5c19"/>
+</archimate:AssociationRelationship>

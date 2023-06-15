@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kikker Groen DVN - ALGKIKP"
+    id="id-eace65ed-28d7-46a2-8ccf-4eb71bf3a5dc"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8f0168c4-fd90-4bd1-9efc-613bdb9210ab.xml#id-8f0168c4-fd90-4bd1-9efc-613bdb9210ab"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-e9ce13c9-8abd-4552-ba08-1785344ecdde.xml#id-e9ce13c9-8abd-4552-ba08-1785344ecdde"/>
+</archimate:AccessRelationship>

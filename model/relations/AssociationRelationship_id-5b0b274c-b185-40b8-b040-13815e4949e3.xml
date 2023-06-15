@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatiebeheer WTV - SV-APP118-P"
+    id="id-5b0b274c-b185-40b8-b040-13815e4949e3"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e33bd73c-d891-4247-9dea-f535d09aa2ea.xml#id-e33bd73c-d891-4247-9dea-f535d09aa2ea"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-7fcfd877-edd9-4e2f-b278-fe5103ed877c.xml#id-7fcfd877-edd9-4e2f-b278-fe5103ed877c"/>
+</archimate:AssociationRelationship>

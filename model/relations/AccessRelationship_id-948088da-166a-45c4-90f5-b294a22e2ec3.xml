@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2BAG - ZVBAGP1 "
+    id="id-948088da-166a-45c4-90f5-b294a22e2ec3"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-75f5da27-4d65-490a-9750-4070a8092709.xml#id-75f5da27-4d65-490a-9750-4070a8092709"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-8e7f5610-d887-4f5c-94d3-a2c06b3a5d95.xml#id-8e7f5610-d887-4f5c-94d3-a2c06b3a5d95"/>
+</archimate:AccessRelationship>

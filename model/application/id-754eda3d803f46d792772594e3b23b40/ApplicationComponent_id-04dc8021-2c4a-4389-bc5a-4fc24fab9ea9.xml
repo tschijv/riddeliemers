@@ -8,7 +8,7 @@
       value="Digitaal ondertekenen van PDF's"/>
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 3"
       value="Robin Stafleu"/>
@@ -17,13 +17,13 @@
       value="Lydia Knijf"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Guus Benkers"/>
+      value="Robin Stafleu"/>
   <properties
       key="Cloud"
       value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Applicatie hosting (Ouders)"
       value="XenAPP"/>
@@ -33,4 +33,16 @@
   <properties
       key="Object ID"
       value="19329f08-727e-4cb3-b277-bfeff4f2e853"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-07-08T11:01:36.36"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:34:14.14"/>
+  <properties
+      key="Specification"
+      value="Digitaal ondertekenen van PDF's"/>
 </archimate:ApplicationComponent>

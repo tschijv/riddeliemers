@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoekhuis - Hedaal B.V."
+    id="id-69cdcc4e-ebad-48f6-9ecd-98e4c1bfae91"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-63e6627f-27aa-4910-a279-c338710aa9a2.xml#id-63e6627f-27aa-4910-a279-c338710aa9a2"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1285f413-1607-41c0-a828-c010c0a40521.xml#id-1285f413-1607-41c0-a828-c010c0a40521"/>
+</archimate:AssociationRelationship>

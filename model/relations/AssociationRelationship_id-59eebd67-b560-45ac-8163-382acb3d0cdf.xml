@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brutis Wegen DVN - Gemeente Duiven"
+    id="id-59eebd67-b560-45ac-8163-382acb3d0cdf"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a1a563c1-3256-4561-9d23-a04fe6c9cb34.xml#id-a1a563c1-3256-4561-9d23-a04fe6c9cb34"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-1882c044-4fce-4d54-8cc2-0654c222d3ee.xml#id-1882c044-4fce-4d54-8cc2-0654c222d3ee"/>
+</archimate:AssociationRelationship>

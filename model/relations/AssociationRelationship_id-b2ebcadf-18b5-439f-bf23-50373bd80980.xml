@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OMOP - OMOP"
+    id="id-b2ebcadf-18b5-439f-bf23-50373bd80980"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9ec1f0d9-9977-42f8-8566-e6f01057aa96.xml#id-9ec1f0d9-9977-42f8-8566-e6f01057aa96"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-6a118950-4950-4981-a68c-f5f2fe7148b7.xml#id-6a118950-4950-4981-a68c-f5f2fe7148b7"/>
+</archimate:AssociationRelationship>

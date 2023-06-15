@@ -4,10 +4,10 @@
     id="id-80351824-9762-42e2-bb03-35ea28b98198">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -29,4 +29,16 @@
   <properties
       key="Object ID"
       value="510f7292-65de-420c-ae42-c09a25863bf8"/>
+  <properties
+      key="Versie"
+      value="5.11.20"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:07:00.00"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:05.05"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Citrix"/>
 </archimate:SystemSoftware>

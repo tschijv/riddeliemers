@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="7-zip - Igor Pavlov (Solvusoft)"
+    id="id-f27acdf7-5fb4-44e0-b824-1c02bcd65f80"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-438a2a15-0343-4f7d-88e7-3d8940d4ba31.xml#id-438a2a15-0343-4f7d-88e7-3d8940d4ba31"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-777ada6d-0532-47b0-8926-4cebc21bec16.xml#id-777ada6d-0532-47b0-8926-4cebc21bec16"/>
+</archimate:AssociationRelationship>

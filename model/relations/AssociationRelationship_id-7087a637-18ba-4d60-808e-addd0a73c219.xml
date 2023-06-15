@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ARCgis bomen - ARCgis"
+    id="id-7087a637-18ba-4d60-808e-addd0a73c219"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-275e047d-554b-48ee-9522-d15577bc8612.xml#id-275e047d-554b-48ee-9522-d15577bc8612"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b66ff72c-69d0-44f0-b701-e832746d254b.xml#id-b66ff72c-69d0-44f0-b701-e832746d254b"/>
+</archimate:AssociationRelationship>

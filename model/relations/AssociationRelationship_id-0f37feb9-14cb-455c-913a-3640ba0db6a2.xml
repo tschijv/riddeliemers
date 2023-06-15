@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ivanti Automation Manager - Ivanti"
+    id="id-0f37feb9-14cb-455c-913a-3640ba0db6a2"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-93363848-2064-47dd-a2c5-7326db9bedc7.xml#id-93363848-2064-47dd-a2c5-7326db9bedc7"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f31a6590-617a-427f-9ca1-4c4c700cc3a2.xml#id-f31a6590-617a-427f-9ca1-4c4c700cc3a2"/>
+</archimate:AssociationRelationship>

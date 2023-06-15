@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trackjack Business-track"
+    id="id-0c8d2009-040a-4e23-bd61-29f531070a4b"
+    documentation="Rittenregistratie">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:19:30.30"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:17:41.41"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Specification"
+      value="Rittenregistratie"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="TrackJack Europe"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KiC module WMO normenset + appl concern - Stimulansz"
+    id="id-7952b36d-70f8-4ad3-bd0d-114fd925719e"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5a3515fa-3c3a-4b8d-8327-8914bf63b263.xml#id-5a3515fa-3c3a-4b8d-8327-8914bf63b263"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-50d3df14-7ced-47c9-83a3-a46e8ea7ce81.xml#id-50d3df14-7ced-47c9-83a3-a46e8ea7ce81"/>
+</archimate:AssociationRelationship>

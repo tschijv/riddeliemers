@@ -4,10 +4,10 @@
     id="id-66821ddd-299f-4f39-90df-732bba58a74d">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="RSD vragen/verzoeken Applicatiebeheer"/>
+      value="Arif Toygar"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -32,4 +32,16 @@
   <properties
       key="Object ID"
       value="bc66751a-8e07-48ab-a550-1f7a0eee90d5"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Eltjo Stoete"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:25:16.16"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Notities"
+      value="Voor de Functioneel appl. beheerder NR 2  is een vacature (Rob van Dick / 21-11-22"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="archiefweb"
+    id="id-1cb61394-4fd7-41a6-84ed-ca42b54e1aed"
+    documentation="archievering website">
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T13:15:48.48"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T13:18:42.42"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Leverancier"
+      value="GW crossmedia"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Specification"
+      value="archievering website"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

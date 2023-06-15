@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S4SR"
+    id="id-8818fbd4-7777-454d-aefe-dcb7265d2bf1"
+    documentation="Suite4SocialeRegie (groene)">
+  <properties
+      key="Behandelaarsgroep"
+      value="Centric TAB"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Arif Toygar"/>
+  <properties
+      key="Leverancier"
+      value="Centric"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:31:14.14"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Specification"
+      value="Suite4SocialeRegie (groene)"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-12-05T10:36:59.59"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP72-P"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Eltjo Stoete"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

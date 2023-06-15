@@ -4,10 +4,10 @@
     id="id-cd0e6506-f7d3-4da6-a9ef-94124428f4eb">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="c396e698-0813-49da-8f5c-6d2d8f891247"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:09:30.30"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:SystemSoftware>

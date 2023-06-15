@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NARIS - Nederlands Adviesbureau voor Risicomanagement (NAR)"
+    id="id-94f0c117-8188-472b-96e3-f4d08833b4bf"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-238378c9-e5d6-45ae-b7a5-951a7a06e60b.xml#id-238378c9-e5d6-45ae-b7a5-951a7a06e60b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1f64cbe4-c378-4f12-8556-df2aefd9e194.xml#id-1f64cbe4-c378-4f12-8556-df2aefd9e194"/>
+</archimate:AssociationRelationship>

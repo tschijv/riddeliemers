@@ -7,7 +7,7 @@
       value="Systeemsoftware"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="bc3d0f4a-b34d-44ba-9ffb-e0cf26f2bd06"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:06:03.03"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
 </archimate:SystemSoftware>

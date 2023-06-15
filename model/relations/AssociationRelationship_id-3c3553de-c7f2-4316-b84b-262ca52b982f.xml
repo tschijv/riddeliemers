@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC klantgeleiding zuilbeheer 1Stroom - JCC Software"
+    id="id-3c3553de-c7f2-4316-b84b-262ca52b982f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8022406f-164c-4d42-8b11-0cdee3fada4e.xml#id-8022406f-164c-4d42-8b11-0cdee3fada4e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2079d48c-1609-45c0-8650-a8f268ef83c4.xml#id-2079d48c-1609-45c0-8650-a8f268ef83c4"/>
+</archimate:AssociationRelationship>

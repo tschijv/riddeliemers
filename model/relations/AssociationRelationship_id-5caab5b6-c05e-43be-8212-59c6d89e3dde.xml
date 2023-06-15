@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal Burgerzaken ZVN - SV-APP70-P"
+    id="id-5caab5b6-c05e-43be-8212-59c6d89e3dde"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2021503a-128b-4675-a33a-35a44e91bbc3.xml#id-2021503a-128b-4675-a33a-35a44e91bbc3"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a9.xml#id-66612345-db23-40f9-be22-c54cdc8a97a9"/>
+</archimate:AssociationRelationship>

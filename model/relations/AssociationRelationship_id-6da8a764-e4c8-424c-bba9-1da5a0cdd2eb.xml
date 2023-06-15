@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ro-Totaal - Crotec - GeoBusiness"
+    id="id-6da8a764-e4c8-424c-bba9-1da5a0cdd2eb"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eea72fe9-5dcb-408d-9a06-8981be5640c9.xml#id-eea72fe9-5dcb-408d-9a06-8981be5640c9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-0a03d56e-83d2-49f2-9ee5-ff45db6b1456.xml#id-0a03d56e-83d2-49f2-9ee5-ff45db6b1456"/>
+</archimate:AssociationRelationship>

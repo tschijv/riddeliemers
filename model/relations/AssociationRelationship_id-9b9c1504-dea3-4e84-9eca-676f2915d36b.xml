@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektor ZVN - SV-APP69-P"
+    id="id-9b9c1504-dea3-4e84-9eca-676f2915d36b"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-52f732d1-7aa7-4e03-88a9-3f788b6a89cb.xml#id-52f732d1-7aa7-4e03-88a9-3f788b6a89cb"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-28683211-6ac8-4048-9610-8d01ca25c23b.xml#id-28683211-6ac8-4048-9610-8d01ca25c23b"/>
+</archimate:AssociationRelationship>

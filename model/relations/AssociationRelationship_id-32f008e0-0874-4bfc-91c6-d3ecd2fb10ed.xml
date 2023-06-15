@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EasySign - EasySign"
+    id="id-32f008e0-0874-4bfc-91c6-d3ecd2fb10ed"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b64f043-e011-4b2e-bf57-a67477b8326d.xml#id-2b64f043-e011-4b2e-bf57-a67477b8326d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9e622d7e-60f5-4ab9-ba61-fee5c58346a9.xml#id-9e622d7e-60f5-4ab9-ba61-fee5c58346a9"/>
+</archimate:AssociationRelationship>

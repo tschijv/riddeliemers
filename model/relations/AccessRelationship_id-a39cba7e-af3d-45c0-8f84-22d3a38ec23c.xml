@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal Burgerzaken ZVN - ZVPIVP1"
+    id="id-a39cba7e-af3d-45c0-8f84-22d3a38ec23c"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2021503a-128b-4675-a33a-35a44e91bbc3.xml#id-2021503a-128b-4675-a33a-35a44e91bbc3"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-d4231aaf-74c8-426d-82b6-26f4c5e10726.xml#id-d4231aaf-74c8-426d-82b6-26f4c5e10726"/>
+</archimate:AccessRelationship>

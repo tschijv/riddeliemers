@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Checkpoint Smartevent - KPN"
+    id="id-9439a360-cea4-47f9-aff9-9bee0eaaa590"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-07ecd075-8dcf-44ee-80f4-9add15269916.xml#id-07ecd075-8dcf-44ee-80f4-9add15269916"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4af22efe-da4a-4df2-b40f-ef7792efc22b.xml#id-4af22efe-da4a-4df2-b40f-ef7792efc22b"/>
+</archimate:AssociationRelationship>

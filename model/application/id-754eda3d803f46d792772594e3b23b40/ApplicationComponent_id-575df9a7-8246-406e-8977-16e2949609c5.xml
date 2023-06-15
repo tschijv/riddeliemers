@@ -32,11 +32,20 @@
       value="Walter Hermsen"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="Gemeente Zevenaar"/>
+      value="Zevenaar"/>
   <properties
       key="Data hosting (Ouders)"
       value="ZVDDSP1"/>
   <properties
       key="Object ID"
       value="b341bcef-eae5-4544-bdd1-b05165ad5e19"/>
+  <properties
+      key="Specification"
+      value="tbv key2burgerzaken"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-10-12T15:25:42.42"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-29T14:54:33.33"/>
 </archimate:ApplicationComponent>

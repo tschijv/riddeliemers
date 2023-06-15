@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoBrowser"
+    id="id-c320a23d-2ade-48c0-97a7-4c6aedf36981"
+    documentation="Chatfunctie binnen Website gemeente Zevenaar">
+  <properties
+      key="Leverancier"
+      value="CoBrowser"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:39:12.12"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Specification"
+      value="Chatfunctie binnen Website gemeente Zevenaar"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:41:49.49"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Marleen te Poele"/>
+</archimate:ApplicationComponent>

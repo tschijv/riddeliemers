@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JKC 1Stroom - SV-JKC04-P"
+    id="id-be1c576d-6847-468d-8752-55fd913ba2f6"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4ff7e296-fb57-4f51-b4fb-a63ce1837ce7.xml#id-4ff7e296-fb57-4f51-b4fb-a63ce1837ce7"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a4.xml#id-66612345-db23-40f9-be22-c54cdc8a97a4"/>
+</archimate:AssociationRelationship>

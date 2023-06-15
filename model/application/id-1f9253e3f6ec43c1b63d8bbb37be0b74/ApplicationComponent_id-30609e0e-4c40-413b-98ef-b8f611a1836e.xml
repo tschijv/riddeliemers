@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RxMission Publiceren 1Stroom"
+    id="id-30609e0e-4c40-413b-98ef-b8f611a1836e">
+  <properties
+      key="Single Sign On"
+      value="WAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Martijn Schiltman"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-09T14:46:47.47"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:29:22.22"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Marcel Claassen"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jurjen Venema"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Developer Tool"
+    id="id-a2e8560c-29f7-4e11-abed-bd4663b54a36">
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-18T16:03:51.51"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Leverancier"
+      value="Microsoft"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-04-18T16:03:51.51"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

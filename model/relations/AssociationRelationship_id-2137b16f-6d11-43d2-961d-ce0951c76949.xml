@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brutis Riool WTV - Riodesk"
+    id="id-2137b16f-6d11-43d2-961d-ce0951c76949"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0b95e45d-4362-415a-902d-04a01176f8bb.xml#id-0b95e45d-4362-415a-902d-04a01176f8bb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9f93de46-e92d-467f-9c6f-1caae2ca381c.xml#id-9f93de46-e92d-467f-9c6f-1caae2ca381c"/>
+</archimate:AssociationRelationship>

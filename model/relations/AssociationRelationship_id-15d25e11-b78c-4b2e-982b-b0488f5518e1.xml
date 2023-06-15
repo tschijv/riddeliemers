@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Matrix Frame - Matrix Software"
+    id="id-15d25e11-b78c-4b2e-982b-b0488f5518e1"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6e364ffc-bcf3-40bb-b5ef-c5616535d296.xml#id-6e364ffc-bcf3-40bb-b5ef-c5616535d296"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1a03d055-c82a-45d5-8d53-277622a4c5f9.xml#id-1a03d055-c82a-45d5-8d53-277622a4c5f9"/>
+</archimate:AssociationRelationship>

@@ -4,7 +4,7 @@
     id="id-a7fb5cba-90b5-45b3-bf99-7c14e7f33368">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Wilma Dikker"/>
@@ -32,4 +32,13 @@
   <properties
       key="Object ID"
       value="2bd6995b-bfa0-46b9-9093-ef54a1a584cf"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Bas Heijneman"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:10:12.12"/>
 </archimate:ApplicationComponent>

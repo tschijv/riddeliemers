@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CityPermit - Sigmax"
+    id="id-87ba889e-6262-45fd-90f7-45117d4cbe03"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-f9948d59-43bb-4112-8336-26dde8f85309.xml#id-f9948d59-43bb-4112-8336-26dde8f85309"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-69b0ba12-86cd-47ba-ad6a-07eadeeebaaf.xml#id-69b0ba12-86cd-47ba-ad6a-07eadeeebaaf"/>
+</archimate:AssociationRelationship>

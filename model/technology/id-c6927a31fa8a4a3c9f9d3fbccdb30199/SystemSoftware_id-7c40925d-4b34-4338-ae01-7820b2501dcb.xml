@@ -19,14 +19,23 @@
       value="KPN"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="VA-FWMGM01-P"/>
+      value="SV-CMG01-P"/>
   <properties
       key="Toewijzingen - Locaties"
       value="RID de Liemers"/>
   <properties
       key="Technisch applicatiebeheerder 1"
-      value="Max Holland"/>
+      value="Jeroen Louwerse"/>
   <properties
       key="Object ID"
       value="5eb201fa-f22b-4b73-b0cd-56c9008d2918"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Max Holland"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-22T11:32:46.46"/>
 </archimate:SystemSoftware>

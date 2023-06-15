@@ -4,16 +4,16 @@
     id="id-6e364ffc-bcf3-40bb-b5ef-c5616535d296">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Jurjen Venema"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Technisch applicatiebeheerder 2"
       value="Walter Hermsen"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="071a5ee6-0c9d-45f0-baea-48b944121989"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T16:06:18.18"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
 </archimate:ApplicationComponent>

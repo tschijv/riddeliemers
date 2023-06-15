@@ -4,19 +4,19 @@
     id="id-c882c02b-15f1-4808-8363-795b31745905">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Erwin Heusinkveld"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Hans Geurts"/>
+      value="Marcel Tuenter"/>
   <properties
       key="Functioneel applicatiebeheerder 3"
       value="Frans Schepers"/>
@@ -41,4 +41,10 @@
   <properties
       key="Object ID"
       value="7f111821-2f6b-4b2f-bab5-67edf5303071"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:24:31.31"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:ApplicationComponent>

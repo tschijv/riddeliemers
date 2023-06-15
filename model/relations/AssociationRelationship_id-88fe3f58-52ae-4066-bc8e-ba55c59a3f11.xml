@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOUW WTV - GouwIT"
+    id="id-88fe3f58-52ae-4066-bc8e-ba55c59a3f11"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a7fb5cba-90b5-45b3-bf99-7c14e7f33368.xml#id-a7fb5cba-90b5-45b3-bf99-7c14e7f33368"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-70870272-a3e1-4360-861a-d6e5c021a2a4.xml#id-70870272-a3e1-4360-861a-d6e5c021a2a4"/>
+</archimate:AssociationRelationship>

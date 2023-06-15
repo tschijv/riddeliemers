@@ -4,10 +4,10 @@
     id="id-b3de7d7a-8025-41c8-891f-91a24efb7751">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Jurrien de Kramer"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="6ab61fd5-f8ad-4339-b2bd-15eae2011643"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:05.05"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-07T13:26:44.44"/>
 </archimate:ApplicationComponent>

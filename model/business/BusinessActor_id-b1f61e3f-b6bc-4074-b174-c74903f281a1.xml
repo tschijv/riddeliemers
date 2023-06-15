@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Construsoft"
+    id="id-b1f61e3f-b6bc-4074-b174-c74903f281a1"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-85c613fc5a5546268605d63484dc2e8c"/>
+</archimate:BusinessActor>

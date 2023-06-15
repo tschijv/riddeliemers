@@ -4,7 +4,7 @@
     id="id-fde86cc3-6679-4491-a81c-0e57674be8c7">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -29,4 +29,13 @@
   <properties
       key="Object ID"
       value="64508181-5620-400e-80bd-404688e3a4be"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:25:38.38"/>
 </archimate:ApplicationComponent>

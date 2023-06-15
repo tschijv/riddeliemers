@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 Webserver ZVN - Roxit_PRD_SPM_Zevenaar"
+    id="id-6cd96097-a3fc-416a-bdef-67d1a9fd9954"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-18d46006-0e16-4cfb-9217-81734af7c6ef.xml#id-18d46006-0e16-4cfb-9217-81734af7c6ef"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-695aa654-6886-485f-ba50-104166c2185f.xml#id-695aa654-6886-485f-ba50-104166c2185f"/>
+</archimate:AccessRelationship>

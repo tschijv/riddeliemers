@@ -5,7 +5,7 @@
     documentation="Verzend en Ontvangststation voor afnemers van het GBA netwer">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Samenvatting"
       value="Verzend en Ontvangststation voor afnemers van het GBA netwer"/>
@@ -39,4 +39,13 @@
   <properties
       key="Object ID"
       value="a1707b75-ca84-4603-a114-337d4708f851"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-10-03T09:04:59.59"/>
+  <properties
+      key="Specification"
+      value="Verzend en Ontvangststation voor afnemers van het GBA netwer"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-29T15:13:22.22"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepacom"
+    id="id-ff0bb7c2-4168-4b48-8978-2611fb51ec06"
+    documentation="Gebouwenbeheersysteem">
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:30:12.12"/>
+  <properties
+      key="Specification"
+      value="Gebouwenbeheersysteem"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:29:16.16"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Gerrie Koenders"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hectronic Hecpoll - Hamer B.V."
+    id="id-4364d222-e33d-4b53-9cf2-365acd1c4fae"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7e46becb-79a1-41b4-9122-ec521d428748.xml#id-7e46becb-79a1-41b4-9122-ec521d428748"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1e8aa1d7-e35e-4625-a4d1-82646e177ebd.xml#id-1e8aa1d7-e35e-4625-a4d1-82646e177ebd"/>
+</archimate:AssociationRelationship>

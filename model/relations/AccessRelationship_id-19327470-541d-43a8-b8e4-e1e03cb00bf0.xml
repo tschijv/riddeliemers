@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timetell DVN - DVNTTP"
+    id="id-19327470-541d-43a8-b8e4-e1e03cb00bf0"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3cde6a63-010e-47d6-9e95-e4423661e276.xml#id-3cde6a63-010e-47d6-9e95-e4423661e276"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-25c8c86e-2a88-4cba-b996-13e029c1ed78.xml#id-25c8c86e-2a88-4cba-b996-13e029c1ed78"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal Zorginkoop"
+    id="id-c60416b4-4fc6-4a0d-ad67-ef43bdd4bd6f"
+    documentation="Vecozo Zorginkoop portaal (persoonlijk certificaat benodigd)">
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Patrick Veldman"/>
+  <properties
+      key="Specification"
+      value="Vecozo Zorginkoop portaal (persoonlijk certificaat benodigd)"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Patrick Veldman"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="SDL"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-30T11:23:38.38"/>
+  <properties
+      key="Leverancier"
+      value="Vecozo"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-30T11:55:33.33"/>
+</archimate:ApplicationComponent>

@@ -4,7 +4,7 @@
     id="id-6bdb4473-cbf1-498d-afb6-7247dfea3052">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -38,4 +38,13 @@
   <properties
       key="Object ID"
       value="c6a70423-099a-4b19-831d-a5a8bd71561f"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Carmen Dahles"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:10:21.21"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:21:12.12"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bomgar - BeyondTrust (v.h. Bomgar)"
+    id="id-919a00ac-ae4c-4162-9cca-fc36c8a7f0ef"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-d09be8ba-4f44-4069-883a-f69de205b366.xml#id-d09be8ba-4f44-4069-883a-f69de205b366"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-dcca5fe0-ed3e-4c1e-804f-0021e0589faf.xml#id-dcca5fe0-ed3e-4c1e-804f-0021e0589faf"/>
+</archimate:AssociationRelationship>

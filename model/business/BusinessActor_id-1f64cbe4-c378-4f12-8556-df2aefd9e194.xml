@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nederlands Adviesbureau voor Risicomanagement (NAR)"
+    id="id-1f64cbe4-c378-4f12-8556-df2aefd9e194"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-aff50befb8bb4a60be8aa2864d499c40"/>
+</archimate:BusinessActor>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schulinck Participatiewet - Wolters Kluwer"
+    id="id-798b8ec8-7ec4-4675-85e3-c435074dc721"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1021508a-4f32-462a-80cd-25fd3f317888.xml#id-1021508a-4f32-462a-80cd-25fd3f317888"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-11af2edc-ebeb-4f88-bfa3-bd7252a5bf4e.xml#id-11af2edc-ebeb-4f88-bfa3-bd7252a5bf4e"/>
+</archimate:AssociationRelationship>

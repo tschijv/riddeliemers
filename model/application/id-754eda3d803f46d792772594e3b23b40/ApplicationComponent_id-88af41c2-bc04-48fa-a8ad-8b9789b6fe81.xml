@@ -39,4 +39,13 @@
   <properties
       key="Object ID"
       value="d2c26f68-aa39-4911-921c-4a2d7131093a"/>
+  <properties
+      key="Specification"
+      value="Verzend en Ontvangststation voor afnemers van het GBA netwer"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-29T15:14:30.30"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-10-03T09:05:16.16"/>
 </archimate:ApplicationComponent>

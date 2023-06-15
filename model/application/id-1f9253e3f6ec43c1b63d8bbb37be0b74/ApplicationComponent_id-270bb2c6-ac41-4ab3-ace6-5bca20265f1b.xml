@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vergaderstukken raad"
+    id="id-270bb2c6-ac41-4ab3-ace6-5bca20265f1b"
+    documentation="webarchief raad">
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:47:53.53"/>
+  <properties
+      key="Specification"
+      value="webarchief raad"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Leverancier"
+      value="Notubiz (Rijnwaarden)"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:45:03.03"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+</archimate:ApplicationComponent>

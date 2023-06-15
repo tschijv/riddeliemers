@@ -4,13 +4,13 @@
     id="id-6cf5b65f-d210-462b-b407-b7a856521fb6">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Behandelaarsgroep"
       value="Technisch Applicatiebeheer"/>
@@ -23,4 +23,19 @@
   <properties
       key="Object ID"
       value="cc9d144f-e1fa-4191-8f66-815adf48d742"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:54:06.06"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Annalies Obdam"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-10-08T12:30:06.06"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Claudia Delfos"/>
 </archimate:ApplicationComponent>

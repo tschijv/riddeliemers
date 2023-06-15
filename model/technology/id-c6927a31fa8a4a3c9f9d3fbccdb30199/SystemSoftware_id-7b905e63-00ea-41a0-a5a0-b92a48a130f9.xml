@@ -7,10 +7,10 @@
       value="Systeemsoftware"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Leverancier"
       value="Trend Micro"/>
@@ -29,4 +29,10 @@
   <properties
       key="Object ID"
       value="64bb852d-08e9-44cf-9564-49c716d029b6"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:08:11.11"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
 </archimate:SystemSoftware>

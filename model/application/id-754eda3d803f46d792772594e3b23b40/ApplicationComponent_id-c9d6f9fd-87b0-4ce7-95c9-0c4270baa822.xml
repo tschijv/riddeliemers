@@ -4,7 +4,7 @@
     id="id-c9d6f9fd-87b0-4ce7-95c9-0c4270baa822">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicatie"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Andrea Schuil"/>
@@ -29,4 +29,10 @@
   <properties
       key="Object ID"
       value="658b2659-be0f-4878-ad22-318a4c60355f"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:11.11"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:49:36.36"/>
 </archimate:ApplicationComponent>

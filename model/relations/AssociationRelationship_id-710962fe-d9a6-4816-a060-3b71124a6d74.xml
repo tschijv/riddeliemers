@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evernote - Evernote"
+    id="id-710962fe-d9a6-4816-a060-3b71124a6d74"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2a6305c433bf2497346fd0a1aaa11149.xml#id-2a6305c433bf2497346fd0a1aaa11149"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-cc2c24ea-c1e0-48c2-8ba9-a2d010579640.xml#id-cc2c24ea-c1e0-48c2-8ba9-a2d010579640"/>
+</archimate:AssociationRelationship>

@@ -17,7 +17,7 @@
       value="Inge Veer"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Sevgi Demirci"/>
@@ -27,4 +27,19 @@
   <properties
       key="Object ID"
       value="0cccb9dc-9f3d-4344-99d4-f6e9c2a3d550"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-10-03T09:22:37.37"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-07T10:51:28.28"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Specification"
+      value="t.b.v. RAP medewerkers  Zevenaar"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
 </archimate:ApplicationComponent>

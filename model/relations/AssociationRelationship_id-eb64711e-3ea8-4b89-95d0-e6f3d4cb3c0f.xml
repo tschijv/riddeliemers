@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure AD Connect - SSO-MFA - SV-DC03-P"
+    id="id-eb64711e-3ea8-4b89-95d0-e6f3d4cb3c0f"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-e9b4ad69-86bc-4075-9d1f-25d9c9a71e12.xml#id-e9b4ad69-86bc-4075-9d1f-25d9c9a71e12"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-407788fe-06e0-40ed-967d-4259a1dc0488.xml#id-407788fe-06e0-40ed-967d-4259a1dc0488"/>
+</archimate:AssociationRelationship>

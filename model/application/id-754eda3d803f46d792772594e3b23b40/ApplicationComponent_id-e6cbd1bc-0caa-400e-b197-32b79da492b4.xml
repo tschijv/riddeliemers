@@ -4,13 +4,13 @@
     id="id-e6cbd1bc-0caa-400e-b197-32b79da492b4">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende Software"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Toewijzingen - Locaties"
       value="RSD de Liemers"/>
@@ -32,4 +32,16 @@
   <properties
       key="Object ID"
       value="4b1d7b99-d93b-4c3e-b152-9eface22cc3a"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Arif Toygar"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Eltjo Stoete"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:05.05"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-23T09:55:13.13"/>
 </archimate:ApplicationComponent>

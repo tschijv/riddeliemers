@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CARS - Your Partner"
+    id="id-a1e6ac89-e157-43fc-b74a-3a90a6b71ca1"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-86f71bb1-338c-4072-8f60-230ede796237.xml#id-86f71bb1-338c-4072-8f60-230ede796237"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c3e5acbc-1cbd-40ff-ad4b-81348e457c89.xml#id-c3e5acbc-1cbd-40ff-ad4b-81348e457c89"/>
+</archimate:AssociationRelationship>

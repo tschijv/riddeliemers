@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gasten wifi - Vodafone"
+    id="id-6882da15-4c88-431c-a98f-f8ab3972a12a"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-0f381f6d-796e-41f8-933f-a2c0b077d67a.xml#id-0f381f6d-796e-41f8-933f-a2c0b077d67a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-0cd596bb-7f95-4d12-bb43-552d52528c89.xml#id-0cd596bb-7f95-4d12-bb43-552d52528c89"/>
+</archimate:AssociationRelationship>

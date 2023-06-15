@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adobe reader - Adobe"
+    id="id-f30947bf-d892-4a13-9c12-4adb08cc3c12"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a032ebc5-77e6-4237-b9bd-1f345bb1dafa.xml#id-a032ebc5-77e6-4237-b9bd-1f345bb1dafa"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e4df32c8-d15b-4c56-98b4-9e01ebf3a814.xml#id-e4df32c8-d15b-4c56-98b4-9e01ebf3a814"/>
+</archimate:AssociationRelationship>

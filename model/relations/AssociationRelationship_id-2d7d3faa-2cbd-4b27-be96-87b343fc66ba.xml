@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Betalen DVN - SV-APP93-P"
+    id="id-2d7d3faa-2cbd-4b27-be96-87b343fc66ba"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e32a9daa-cd04-4415-9cc8-0d0cb2576634.xml#id-e32a9daa-cd04-4415-9cc8-0d0cb2576634"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a2.xml#id-66612345-db23-40f9-be22-c54cdc8a97a2"/>
+</archimate:AssociationRelationship>

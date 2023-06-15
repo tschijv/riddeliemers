@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sencon"
+    id="id-e33327ba-c2fa-4607-b460-50b26d544f48"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-c4a0ada10e9f43adb6be7fc5e5da3d50"/>
+</archimate:BusinessActor>

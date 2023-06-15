@@ -8,13 +8,13 @@
       value="t.b.v. medewerker P&amp;O Zevenaar"/>
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Sevgi Demirci"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Inge Veer"/>
@@ -26,8 +26,20 @@
       value="ONWAAR"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="Gemeente Zevenaar"/>
+      value="Zevenaar"/>
   <properties
       key="Object ID"
       value="b02facd7-cbdb-4372-8aad-88bc3a0cab93"/>
+  <properties
+      key="Specification"
+      value="t.b.v. medewerker P&amp;O Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-27T17:05:28.28"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-07T10:50:59.59"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
 </archimate:ApplicationComponent>

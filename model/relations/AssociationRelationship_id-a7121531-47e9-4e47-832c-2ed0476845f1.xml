@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klicviewer - Kadaster"
+    id="id-a7121531-47e9-4e47-832c-2ed0476845f1"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ba8b099d-e094-49f8-8383-0a7ec9b893a8.xml#id-ba8b099d-e094-49f8-8383-0a7ec9b893a8"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-ffe9bd78-c56f-491e-a1f8-c516f0f6ea21.xml#id-ffe9bd78-c56f-491e-a1f8-c516f0f6ea21"/>
+</archimate:AssociationRelationship>

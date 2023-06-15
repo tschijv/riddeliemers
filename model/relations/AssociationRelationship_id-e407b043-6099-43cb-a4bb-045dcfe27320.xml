@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle Enterprise Manager - DBA"
+    id="id-e407b043-6099-43cb-a4bb-045dcfe27320"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-2ba8aa73-7e2b-4ba6-a58e-87a36b6c9b5f.xml#id-2ba8aa73-7e2b-4ba6-a58e-87a36b6c9b5f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-729e3b10-1010-4447-af0e-e51f1110b15d.xml#id-729e3b10-1010-4447-af0e-e51f1110b15d"/>
+</archimate:AssociationRelationship>

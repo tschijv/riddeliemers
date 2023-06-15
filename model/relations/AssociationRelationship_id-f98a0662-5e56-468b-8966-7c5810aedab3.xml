@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beaufort 1Stroom/Duiven/Westervoort/SDL - Gemeente Duiven"
+    id="id-f98a0662-5e56-468b-8966-7c5810aedab3"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-aea7cc0a-4371-4abf-af7c-9144fceb4ea4.xml#id-aea7cc0a-4371-4abf-af7c-9144fceb4ea4"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-1882c044-4fce-4d54-8cc2-0654c222d3ee.xml#id-1882c044-4fce-4d54-8cc2-0654c222d3ee"/>
+</archimate:AssociationRelationship>

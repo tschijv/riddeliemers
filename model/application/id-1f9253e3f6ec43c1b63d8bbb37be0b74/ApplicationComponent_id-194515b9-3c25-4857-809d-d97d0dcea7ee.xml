@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOORwerkt"
+    id="id-194515b9-3c25-4857-809d-d97d0dcea7ee"
+    documentation="Inzicht graafactiviteiten">
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Leverancier"
+      value="MOOR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:21:11.11"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Specification"
+      value="Inzicht graafactiviteiten"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:19:15.15"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+</archimate:ApplicationComponent>

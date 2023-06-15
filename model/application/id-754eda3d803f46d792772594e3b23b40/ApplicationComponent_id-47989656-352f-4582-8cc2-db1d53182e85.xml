@@ -4,19 +4,19 @@
     id="id-47989656-352f-4582-8cc2-db1d53182e85">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Marleen te Poele"/>
+      value="Nardie Langenhof"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Marlies Heutink"/>
+      value="Anouk Polman"/>
   <properties
       key="Technisch applicatiebeheerder 2"
       value="Grego Notten"/>
@@ -38,4 +38,13 @@
   <properties
       key="Object ID"
       value="796571f5-b57f-4bfe-b494-c9eafc042871"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:47:15.15"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Miranda Stroot"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T13:48:13.13"/>
 </archimate:ApplicationComponent>

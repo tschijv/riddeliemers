@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Begraven - ZVBGP1"
+    id="id-60ea5a09-58de-49e9-b2a6-d15756a7b670"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2a943fcf-dd3c-47c6-a284-0a59792e7233.xml#id-2a943fcf-dd3c-47c6-a284-0a59792e7233"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-69778b48-4ce4-4e05-8f0b-8cd545f95472.xml#id-69778b48-4ce4-4e05-8f0b-8cd545f95472"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet ZVN - SV-APP67-P"
+    id="id-dc2f7c1f-9dbd-4d4a-9b82-f662ede8676d"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-874a0b61-0723-4308-9df9-b63c0f1261ee.xml#id-874a0b61-0723-4308-9df9-b63c0f1261ee"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97ax.xml#id-66612345-db23-40f9-be22-c54cdc8a97ax"/>
+</archimate:AssociationRelationship>

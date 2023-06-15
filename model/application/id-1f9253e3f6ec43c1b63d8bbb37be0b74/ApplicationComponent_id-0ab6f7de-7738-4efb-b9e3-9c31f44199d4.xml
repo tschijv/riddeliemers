@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="City Control"
+    id="id-0ab6f7de-7738-4efb-b9e3-9c31f44199d4"
+    documentation="Handhaving op straat. Drie modules. 1. Drank en Horeca 2. di">
+  <properties
+      key="Specification"
+      value="Handhaving op straat. Drie modules. 1. Drank en Horeca 2. di"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID Handhaving op straat. Drie modules. 1. Drank en Horeca 2. digitale handhaving 3. parkeerbeheer"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:08:51.51"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Leverancier"
+      value="Sigmax"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:08:51.51"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

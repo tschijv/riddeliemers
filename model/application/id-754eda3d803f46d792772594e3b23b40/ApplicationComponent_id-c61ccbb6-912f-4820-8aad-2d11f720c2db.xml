@@ -4,10 +4,10 @@
     id="id-c61ccbb6-912f-4820-8aad-2d11f720c2db">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="RSD vragen/verzoeken Applicatiebeheer"/>
+      value="Arif Toygar"/>
   <properties
       key="Behandelaarsgroep"
       value="Exchange Online"/>
@@ -16,7 +16,7 @@
       value="Klasse B"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Applicatie hosting (Ouders)"
       value="SV-MDU01-P"/>
@@ -35,4 +35,13 @@
   <properties
       key="Object ID"
       value="2326ec68-1adb-42f3-82ed-0add3a69db1a"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Eltjo Stoete"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:24:55.55"/>
 </archimate:ApplicationComponent>

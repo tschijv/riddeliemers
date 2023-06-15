@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avepoint Backup - SV-CMG01-P"
+    id="id-6d8bebcb-e341-4c50-9081-0ca3c20efae8"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-4fd6660f-8585-4e48-aa19-5da6eb9992f5.xml#id-4fd6660f-8585-4e48-aa19-5da6eb9992f5"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-253709da-ce2a-4450-811b-2be543b91d36.xml#id-253709da-ce2a-4450-811b-2be543b91d36"/>
+</archimate:AssociationRelationship>

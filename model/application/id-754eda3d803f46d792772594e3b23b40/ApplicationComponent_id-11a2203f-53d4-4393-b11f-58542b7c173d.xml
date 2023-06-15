@@ -4,7 +4,7 @@
     id="id-11a2203f-53d4-4393-b11f-58542b7c173d">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Andrea Schuil"/>
@@ -13,26 +13,32 @@
       value="Klasse C"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
   <properties
       key="Leverancier"
-      value="GIskit"/>
+      value="PayGlobal Technology"/>
   <properties
       key="Technisch applicatiebeheerder 2"
       value="Hille Veenstra"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="XenDesktop"/>
+      value="SV-APP125-P"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="Zevenaar"/>
+      value="1Stroom"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Walter Hermsen"/>
   <properties
       key="Object ID"
       value="ceaa837d-629b-4b11-8696-05a21cecdb6f"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T15:33:39.39"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:ApplicationComponent>

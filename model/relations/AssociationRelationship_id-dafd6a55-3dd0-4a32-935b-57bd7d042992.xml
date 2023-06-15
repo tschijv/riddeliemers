@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDW certificaten - LogiLink - RDW"
+    id="id-dafd6a55-3dd0-4a32-935b-57bd7d042992"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-33a33017-9dc6-4a07-b6d6-c7cde5115ded.xml#id-33a33017-9dc6-4a07-b6d6-c7cde5115ded"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3443a69e-f9b4-433c-bdc3-a992da1e214f.xml#id-3443a69e-f9b4-433c-bdc3-a992da1e214f"/>
+</archimate:AssociationRelationship>

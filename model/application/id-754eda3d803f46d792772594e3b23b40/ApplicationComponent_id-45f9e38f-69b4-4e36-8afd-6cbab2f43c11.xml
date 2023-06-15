@@ -4,10 +4,10 @@
     id="id-45f9e38f-69b4-4e36-8afd-6cbab2f43c11">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
@@ -32,4 +32,13 @@
   <properties
       key="Object ID"
       value="b3a89825-1658-4342-a79c-6347debb1352"/>
+  <properties
+      key="Notities"
+      value="Voor de Functioneel appl. beheerder NR 1  is een vacature (Rob van Dick / 22-11-22)"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-22T15:44:30.30"/>
 </archimate:ApplicationComponent>

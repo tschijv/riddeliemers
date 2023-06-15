@@ -4,13 +4,13 @@
     id="id-8f0168c4-fd90-4bd1-9efc-613bdb9210ab">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Bram Wieringa"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="4cac177c-f33e-4ae5-8cab-275af6b86af7"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-07-18T12:15:11.11"/>
 </archimate:ApplicationComponent>

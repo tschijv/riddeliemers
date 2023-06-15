@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgmail Safe Relay - Exchange Online"
+    id="id-63ba3e2e-c04c-4f6e-a030-07811bc2994a"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80c9c1b6-bafc-4162-864f-ec39dd6b586a.xml#id-80c9c1b6-bafc-4162-864f-ec39dd6b586a"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9716.xml#id-66612345-db23-40f9-be22-c54cdc8a9716"/>
+</archimate:AssociationRelationship>

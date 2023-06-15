@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel OIG - vOIG"
+    id="id-9136df20-a180-48e7-9cbf-109c64557b93"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-a2401953-8281-44dd-9cb5-fe9c5d15d7a7.xml#id-a2401953-8281-44dd-9cb5-fe9c5d15d7a7"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9741.xml#id-66612345-db23-40f9-be22-c54cdc8a9741"/>
+</archimate:AssociationRelationship>

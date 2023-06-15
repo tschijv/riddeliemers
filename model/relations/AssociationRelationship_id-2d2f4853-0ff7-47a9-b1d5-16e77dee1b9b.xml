@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRTG Monitoring - Paessler"
+    id="id-2d2f4853-0ff7-47a9-b1d5-16e77dee1b9b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-46a853b5-f7a5-4f65-9b00-ef5e3f6dee2b.xml#id-46a853b5-f7a5-4f65-9b00-ef5e3f6dee2b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-072f6db2-a200-4db4-bfe8-77f33ca61a82.xml#id-072f6db2-a200-4db4-bfe8-77f33ca61a82"/>
+</archimate:AssociationRelationship>

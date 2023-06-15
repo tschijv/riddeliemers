@@ -4,7 +4,7 @@
     id="id-e7d397ad-3a09-4b11-b030-067daba285ee">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Maikel Bouwman"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="7cd8521f-cfee-479a-831f-0022a64693d3"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:05.05"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T16:13:06.06"/>
 </archimate:ApplicationComponent>

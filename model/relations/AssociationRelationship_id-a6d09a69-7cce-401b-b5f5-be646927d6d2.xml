@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix Provisioning Services - SV-PVS02-P"
+    id="id-a6d09a69-7cce-401b-b5f5-be646927d6d2"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-640c4a59-e2ea-4591-9913-63018c64b302.xml#id-640c4a59-e2ea-4591-9913-63018c64b302"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-765d44f7-3fd2-4da9-ba46-f84c60069924.xml#id-765d44f7-3fd2-4da9-ba46-f84c60069924"/>
+</archimate:AssociationRelationship>

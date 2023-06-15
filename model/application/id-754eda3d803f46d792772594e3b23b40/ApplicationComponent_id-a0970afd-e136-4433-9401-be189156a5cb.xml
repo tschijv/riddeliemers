@@ -4,10 +4,10 @@
     id="id-a0970afd-e136-4433-9401-be189156a5cb">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Sevgi Demirci"/>
+      value="Eltjo Stoete"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -16,7 +16,7 @@
       value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Rosalien Senhorst"/>
+      value="Arif Toygar"/>
   <properties
       key="Applicatie hosting (Ouders)"
       value="SV-APP125-P"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="e8ed67df-a0b5-4b9b-becc-3c7572b987ac"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-23T09:35:34.34"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
 </archimate:ApplicationComponent>

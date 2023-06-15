@@ -4,7 +4,7 @@
     id="id-1dc035f3-29e4-4a34-a289-1bdf455a2bf6">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Bram Wieringa"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="f72de363-180c-4a51-9c35-60baa84a2d3a"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-07-18T12:14:54.54"/>
 </archimate:ApplicationComponent>

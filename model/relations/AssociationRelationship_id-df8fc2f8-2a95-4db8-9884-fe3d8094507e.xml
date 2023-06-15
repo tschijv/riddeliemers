@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Tjooner Zevenaar - JCC Software"
+    id="id-df8fc2f8-2a95-4db8-9884-fe3d8094507e"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-54e32823-8cbe-4cc2-bba2-5ab11d795234.xml#id-54e32823-8cbe-4cc2-bba2-5ab11d795234"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2079d48c-1609-45c0-8650-a8f268ef83c4.xml#id-2079d48c-1609-45c0-8650-a8f268ef83c4"/>
+</archimate:AssociationRelationship>

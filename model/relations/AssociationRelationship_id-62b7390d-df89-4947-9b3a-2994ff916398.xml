@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papercut Mail2Print Server - SV-PS03-P"
+    id="id-62b7390d-df89-4947-9b3a-2994ff916398"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-11a45f42-a9e4-4cc2-b027-1225f63728de.xml#id-11a45f42-a9e4-4cc2-b027-1225f63728de"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9752.xml#id-66612345-db23-40f9-be22-c54cdc8a9752"/>
+</archimate:AssociationRelationship>

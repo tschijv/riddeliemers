@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VLC Player - VideoLAN"
+    id="id-261ab490-dd13-4eb9-bcda-b881fea0279e"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-92960e06-fa23-4023-b11e-3dc2439c0ab9.xml#id-92960e06-fa23-4023-b11e-3dc2439c0ab9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-633d569b-8ad9-487f-9557-13964b218bc2.xml#id-633d569b-8ad9-487f-9557-13964b218bc2"/>
+</archimate:AssociationRelationship>

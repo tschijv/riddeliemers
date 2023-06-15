@@ -35,4 +35,13 @@
   <properties
       key="Object ID"
       value="c6b7967f-ab16-4ea7-9f91-ac73bb51da4a"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:31:40.40"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-07-08T11:58:32.32"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Ole van Beers"/>
 </archimate:ApplicationComponent>

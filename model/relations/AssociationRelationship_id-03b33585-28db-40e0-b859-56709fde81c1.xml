@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aquaview - Xylem"
+    id="id-03b33585-28db-40e0-b859-56709fde81c1"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-378c2c74-54d0-498c-943f-45cf1b7ca747.xml#id-378c2c74-54d0-498c-943f-45cf1b7ca747"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5783dbc9-e2fa-4683-b57b-92958f494269.xml#id-5783dbc9-e2fa-4683-b57b-92958f494269"/>
+</archimate:AssociationRelationship>

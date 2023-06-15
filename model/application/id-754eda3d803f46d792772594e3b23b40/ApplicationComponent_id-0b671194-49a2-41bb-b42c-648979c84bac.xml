@@ -4,7 +4,7 @@
     id="id-0b671194-49a2-41bb-b42c-648979c84bac">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Andrea Schuil"/>
@@ -13,7 +13,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="04cd765f-0551-4d8d-b1ac-a09d34f4bc62"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T16:19:39.39"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:ApplicationComponent>

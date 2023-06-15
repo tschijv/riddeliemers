@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clearpass Policy Manager - SV-CPM02-P"
+    id="id-d0f53836-ae22-4b68-8cb8-cca85ba7288d"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-debb73e6-0dc3-4a61-ac66-1763c54a64a8.xml#id-debb73e6-0dc3-4a61-ac66-1763c54a64a8"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-16a6988e-18a5-437c-8016-9a81ead08eff.xml#id-16a6988e-18a5-437c-8016-9a81ead08eff"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektor WTV - TSA Verkiezingen b.v."
+    id="id-379304e3-220d-4ff9-8a04-7431a261cbe8"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4f31637d-7745-4728-a23b-4621de92cb0e.xml#id-4f31637d-7745-4728-a23b-4621de92cb0e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-165cfeba-ae3b-4b09-8d97-c45b09b3ffaf.xml#id-165cfeba-ae3b-4b09-8d97-c45b09b3ffaf"/>
+</archimate:AssociationRelationship>

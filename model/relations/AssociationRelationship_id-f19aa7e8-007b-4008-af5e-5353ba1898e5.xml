@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plankaart - TabEdit - GIskit"
+    id="id-f19aa7e8-007b-4008-af5e-5353ba1898e5"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0b671194-49a2-41bb-b42c-648979c84bac.xml#id-0b671194-49a2-41bb-b42c-648979c84bac"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f1022851-816d-4bf1-9585-0358f17f3e20.xml#id-f1022851-816d-4bf1-9585-0358f17f3e20"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZorgMail Adresboek WTV - Enovation"
+    id="id-4712e2d9-01da-4660-b696-8e7c7e2c1c31"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1c088e73-5401-43cb-ba89-ff8b202cbed6.xml#id-1c088e73-5401-43cb-ba89-ff8b202cbed6"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7b78efdc-7de0-44fd-835b-424b79cd5c19.xml#id-7b78efdc-7de0-44fd-835b-424b79cd5c19"/>
+</archimate:AssociationRelationship>

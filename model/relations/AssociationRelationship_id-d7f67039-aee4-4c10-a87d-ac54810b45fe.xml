@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lias - Inergy"
+    id="id-d7f67039-aee4-4c10-a87d-ac54810b45fe"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c882c02b-15f1-4808-8363-795b31745905.xml#id-c882c02b-15f1-4808-8363-795b31745905"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-14db52bf-a0aa-4f35-a087-256fee3d2e58.xml#id-14db52bf-a0aa-4f35-a087-256fee3d2e58"/>
+</archimate:AssociationRelationship>

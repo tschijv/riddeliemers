@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suwimail - BKWI  (Bureau Keteninformatisering Werk en Inkomen)"
+    id="id-88527833-4657-4da4-b134-4d01e442bba0"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5932802e-13ca-44d5-9b22-f33b5c41417a.xml#id-5932802e-13ca-44d5-9b22-f33b5c41417a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-caa62bc6-44fd-4a29-89c3-0d411501d16a.xml#id-caa62bc6-44fd-4a29-89c3-0d411501d16a"/>
+</archimate:AssociationRelationship>

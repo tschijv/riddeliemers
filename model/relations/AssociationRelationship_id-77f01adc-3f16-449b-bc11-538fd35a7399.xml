@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keesing 1Stroom - SV-FS01-P"
+    id="id-77f01adc-3f16-449b-bc11-538fd35a7399"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a7edb832-e9f8-4d71-8463-c87d78f145b8.xml#id-a7edb832-e9f8-4d71-8463-c87d78f145b8"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-10a367dc-c740-43d6-b994-89a2abfe52d3.xml#id-10a367dc-c740-43d6-b994-89a2abfe52d3"/>
+</archimate:AssociationRelationship>

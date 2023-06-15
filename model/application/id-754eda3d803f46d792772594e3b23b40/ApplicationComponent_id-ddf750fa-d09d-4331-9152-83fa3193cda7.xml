@@ -4,10 +4,10 @@
     id="id-ddf750fa-d09d-4331-9152-83fa3193cda7">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -32,4 +32,13 @@
   <properties
       key="Object ID"
       value="a80dcba8-2c58-4ca7-ab55-52346152e2ed"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-10-08T11:36:27.27"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Exchange Online"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-22T12:01:49.49"/>
 </archimate:ApplicationComponent>

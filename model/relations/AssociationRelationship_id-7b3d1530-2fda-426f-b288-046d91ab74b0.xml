@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RIS module KTA - Inforing BV"
+    id="id-7b3d1530-2fda-426f-b288-046d91ab74b0"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cc44871b-5079-4f07-86e7-5b2aa9896c9a.xml#id-cc44871b-5079-4f07-86e7-5b2aa9896c9a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2bbe5e49-e380-4133-901d-111758108a15.xml#id-2bbe5e49-e380-4133-901d-111758108a15"/>
+</archimate:AssociationRelationship>

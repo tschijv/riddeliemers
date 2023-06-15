@@ -4,7 +4,7 @@
     id="id-f5b4605a-7a04-489d-9601-4451ae7b9936">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -16,7 +16,7 @@
       value="Marleen te Poele"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse B"/>
   <properties
       key="Toewijzingen - Locaties"
       value="Zevenaar"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="0bf7b2c3-b21b-48ad-97cf-b82050ef2c5d"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:14:00.00"/>
 </archimate:ApplicationComponent>

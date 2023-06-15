@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bris warehouse - Bris"
+    id="id-bb7419bc-0783-4c80-b65a-a26a9c368d6e"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b7eb34ed-4ca7-4653-a85e-02f53ae43360.xml#id-b7eb34ed-4ca7-4653-a85e-02f53ae43360"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c4861fd7-5452-4b2d-9720-95a222545849.xml#id-c4861fd7-5452-4b2d-9720-95a222545849"/>
+</archimate:AssociationRelationship>

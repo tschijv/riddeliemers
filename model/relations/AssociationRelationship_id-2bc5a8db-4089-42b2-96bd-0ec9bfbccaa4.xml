@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C-SAM Beheer BGT - The People Group"
+    id="id-2bc5a8db-4089-42b2-96bd-0ec9bfbccaa4"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d20474c2-8925-461c-a419-70b6a7e61a05.xml#id-d20474c2-8925-461c-a419-70b6a7e61a05"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a13c3a6f-8df7-4c35-a46d-9aed3e86dc03.xml#id-a13c3a6f-8df7-4c35-a46d-9aed3e86dc03"/>
+</archimate:AssociationRelationship>

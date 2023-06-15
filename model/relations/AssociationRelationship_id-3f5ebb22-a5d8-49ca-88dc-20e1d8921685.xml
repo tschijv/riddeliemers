@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway - SV-GATEWAY01-P"
+    id="id-3f5ebb22-a5d8-49ca-88dc-20e1d8921685"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-44092ef8-41e3-4963-a2b4-d057ef73e5aa.xml#id-44092ef8-41e3-4963-a2b4-d057ef73e5aa"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-c80aff56-a33d-447d-961f-70ae290869fb.xml#id-c80aff56-a33d-447d-961f-70ae290869fb"/>
+</archimate:AssociationRelationship>

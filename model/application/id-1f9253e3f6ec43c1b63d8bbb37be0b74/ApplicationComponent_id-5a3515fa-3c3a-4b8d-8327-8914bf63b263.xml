@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KiC module WMO normenset + appl concern"
+    id="id-5a3515fa-3c3a-4b8d-8327-8914bf63b263">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:16:30.30"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="Stimulansz"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:13:16.16"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamask 1Stroom - Decos Join 1Stroom"
+    id="id-55b96ca2-5270-4491-b197-c33bad9c8f12"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c05b9d3c-3210-4dd7-bb02-f84006a70704.xml#id-c05b9d3c-3210-4dd7-bb02-f84006a70704"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ecd3e49f-4710-4562-add2-5e236ce6183d.xml#id-ecd3e49f-4710-4562-add2-5e236ce6183d"/>
+</archimate:AssociationRelationship>

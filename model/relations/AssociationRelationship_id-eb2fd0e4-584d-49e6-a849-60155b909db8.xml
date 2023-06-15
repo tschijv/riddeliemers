@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DormaKaba - Dormakaba Nederland b.v."
+    id="id-eb2fd0e4-584d-49e6-a849-60155b909db8"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f5e21246-13c3-469e-b186-13b96e9500cf.xml#id-f5e21246-13c3-469e-b186-13b96e9500cf"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-cb3046bb-f192-4f66-b0d6-4474f1cf489f.xml#id-cb3046bb-f192-4f66-b0d6-4474f1cf489f"/>
+</archimate:AssociationRelationship>

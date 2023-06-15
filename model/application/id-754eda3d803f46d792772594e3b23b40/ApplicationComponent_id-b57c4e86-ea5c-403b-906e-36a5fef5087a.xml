@@ -4,7 +4,7 @@
     id="id-b57c4e86-ea5c-403b-906e-36a5fef5087a">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Behandelaarsgroep"
       value="Technisch Applicatiebeheer"/>
@@ -23,4 +23,10 @@
   <properties
       key="Object ID"
       value="e45828a9-c22f-4e4c-9845-b416d2651224"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:53:15.15"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-10-08T12:30:06.06"/>
 </archimate:ApplicationComponent>

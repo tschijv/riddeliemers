@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Financien ZVN - SV-WLS20-P"
+    id="id-36239a16-5f75-4301-b133-e4c24f8cf16b"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ad0a2b16-d134-4268-9cc9-6fdaabc86465.xml#id-ad0a2b16-d134-4268-9cc9-6fdaabc86465"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a8.xml#id-66612345-db23-40f9-be22-c54cdc8a97a8"/>
+</archimate:AssociationRelationship>

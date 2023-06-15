@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatiebeheer DDS - SV-APP88-P"
+    id="id-e97e8689-f590-419b-b0cf-5dd699db578e"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-60a79740-22da-4b63-89f4-77c4691b0c91.xml#id-60a79740-22da-4b63-89f4-77c4691b0c91"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-8c15a3e7-01da-439a-98fa-48de69aef6bd.xml#id-8c15a3e7-01da-439a-98fa-48de69aef6bd"/>
+</archimate:AssociationRelationship>

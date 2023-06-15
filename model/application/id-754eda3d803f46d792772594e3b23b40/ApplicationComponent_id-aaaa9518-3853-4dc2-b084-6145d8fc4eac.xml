@@ -10,29 +10,38 @@
       value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Petra Spijkerman"/>
+      value="Eltjo Stoete"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Joris van Embden"/>
+      value="Arif Toygar"/>
   <properties
       key="Leverancier"
-      value="The People Group"/>
+      value="IBM Nederland B.V."/>
   <properties
       key="Toewijzingen - Locaties"
-      value="SDL"/>
+      value="Zevenaar"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="SV-APP121-P"/>
+      value="SV-APP96-P"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
   <properties
       key="Data hosting (Ouders)"
-      value="SDLBGTP"/>
+      value="ZVCOGNP1"/>
   <properties
       key="Object ID"
       value="6aa4d446-4779-4256-b15c-f22450c97251"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-23T09:26:16.16"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:35:42.42"/>
 </archimate:ApplicationComponent>

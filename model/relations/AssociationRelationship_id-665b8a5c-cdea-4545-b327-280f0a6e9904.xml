@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Xtendis Outlook Connector - MGR"
+    id="id-665b8a5c-cdea-4545-b327-280f0a6e9904"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e6303a25-5df2-4ad7-88f2-ce1218704813.xml#id-e6303a25-5df2-4ad7-88f2-ce1218704813"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_Id-c2066sd1-da47-456f-9478-34f7f9342fe4.xml#Id-c2066sd1-da47-456f-9478-34f7f9342fe4"/>
+</archimate:AssociationRelationship>

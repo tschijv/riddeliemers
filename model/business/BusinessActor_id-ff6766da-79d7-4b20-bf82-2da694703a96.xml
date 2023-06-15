@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCTT"
+    id="id-ff6766da-79d7-4b20-bf82-2da694703a96"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-4ede6fc275d54cab80d14db85ef24599"/>
+</archimate:BusinessActor>

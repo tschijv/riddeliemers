@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrendMicro ApexOne Server - SV-AV10-P"
+    id="id-e52e519e-8a6b-4ced-9339-ed664b459ed3"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7b905e63-00ea-41a0-a5a0-b92a48a130f9.xml#id-7b905e63-00ea-41a0-a5a0-b92a48a130f9"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9759.xml#id-66612345-db23-40f9-be22-c54cdc8a9759"/>
+</archimate:AssociationRelationship>

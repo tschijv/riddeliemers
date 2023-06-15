@@ -4,7 +4,7 @@
     id="id-96f43849-e588-4f0d-8b26-d5bc574cf4ca">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Petra Spijkerman"/>
@@ -16,7 +16,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Applicatie hosting (Ouders)"
       value="SV-APP103-P"/>
@@ -32,4 +32,13 @@
   <properties
       key="Object ID"
       value="ff8aea7e-395d-470e-a3a2-bf06428216fb"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Informatiebeheer"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:49:22.22"/>
 </archimate:ApplicationComponent>

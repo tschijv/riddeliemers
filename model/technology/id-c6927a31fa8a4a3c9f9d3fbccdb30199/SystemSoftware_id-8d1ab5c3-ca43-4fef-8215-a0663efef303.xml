@@ -7,29 +7,35 @@
       value="Systeemsoftware"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse B"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="SV-CMG01-P"/>
+      value="SV-CER01-P SV-CER02-P"/>
   <properties
       key="Leverancier"
-      value="KPN"/>
+      value="Microsoft"/>
   <properties
       key="Technisch applicatiebeheerder 2"
-      value="Max Holland"/>
+      value="Marcel van Maren"/>
   <properties
       key="Toewijzingen - Locaties"
       value="RID de Liemers"/>
   <properties
       key="Technisch applicatiebeheerder 1"
-      value="Jeroen Louwerse"/>
+      value="Max Holland"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
   <properties
       key="Object ID"
       value="686f9d34-cc84-458f-ac78-3e8ccf15c91e"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:10:21.21"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-22T11:28:26.26"/>
 </archimate:SystemSoftware>

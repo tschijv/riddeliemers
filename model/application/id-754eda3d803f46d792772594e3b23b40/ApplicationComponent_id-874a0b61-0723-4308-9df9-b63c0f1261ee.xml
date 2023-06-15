@@ -4,7 +4,7 @@
     id="id-874a0b61-0723-4308-9df9-b63c0f1261ee">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="WAAR"/>
@@ -32,4 +32,16 @@
   <properties
       key="Object ID"
       value="ebe21e85-e9e8-4659-838b-9d0a9b8c1582"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-21T15:20:26.26"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maartje Koekkoek"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T16:24:26.26"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Sabine van Mierlo"/>
 </archimate:ApplicationComponent>

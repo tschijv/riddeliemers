@@ -1,0 +1,38 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RX-Zone WTV"
+    id="id-f2c46e12-17f3-4950-bf40-098eb6f28bcb">
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-09T15:15:40.40"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:29:40.40"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="WTVROTP"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Gemeente Westervoort"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="P:\appdata"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Ole van Beers"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

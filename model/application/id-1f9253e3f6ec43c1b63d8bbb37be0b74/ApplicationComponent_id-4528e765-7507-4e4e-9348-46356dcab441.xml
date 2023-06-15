@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LIAS Pauw"
+    id="id-4528e765-7507-4e4e-9348-46356dcab441"
+    documentation="berekening algemene uitkering">
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:06:17.17"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:09:17.17"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="Inergy"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Specification"
+      value="berekening algemene uitkering"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+</archimate:ApplicationComponent>

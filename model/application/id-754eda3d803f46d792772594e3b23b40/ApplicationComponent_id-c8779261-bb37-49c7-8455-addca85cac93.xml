@@ -4,7 +4,7 @@
     id="id-c8779261-bb37-49c7-8455-addca85cac93">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Kernapplicatie"/>
   <properties
       key="Behandelaarsgroep"
       value="Informatiebeveiliging"/>
@@ -13,7 +13,7 @@
       value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Antoinette Evers"/>
+      value="Elke van Raaij"/>
   <properties
       key="Cloud"
       value="WAAR"/>
@@ -25,7 +25,7 @@
       value="iBabs B.V."/>
   <properties
       key="Toewijzingen - Locaties"
-      value="Zevenaar"/>
+      value="Duiven"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Guido van der Vegt"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="d8888edd-3157-4845-90c5-35f908c5506e"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-24T14:36:36.36"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:ApplicationComponent>

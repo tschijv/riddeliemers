@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Belastingdienst Aspera connect - Belastingdienst"
+    id="id-98035081-704a-4481-a96c-6fc145ad4a20"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-29bcf1ab-6ad7-46c1-b9f1-b96b293b587f.xml#id-29bcf1ab-6ad7-46c1-b9f1-b96b293b587f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e0a1d6ad-6d18-4437-8348-856ad3863503.xml#id-e0a1d6ad-6d18-4437-8348-856ad3863503"/>
+</archimate:AssociationRelationship>

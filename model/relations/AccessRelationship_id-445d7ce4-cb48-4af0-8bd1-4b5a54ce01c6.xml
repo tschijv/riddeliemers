@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SquitXO 1stroom - SDWSXOP"
+    id="id-445d7ce4-cb48-4af0-8bd1-4b5a54ce01c6"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1741b3c4-55e5-43e5-b4dd-01702919d665.xml#id-1741b3c4-55e5-43e5-b4dd-01702919d665"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-c41fec88-876d-4976-9e76-7bf6d8430568.xml#id-c41fec88-876d-4976-9e76-7bf6d8430568"/>
+</archimate:AccessRelationship>

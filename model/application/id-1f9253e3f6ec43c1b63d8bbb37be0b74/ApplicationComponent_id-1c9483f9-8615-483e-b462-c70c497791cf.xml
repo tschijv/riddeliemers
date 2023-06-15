@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participatieplatform"
+    id="id-1c9483f9-8615-483e-b462-c70c497791cf"
+    documentation="Omgeving om burgers en bedrijven te betrekken bij ontwikkeli">
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Leverancier"
+      value="Mett"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Budi Subroto"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:31:21.21"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:32:23.23"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID Omgeving om burgers en bedrijven te betrekken bij ontwikkelingen in de gemeente"/>
+  <properties
+      key="Specification"
+      value="Omgeving om burgers en bedrijven te betrekken bij ontwikkeli"/>
+</archimate:ApplicationComponent>

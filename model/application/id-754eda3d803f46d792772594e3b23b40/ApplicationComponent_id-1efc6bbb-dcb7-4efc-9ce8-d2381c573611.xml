@@ -1,13 +1,14 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="JCC Betalen WTV"
-    id="id-1efc6bbb-dcb7-4efc-9ce8-d2381c573611">
+    id="id-1efc6bbb-dcb7-4efc-9ce8-d2381c573611"
+    documentation="G-Kas Manager en G-Kas Register">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Marlies Heutink"/>
+      value="Anouk Polman"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -32,4 +33,16 @@
   <properties
       key="Object ID"
       value="829f5fdd-3c28-47db-a08b-11944db9c23a"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-04T13:57:37.37"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Nardie Langenhof"/>
+  <properties
+      key="Specification"
+      value="G-Kas Manager en G-Kas Register"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
 </archimate:ApplicationComponent>

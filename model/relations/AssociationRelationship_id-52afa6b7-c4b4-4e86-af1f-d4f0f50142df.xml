@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RX-Zone DVN - P:\appdata"
+    id="id-52afa6b7-c4b4-4e86-af1f-d4f0f50142df"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fed70238-9a87-4f7a-a59a-6ea0775ec774.xml#id-fed70238-9a87-4f7a-a59a-6ea0775ec774"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9724.xml#id-66612345-db23-40f9-be22-c54cdc8a9724"/>
+</archimate:AssociationRelationship>

@@ -4,13 +4,13 @@
     id="id-95742a35-5367-4030-b520-dd9d58b101b1">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Enes Korkmaz"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="be26d691-4c9a-41eb-a7c3-bd19e2d6fc3b"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:03:00.00"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:05.05"/>
 </archimate:SystemSoftware>

@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CARS"
+    id="id-86f71bb1-338c-4072-8f60-230ede796237"
+    documentation="Beheer riool gemalen">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:27:42.42"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maarten Kuster"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Leverancier"
+      value="Your Partner"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:25:17.17"/>
+  <properties
+      key="Specification"
+      value="Beheer riool gemalen"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+</archimate:ApplicationComponent>

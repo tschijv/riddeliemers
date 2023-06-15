@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workrave - Workrave"
+    id="id-ea14d0e9-a352-469a-8995-17898b607e8e"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d033f7a9-a608-4be9-a770-eaa723c8bab0.xml#id-d033f7a9-a608-4be9-a770-eaa723c8bab0"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b6d676c3-a1fa-46f4-bc57-55432b9c7a5b.xml#id-b6d676c3-a1fa-46f4-bc57-55432b9c7a5b"/>
+</archimate:AssociationRelationship>

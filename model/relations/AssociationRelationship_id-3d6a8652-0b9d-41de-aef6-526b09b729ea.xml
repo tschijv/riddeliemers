@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vergaderstukken raad - Notubiz (Rijnwaarden)"
+    id="id-3d6a8652-0b9d-41de-aef6-526b09b729ea"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-270bb2c6-ac41-4ab3-ace6-5bca20265f1b.xml#id-270bb2c6-ac41-4ab3-ace6-5bca20265f1b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b279c916-ad8d-46e9-a032-e9ed6b667cda.xml#id-b279c916-ad8d-46e9-a032-e9ed6b667cda"/>
+</archimate:AssociationRelationship>

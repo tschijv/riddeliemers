@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NARIS"
+    id="id-238378c9-e5d6-45ae-b7a5-951a7a06e60b">
+  <properties
+      key="Leverancier"
+      value="Nederlands Adviesbureau voor Risicomanagement (NAR)"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:25:26.26"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:26:44.44"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+</archimate:ApplicationComponent>

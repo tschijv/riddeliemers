@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VTLB Calculator Zevenaar - Bureau Wsnp"
+    id="id-da8c6eed-417a-4096-96fa-9ce3cdc18fae"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b3de7d7a-8025-41c8-891f-91a24efb7751.xml#id-b3de7d7a-8025-41c8-891f-91a24efb7751"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f6ff18b9-bb68-446d-8b5e-67eebcabf08e.xml#id-f6ff18b9-bb68-446d-8b5e-67eebcabf08e"/>
+</archimate:AssociationRelationship>

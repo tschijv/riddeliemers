@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keesing 1Stroom - RID.kdbx"
+    id="id-e562c88e-fff5-4287-8bbe-33a7e5ab4cc2"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a7edb832-e9f8-4d71-8463-c87d78f145b8.xml#id-a7edb832-e9f8-4d71-8463-c87d78f145b8"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-48892c2a-0ae8-408e-a1db-b28fd607ec9a.xml#id-48892c2a-0ae8-408e-a1db-b28fd607ec9a"/>
+</archimate:AccessRelationship>

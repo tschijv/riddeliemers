@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cognos - SV-APP96-P"
+    id="id-d0a73ee9-2b59-46fe-b682-ed3387f354e0"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-aaaa9518-3853-4dc2-b084-6145d8fc4eac.xml#id-aaaa9518-3853-4dc2-b084-6145d8fc4eac"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-0b1bba21-d093-4d09-9751-6360b05e2af2.xml#id-0b1bba21-d093-4d09-9751-6360b05e2af2"/>
+</archimate:AssociationRelationship>

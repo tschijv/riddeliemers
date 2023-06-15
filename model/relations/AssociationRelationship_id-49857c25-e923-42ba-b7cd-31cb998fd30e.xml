@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Power PDF - Kofax"
+    id="id-49857c25-e923-42ba-b7cd-31cb998fd30e"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-faa7f174-1d87-4c7f-8bc9-aaea0b7818f7.xml#id-faa7f174-1d87-4c7f-8bc9-aaea0b7818f7"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7f8a242b-7317-4e59-87c9-65e53f7cea44.xml#id-7f8a242b-7317-4e59-87c9-65e53f7cea44"/>
+</archimate:AssociationRelationship>

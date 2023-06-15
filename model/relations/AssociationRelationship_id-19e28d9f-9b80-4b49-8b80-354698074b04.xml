@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certificaten intern - SV-CER01-P"
+    id="id-19e28d9f-9b80-4b49-8b80-354698074b04"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-8d1ab5c3-ca43-4fef-8215-a0663efef303.xml#id-8d1ab5c3-ca43-4fef-8215-a0663efef303"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ab1bc701-56b9-425a-b521-32e2581b7c10.xml#id-ab1bc701-56b9-425a-b521-32e2581b7c10"/>
+</archimate:AssociationRelationship>

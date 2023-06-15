@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OMOP"
+    id="id-9ec1f0d9-9977-42f8-8566-e6f01057aa96"
+    documentation="Deelopdrachten asfaltonderhoud">
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="OMOP"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:53:47.47"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:51:04.04"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Specification"
+      value="Deelopdrachten asfaltonderhoud"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maarten Hageman"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ABS Spelen"
+    id="id-413298e4-a3dc-4952-b514-6957e68ce4e0"
+    documentation="Verwerken reparaties en inspectiegegeven speeltoestellen">
+  <properties
+      key="Specification"
+      value="Verwerken reparaties en inspectiegegeven speeltoestellen"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:53:48.48"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Leverancier"
+      value="DCTT"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Dick Molema"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:57:41.41"/>
+</archimate:ApplicationComponent>

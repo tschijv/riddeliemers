@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trend Micro Client - Trend Micro"
+    id="id-2f49ca37-09f9-437b-a709-4f1b946919a7"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-2165e1bb-64ce-4f35-9d8b-7b6c1cf9a6fb.xml#id-2165e1bb-64ce-4f35-9d8b-7b6c1cf9a6fb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-25d695f4-68d1-4805-aef7-41b75442ea63.xml#id-25d695f4-68d1-4805-aef7-41b75442ea63"/>
+</archimate:AssociationRelationship>

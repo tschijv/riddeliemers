@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suwimail - SV-EX10-P"
+    id="id-ffd8d75c-d716-439c-af01-530e477c5a46"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5932802e-13ca-44d5-9b22-f33b5c41417a.xml#id-5932802e-13ca-44d5-9b22-f33b5c41417a"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9717.xml#id-66612345-db23-40f9-be22-c54cdc8a9717"/>
+</archimate:AssociationRelationship>

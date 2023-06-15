@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ivanti Workspace Manager - Ivanti"
+    id="id-99338eb8-e4bc-494b-b4b9-f025ea8cef6f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-91fd4fad-137b-4715-b431-73fa3c65e81f.xml#id-91fd4fad-137b-4715-b431-73fa3c65e81f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f31a6590-617a-427f-9ca1-4c4c700cc3a2.xml#id-f31a6590-617a-427f-9ca1-4c4c700cc3a2"/>
+</archimate:AssociationRelationship>

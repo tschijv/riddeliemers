@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet RSD - Mett"
+    id="id-e78aae71-2318-4b8e-82a9-f02ff076d9d1"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dfdc1163-9491-4acb-a86a-be128b0fbecf.xml#id-dfdc1163-9491-4acb-a86a-be128b0fbecf"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-41dd157f-143b-4c88-8dea-f8358c07dcce.xml#id-41dd157f-143b-4c88-8dea-f8358c07dcce"/>
+</archimate:AssociationRelationship>

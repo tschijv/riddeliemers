@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keepass - KeePass"
+    id="id-45a2936e-b97a-4589-8c48-c0590a8bba8f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-438ded38-57c7-42b1-b430-b1f5afc68e23.xml#id-438ded38-57c7-42b1-b430-b1f5afc68e23"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-27de002e-055d-47b3-8f4e-7f541fad0558.xml#id-27de002e-055d-47b3-8f4e-7f541fad0558"/>
+</archimate:AssociationRelationship>

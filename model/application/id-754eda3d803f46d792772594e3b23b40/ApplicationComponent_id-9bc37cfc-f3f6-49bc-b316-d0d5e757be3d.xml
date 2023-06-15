@@ -4,13 +4,13 @@
     id="id-9bc37cfc-f3f6-49bc-b316-d0d5e757be3d">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Petra Spijkerman"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="98131dc2-8497-4c0b-96bc-2f796a44725d"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:09:42.42"/>
 </archimate:ApplicationComponent>

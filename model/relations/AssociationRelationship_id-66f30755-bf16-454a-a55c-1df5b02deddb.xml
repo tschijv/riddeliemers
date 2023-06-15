@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Xtendis Cockpit - Expansion BV"
+    id="id-66f30755-bf16-454a-a55c-1df5b02deddb"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2065c07d-1e94-474f-bc5c-d3bb7d9a7c7a.xml#id-2065c07d-1e94-474f-bc5c-d3bb7d9a7c7a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f7d350da-50a8-4ce9-b03c-68f70f26c387.xml#id-f7d350da-50a8-4ce9-b03c-68f70f26c387"/>
+</archimate:AssociationRelationship>

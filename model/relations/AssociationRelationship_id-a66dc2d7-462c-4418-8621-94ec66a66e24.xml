@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix StoreFront - Citrix"
+    id="id-a66dc2d7-462c-4418-8621-94ec66a66e24"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8325ad0a-c6e5-47a6-895f-bd01cda54d76.xml#id-8325ad0a-c6e5-47a6-895f-bd01cda54d76"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-67bd95dd-9bad-408c-8292-a250df775468.xml#id-67bd95dd-9bad-408c-8292-a250df775468"/>
+</archimate:AssociationRelationship>

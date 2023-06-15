@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LMS - Nederlands Licht Instituut (NLI)"
+    id="id-43eb7ef7-eaca-429c-9e80-77ef61bbee39"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-09b58920-de93-4893-ba3c-fc214fb63824.xml#id-09b58920-de93-4893-ba3c-fc214fb63824"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a03159ac-7bde-4b24-8527-4158d1965ee8.xml#id-a03159ac-7bde-4b24-8527-4158d1965ee8"/>
+</archimate:AssociationRelationship>

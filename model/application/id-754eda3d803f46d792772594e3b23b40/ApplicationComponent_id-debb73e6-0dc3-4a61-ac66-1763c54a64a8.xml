@@ -13,13 +13,13 @@
       value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Sharon Glashouwer"/>
+      value="Max Holland"/>
   <properties
       key="Leverancier"
-      value="IBM Nederland B.V."/>
+      value="Aruba"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="Zevenaar"/>
+      value="SDL"/>
   <properties
       key="Data hosting (Ouders)"
       value="ZVCOGNP1"/>
@@ -28,11 +28,17 @@
       value="ONWAAR"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="SV-APP96-P"/>
+      value="SV-CPM01-P SV-CPM02-P"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Max Holland"/>
   <properties
       key="Object ID"
       value="7c98399f-6861-42c0-9a3e-feaa14cccded"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T10:36:18.18"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:05.05"/>
 </archimate:ApplicationComponent>

@@ -4,13 +4,13 @@
     id="id-017f42f5-aba9-4e3b-b252-05c93f4a9b9c">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Ole van Beers"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="1885eef1-f394-44ba-bf15-00879fde4f2b"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-07T11:05:01.01"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-07-08T11:58:32.32"/>
 </archimate:ApplicationComponent>

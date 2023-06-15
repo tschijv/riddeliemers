@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SquitXO ZVN - SV-APP126-P"
+    id="id-fed7390a-8d6a-496d-8c11-30e1b67726e5"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c5a3e049-07c2-41a0-8fd1-e46d4e2a801e.xml#id-c5a3e049-07c2-41a0-8fd1-e46d4e2a801e"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9725.xml#id-66612345-db23-40f9-be22-c54cdc8a9725"/>
+</archimate:AssociationRelationship>

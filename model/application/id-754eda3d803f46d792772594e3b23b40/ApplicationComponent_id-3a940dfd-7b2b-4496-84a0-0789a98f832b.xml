@@ -4,7 +4,7 @@
     id="id-3a940dfd-7b2b-4496-84a0-0789a98f832b">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende Software"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Petra Spijkerman"/>
@@ -16,7 +16,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Leverancier"
       value="Bentley Systems Europe B.V."/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="bbf1b394-a2d7-4709-ad64-5cd8610dbd3d"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-09T14:37:23.23"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T12:20:38.38"/>
 </archimate:ApplicationComponent>

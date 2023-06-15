@@ -4,7 +4,7 @@
     id="id-a6d11e1f-d23d-4dc1-a737-73a826fafab7">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -13,7 +13,7 @@
       value="Storage, VMWare &amp; Back-up"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Leverancier"
       value="SAP Nederland B.V."/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="d0126c6e-9206-4138-ad3b-b85efe828c18"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-01T15:13:47.47"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
 </archimate:ApplicationComponent>

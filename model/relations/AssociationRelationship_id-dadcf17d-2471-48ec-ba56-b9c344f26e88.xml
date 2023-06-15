@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raas aanvraagstation ZVN - Raas werkstation"
+    id="id-dadcf17d-2471-48ec-ba56-b9c344f26e88"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-15a8ec60-a77a-45a0-b241-bafd00ebd503.xml#id-15a8ec60-a77a-45a0-b241-bafd00ebd503"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9720.xml#id-66612345-db23-40f9-be22-c54cdc8a9720"/>
+</archimate:AssociationRelationship>

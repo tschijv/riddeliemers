@@ -5,19 +5,19 @@
     documentation="Patchmanagement">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Systeemsoftware"/>
   <properties
       key="Samenvatting"
       value="Patchmanagement"/>
   <properties
       key="Behandelaarsgroep"
-      value="Technisch Applicatiebeheer"/>
+      value="Informatiebeveiliging"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Technisch applicatiebeheerder 2"
       value="Enes Korkmaz"/>
@@ -33,4 +33,13 @@
   <properties
       key="Object ID"
       value="0ba0bf8a-76c8-4fd8-a3ff-e746298e077d"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-22T11:55:45.45"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:56:37.37"/>
+  <properties
+      key="Specification"
+      value="Patchmanagement"/>
 </archimate:SystemSoftware>

@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Company Webcast"
+    id="id-fce4b64c-b3ff-41c3-830c-ca2ea112fe98"
+    documentation="webarchief raad">
+  <properties
+      key="Specification"
+      value="webarchief raad"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:44:58.58"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:43:20.20"/>
+  <properties
+      key="Leverancier"
+      value="Company Webcast"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+</archimate:ApplicationComponent>

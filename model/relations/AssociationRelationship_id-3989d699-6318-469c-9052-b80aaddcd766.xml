@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nice Label Pro - Loftware"
+    id="id-3989d699-6318-469c-9052-b80aaddcd766"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e7d397ad-3a09-4b11-b030-067daba285ee.xml#id-e7d397ad-3a09-4b11-b030-067daba285ee"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f9f56d07-7b27-43ae-b624-472a9b8cc0c9.xml#id-f9f56d07-7b27-43ae-b624-472a9b8cc0c9"/>
+</archimate:AssociationRelationship>

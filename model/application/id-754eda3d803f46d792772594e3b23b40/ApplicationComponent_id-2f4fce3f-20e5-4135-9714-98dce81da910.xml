@@ -5,7 +5,7 @@
     documentation="berichtenmodule key2begraven">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Samenvatting"
       value="berichtenmodule key2begraven"/>
@@ -39,4 +39,13 @@
   <properties
       key="Object ID"
       value="57122f08-5841-4860-bcb1-a8865ad10386"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Specification"
+      value="berichtenmodule key2begraven"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:18:31.31"/>
 </archimate:ApplicationComponent>

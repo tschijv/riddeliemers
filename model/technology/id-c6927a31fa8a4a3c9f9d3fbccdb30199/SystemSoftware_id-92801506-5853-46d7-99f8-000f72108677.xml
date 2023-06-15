@@ -10,7 +10,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse A"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Max Holland"/>
@@ -22,11 +22,17 @@
       value="RID de Liemers"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="VA-FWEVT01-p"/>
+      value="VA-FWMGM01-P"/>
   <properties
       key="Leverancier"
       value="KPN"/>
   <properties
       key="Object ID"
       value="06e52a99-7f61-4406-888c-4108840f0c2e"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-07T13:28:49.49"/>
 </archimate:SystemSoftware>

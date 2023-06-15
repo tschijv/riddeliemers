@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decos Join ZVN - Decos"
+    id="id-c3a1a44c-15ea-44d9-99b7-bd796544ece0"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7e34dc37-0aea-4466-bed9-96c437535606.xml#id-7e34dc37-0aea-4466-bed9-96c437535606"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-bf106048-3ff7-4ccc-a81a-8b52b1030e46.xml#id-bf106048-3ff7-4ccc-a81a-8b52b1030e46"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamask 1Stroom - Datamask B.V."
+    id="id-f32dd0ef-2d94-4f40-a71d-bccbd08945b7"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c05b9d3c-3210-4dd7-bb02-f84006a70704.xml#id-c05b9d3c-3210-4dd7-bb02-f84006a70704"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9e3fdc02-d819-44a1-a3de-6a9170de516a.xml#id-9e3fdc02-d819-44a1-a3de-6a9170de516a"/>
+</archimate:AssociationRelationship>

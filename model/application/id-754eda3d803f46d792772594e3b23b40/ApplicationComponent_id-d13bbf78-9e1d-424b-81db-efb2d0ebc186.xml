@@ -4,16 +4,16 @@
     id="id-d13bbf78-9e1d-424b-81db-efb2d0ebc186">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Robin Exoo"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Leverancier"
       value="TOPdesk"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="6c8e871a-92d2-4f02-be34-00821984d5cd"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-07T11:10:08.08"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T16:20:23.23"/>
 </archimate:ApplicationComponent>

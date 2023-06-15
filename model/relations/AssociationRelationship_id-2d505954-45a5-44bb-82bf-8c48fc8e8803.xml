@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suwinet - BKWI  (Bureau Keteninformatisering Werk en Inkomen)"
+    id="id-2d505954-45a5-44bb-82bf-8c48fc8e8803"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fdaf778d-b087-47a1-bdc1-474db9c85ee5.xml#id-fdaf778d-b087-47a1-bdc1-474db9c85ee5"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-caa62bc6-44fd-4a29-89c3-0d411501d16a.xml#id-caa62bc6-44fd-4a29-89c3-0d411501d16a"/>
+</archimate:AssociationRelationship>

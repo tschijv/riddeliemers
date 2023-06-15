@@ -4,13 +4,13 @@
     id="id-7df4386c-f25a-429e-b600-ccfa3beb7caa">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Ben Legters"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="bbe35521-1b74-4aae-a2b4-d7d261d044f5"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T11:24:39.39"/>
 </archimate:ApplicationComponent>

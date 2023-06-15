@@ -4,7 +4,7 @@
     id="id-85fc7e3c-db8f-47d0-b64e-0daaa0ad9952">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -35,4 +35,13 @@
   <properties
       key="Object ID"
       value="5be013f1-3187-43e4-9bc2-70c06d33426d"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-09T14:38:04.04"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Carolien Hofstede"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
 </archimate:ApplicationComponent>

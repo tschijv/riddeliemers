@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBeaver"
+    id="id-4569b5b5-dc30-4cb3-a692-fcaa10cf1948"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-226ea3fc21124dfd8ea8526a4b3fbfbc"/>
+</archimate:BusinessActor>

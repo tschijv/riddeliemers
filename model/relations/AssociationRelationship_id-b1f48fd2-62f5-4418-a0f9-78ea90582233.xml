@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNS beheer - Oxilion"
+    id="id-b1f48fd2-62f5-4418-a0f9-78ea90582233"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-74c2a45c-658d-4b85-8aa7-6900165f178c.xml#id-74c2a45c-658d-4b85-8aa7-6900165f178c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b9a5d2eb-c565-458e-8c2a-048167f9afe1.xml#id-b9a5d2eb-c565-458e-8c2a-048167f9afe1"/>
+</archimate:AssociationRelationship>

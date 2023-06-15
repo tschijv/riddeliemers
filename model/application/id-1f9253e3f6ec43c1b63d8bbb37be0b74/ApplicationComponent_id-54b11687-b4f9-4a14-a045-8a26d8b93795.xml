@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rx.Zone - Zevenaar"
+    id="id-54b11687-b4f9-4a14-a045-8a26d8b93795"
+    documentation="Ruimtelijke Ordening software">
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:28:35.35"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Andrea Schuil"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-30T10:00:14.14"/>
+  <properties
+      key="Notities"
+      value=" Archiveren  Bekendmaken"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Specification"
+      value="Ruimtelijke Ordening software"/>
+</archimate:ApplicationComponent>

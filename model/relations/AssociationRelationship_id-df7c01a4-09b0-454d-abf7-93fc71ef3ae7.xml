@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logboek app - Werktools/AndSafety"
+    id="id-df7c01a4-09b0-454d-abf7-93fc71ef3ae7"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e6a48588-1d46-4d71-92f3-f089dfdd90e2.xml#id-e6a48588-1d46-4d71-92f3-f089dfdd90e2"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c358b71e-4321-4ce3-b3c8-f058454651c1.xml#id-c358b71e-4321-4ce3-b3c8-f058454651c1"/>
+</archimate:AssociationRelationship>

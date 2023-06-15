@@ -4,7 +4,7 @@
     id="id-2e3bff55-f840-453e-87b9-051c1c9e4990">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Ilse Boerboom"/>
@@ -13,7 +13,7 @@
       value="Luc Boerboom"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse A"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -41,4 +41,10 @@
   <properties
       key="Object ID"
       value="7446f030-584f-4b00-aba0-0cd6d6f7db6c"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:13:28.28"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-07-01T11:10:31.31"/>
 </archimate:ApplicationComponent>

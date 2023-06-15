@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ElasticSearch - SV-ELK01-P"
+    id="id-98adfb00-e603-45bd-86a4-9b896cf16391"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-c902218b-5b1c-4c75-b52f-f7642b2fe8b2.xml#id-c902218b-5b1c-4c75-b52f-f7642b2fe8b2"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-78ab0ba7-7d4f-4d06-afd8-a533e29d5d7d.xml#id-78ab0ba7-7d4f-4d06-afd8-a533e29d5d7d"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitel MiCollab Server - Zetacom"
+    id="id-77596122-c59a-4a72-a74f-1b4ad8353a97"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-b87a5e8c-a590-4ba7-8406-474062d0eb6c.xml#id-b87a5e8c-a590-4ba7-8406-474062d0eb6c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-72bd5c54-fbda-4501-b58c-a72b20cb6cd4.xml#id-72bd5c54-fbda-4501-b58c-a72b20cb6cd4"/>
+</archimate:AssociationRelationship>

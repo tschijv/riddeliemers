@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iWOZ"
+    id="id-d7c6d516-97bb-4bde-a390-a4a0a80a224e"
+    documentation="softwaresysteem dat vraagprijzen en vastgoedinformatie .....">
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Specification"
+      value="softwaresysteem dat vraagprijzen en vastgoedinformatie ....."/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID softwaresysteem dat vraagprijzen en vastgoedinformatie verzamelt en deze gegevens vervolgens via een eigen website inzichtelijk maakt"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:22:22.22"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Leverancier"
+      value="MOSS BV"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:24:22.22"/>
+</archimate:ApplicationComponent>

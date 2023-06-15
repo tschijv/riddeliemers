@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CROW"
+    id="id-f7698f15-c6d0-4e7b-b8ca-ba6b41a8b445"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-22bdc49655844f2b8f57608d3a35d08e"/>
+</archimate:BusinessActor>

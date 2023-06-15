@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adobe CC - Adobe"
+    id="id-1d1096e5-a34f-4dc3-96f8-58811dc620e4"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fb72763a-1769-4a2f-bf8f-4b2a0bbfd78b.xml#id-fb72763a-1769-4a2f-bf8f-4b2a0bbfd78b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e4df32c8-d15b-4c56-98b4-9e01ebf3a814.xml#id-e4df32c8-d15b-4c56-98b4-9e01ebf3a814"/>
+</archimate:AssociationRelationship>

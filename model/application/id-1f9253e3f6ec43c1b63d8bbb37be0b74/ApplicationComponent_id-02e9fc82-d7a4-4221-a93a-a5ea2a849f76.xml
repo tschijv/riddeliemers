@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NPR"
+    id="id-02e9fc82-d7a4-4221-a93a-a5ea2a849f76"
+    documentation="Nationaal Parkeer Register">
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-06-05T15:04:08.08"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-06-05T15:03:13.13"/>
+  <properties
+      key="Specification"
+      value="Nationaal Parkeer Register"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Danny van den Berg"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

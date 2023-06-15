@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="I-Navigator 1Stroom - VHIC"
+    id="id-97e6e044-441c-452b-8e7f-4fb8232b3e42"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e5c13b10-f613-4765-9a30-404e42f188a3.xml#id-e5c13b10-f613-4765-9a30-404e42f188a3"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-fda9ee0e-55df-4f59-a98a-7367c1ea51b7.xml#id-fda9ee0e-55df-4f59-a98a-7367c1ea51b7"/>
+</archimate:AssociationRelationship>

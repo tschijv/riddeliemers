@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWS Grondwaterportal - Eijkelkamp Soil &amp; Water"
+    id="id-387e0443-f93a-4a4c-b1b6-153a7ed839a5"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-59032e2e-a9ea-44eb-a908-b792d0025cc1.xml#id-59032e2e-a9ea-44eb-a908-b792d0025cc1"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e914dfe6-a3d1-4d00-abeb-dcf9afb357e6.xml#id-e914dfe6-a3d1-4d00-abeb-dcf9afb357e6"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kikker Riool ZVN - ALGKIKP"
+    id="id-b4d652b5-c732-4bac-b469-609cd88eb6cd"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fd932063-181e-427a-9741-ddf735d5adf6.xml#id-fd932063-181e-427a-9741-ddf735d5adf6"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-e9ce13c9-8abd-4552-ba08-1785344ecdde.xml#id-e9ce13c9-8abd-4552-ba08-1785344ecdde"/>
+</archimate:AccessRelationship>

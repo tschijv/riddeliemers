@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Riobase - Global Vitis b.v."
+    id="id-09eb481e-f4ae-43dd-adb7-5bc74eb81931"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3f8d2a39-622d-4a7c-8ad7-5713ff24df1e.xml#id-3f8d2a39-622d-4a7c-8ad7-5713ff24df1e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7caa965d-6ee6-4841-8a9b-b26223de327f.xml#id-7caa965d-6ee6-4841-8a9b-b26223de327f"/>
+</archimate:AssociationRelationship>

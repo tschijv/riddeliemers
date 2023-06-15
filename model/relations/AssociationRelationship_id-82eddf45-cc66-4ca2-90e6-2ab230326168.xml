@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bristoets - Bris"
+    id="id-82eddf45-cc66-4ca2-90e6-2ab230326168"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-559487e6-1d3b-45ff-8ee2-538470306884.xml#id-559487e6-1d3b-45ff-8ee2-538470306884"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c4861fd7-5452-4b2d-9720-95a222545849.xml#id-c4861fd7-5452-4b2d-9720-95a222545849"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 Publiceren DVN - SV-FS01-P"
+    id="id-c850f370-b407-46c5-8b08-58504e688539"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-017f42f5-aba9-4e3b-b252-05c93f4a9b9c.xml#id-017f42f5-aba9-4e3b-b252-05c93f4a9b9c"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-10a367dc-c740-43d6-b994-89a2abfe52d3.xml#id-10a367dc-c740-43d6-b994-89a2abfe52d3"/>
+</archimate:AssociationRelationship>

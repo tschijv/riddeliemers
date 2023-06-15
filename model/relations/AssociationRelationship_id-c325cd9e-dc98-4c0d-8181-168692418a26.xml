@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOORwerkt - MOOR"
+    id="id-c325cd9e-dc98-4c0d-8181-168692418a26"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-194515b9-3c25-4857-809d-d97d0dcea7ee.xml#id-194515b9-3c25-4857-809d-d97d0dcea7ee"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-6fb71457-e32d-429e-950a-e535814b521c.xml#id-6fb71457-e32d-429e-950a-e535814b521c"/>
+</archimate:AssociationRelationship>

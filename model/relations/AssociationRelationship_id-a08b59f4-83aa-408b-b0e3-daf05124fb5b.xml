@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microstation - Bentley Systems Europe B.V."
+    id="id-a08b59f4-83aa-408b-b0e3-daf05124fb5b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3a940dfd-7b2b-4496-84a0-0789a98f832b.xml#id-3a940dfd-7b2b-4496-84a0-0789a98f832b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4c2536f5-336e-4897-9fc5-de627942359b.xml#id-4c2536f5-336e-4897-9fc5-de627942359b"/>
+</archimate:AssociationRelationship>

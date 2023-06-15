@@ -4,7 +4,7 @@
     id="id-aa928322-f2d8-4776-ba0a-1bbd96795ebc">
   <properties
       key="Applicatiesoort"
-      value="Systeem Software"/>
+      value="Systeemsoftware"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse A"/>
@@ -17,4 +17,10 @@
   <properties
       key="Object ID"
       value="47266ffc-02be-4ea3-9afd-ed3483a1f993"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-21T12:06:23.23"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:57:29.29"/>
 </archimate:SystemSoftware>

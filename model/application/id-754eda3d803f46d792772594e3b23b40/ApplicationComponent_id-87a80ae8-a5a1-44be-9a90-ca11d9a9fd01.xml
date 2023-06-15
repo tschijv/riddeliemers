@@ -4,7 +4,7 @@
     id="id-87a80ae8-a5a1-44be-9a90-ca11d9a9fd01">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Ilse Boerboom"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="65935a82-d448-464d-a326-51ef036be87f"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:12:58.58"/>
 </archimate:ApplicationComponent>

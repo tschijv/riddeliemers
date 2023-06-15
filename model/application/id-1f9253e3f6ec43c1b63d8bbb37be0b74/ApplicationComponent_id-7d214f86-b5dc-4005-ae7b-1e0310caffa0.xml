@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FortiOS"
+    id="id-7d214f86-b5dc-4005-ae7b-1e0310caffa0"
+    documentation="besturingssysteem van Fortinet">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-03-27T15:07:40.40"/>
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-03-27T09:10:09.09"/>
+  <properties
+      key="Leverancier"
+      value="Fortinet"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Specification"
+      value="besturingssysteem van Fortinet"/>
+</archimate:ApplicationComponent>

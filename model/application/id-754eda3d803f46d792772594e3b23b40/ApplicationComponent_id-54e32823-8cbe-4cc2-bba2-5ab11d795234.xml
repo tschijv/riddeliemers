@@ -2,16 +2,16 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="JCC Tjooner Zevenaar"
     id="id-54e32823-8cbe-4cc2-bba2-5ab11d795234"
-    documentation="Beeldscherm communicatie software Zevenaar">
+    documentation="Beeldscherm communicatie software Zevenaar  Client Studio">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Samenvatting"
       value="Beeldscherm communicatie software Zevenaar"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Maikel Bouwman"/>
@@ -23,7 +23,7 @@
       value="Luc Boerboom"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="Gemeente Zevenaar"/>
+      value="Zevenaar"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -33,4 +33,13 @@
   <properties
       key="Object ID"
       value="980c97d4-e4ef-4907-ae0c-d7c035f7bb7e"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-04T14:16:04.04"/>
+  <properties
+      key="Specification"
+      value="Beeldscherm communicatie software Zevenaar  Client Studio"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-05T10:39:52.52"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Burgerzaken DVN - DVNPIVP"
+    id="id-de10bb9d-e9ea-4e19-b83a-9c66a9af4d97"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e8fe71af-3acb-4110-ae88-57d3683b8723.xml#id-e8fe71af-3acb-4110-ae88-57d3683b8723"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-c45c6566-df5d-489c-9bc1-fa71dcf13f48.xml#id-c45c6566-df5d-489c-9bc1-fa71dcf13f48"/>
+</archimate:AccessRelationship>

@@ -4,7 +4,7 @@
     id="id-725ac82f-332b-4b17-a18c-27e7a5f34e68">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -13,7 +13,7 @@
       value="ONWAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Marlies Heutink"/>
+      value="Anouk Polman"/>
   <properties
       key="Toewijzingen - Locaties"
       value="Duiven"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="e2ee29c8-afb0-4855-b917-1dcec2ea0baa"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:11:47.47"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
 </archimate:ApplicationComponent>

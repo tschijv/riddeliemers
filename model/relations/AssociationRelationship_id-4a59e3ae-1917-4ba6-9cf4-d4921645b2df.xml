@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal Burgerzaken WTV - SV-APP119-P"
+    id="id-4a59e3ae-1917-4ba6-9cf4-d4921645b2df"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-22945401-e181-4412-a901-66b13d5af633.xml#id-22945401-e181-4412-a901-66b13d5af633"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9718.xml#id-66612345-db23-40f9-be22-c54cdc8a9718"/>
+</archimate:AssociationRelationship>

@@ -4,13 +4,13 @@
     id="id-3fd6f5fc-7600-4283-a468-7df8ae3a6d73">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Simone Geerts"/>
@@ -35,4 +35,16 @@
   <properties
       key="Object ID"
       value="7a6bd7ae-5da4-4916-af88-3a665a826e19"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-07-08T11:58:32.32"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-21T13:54:53.53"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Carmen Dahles"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
 </archimate:ApplicationComponent>

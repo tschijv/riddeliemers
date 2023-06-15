@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBeaver"
+    id="id-759cc985-8c0d-4d84-a123-19a9818b0c65"
+    documentation="DBeaver is een database tool voor beheer">
+  <properties
+      key="Notities"
+      value="Versie 22.3 Licentie: Open Source"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="DBeaver"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-03-07T15:07:03.03"/>
+  <properties
+      key="Specification"
+      value="DBeaver is een database tool voor beheer"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Patrick Veldman"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-03-07T15:06:26.26"/>
+</archimate:ApplicationComponent>

@@ -4,10 +4,10 @@
     id="id-2368e604-bf45-47b3-99a8-1787f3d2e75a">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Arnold Witjes"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="0f5e61df-a6aa-402e-8bb8-67aae6f1746c"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T10:39:56.56"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Personeelsplanning 1Stroom - 1STRJCCPS_SYN"
+    id="id-39d027ba-0fdf-4d68-83f7-1552e22f9c20"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d4ce5707-46b8-4e70-8743-9e28895e8e92.xml#id-d4ce5707-46b8-4e70-8743-9e28895e8e92"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-f78c5185-9a81-45fe-b042-a365286631b6.xml#id-f78c5185-9a81-45fe-b042-a365286631b6"/>
+</archimate:AccessRelationship>

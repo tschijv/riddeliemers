@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hectronic Hecpoll - SV-APP108-P"
+    id="id-1aaf08e3-84af-4676-b11f-15ca3f3ac5e6"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7e46becb-79a1-41b4-9122-ec521d428748.xml#id-7e46becb-79a1-41b4-9122-ec521d428748"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-99912345-db23-40f9-be22-c54cdc8a97aa.xml#id-99912345-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

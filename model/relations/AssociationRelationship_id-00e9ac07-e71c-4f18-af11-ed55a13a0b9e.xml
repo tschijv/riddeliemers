@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Topdesk - TOPdesk"
+    id="id-00e9ac07-e71c-4f18-af11-ed55a13a0b9e"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d13bbf78-9e1d-424b-81db-efb2d0ebc186.xml#id-d13bbf78-9e1d-424b-81db-efb2d0ebc186"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d2911d16-d864-4643-ba6e-3ab65322403b.xml#id-d2911d16-d864-4643-ba6e-3ab65322403b"/>
+</archimate:AssociationRelationship>

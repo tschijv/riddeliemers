@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Engage Proces - Engage Process"
+    id="id-d4ba8101-8a75-45ca-a3a6-ea66e3caeff4"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-087f817c-443c-4b38-afe4-0758a696414f.xml#id-087f817c-443c-4b38-afe4-0758a696414f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-02911ea6-776d-46e2-8a4e-ab469e68eda8.xml#id-02911ea6-776d-46e2-8a4e-ab469e68eda8"/>
+</archimate:AssociationRelationship>

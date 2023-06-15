@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOUW WTV - ALGGBELP1"
+    id="id-965d5120-d278-4dc1-a6ef-62518866769d"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a7fb5cba-90b5-45b3-bf99-7c14e7f33368.xml#id-a7fb5cba-90b5-45b3-bf99-7c14e7f33368"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-f70943d0-eda0-4d29-946a-b99929f3b110.xml#id-f70943d0-eda0-4d29-946a-b99929f3b110"/>
+</archimate:AccessRelationship>

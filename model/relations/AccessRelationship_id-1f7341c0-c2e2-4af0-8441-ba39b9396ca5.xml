@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tangelo - SDWTANP"
+    id="id-1f7341c0-c2e2-4af0-8441-ba39b9396ca5"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9e1024ac-6773-4f5e-987f-e7bf02362e7d.xml#id-9e1024ac-6773-4f5e-987f-e7bf02362e7d"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-bbe55710-89d8-4862-8e56-3d0bdcfe513f.xml#id-bbe55710-89d8-4862-8e56-3d0bdcfe513f"/>
+</archimate:AccessRelationship>

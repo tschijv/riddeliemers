@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bink/dywag"
+    id="id-8f1e8b1e-c380-4420-957c-0c12ec8dcda3"
+    documentation="Nen normen tbv. toestsing bouwvergunningen">
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:29:50.50"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Leverancier"
+      value="DGMR Software B.V."/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:26:46.46"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Specification"
+      value="Nen normen tbv. toestsing bouwvergunningen"/>
+</archimate:ApplicationComponent>

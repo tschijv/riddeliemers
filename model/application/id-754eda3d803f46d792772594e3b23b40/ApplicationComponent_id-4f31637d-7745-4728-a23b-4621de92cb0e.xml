@@ -4,10 +4,10 @@
     id="id-4f31637d-7745-4728-a23b-4621de92cb0e">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Jolanda Smeijer"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="d63f15c5-d19f-4ee3-a1b7-2add797c10e1"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-01T16:12:48.48"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-07-08T11:58:32.32"/>
 </archimate:ApplicationComponent>

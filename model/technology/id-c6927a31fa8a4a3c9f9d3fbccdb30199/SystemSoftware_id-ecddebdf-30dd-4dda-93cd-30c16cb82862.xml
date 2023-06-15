@@ -4,7 +4,7 @@
     id="id-ecddebdf-30dd-4dda-93cd-30c16cb82862">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
@@ -13,16 +13,16 @@
       value="WAAR"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="RID de Liemers"/>
+      value="Zevenaar"/>
   <properties
       key="Technisch applicatiebeheerder 2"
       value="Hille Veenstra"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="SV-APP92-P"/>
+      value="XenAPP"/>
   <properties
       key="Leverancier"
-      value="Tweco-IT B.V."/>
+      value="iBabs B.V."/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Walter Hermsen"/>
@@ -32,4 +32,16 @@
   <properties
       key="Object ID"
       value="6efeabf1-8f89-4978-b620-cb267c9c22d4"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-23T11:33:27.27"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Bestuurssecretariaat Zevenaar"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Duchan Sommers"/>
 </archimate:SystemSoftware>

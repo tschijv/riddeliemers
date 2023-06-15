@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Burgerzaken WTV - SV-WLS20-P"
+    id="id-8ccb3f94-05d9-4ef6-b993-a22925cf197f"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6bdb4473-cbf1-498d-afb6-7247dfea3052.xml#id-6bdb4473-cbf1-498d-afb6-7247dfea3052"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a8.xml#id-66612345-db23-40f9-be22-c54cdc8a97a8"/>
+</archimate:AssociationRelationship>

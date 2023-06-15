@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="I-Navigator Zevenaar - VHIC"
+    id="id-3a79d23d-c4f7-4996-8c66-93c2bf639cf0"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cb4127d0-6f6e-4410-acba-034dbeb946cb.xml#id-cb4127d0-6f6e-4410-acba-034dbeb946cb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-fda9ee0e-55df-4f59-a98a-7367c1ea51b7.xml#id-fda9ee0e-55df-4f59-a98a-7367c1ea51b7"/>
+</archimate:AssociationRelationship>

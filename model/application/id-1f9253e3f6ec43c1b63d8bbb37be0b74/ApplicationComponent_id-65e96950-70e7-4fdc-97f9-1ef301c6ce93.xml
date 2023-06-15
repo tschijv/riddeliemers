@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afvaloverzicht.nl"
+    id="id-65e96950-70e7-4fdc-97f9-1ef301c6ce93"
+    documentation="webapp registratie ledigingen huisvuilcontainers">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:17:02.02"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:12:46.46"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Leverancier"
+      value="GSD ICT-Services B.V."/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Specification"
+      value="webapp registratie ledigingen huisvuilcontainers"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+</archimate:ApplicationComponent>

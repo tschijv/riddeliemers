@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Central Station - Simac"
+    id="id-0550145e-1ace-477b-bfa6-087a1412e34c"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-b53e4a4d-5339-4cf1-8f53-d46f12c0d8ac.xml#id-b53e4a4d-5339-4cf1-8f53-d46f12c0d8ac"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-76ef0a50-834d-4b28-a34f-179017987a57.xml#id-76ef0a50-834d-4b28-a34f-179017987a57"/>
+</archimate:AssociationRelationship>

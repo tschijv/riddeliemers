@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamask ZVN - Decos Join ZVN"
+    id="id-0ba3f93c-168a-46f0-a114-32437c08cd94"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1b418c98-f387-43d5-b9be-151ad6c43a7b.xml#id-1b418c98-f387-43d5-b9be-151ad6c43a7b"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-7177bb82-ec43-48a2-909d-03230ad84031.xml#id-7177bb82-ec43-48a2-909d-03230ad84031"/>
+</archimate:AssociationRelationship>

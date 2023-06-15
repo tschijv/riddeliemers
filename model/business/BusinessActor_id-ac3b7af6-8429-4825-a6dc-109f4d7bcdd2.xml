@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Greenpoint"
+    id="id-ac3b7af6-8429-4825-a6dc-109f4d7bcdd2"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-c332352038c5431ca3dfe26bfe39f2a5"/>
+</archimate:BusinessActor>

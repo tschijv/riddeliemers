@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Burgerzaken DVN - SV-WLS10-P"
+    id="id-a85a321f-8bfd-43c6-881b-5f01acace7e0"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e8fe71af-3acb-4110-ae88-57d3683b8723.xml#id-e8fe71af-3acb-4110-ae88-57d3683b8723"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a7.xml#id-66612345-db23-40f9-be22-c54cdc8a97a7"/>
+</archimate:AssociationRelationship>

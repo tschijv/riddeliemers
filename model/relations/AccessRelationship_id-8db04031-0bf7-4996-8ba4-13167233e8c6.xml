@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Burgerzaken WTV - WTVPIVP"
+    id="id-8db04031-0bf7-4996-8ba4-13167233e8c6"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6bdb4473-cbf1-498d-afb6-7247dfea3052.xml#id-6bdb4473-cbf1-498d-afb6-7247dfea3052"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-48c232de-af6f-4a9b-8f35-97a2be9c9497.xml#id-48c232de-af6f-4a9b-8f35-97a2be9c9497"/>
+</archimate:AccessRelationship>

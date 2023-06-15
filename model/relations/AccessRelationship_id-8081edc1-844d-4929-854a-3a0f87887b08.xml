@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hectronic Hecpoll - Hectronic_Zevenaar"
+    id="id-8081edc1-844d-4929-854a-3a0f87887b08"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7e46becb-79a1-41b4-9122-ec521d428748.xml#id-7e46becb-79a1-41b4-9122-ec521d428748"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-4c2069ca-2385-480b-a3c1-c41797b39438.xml#id-4c2069ca-2385-480b-a3c1-c41797b39438"/>
+</archimate:AccessRelationship>

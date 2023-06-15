@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOUW DVN - SV-APP100-P"
+    id="id-75b0f756-fda3-40d4-a60b-75302fb8f0e6"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a27340e8-bec6-4480-9b75-7b7a814477fb.xml#id-a27340e8-bec6-4480-9b75-7b7a814477fb"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-15012345-db23-40f9-be22-c54cdc8a97aa.xml#id-15012345-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

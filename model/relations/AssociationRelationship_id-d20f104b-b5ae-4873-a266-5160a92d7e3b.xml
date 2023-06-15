@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bomgar - DCA-HFDLOC-PAM01"
+    id="id-d20f104b-b5ae-4873-a266-5160a92d7e3b"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-d09be8ba-4f44-4069-883a-f69de205b366.xml#id-d09be8ba-4f44-4069-883a-f69de205b366"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-2801af77-89f1-43cc-95e0-409c1ca5f5a3.xml#id-2801af77-89f1-43cc-95e0-409c1ca5f5a3"/>
+</archimate:AssociationRelationship>

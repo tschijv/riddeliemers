@@ -5,19 +5,19 @@
     documentation="Vulnarability scanner">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Systeemsoftware"/>
   <properties
       key="Samenvatting"
       value="Vulnarability scanner"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
   <properties
       key="Behandelaarsgroep"
-      value="Technisch Applicatiebeheer"/>
+      value="Informatiebeveiliging"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -33,4 +33,13 @@
   <properties
       key="Object ID"
       value="872337b7-ef87-49ee-b18c-e17f19111285"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-22T11:53:04.04"/>
+  <properties
+      key="Specification"
+      value="Vulnarability scanner"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:56:24.24"/>
 </archimate:SystemSoftware>

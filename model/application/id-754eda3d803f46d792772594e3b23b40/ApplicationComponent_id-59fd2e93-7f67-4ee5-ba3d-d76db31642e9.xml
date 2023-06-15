@@ -4,7 +4,7 @@
     id="id-59fd2e93-7f67-4ee5-ba3d-d76db31642e9">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
@@ -13,7 +13,7 @@
       value="Petra Spijkerman"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Toewijzingen - Locaties"
       value="SDL"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="cf353578-37a1-42df-a556-23c70bec860a"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:48:56.56"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
 </archimate:ApplicationComponent>

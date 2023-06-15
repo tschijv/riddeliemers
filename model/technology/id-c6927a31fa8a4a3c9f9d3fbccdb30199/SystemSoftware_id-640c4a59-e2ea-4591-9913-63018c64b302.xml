@@ -16,7 +16,7 @@
       value="Walter Hermsen"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="SV-SF03-P SV-SF04-P"/>
+      value="SV-PVS01-P SV-PVS02-P"/>
   <properties
       key="Leverancier"
       value="Citrix"/>
@@ -32,4 +32,13 @@
   <properties
       key="Object ID"
       value="dfc82ebd-2c4d-44f0-81e4-e1e1df4cfdd5"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T12:20:38.38"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="CTX-RIDLogging CTX-RIDMonitoring CTX-RIDSite PVS-RID"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T16:22:30.30"/>
 </archimate:SystemSoftware>

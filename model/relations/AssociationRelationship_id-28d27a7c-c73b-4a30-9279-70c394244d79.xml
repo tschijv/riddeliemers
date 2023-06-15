@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google Chrome - Fysieke werkplek"
+    id="id-28d27a7c-c73b-4a30-9279-70c394244d79"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6c387b0f-c653-40f2-b3e6-8746f950025f.xml#id-6c387b0f-c653-40f2-b3e6-8746f950025f"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-14982345-db23-40f9-be22-c54cdc8a97aa.xml#id-14982345-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingenico Payment Services GmbH"
+    id="id-7d1e9ad1-9d85-487f-ad92-9821f699c6ae"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-a837937db10a4e2c883c23bd958ef7a3"/>
+</archimate:BusinessActor>

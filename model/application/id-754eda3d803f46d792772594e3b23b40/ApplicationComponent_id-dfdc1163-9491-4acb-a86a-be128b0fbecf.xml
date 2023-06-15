@@ -4,7 +4,7 @@
     id="id-dfdc1163-9491-4acb-a86a-be128b0fbecf">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -29,4 +29,22 @@
   <properties
       key="Object ID"
       value="3684aa65-aba1-4f38-9a70-017a4e43c882"/>
+  <properties
+      key="Functioneel applicatiebeheerder 4"
+      value="Eltjo Stoete"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Paula van Remmen"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-21T15:31:02.02"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Chantal van Aggelen"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Arif Toygar"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote Desktop Manager - Devolutions"
+    id="id-0151d1f1-0e81-4b36-85f4-214cb21a8044"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-fd1d8067-9add-49bc-ab3e-7d9862043fb5.xml#id-fd1d8067-9add-49bc-ab3e-7d9862043fb5"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8d4332dd-0749-411c-8212-c1ea70bbe4f2.xml#id-8d4332dd-0749-411c-8212-c1ea70bbe4f2"/>
+</archimate:AssociationRelationship>

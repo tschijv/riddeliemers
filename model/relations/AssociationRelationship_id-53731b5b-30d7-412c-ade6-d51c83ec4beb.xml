@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timetell SDL - SV-APP125-P"
+    id="id-53731b5b-30d7-412c-ade6-d51c83ec4beb"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-95b05f12-b6f8-4d48-8268-1be66c42e910.xml#id-95b05f12-b6f8-4d48-8268-1be66c42e910"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97aa.xml#id-66612345-db23-40f9-be22-c54cdc8a97aa"/>
+</archimate:AssociationRelationship>

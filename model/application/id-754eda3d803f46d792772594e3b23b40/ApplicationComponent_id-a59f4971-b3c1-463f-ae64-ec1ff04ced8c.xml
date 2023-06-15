@@ -4,7 +4,7 @@
     id="id-a59f4971-b3c1-463f-ae64-ec1ff04ced8c">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Elke van Raaij"/>
@@ -13,7 +13,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse C"/>
   <properties
       key="Applicatie hosting (Ouders)"
       value="XenAPP"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="c72a185a-a740-464b-929d-f9e6c44decde"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2021-10-08T12:30:22.22"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:18:42.42"/>
 </archimate:ApplicationComponent>

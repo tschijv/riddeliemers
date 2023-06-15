@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deep Freeze"
+    id="id-ebce9540-e11c-4aa9-85d3-7d0cf9f4ef1f"
+    documentation="t.b.v. Klant PC RSD">
+  <properties
+      key="Leverancier"
+      value="Faronics"/>
+  <properties
+      key="Specification"
+      value="t.b.v. Klant PC RSD"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-02-23T08:35:39.39"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-02-23T08:35:39.39"/>
+</archimate:ApplicationComponent>

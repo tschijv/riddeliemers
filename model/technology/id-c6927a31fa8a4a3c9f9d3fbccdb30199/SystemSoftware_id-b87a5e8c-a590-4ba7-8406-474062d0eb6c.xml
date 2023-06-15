@@ -4,7 +4,7 @@
     id="id-b87a5e8c-a590-4ba7-8406-474062d0eb6c">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Robin Exoo"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="75aa1739-e1fe-4393-91c5-52b7a4f463b7"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:03:42.42"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T15:41:41.41"/>
 </archimate:SystemSoftware>

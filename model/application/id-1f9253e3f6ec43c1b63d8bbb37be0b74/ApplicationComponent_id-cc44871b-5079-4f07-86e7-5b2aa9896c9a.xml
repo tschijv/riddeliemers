@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RIS module KTA"
+    id="id-cc44871b-5079-4f07-86e7-5b2aa9896c9a"
+    documentation="Toepassing voor verwerking administratie toeslagenaffaire">
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:40:48.48"/>
+  <properties
+      key="Leverancier"
+      value="Inforing BV"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Terry Nijland"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:42:43.43"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Specification"
+      value="Toepassing voor verwerking administratie toeslagenaffaire"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OMOP"
+    id="id-6a118950-4950-4981-a68c-f5f2fe7148b7"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-f7bbd25a95a74a7fb738ee0fb0292ddd"/>
+</archimate:BusinessActor>

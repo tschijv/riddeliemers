@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wifi - Aruba"
+    id="id-4c387966-c57e-45c9-bf2a-db61c9dd60fe"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-78f556dc-f842-4763-9f6e-518b642d236a.xml#id-78f556dc-f842-4763-9f6e-518b642d236a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-796c2b1d-ccc2-4d87-99bb-1f94d77045d8.xml#id-796c2b1d-ccc2-4d87-99bb-1f94d77045d8"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerfectView Begraafplaats - PerfectView CRM b.v."
+    id="id-e046c9f9-fe98-4954-bee6-0f67fa337caa"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-85fc7e3c-db8f-47d0-b64e-0daaa0ad9952.xml#id-85fc7e3c-db8f-47d0-b64e-0daaa0ad9952"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-787614b2-c28a-4364-abaa-e100aeddc5ef.xml#id-787614b2-c28a-4364-abaa-e100aeddc5ef"/>
+</archimate:AssociationRelationship>

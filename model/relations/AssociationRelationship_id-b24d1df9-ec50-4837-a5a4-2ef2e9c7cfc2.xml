@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Klantgeleiding ZVN - SV-APP97-P"
+    id="id-b24d1df9-ec50-4837-a5a4-2ef2e9c7cfc2"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2e3bff55-f840-453e-87b9-051c1c9e4990.xml#id-2e3bff55-f840-453e-87b9-051c1c9e4990"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a3.xml#id-66612345-db23-40f9-be22-c54cdc8a97a3"/>
+</archimate:AssociationRelationship>

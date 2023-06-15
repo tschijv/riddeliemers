@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GoBright"
+    id="id-9e114fe1-20c8-405f-a89b-a44db9b4e220"
+    documentation="opvolger van TIC Narrowcasting">
+  <properties
+      key="Leverancier"
+      value="GoBright"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:05:42.42"/>
+  <properties
+      key="Specification"
+      value="opvolger van TIC Narrowcasting"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-11-28T11:23:18.18"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Basissoftware "/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maikel Bouwman"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+</archimate:ApplicationComponent>

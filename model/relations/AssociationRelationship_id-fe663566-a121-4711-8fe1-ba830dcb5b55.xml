@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgmail Safe Relay - Enovation"
+    id="id-fe663566-a121-4711-8fe1-ba830dcb5b55"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80c9c1b6-bafc-4162-864f-ec39dd6b586a.xml#id-80c9c1b6-bafc-4162-864f-ec39dd6b586a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7b78efdc-7de0-44fd-835b-424b79cd5c19.xml#id-7b78efdc-7de0-44fd-835b-424b79cd5c19"/>
+</archimate:AssociationRelationship>

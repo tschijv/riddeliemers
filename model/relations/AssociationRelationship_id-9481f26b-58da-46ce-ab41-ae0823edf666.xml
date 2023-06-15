@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JKC 1Stroom - Decos"
+    id="id-9481f26b-58da-46ce-ab41-ae0823edf666"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4ff7e296-fb57-4f51-b4fb-a63ce1837ce7.xml#id-4ff7e296-fb57-4f51-b4fb-a63ce1837ce7"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-bf106048-3ff7-4ccc-a81a-8b52b1030e46.xml#id-bf106048-3ff7-4ccc-a81a-8b52b1030e46"/>
+</archimate:AssociationRelationship>

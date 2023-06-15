@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EB Match - SV-FS01-P"
+    id="id-1647bbde-6fd1-40b1-a0fd-ee5df570b9e1"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-89db96a3-5192-49d6-820f-148df35888be.xml#id-89db96a3-5192-49d6-820f-148df35888be"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-10a367dc-c740-43d6-b994-89a2abfe52d3.xml#id-10a367dc-c740-43d6-b994-89a2abfe52d3"/>
+</archimate:AssociationRelationship>

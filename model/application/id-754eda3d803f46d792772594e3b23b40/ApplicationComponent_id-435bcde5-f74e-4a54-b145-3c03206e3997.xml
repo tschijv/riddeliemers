@@ -4,7 +4,7 @@
     id="id-435bcde5-f74e-4a54-b145-3c03206e3997">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende Software"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -13,11 +13,32 @@
       value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Arianne Zwaan"/>
+      value="Andrea Schuil"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
   <properties
       key="Object ID"
       value="0fe023c4-9174-474b-9be0-5f85a0f40c76"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Leverancier"
+      value="GIskit"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="XenDesktop"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-08T15:34:13.13"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
 </archimate:ApplicationComponent>

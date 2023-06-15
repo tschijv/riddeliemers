@@ -4,16 +4,16 @@
     id="id-4fd6660f-8585-4e48-aa19-5da6eb9992f5">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Behandelaarsgroep"
-      value="Technisch Applicatiebeheer"/>
+      value="Storage, VMWare &amp; Back-up"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Danny van Leeuwen"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -38,4 +38,10 @@
   <properties
       key="Object ID"
       value="bb9b4e8f-2fdc-4a98-a874-e8405a113eda"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-22T12:15:16.16"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
 </archimate:SystemSoftware>

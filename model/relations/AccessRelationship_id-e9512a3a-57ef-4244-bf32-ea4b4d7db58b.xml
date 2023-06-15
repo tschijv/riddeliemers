@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektor WTV - EL0293"
+    id="id-e9512a3a-57ef-4244-bf32-ea4b4d7db58b"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4f31637d-7745-4728-a23b-4621de92cb0e.xml#id-4f31637d-7745-4728-a23b-4621de92cb0e"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-f2fa0a29-92e0-4811-a047-d93faad1d64c.xml#id-f2fa0a29-92e0-4811-a047-d93faad1d64c"/>
+</archimate:AccessRelationship>

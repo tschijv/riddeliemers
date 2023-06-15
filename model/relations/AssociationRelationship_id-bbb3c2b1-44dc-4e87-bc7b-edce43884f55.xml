@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Templafy - Templafy"
+    id="id-bbb3c2b1-44dc-4e87-bc7b-edce43884f55"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-25ef4ff6-a644-42e9-9d7c-c4b7ba01a033.xml#id-25ef4ff6-a644-42e9-9d7c-c4b7ba01a033"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-0fe56922-1091-40c9-8469-3420ca16d765.xml#id-0fe56922-1091-40c9-8469-3420ca16d765"/>
+</archimate:AssociationRelationship>

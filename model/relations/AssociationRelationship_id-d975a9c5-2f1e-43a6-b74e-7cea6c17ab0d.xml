@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generieke kaartviewer - GeoNovation"
+    id="id-d975a9c5-2f1e-43a6-b74e-7cea6c17ab0d"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-96f43849-e588-4f0d-8b26-d5bc574cf4ca.xml#id-96f43849-e588-4f0d-8b26-d5bc574cf4ca"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-970ed160-2d78-4d39-9914-b1a607c02df4.xml#id-970ed160-2d78-4d39-9914-b1a607c02df4"/>
+</archimate:AssociationRelationship>

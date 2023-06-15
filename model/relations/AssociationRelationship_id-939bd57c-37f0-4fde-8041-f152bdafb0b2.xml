@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeentelijk Incidenten Registratiesysteem (GIR) - Zevenaar"
+    id="id-939bd57c-37f0-4fde-8041-f152bdafb0b2"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1225b0d3-77f4-4c35-8ff1-493fcc0fe390.xml#id-1225b0d3-77f4-4c35-8ff1-493fcc0fe390"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-c2044ed1-da47-456f-9478-34f7f9342fe4.xml#id-c2044ed1-da47-456f-9478-34f7f9342fe4"/>
+</archimate:AssociationRelationship>

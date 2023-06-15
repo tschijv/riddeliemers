@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Berichtenbox Mijnoverheid - Logius"
+    id="id-13db426f-df5b-4d30-ad3d-3b2a4dea38ed"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b22a8cb0-bdc7-4095-9721-706708a60702.xml#id-b22a8cb0-bdc7-4095-9721-706708a60702"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f1f71f47-57d9-49fb-9fd1-c880098130c9.xml#id-f1f71f47-57d9-49fb-9fd1-c880098130c9"/>
+</archimate:AssociationRelationship>

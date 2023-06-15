@@ -4,13 +4,13 @@
     id="id-2d0a7e6f-4083-4cf9-9b40-5c7b250ab3fc">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Applicatie hosting (Ouders)"
       value="XenAPP"/>
@@ -20,4 +20,13 @@
   <properties
       key="Object ID"
       value="6cd66185-fc22-4021-82f9-9fb7f0795f84"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:52:56.56"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-10-08T12:30:06.06"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
 </archimate:ApplicationComponent>

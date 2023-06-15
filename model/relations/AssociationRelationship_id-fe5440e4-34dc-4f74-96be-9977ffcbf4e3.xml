@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participatieplatform - Mett"
+    id="id-fe5440e4-34dc-4f74-96be-9977ffcbf4e3"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1c9483f9-8615-483e-b462-c70c497791cf.xml#id-1c9483f9-8615-483e-b462-c70c497791cf"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-41dd157f-143b-4c88-8dea-f8358c07dcce.xml#id-41dd157f-143b-4c88-8dea-f8358c07dcce"/>
+</archimate:AssociationRelationship>

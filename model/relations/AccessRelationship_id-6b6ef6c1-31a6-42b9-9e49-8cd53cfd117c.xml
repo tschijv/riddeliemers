@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Afspraken en Reserveren ZVN - ZEVENAARJCCPGP"
+    id="id-6b6ef6c1-31a6-42b9-9e49-8cd53cfd117c"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8e2f6bce-7cf5-440e-b07e-f58467990166.xml#id-8e2f6bce-7cf5-440e-b07e-f58467990166"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-0fdd6ba3-cee8-4b1b-825e-b2ed88e46b1b.xml#id-0fdd6ba3-cee8-4b1b-825e-b2ed88e46b1b"/>
+</archimate:AccessRelationship>

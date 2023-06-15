@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flexwhere - FlexWhere"
+    id="id-9b7cdfe9-75b3-4923-a175-47a910b0c7b4"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f0cb8d0cde694154dff9e0dab8f1b7cc.xml#id-f0cb8d0cde694154dff9e0dab8f1b7cc"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8f80eb78-18ed-448d-8f78-296591666b76.xml#id-8f80eb78-18ed-448d-8f78-296591666b76"/>
+</archimate:AssociationRelationship>

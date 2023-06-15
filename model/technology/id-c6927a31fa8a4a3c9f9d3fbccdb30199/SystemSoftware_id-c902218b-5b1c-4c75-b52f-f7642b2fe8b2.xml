@@ -8,13 +8,13 @@
       value="syslog server"/>
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -27,4 +27,16 @@
   <properties
       key="Object ID"
       value="d5069af6-7c0d-4da5-a526-e9d162ed719e"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:56:08.08"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Informatiebeveiliging"/>
+  <properties
+      key="Specification"
+      value="syslog server"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-22T11:59:13.13"/>
 </archimate:SystemSoftware>

@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iBabs 1Stroom"
+    id="id-c7d136bd-4028-4f28-b74f-c041bc8f5c21">
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-24T14:36:51.51"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Leverancier"
+      value="iBabs B.V."/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-09T12:06:50.50"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Noortje Bouwman"/>
+</archimate:ApplicationComponent>

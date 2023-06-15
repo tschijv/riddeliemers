@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aquaview"
+    id="id-378c2c74-54d0-498c-943f-45cf1b7ca747"
+    documentation="Hoofdpost aansturing / storingsmelding gemalen">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="Xylem"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:20:37.37"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:23:01.01"/>
+  <properties
+      key="Specification"
+      value="Hoofdpost aansturing / storingsmelding gemalen"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maarten Kuster"/>
+</archimate:ApplicationComponent>

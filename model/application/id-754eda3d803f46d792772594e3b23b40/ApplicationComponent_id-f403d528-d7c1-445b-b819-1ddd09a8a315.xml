@@ -4,7 +4,7 @@
     id="id-f403d528-d7c1-445b-b819-1ddd09a8a315">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Ole van Beers"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="8127d8fe-1026-47d3-b3ad-04ccb8691105"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:32:07.07"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
 </archimate:ApplicationComponent>

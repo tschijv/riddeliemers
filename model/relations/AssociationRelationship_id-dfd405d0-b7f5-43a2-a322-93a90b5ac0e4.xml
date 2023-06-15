@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papercut Print Server - PCI  Nederland  bv"
+    id="id-dfd405d0-b7f5-43a2-a322-93a90b5ac0e4"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7ebe7675-cc7d-4879-bfba-4808d4c4ea2e.xml#id-7ebe7675-cc7d-4879-bfba-4808d4c4ea2e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3a33386b-c39c-42bd-99b7-3c1b9a8c85c1.xml#id-3a33386b-c39c-42bd-99b7-3c1b9a8c85c1"/>
+</archimate:AssociationRelationship>

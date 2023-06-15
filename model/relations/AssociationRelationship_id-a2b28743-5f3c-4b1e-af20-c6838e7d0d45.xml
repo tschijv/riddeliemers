@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stratech - SV-APP123-P"
+    id="id-a2b28743-5f3c-4b1e-af20-c6838e7d0d45"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2cc5eb9b-417f-461d-abd4-55c2e62afdb6.xml#id-2cc5eb9b-417f-461d-abd4-55c2e62afdb6"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9710.xml#id-66612345-db23-40f9-be22-c54cdc8a9710"/>
+</archimate:AssociationRelationship>

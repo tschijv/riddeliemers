@@ -4,7 +4,7 @@
     id="id-33a33017-9dc6-4a07-b6d6-c7cde5115ded">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende Software"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Simone Geerts"/>
@@ -13,7 +13,7 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Fenna Schiks"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="f5a8e729-bfbc-4221-b002-2f209adf4e11"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:27:26.26"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:10:22.22"/>
 </archimate:ApplicationComponent>

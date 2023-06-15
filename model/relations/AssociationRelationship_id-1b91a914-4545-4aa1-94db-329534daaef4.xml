@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWRSRegister - Waste Vision"
+    id="id-1b91a914-4545-4aa1-94db-329534daaef4"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4b4ff698-1589-4c6d-a628-13796ed8bae4.xml#id-4b4ff698-1589-4c6d-a628-13796ed8bae4"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-938c270b-c1d6-4fe4-8a33-e468ead8865f.xml#id-938c270b-c1d6-4fe4-8a33-e468ead8865f"/>
+</archimate:AssociationRelationship>

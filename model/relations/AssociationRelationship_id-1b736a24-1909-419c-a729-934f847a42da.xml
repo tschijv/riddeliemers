@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote Desktop Manager - SV-CMG01-P"
+    id="id-1b736a24-1909-419c-a729-934f847a42da"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-fd1d8067-9add-49bc-ab3e-7d9862043fb5.xml#id-fd1d8067-9add-49bc-ab3e-7d9862043fb5"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-253709da-ce2a-4450-811b-2be543b91d36.xml#id-253709da-ce2a-4450-811b-2be543b91d36"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MindMaple - MindMaple"
+    id="id-f6461eb0-d8fa-4691-b852-34439fe253d8"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9a77653f-5e19-403e-b4de-359bcb1079df.xml#id-9a77653f-5e19-403e-b4de-359bcb1079df"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-29e9ab31-a8e2-4af4-9caf-c82ad495eafb.xml#id-29e9ab31-a8e2-4af4-9caf-c82ad495eafb"/>
+</archimate:AssociationRelationship>

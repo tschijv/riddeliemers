@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decos Join 1Stroom - Decos"
+    id="id-a812ebe9-2124-42b2-baaf-34dc40981051"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a4a8b019-070a-4c96-8fff-552a81c9fb7a.xml#id-a4a8b019-070a-4c96-8fff-552a81c9fb7a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-bf106048-3ff7-4ccc-a81a-8b52b1030e46.xml#id-bf106048-3ff7-4ccc-a81a-8b52b1030e46"/>
+</archimate:AssociationRelationship>

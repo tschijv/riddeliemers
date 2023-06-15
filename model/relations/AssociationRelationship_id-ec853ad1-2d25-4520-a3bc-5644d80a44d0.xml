@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTM tbv MGR - MGR"
+    id="id-ec853ad1-2d25-4520-a3bc-5644d80a44d0"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-32d4a34b-b790-4ea5-86ca-5507c0864e78.xml#id-32d4a34b-b790-4ea5-86ca-5507c0864e78"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_Id-c2066sd1-da47-456f-9478-34f7f9342fe4.xml#Id-c2066sd1-da47-456f-9478-34f7f9342fe4"/>
+</archimate:AssociationRelationship>

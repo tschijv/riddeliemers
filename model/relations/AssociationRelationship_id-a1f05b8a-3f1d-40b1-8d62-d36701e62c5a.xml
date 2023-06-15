@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="archiefweb - GW crossmedia"
+    id="id-a1f05b8a-3f1d-40b1-8d62-d36701e62c5a"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1cb61394-4fd7-41a6-84ed-ca42b54e1aed.xml#id-1cb61394-4fd7-41a6-84ed-ca42b54e1aed"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-ef4e4689-07f2-438f-827f-409b15df7bbf.xml#id-ef4e4689-07f2-438f-827f-409b15df7bbf"/>
+</archimate:AssociationRelationship>

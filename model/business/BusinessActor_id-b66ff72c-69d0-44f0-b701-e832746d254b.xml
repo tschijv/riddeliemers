@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ARCgis"
+    id="id-b66ff72c-69d0-44f0-b701-e832746d254b"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-7d61fe3c19ba403ebfecc7534424861b"/>
+</archimate:BusinessActor>

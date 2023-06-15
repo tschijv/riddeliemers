@@ -14,7 +14,7 @@
       value="Simone Geerts"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Petra Spijkerman"/>
+      value="Carmen Dahles"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -39,4 +39,16 @@
   <properties
       key="Object ID"
       value="7fed55aa-895b-4c1c-af75-5c5a0a3bbc71"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-29T15:00:35.35"/>
+  <properties
+      key="Specification"
+      value="tbv Key2burgerzaken Westervoort"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-01-09T13:45:33.33"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Petra Spijkerman"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Greenpoint - Greenpoint"
+    id="id-96ad0849-3142-465b-8fcb-247525f92b8f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-83082b2b-00b0-4565-9b03-9f0c742350a9.xml#id-83082b2b-00b0-4565-9b03-9f0c742350a9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-ac3b7af6-8429-4825-a6dc-109f4d7bcdd2.xml#id-ac3b7af6-8429-4825-a6dc-109f4d7bcdd2"/>
+</archimate:AssociationRelationship>

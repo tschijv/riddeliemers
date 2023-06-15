@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2GBAV Zevenaar - Centric"
+    id="id-da87e207-3313-4858-a9a1-15dee0b8bc3b"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07ba26ce-7f52-4eb6-abd8-06a075db67a6.xml#id-07ba26ce-7f52-4eb6-abd8-06a075db67a6"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-038c6434-4304-4c40-9599-1c4cbc9fa888.xml#id-038c6434-4304-4c40-9599-1c4cbc9fa888"/>
+</archimate:AssociationRelationship>

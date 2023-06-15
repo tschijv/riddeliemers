@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWS Grondwaterportal"
+    id="id-59032e2e-a9ea-44eb-a908-b792d0025cc1"
+    documentation="Grondwatermeetnet">
+  <properties
+      key="Leverancier"
+      value="Eijkelkamp Soil &amp; Water"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Specification"
+      value="Grondwatermeetnet"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:59:01.01"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T13:02:30.30"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maarten Kuster"/>
+</archimate:ApplicationComponent>

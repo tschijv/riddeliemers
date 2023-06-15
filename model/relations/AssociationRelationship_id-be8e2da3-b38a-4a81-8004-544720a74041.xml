@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemnet - Gemnet Router"
+    id="id-be8e2da3-b38a-4a81-8004-544720a74041"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-1ed38c34-e5ed-45eb-84a1-34bfa1785bc6.xml#id-1ed38c34-e5ed-45eb-84a1-34bfa1785bc6"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-c6368de2-26cd-4f24-8f40-b9ec6e7d2eed.xml#id-c6368de2-26cd-4f24-8f40-b9ec6e7d2eed"/>
+</archimate:AssociationRelationship>

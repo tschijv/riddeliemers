@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Securitech document scanner - Securitech Detection &amp; Verification B.V."
+    id="id-de6da0d8-5ac1-499a-905c-ed15f94445f3"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5de32a5b-f449-40d9-9539-08e09fc1e01e.xml#id-5de32a5b-f449-40d9-9539-08e09fc1e01e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8a342923-1866-4d87-abf1-260706767d45.xml#id-8a342923-1866-4d87-abf1-260706767d45"/>
+</archimate:AssociationRelationship>

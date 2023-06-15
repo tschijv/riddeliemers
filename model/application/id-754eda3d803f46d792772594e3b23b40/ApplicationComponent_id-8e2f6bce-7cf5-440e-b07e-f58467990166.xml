@@ -4,7 +4,7 @@
     id="id-8e2f6bce-7cf5-440e-b07e-f58467990166">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Marleen te Poele"/>
@@ -41,4 +41,10 @@
   <properties
       key="Object ID"
       value="16e62e43-c261-4e57-832c-70d28dc250b3"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:11:08.08"/>
 </archimate:ApplicationComponent>

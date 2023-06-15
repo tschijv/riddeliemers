@@ -4,13 +4,13 @@
     id="id-27655f18-2d5a-4a45-b2e8-067a5f1fadbb">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Rudo van Gellekom"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -35,4 +35,13 @@
   <properties
       key="Object ID"
       value="d98edbac-1c90-4f2c-907b-cda20da2da99"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:10:18.18"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-28T14:39:08.08"/>
 </archimate:ApplicationComponent>

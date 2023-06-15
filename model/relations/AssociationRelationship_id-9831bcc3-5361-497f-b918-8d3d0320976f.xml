@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generieke kaartviewer - SV-APP103-P"
+    id="id-9831bcc3-5361-497f-b918-8d3d0320976f"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-96f43849-e588-4f0d-8b26-d5bc574cf4ca.xml#id-96f43849-e588-4f0d-8b26-d5bc574cf4ca"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-321963aa-627c-45fe-88d9-0154780af83b.xml#id-321963aa-627c-45fe-88d9-0154780af83b"/>
+</archimate:AssociationRelationship>

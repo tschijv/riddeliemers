@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Tjooner 1Stroom"
+    id="id-e206568a-3646-4b3e-ad30-64daf3eeafbd"
+    documentation=" Client Studio">
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Anouk Polman"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Nardie Langenhof"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-04T14:19:25.25"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-04T14:14:30.30"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Specification"
+      value=" Client Studio"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="1Stroom"/>
+  <properties
+      key="Leverancier"
+      value="JCC Software"/>
+</archimate:ApplicationComponent>

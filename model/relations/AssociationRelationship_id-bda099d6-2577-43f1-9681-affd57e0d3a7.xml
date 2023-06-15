@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beaufort ZVN - Visma | Raet"
+    id="id-bda099d6-2577-43f1-9681-affd57e0d3a7"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ab50cf2-51e8-47f2-9a94-4f81bde35367.xml#id-0ab50cf2-51e8-47f2-9a94-4f81bde35367"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-57695d97-b2cc-4b7f-8835-18af6481932f.xml#id-57695d97-b2cc-4b7f-8835-18af6481932f"/>
+</archimate:AssociationRelationship>

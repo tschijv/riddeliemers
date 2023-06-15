@@ -4,10 +4,10 @@
     id="id-d271a86d-1b6a-4b24-99a5-d6eaa3d2676e">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse A"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Robin Exoo"/>
@@ -41,4 +41,10 @@
   <properties
       key="Object ID"
       value="7e6a2998-d5ab-43c3-8577-75a1c313ce3c"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T15:41:40.40"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-25T08:51:33.33"/>
 </archimate:ApplicationComponent>

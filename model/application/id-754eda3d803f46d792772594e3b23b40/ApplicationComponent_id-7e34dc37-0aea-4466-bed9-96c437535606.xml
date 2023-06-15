@@ -4,13 +4,13 @@
     id="id-7e34dc37-0aea-4466-bed9-96c437535606">
   <properties
       key="Applicatiesoort"
-      value="Kernsoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Lars Rikkers"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse B"/>
@@ -35,4 +35,16 @@
   <properties
       key="Object ID"
       value="385f097a-1e65-4fe6-a37c-3c3f9c27896e"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:35:12.12"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T13:48:13.13"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Steven Roosen"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Datamask ZVN"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeentelijk Incidenten Registratiesysteem (GIR)"
+    id="id-1225b0d3-77f4-4c35-8ff1-493fcc0fe390">
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Leverancier"
+      value="A&amp;O fonds gemeenten"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:09:26.26"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:12:00.00"/>
+</archimate:ApplicationComponent>

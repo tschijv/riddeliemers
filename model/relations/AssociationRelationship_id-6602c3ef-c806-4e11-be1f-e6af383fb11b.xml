@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle Enterprise Manager - SV-oem02-p"
+    id="id-6602c3ef-c806-4e11-be1f-e6af383fb11b"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-2ba8aa73-7e2b-4ba6-a58e-87a36b6c9b5f.xml#id-2ba8aa73-7e2b-4ba6-a58e-87a36b6c9b5f"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9750.xml#id-66612345-db23-40f9-be22-c54cdc8a9750"/>
+</archimate:AssociationRelationship>

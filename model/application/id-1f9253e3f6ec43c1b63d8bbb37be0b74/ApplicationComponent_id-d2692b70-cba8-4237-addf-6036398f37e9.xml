@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NEN-connect"
+    id="id-d2692b70-cba8-4237-addf-6036398f37e9"
+    documentation="Normbladen, gebruikt bij keuringen installaties">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Specification"
+      value="Normbladen, gebruikt bij keuringen installaties"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:27:48.48"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Maarten Kuster"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:36:27.27"/>
+  <properties
+      key="Leverancier"
+      value="NEN"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

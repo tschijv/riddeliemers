@@ -5,13 +5,13 @@
     documentation="virtualisatie platform">
   <properties
       key="Applicatiesoort"
-      value="Systeemsoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Samenvatting"
       value="virtualisatie platform"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -23,11 +23,23 @@
       value="ONWAAR"/>
   <properties
       key="Applicatie hosting (Kind-middelen)"
-      value="SV-VCS01-P, SV-VCS11-P"/>
+      value="SV-VCS01-P SV-VCS11-P"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Enes Korkmaz"/>
   <properties
       key="Object ID"
       value="2df7c7df-996b-49cf-928d-338d6737c63e"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Storage, VMWare &amp; Back-up"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-22T12:11:28.28"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-22T12:11:28.28"/>
+  <properties
+      key="Specification"
+      value="virtualisatie platform"/>
 </archimate:ApplicationComponent>

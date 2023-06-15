@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2VOA Duiven - DVNDDSP"
+    id="id-c8354145-7684-4dde-b643-80d708d16140"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-541352a0-afae-4ffe-912c-9dd580751a6b.xml#id-541352a0-afae-4ffe-912c-9dd580751a6b"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-54e66c13-b194-4bda-ba4c-d7bd01c5efb1.xml#id-54e66c13-b194-4bda-ba4c-d7bd01c5efb1"/>
+</archimate:AccessRelationship>

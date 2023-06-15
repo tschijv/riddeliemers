@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Service Bus (ESB) - Enable-U"
+    id="id-095dd416-8d11-4544-9482-6dd03b588b17"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f2bd63b2-4185-4d07-a10f-ed9834636ad6.xml#id-f2bd63b2-4185-4d07-a10f-ed9834636ad6"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-57239d5e-2dd1-4bbf-bba4-fc777cfca65b.xml#id-57239d5e-2dd1-4bbf-bba4-fc777cfca65b"/>
+</archimate:AssociationRelationship>

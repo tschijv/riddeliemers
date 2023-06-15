@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet RID - SV-APP120-P"
+    id="id-4c8bc017-4767-4a21-b0a8-477fae1660ff"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b1d454d0-146a-4a0a-bedb-07baff6bb6db.xml#id-b1d454d0-146a-4a0a-bedb-07baff6bb6db"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97ay.xml#id-66612345-db23-40f9-be22-c54cdc8a97ay"/>
+</archimate:AssociationRelationship>

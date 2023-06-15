@@ -7,10 +7,10 @@
       value="Ondersteunende Software"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Jurrien de Kramer"/>
+      value="Erik van Leeuwen"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -19,7 +19,7 @@
       value="Simac"/>
   <properties
       key="Technisch applicatiebeheerder 1"
-      value="Walter Hermsen"/>
+      value="Max Holland"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
@@ -28,8 +28,14 @@
       value="XenAPP"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="1Stroom"/>
+      value="Zevenaar"/>
   <properties
       key="Object ID"
       value="da99f5a8-4e14-4694-96de-35642f80b568"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-21T14:47:25.25"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DWG TrueView - Autodesk"
+    id="id-b8a8b971-b66e-44ee-a596-210b57f8480d"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2368e604-bf45-47b3-99a8-1787f3d2e75a.xml#id-2368e604-bf45-47b3-99a8-1787f3d2e75a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-734c3be7-bc16-4b0e-ae9c-56e2272ef00e.xml#id-734c3be7-bc16-4b0e-ae9c-56e2272ef00e"/>
+</archimate:AssociationRelationship>

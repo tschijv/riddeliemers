@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet ZVN - Mett"
+    id="id-2bdd9ada-25c8-4cc6-ba4e-a28fdd5b18cd"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-874a0b61-0723-4308-9df9-b63c0f1261ee.xml#id-874a0b61-0723-4308-9df9-b63c0f1261ee"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-41dd157f-143b-4c88-8dea-f8358c07dcce.xml#id-41dd157f-143b-4c88-8dea-f8358c07dcce"/>
+</archimate:AssociationRelationship>

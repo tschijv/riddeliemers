@@ -4,7 +4,7 @@
     id="id-8bba9c92-935c-40e6-acc2-c5a5efa87a2c">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -13,7 +13,7 @@
       value="Pieter Veenhuijsen"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Tim Schuitema"/>
@@ -38,4 +38,13 @@
   <properties
       key="Object ID"
       value="89ffdc7c-e7fe-44e6-b7f8-1e5915020179"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-10-08T11:31:35.35"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:06:29.29"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
 </archimate:ApplicationComponent>

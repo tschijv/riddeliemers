@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rx.Mission - Zevenaar"
+    id="id-0c724cdb-5533-4778-afb6-0d951cf16e6f"
+    documentation="VTH Software">
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Oscar Peters"/>
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:28:25.25"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Notities"
+      value=" Basis  Mobiel Toezicht met Op Pad  Controlelijsten Bouwwerken en Milieu  Publiceren Omgevingswet en AwB  Plannen  en Prioriteren  e-Learning  Module Inzien "/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-30T10:14:34.34"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Nikos Emmanouil"/>
+  <properties
+      key="Specification"
+      value="VTH Software"/>
+</archimate:ApplicationComponent>

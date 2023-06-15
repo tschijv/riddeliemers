@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TimeXtender - Zevenaar_TX_ODX"
+    id="id-14e55076-f38b-4641-aecd-a04c06fc36d5"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8bba9c92-935c-40e6-acc2-c5a5efa87a2c.xml#id-8bba9c92-935c-40e6-acc2-c5a5efa87a2c"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-ff1fe4f8-7823-406b-a751-d589e402a3cb.xml#id-ff1fe4f8-7823-406b-a751-d589e402a3cb"/>
+</archimate:AccessRelationship>

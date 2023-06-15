@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Service Bus (ESB) - SDLADEPP"
+    id="id-2ce10720-f2c4-4857-93ed-7cfbf4336401"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f2bd63b2-4185-4d07-a10f-ed9834636ad6.xml#id-f2bd63b2-4185-4d07-a10f-ed9834636ad6"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-d8fab35e-ff37-4f70-a834-8b86e08d42f6.xml#id-d8fab35e-ff37-4f70-a834-8b86e08d42f6"/>
+</archimate:AccessRelationship>

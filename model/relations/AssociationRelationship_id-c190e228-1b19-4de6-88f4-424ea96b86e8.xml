@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afvaloverzicht.nl - GSD ICT-Services B.V."
+    id="id-c190e228-1b19-4de6-88f4-424ea96b86e8"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-65e96950-70e7-4fdc-97f9-1ef301c6ce93.xml#id-65e96950-70e7-4fdc-97f9-1ef301c6ce93"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-cc2c743f-912e-4b87-a497-885a14b8eba6.xml#id-cc2c743f-912e-4b87-a497-885a14b8eba6"/>
+</archimate:AssociationRelationship>

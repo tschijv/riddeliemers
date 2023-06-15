@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Financien.NET - SV-APP70-P"
+    id="id-f9530f35-5f28-40dc-b3dc-849055e28b2e"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5a10613f-9afb-477f-aa78-bd432f15f7f2.xml#id-5a10613f-9afb-477f-aa78-bd432f15f7f2"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a9.xml#id-66612345-db23-40f9-be22-c54cdc8a97a9"/>
+</archimate:AssociationRelationship>

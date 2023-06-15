@@ -4,10 +4,10 @@
     id="id-63e6627f-27aa-4910-a279-c338710aa9a2">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
       value="Wilma Dikker"/>
@@ -16,7 +16,7 @@
       value="Hans Hetterschijt"/>
   <properties
       key="Cloud"
-      value="WAAR"/>
+      value="ONWAAR"/>
   <properties
       key="Leverancier"
       value="Hedaal B.V."/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="7a5aa12b-1f5c-4b4e-af05-77b7a9e0ac83"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-08-15T13:59:45.45"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:18:42.42"/>
 </archimate:ApplicationComponent>

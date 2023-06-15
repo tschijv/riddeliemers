@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trackjack Business-track - TrackJack Europe"
+    id="id-0c8ab189-cb87-4958-b3f2-653e821191a5"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0c8d2009-040a-4e23-bd61-29f531070a4b.xml#id-0c8d2009-040a-4e23-bd61-29f531070a4b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a8298899-ef7c-4677-8133-c15d9fb9f53e.xml#id-a8298899-ef7c-4677-8133-c15d9fb9f53e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWRSRegister - AWRSRegister_Duiven"
+    id="id-8b0c108b-e40a-4f49-aaad-b569429c6337"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4b4ff698-1589-4c6d-a628-13796ed8bae4.xml#id-4b4ff698-1589-4c6d-a628-13796ed8bae4"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-2c7e6d1d-acaa-44c2-b510-c9c2bf079fb5.xml#id-2c7e6d1d-acaa-44c2-b510-c9c2bf079fb5"/>
+</archimate:AccessRelationship>

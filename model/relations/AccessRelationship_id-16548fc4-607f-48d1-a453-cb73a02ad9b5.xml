@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ivanti Workspace Manager - RES-Workspacemanager"
+    id="id-16548fc4-607f-48d1-a453-cb73a02ad9b5"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-91fd4fad-137b-4715-b431-73fa3c65e81f.xml#id-91fd4fad-137b-4715-b431-73fa3c65e81f"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-494acf46-f050-4c79-badd-282ae783ea81.xml#id-494acf46-f050-4c79-badd-282ae783ea81"/>
+</archimate:AccessRelationship>

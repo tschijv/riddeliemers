@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kostendekkendheid.nl - Kostendekkendheid.nl BV"
+    id="id-b7d70a4e-062d-4899-b207-e621aa204253"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-544aba15-62f0-4b02-b621-09e209d13ece.xml#id-544aba15-62f0-4b02-b621-09e209d13ece"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8d16312f-c4d4-480c-ad81-5dd99ab05044.xml#id-8d16312f-c4d4-480c-ad81-5dd99ab05044"/>
+</archimate:AssociationRelationship>

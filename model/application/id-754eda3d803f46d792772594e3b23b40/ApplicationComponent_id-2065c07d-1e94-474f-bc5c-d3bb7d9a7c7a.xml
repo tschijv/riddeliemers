@@ -4,7 +4,7 @@
     id="id-2065c07d-1e94-474f-bc5c-d3bb7d9a7c7a">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Kees van Galen"/>
@@ -29,4 +29,13 @@
   <properties
       key="Object ID"
       value="387c7d43-6cd2-46d0-afea-19f14184a837"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:10:18.18"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-07T11:16:46.46"/>
+  <properties
+      key="Behandelaarsgroep"
+      value="Technisch Applicatiebeheer"/>
 </archimate:ApplicationComponent>

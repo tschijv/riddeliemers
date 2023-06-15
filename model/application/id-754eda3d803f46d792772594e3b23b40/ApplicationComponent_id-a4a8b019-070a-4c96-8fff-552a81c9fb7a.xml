@@ -4,19 +4,19 @@
     id="id-a4a8b019-070a-4c96-8fff-552a81c9fb7a">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Kernapplicatie"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Lydia Knijf"/>
+      value="Robin Stafleu"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Guus Benkers"/>
+      value="Lydia Knijf"/>
   <properties
       key="Toewijzingen - Locaties"
       value="1Stroom"/>
@@ -38,4 +38,13 @@
   <properties
       key="Object ID"
       value="28ae6205-cccd-4faf-a228-a07c7e7fcaf5"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:34:52.52"/>
+  <properties
+      key="Applicatie hosting (Kind-middelen)"
+      value="Datamask 1Stroom"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T15:41:40.40"/>
 </archimate:ApplicationComponent>

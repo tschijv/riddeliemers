@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VendorLink tbv MGR - MGR"
+    id="id-3691c7e2-86c2-4b7f-9f7c-d2a41f7e375e"
+    documentation="Toewijzingen - Locaties"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e050c625-b10e-42b5-8555-584ea8b8e309.xml#id-e050c625-b10e-42b5-8555-584ea8b8e309"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_Id-c2066sd1-da47-456f-9478-34f7f9342fe4.xml#Id-c2066sd1-da47-456f-9478-34f7f9342fe4"/>
+</archimate:AssociationRelationship>

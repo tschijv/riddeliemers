@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bizagi ProcesModeler - Bizagi"
+    id="id-fcff3d3b-2da1-44c7-bfa6-f7d140b7a84a"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7df4386c-f25a-429e-b600-ccfa3beb7caa.xml#id-7df4386c-f25a-429e-b600-ccfa3beb7caa"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8701d544-efbf-42d9-b4ee-13aa4604a890.xml#id-8701d544-efbf-42d9-b4ee-13aa4604a890"/>
+</archimate:AssociationRelationship>

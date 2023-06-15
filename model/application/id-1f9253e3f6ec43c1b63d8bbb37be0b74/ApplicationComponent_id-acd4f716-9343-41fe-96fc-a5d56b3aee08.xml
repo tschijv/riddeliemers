@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klic App"
+    id="id-acd4f716-9343-41fe-96fc-a5d56b3aee08"
+    documentation="Klicmelding voor graafwerkzaamheden">
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Specification"
+      value="Klicmelding voor graafwerkzaamheden"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:04:10.10"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:04:10.10"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+</archimate:ApplicationComponent>

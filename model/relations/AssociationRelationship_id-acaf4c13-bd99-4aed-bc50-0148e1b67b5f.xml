@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FME server - Red Geographics"
+    id="id-acaf4c13-bd99-4aed-bc50-0148e1b67b5f"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f58f568b-5d61-4413-bcd4-5248fdbb43a4.xml#id-f58f568b-5d61-4413-bcd4-5248fdbb43a4"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b6ffdc6f-d8e6-474c-b1b6-f7067102e8bc.xml#id-b6ffdc6f-d8e6-474c-b1b6-f7067102e8bc"/>
+</archimate:AssociationRelationship>

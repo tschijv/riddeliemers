@@ -4,16 +4,16 @@
     id="id-0cef56e9-8633-424c-abf3-74f12d769ddf">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Arnold Witjes"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Leverancier"
       value="IBIS"/>
@@ -26,4 +26,10 @@
   <properties
       key="Object ID"
       value="456474e6-8fac-4d8e-93ee-00b492fb3a20"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:49:52.52"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:04.04"/>
 </archimate:ApplicationComponent>

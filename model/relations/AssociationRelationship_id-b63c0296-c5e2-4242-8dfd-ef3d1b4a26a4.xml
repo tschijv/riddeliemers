@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Giskit - GIskit"
+    id="id-b63c0296-c5e2-4242-8dfd-ef3d1b4a26a4"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c9d6f9fd-87b0-4ce7-95c9-0c4270baa822.xml#id-c9d6f9fd-87b0-4ce7-95c9-0c4270baa822"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f1022851-816d-4bf1-9585-0358f17f3e20.xml#id-f1022851-816d-4bf1-9585-0358f17f3e20"/>
+</archimate:AssociationRelationship>

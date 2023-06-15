@@ -4,16 +4,16 @@
     id="id-1f9c2557-c655-4695-aa97-4a6fa4e0188d">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Behandelaarsgroep"
-      value="Citrix"/>
+      value="Technisch Applicatiebeheer"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Single Sign On"
       value="WAAR"/>
@@ -23,4 +23,13 @@
   <properties
       key="Object ID"
       value="11616258-06f8-4f4f-9b02-e7b754fff4e0"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Suzan Blaauw"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-10-08T12:30:06.06"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:52:37.37"/>
 </archimate:ApplicationComponent>

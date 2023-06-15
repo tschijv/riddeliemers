@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Your Partner"
+    id="id-c3e5acbc-1cbd-40ff-ad4b-81348e457c89"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-598bf6f18b4345f98dc7aafcc845a512"/>
+</archimate:BusinessActor>

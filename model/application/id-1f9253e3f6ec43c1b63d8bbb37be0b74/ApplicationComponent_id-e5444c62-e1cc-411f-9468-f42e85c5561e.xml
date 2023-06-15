@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoView - Zevenaar"
+    id="id-e5444c62-e1cc-411f-9468-f42e85c5561e"
+    documentation="Ruimtelijke Ordening software">
+  <properties
+      key="Applicatiesoort"
+      value="Kernapplicatie"/>
+  <properties
+      key="Specification"
+      value="Ruimtelijke Ordening software"/>
+  <properties
+      key="Leverancier"
+      value="VISMA | Roxit"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-01-30T10:08:04.04"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:27:57.57"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse B"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Andrea Schuil"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

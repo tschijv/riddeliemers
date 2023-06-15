@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QGIS - QGIS"
+    id="id-4b5888a3-c942-4fb3-9172-9c616f63df97"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-44993a5e-4eac-46f5-840b-562d6db0dcbf.xml#id-44993a5e-4eac-46f5-840b-562d6db0dcbf"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-23d2361c-927d-4ba5-abe8-1ea32e41b1bc.xml#id-23d2361c-927d-4ba5-abe8-1ea32e41b1bc"/>
+</archimate:AssociationRelationship>

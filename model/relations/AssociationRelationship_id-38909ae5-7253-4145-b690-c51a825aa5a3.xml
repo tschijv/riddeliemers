@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deep Freeze - Faronics"
+    id="id-38909ae5-7253-4145-b690-c51a825aa5a3"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ebce9540-e11c-4aa9-85d3-7d0cf9f4ef1f.xml#id-ebce9540-e11c-4aa9-85d3-7d0cf9f4ef1f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-55509d69-a5da-413b-9479-50002f57e477.xml#id-55509d69-a5da-413b-9479-50002f57e477"/>
+</archimate:AssociationRelationship>

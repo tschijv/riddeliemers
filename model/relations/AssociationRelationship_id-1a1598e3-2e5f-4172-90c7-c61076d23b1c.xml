@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VLTrader - Enable-U"
+    id="id-1a1598e3-2e5f-4172-90c7-c61076d23b1c"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-25d49326-62f6-437a-b237-dc2a63299604.xml#id-25d49326-62f6-437a-b237-dc2a63299604"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-57239d5e-2dd1-4bbf-bba4-fc777cfca65b.xml#id-57239d5e-2dd1-4bbf-bba4-fc777cfca65b"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timetell WTV - TimeTell BV"
+    id="id-bd1a723e-2e42-4701-a613-9a08ae180740"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a0970afd-e136-4433-9401-be189156a5cb.xml#id-a0970afd-e136-4433-9401-be189156a5cb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5aa22b78-ec8c-4ca7-aff1-f276bf3c5910.xml#id-5aa22b78-ec8c-4ca7-aff1-f276bf3c5910"/>
+</archimate:AssociationRelationship>

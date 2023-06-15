@@ -4,7 +4,7 @@
     id="id-0e81737a-aaf4-48e2-b901-0e221ebe4cf3">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -13,7 +13,7 @@
       value="Bram Wieringa"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Applicatie hosting (Ouders)"
       value="XenAPP"/>
@@ -35,4 +35,10 @@
   <properties
       key="Object ID"
       value="1cfab2c0-2454-4051-9313-780d273029b5"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:07.07"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-07-18T12:12:33.33"/>
 </archimate:ApplicationComponent>

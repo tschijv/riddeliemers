@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S4SD - SDLGWSP1"
+    id="id-dd78a905-6a4a-44e8-8b5f-ee46ba699806"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4d15f126-14ec-48d1-ba03-20d2c73983e1.xml#id-4d15f126-14ec-48d1-ba03-20d2c73983e1"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-44a95132-11fe-419a-bfcf-3641cba873a8.xml#id-44a95132-11fe-419a-bfcf-3641cba873a8"/>
+</archimate:AccessRelationship>

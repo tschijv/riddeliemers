@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Checkpoint Smartevent - VA-FWEVT01-p"
+    id="id-d1e31a65-75af-4503-9df3-0cb5d3ccc795"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-07ecd075-8dcf-44ee-80f4-9add15269916.xml#id-07ecd075-8dcf-44ee-80f4-9add15269916"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-955e35e3-8b3a-4bae-bec6-2e40b2c10a2f.xml#id-955e35e3-8b3a-4bae-bec6-2e40b2c10a2f"/>
+</archimate:AssociationRelationship>

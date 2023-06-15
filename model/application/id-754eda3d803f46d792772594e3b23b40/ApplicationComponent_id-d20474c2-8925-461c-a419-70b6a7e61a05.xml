@@ -4,10 +4,10 @@
     id="id-d20474c2-8925-461c-a419-70b6a7e61a05">
   <properties
       key="Applicatiesoort"
-      value="Basis Software"/>
+      value="Kernapplicatie"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse B"/>
+      value="Klasse C"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -16,14 +16,32 @@
       value="ONWAAR"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="XenAPP"/>
+      value="SV-APP121-P"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="Zevenaar"/>
+      value="SDL"/>
   <properties
       key="Technisch applicatiebeheerder 1"
       value="Max Holland"/>
   <properties
       key="Object ID"
       value="7fbbdfd7-58a0-4b4c-a2ef-30b1a0618c28"/>
+  <properties
+      key="Leverancier"
+      value="The People Group"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Petra Spijkerman"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
+  <properties
+      key="Data hosting (Ouders)"
+      value="SDLBGTP"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Joris van Embden"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-29T14:07:27.27"/>
 </archimate:ApplicationComponent>

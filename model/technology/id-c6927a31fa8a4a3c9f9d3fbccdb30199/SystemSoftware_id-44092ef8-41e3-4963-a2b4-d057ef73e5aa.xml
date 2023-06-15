@@ -4,10 +4,10 @@
     id="id-44092ef8-41e3-4963-a2b4-d057ef73e5aa">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse A"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Jeroen Louwerse"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="1210e34b-5fca-4c58-82a2-c42aaf360db9"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T15:41:40.40"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2021-10-08T12:30:25.25"/>
 </archimate:SystemSoftware>

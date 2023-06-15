@@ -10,11 +10,17 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse A"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
   <properties
       key="Object ID"
       value="b719ce81-648c-46f7-b059-4ac0ef0f1b8a"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:56:54.54"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-09-21T12:08:10.10"/>
 </archimate:SystemSoftware>

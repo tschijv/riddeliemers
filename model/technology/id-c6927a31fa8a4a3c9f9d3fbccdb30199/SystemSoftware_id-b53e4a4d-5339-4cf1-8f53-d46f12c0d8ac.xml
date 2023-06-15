@@ -10,26 +10,35 @@
       value="ONWAAR"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse A"/>
   <properties
       key="Leverancier"
-      value="Microsoft"/>
+      value="Simac"/>
   <properties
       key="Technisch applicatiebeheerder 1"
-      value="Max Holland"/>
+      value="Walter Hermsen"/>
   <properties
       key="Single Sign On"
       value="ONWAAR"/>
   <properties
       key="Toewijzingen - Locaties"
-      value="RID de Liemers"/>
+      value="1Stroom"/>
   <properties
       key="Technisch applicatiebeheerder 2"
       value="Marcel van Maren"/>
   <properties
       key="Applicatie hosting (Ouders)"
-      value="SV-CER01-P SV-CER02-P"/>
+      value="XenAPP"/>
   <properties
       key="Object ID"
       value="f14af147-a9d6-4d07-8e8e-37526e01f232"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-09-28T14:32:21.21"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Jurrien de Kramer"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:35:42.42"/>
 </archimate:SystemSoftware>

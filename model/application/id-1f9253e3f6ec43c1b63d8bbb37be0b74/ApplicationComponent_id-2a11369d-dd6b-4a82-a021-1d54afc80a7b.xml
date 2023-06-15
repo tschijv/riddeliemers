@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Munisense"
+    id="id-2a11369d-dd6b-4a82-a021-1d54afc80a7b"
+    documentation="Pilot niveaumeting Rockwool">
+  <properties
+      key="Specification"
+      value="Pilot niveaumeting Rockwool"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T13:54:31.31"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="IBland"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T13:56:39.39"/>
+</archimate:ApplicationComponent>

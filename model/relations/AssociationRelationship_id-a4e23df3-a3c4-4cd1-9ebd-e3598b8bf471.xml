@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TotalCommander - Ghisler Software GmbH"
+    id="id-a4e23df3-a3c4-4cd1-9ebd-e3598b8bf471"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-03e0d9c8-0ec8-47d8-8de1-816c7c05f013.xml#id-03e0d9c8-0ec8-47d8-8de1-816c7c05f013"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2c6305ed-5fc5-44d7-8c19-70651fe386e2.xml#id-2c6305ed-5fc5-44d7-8c19-70651fe386e2"/>
+</archimate:AssociationRelationship>

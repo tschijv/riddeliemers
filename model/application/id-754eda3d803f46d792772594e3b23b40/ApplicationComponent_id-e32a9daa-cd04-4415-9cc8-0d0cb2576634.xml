@@ -1,10 +1,11 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="JCC Betalen DVN"
-    id="id-e32a9daa-cd04-4415-9cc8-0d0cb2576634">
+    id="id-e32a9daa-cd04-4415-9cc8-0d0cb2576634"
+    documentation="G-Kas Manager en G-Kas Register">
   <properties
       key="Applicatiesoort"
-      value="Kernapplicaties"/>
+      value="Kernapplicatie"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -13,13 +14,13 @@
       value="Klasse B"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Marlies Heutink"/>
+      value="Anouk Polman"/>
   <properties
       key="Toewijzingen - Locaties"
       value="Duiven"/>
   <properties
       key="Technisch applicatiebeheerder 1"
-      value="Topdesk Applicatiebeheer"/>
+      value="Technisch Applicatiebeheer"/>
   <properties
       key="Leverancier"
       value="JCC Software"/>
@@ -32,4 +33,16 @@
   <properties
       key="Object ID"
       value="f21caba9-973f-4a6f-a186-523bb18fdc7c"/>
+  <properties
+      key="Functioneel applicatiebeheerder 2"
+      value="Nardie Langenhof"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-04T13:57:17.17"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:08.08"/>
+  <properties
+      key="Specification"
+      value="G-Kas Manager en G-Kas Register"/>
 </archimate:ApplicationComponent>

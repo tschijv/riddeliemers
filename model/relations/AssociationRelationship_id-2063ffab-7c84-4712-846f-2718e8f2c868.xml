@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GoBright - GoBright"
+    id="id-2063ffab-7c84-4712-846f-2718e8f2c868"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9e114fe1-20c8-405f-a89b-a44db9b4e220.xml#id-9e114fe1-20c8-405f-a89b-a44db9b4e220"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-97e4dbe3-a556-40de-93f5-12a29ebe35fe.xml#id-97e4dbe3-a556-40de-93f5-12a29ebe35fe"/>
+</archimate:AssociationRelationship>

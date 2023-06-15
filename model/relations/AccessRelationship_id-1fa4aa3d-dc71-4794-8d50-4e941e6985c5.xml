@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit 20/20 WRO WTV - WTVROTP"
+    id="id-1fa4aa3d-dc71-4794-8d50-4e941e6985c5"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9c07bada-1093-4951-aac2-ab75659d1bbd.xml#id-9c07bada-1093-4951-aac2-ab75659d1bbd"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-f55abbbe-964b-46c0-b2cb-e0883c9c02a1.xml#id-f55abbbe-964b-46c0-b2cb-e0883c9c02a1"/>
+</archimate:AccessRelationship>

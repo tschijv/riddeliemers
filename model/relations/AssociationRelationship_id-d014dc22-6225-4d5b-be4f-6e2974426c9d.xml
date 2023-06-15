@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPAM - SV-MGM10-P"
+    id="id-d014dc22-6225-4d5b-be4f-6e2974426c9d"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-b83e5045-abe3-4024-ba03-52b493550366.xml#id-b83e5045-abe3-4024-ba03-52b493550366"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a9731.xml#id-66612345-db23-40f9-be22-c54cdc8a9731"/>
+</archimate:AssociationRelationship>

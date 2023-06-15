@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Klantgeleiding ZVN - SV-SQL03-P"
+    id="id-cc304635-ae9e-402a-8a4d-67885fd00220"
+    documentation="Database hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2e3bff55-f840-453e-87b9-051c1c9e4990.xml#id-2e3bff55-f840-453e-87b9-051c1c9e4990"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-60a97bbb-7d5a-4e67-91a3-31ee28242cfe.xml#id-60a97bbb-7d5a-4e67-91a3-31ee28242cfe"/>
+</archimate:AccessRelationship>

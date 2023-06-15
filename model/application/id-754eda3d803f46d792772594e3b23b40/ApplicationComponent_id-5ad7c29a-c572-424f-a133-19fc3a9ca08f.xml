@@ -4,10 +4,10 @@
     id="id-5ad7c29a-c572-424f-a133-19fc3a9ca08f">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse A"/>
+      value="Klasse C"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="733ae4a3-f0a9-45db-8057-cbb6e7fe0822"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:10.10"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:51:15.15"/>
 </archimate:ApplicationComponent>

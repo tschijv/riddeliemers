@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Assistent 1Stroom - SV-APP93-P"
+    id="id-b0b697c0-e457-4b22-8f68-70cdd9cfb0ce"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-725ac82f-332b-4b17-a18c-27e7a5f34e68.xml#id-725ac82f-332b-4b17-a18c-27e7a5f34e68"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-66612345-db23-40f9-be22-c54cdc8a97a2.xml#id-66612345-db23-40f9-be22-c54cdc8a97a2"/>
+</archimate:AssociationRelationship>

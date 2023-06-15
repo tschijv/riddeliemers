@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bris"
+    id="id-c4861fd7-5452-4b2d-9720-95a222545849"
+    documentation="gegenereerd door de import.">
+  <profiles
+      href="folder.xml#id-ac06d7b1710f41c8a8d4232ab2884d41"/>
+</archimate:BusinessActor>

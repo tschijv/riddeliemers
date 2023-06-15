@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lias - ZVNLIASP"
+    id="id-0f28b6f5-2a43-4a7d-bd70-54ffcc2b3180"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c882c02b-15f1-4808-8363-795b31745905.xml#id-c882c02b-15f1-4808-8363-795b31745905"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-3489ab49-a730-49b8-9e9e-cd439c286980.xml#id-3489ab49-a730-49b8-9e9e-cd439c286980"/>
+</archimate:AccessRelationship>

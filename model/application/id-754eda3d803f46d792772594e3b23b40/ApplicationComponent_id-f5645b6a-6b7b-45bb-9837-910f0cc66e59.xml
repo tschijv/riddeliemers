@@ -4,16 +4,16 @@
     id="id-f5645b6a-6b7b-45bb-9837-910f0cc66e59">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Functioneel applicatiebeheerder 2"
-      value="Marleen te Poele"/>
+      value="Nardie Langenhof"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
-      value="Marlies Heutink"/>
+      value="Anouk Polman"/>
   <properties
       key="Bedrijfskritisch"
       value="Klasse C"/>
@@ -38,4 +38,13 @@
   <properties
       key="Object ID"
       value="64459e3a-a21d-48cc-93c6-7bb7488da30d"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:47:06.06"/>
+  <properties
+      key="Functioneel applicatiebeheerder 3"
+      value="Miranda Stroot"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T13:48:13.13"/>
 </archimate:ApplicationComponent>

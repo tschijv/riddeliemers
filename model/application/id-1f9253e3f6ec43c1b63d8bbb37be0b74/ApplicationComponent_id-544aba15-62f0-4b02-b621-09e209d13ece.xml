@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kostendekkendheid.nl"
+    id="id-544aba15-62f0-4b02-b621-09e209d13ece">
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Patricia van Dijk"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:04:48.48"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:05:06.06"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Leverancier"
+      value="Kostendekkendheid.nl BV"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+</archimate:ApplicationComponent>

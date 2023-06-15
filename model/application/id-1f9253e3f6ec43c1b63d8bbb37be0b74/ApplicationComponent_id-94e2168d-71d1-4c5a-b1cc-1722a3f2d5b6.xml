@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Peutermonitor"
+    id="id-94e2168d-71d1-4c5a-b1cc-1722a3f2d5b6">
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID Een data-informatiesysteem waarin per kwartaal in beeld kan worden gebracht het aantal peuters dat deelneemt aan peuteropvang en VVE (per wijk/dorpskern) "/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:36:12.12"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:36:12.12"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Leverancier"
+      value="Innovatie nul13"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Anneke Kolmans"/>
+</archimate:ApplicationComponent>

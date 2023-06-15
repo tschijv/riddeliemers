@@ -1,0 +1,32 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aruba Clearpass Policy Manager"
+    id="id-bddafdaf-e862-4592-9195-53fb947fc087">
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Max Holland"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-04-20T09:26:22.22"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-04-20T09:26:22.22"/>
+  <properties
+      key="Leverancier"
+      value="Aruba"/>
+  <properties
+      key="Applicatiesoort"
+      value="Systeemsoftware"/>
+</archimate:ApplicationComponent>

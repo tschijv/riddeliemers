@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VIND-IM (i-Navigator, model-DSP)"
+    id="id-7419ecc1-a42b-461a-be6b-090545c08873">
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:57:50.50"/>
+  <properties
+      key="Leverancier"
+      value="SDU"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Lars Rikkers"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:56:16.16"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+</archimate:ApplicationComponent>

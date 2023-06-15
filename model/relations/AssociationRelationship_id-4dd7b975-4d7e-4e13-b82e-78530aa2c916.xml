@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raas aanvraagstation ZVN - RvIG (Rijksdienst voor Identiteitsgegevens)"
+    id="id-4dd7b975-4d7e-4e13-b82e-78530aa2c916"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-15a8ec60-a77a-45a0-b241-bafd00ebd503.xml#id-15a8ec60-a77a-45a0-b241-bafd00ebd503"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-21b9401e-f015-4cc1-86df-18db5ad2d880.xml#id-21b9401e-f015-4cc1-86df-18db5ad2d880"/>
+</archimate:AssociationRelationship>

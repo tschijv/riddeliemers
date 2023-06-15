@@ -4,13 +4,13 @@
     id="id-e6303a25-5df2-4ad7-88f2-ce1218704813">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Basissoftware "/>
   <properties
       key="Bedrijfskritisch"
-      value="Klasse C"/>
+      value="Klasse B"/>
   <properties
       key="Cloud"
-      value="ONWAAR"/>
+      value="WAAR"/>
   <properties
       key="Functioneel applicatiebeheerder 1"
       value="Kees van Galen"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="59d29180-5e07-4496-859e-54ef30b96ca1"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-07T11:17:56.56"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:09.09"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iBabs 1Stroom - iBabs B.V."
+    id="id-2ee537fe-43b9-4e2b-8716-32ac16fcc936"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c7d136bd-4028-4f28-b74f-c041bc8f5c21.xml#id-c7d136bd-4028-4f28-b74f-c041bc8f5c21"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-aa78d162-4dcd-4a27-9cfc-3ed50015dd70.xml#id-aa78d162-4dcd-4a27-9cfc-3ed50015dd70"/>
+</archimate:AssociationRelationship>

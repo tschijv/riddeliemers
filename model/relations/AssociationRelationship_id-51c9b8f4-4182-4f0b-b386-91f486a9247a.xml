@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoBrowser - CoBrowser"
+    id="id-51c9b8f4-4182-4f0b-b386-91f486a9247a"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c320a23d-2ade-48c0-97a7-4c6aedf36981.xml#id-c320a23d-2ade-48c0-97a7-4c6aedf36981"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-700a9ba2-ce67-400d-8fae-67e38475af67.xml#id-700a9ba2-ce67-400d-8fae-67e38475af67"/>
+</archimate:AssociationRelationship>

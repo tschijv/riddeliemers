@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Engage Proces"
+    id="id-087f817c-443c-4b38-afe4-0758a696414f">
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T15:39:48.48"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T15:37:52.52"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Robin de Pagter"/>
+  <properties
+      key="Leverancier"
+      value="Engage Process"/>
+</archimate:ApplicationComponent>

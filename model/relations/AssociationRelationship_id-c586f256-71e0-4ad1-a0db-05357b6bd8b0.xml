@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensmagazijn Vicrea - Vicrea"
+    id="id-c586f256-71e0-4ad1-a0db-05357b6bd8b0"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9bc37cfc-f3f6-49bc-b316-d0d5e757be3d.xml#id-9bc37cfc-f3f6-49bc-b316-d0d5e757be3d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c5aff06f-cdc0-49e8-8190-734908a6d6fa.xml#id-c5aff06f-cdc0-49e8-8190-734908a6d6fa"/>
+</archimate:AssociationRelationship>

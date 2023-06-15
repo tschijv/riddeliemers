@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDW certificaten - LogiLink - SV-CMG01-P"
+    id="id-28d4b89e-0466-486a-8101-9179587fb786"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-33a33017-9dc6-4a07-b6d6-c7cde5115ded.xml#id-33a33017-9dc6-4a07-b6d6-c7cde5115ded"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-253709da-ce2a-4450-811b-2be543b91d36.xml#id-253709da-ce2a-4450-811b-2be543b91d36"/>
+</archimate:AssociationRelationship>

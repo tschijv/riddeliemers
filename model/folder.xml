@@ -14,4 +14,212 @@
       name="server"
       id="id-941c950902d247a3833d689865804ccb"
       conceptType="Node"/>
+  <profiles
+      name="BusinessActor4Value"
+      id="id-11f991a4f7da4017bc3afd8a92b0b728"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorDCTT"
+      id="id-4ede6fc275d54cab80d14db85ef24599"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorGSD ICT-Services B.V."
+      id="id-4777da42d5414e8f9e551b93af1eaf2b"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorXylem"
+      id="id-b13e06759014473eab9fd861bc0a2203"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorARCgis"
+      id="id-7d61fe3c19ba403ebfecc7534424861b"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorGW crossmedia"
+      id="id-ed119c986ea64951a22a177ce5f445ff"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorLogius"
+      id="id-a76a5e93a1474f3f8eb0fb0036da6c73"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorDGMR Software B.V."
+      id="id-e3988f3f873a47cdac4b4fbe6af11cf3"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorBris"
+      id="id-ac06d7b1710f41c8a8d4232ab2884d41"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorYour Partner"
+      id="id-598bf6f18b4345f98dc7aafcc845a512"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorCoBrowser"
+      id="id-2e3b0fdfc0c542f4bb562fc5961f83ee"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorCompany Webcast"
+      id="id-4eb6b7ae5d2445808a3f7b56820a0da2"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorDatamask B.V."
+      id="id-a3db5c5a3ced4d5dbe358cf30c9ba950"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="NodeDecos Join 1Stroom"
+      id="id-b7ac810b22e64b24ac0ddd39918a4559"
+      conceptType="Node"/>
+  <profiles
+      name="NodeDecos Join ZVN"
+      id="id-597db9f597a84d49b90fcb2015042c7a"
+      conceptType="Node"/>
+  <profiles
+      name="BusinessActorDBeaver"
+      id="id-226ea3fc21124dfd8ea8526a4b3fbfbc"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorFaronics"
+      id="id-2cd8c13f17a040118fa1e3920e54c626"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorEngage Process"
+      id="id-e88c892f69334e1692785bf598de26f2"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorIngenico Payment Services GmbH"
+      id="id-a837937db10a4e2c883c23bd958ef7a3"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorFortinet"
+      id="id-7c5aa660542e46728cf7a2b3afd259a8"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorA&amp;O fonds gemeenten"
+      id="id-c767b032c05e42c6b718e992ab6764f6"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorGoBright"
+      id="id-2ec4b51db57e4aeaaa65c53f9a818348"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorGreenpoint"
+      id="id-c332352038c5431ca3dfe26bfe39f2a5"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorMinisterie van Binnenlandse Zaken"
+      id="id-88ea4e069bb345e2a5a9f1cddf3f485f"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorEijkelkamp Soil &amp; Water"
+      id="id-2c5db9f0ca3f4b20a1b481f95d500f59"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorNormen instituut bomen"
+      id="id-5522abc7d21a42a5ba6b2a9506951f21"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorHydrologic"
+      id="id-8ccd6ee5b62841c2a34f9f800dfdc671"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorVHIC"
+      id="id-9eb0372d989e4a779dbc820a34b3d672"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorMOSS BV"
+      id="id-ee0015ff4ed34edfaf7758f42dc50384"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="ArtifactSV-SQL03-P"
+      id="id-aba50f3929bc45f981261d8ad62b601d"
+      conceptType="Artifact"/>
+  <profiles
+      name="BusinessActorCROW"
+      id="id-22bdc49655844f2b8f57608d3a35d08e"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorStimulansz"
+      id="id-45de66f28fe64c3c9fb8f2b1b36fe38d"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorKlimaatatlas"
+      id="id-5f2f29c12cbb458ca85faa36d2dbd73e"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorKostendekkendheid.nl BV"
+      id="id-4f688b1a41f6485cb4f84c6032146a6c"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorNederlands Licht Instituut (NLI)"
+      id="id-9ef6e59ad71e46c29c7c54867229fc53"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorWerktools/AndSafety"
+      id="id-5c4147ef6b5746e8978c3eb3ea6474f7"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorMindMaple"
+      id="id-9e7beaeccba742529a950303a85b88e6"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorMOOR"
+      id="id-56df59629cc34c749169fb29196940f0"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorIBland"
+      id="id-c917c612153143cd8e14a175a4490b3f"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorNederlands Adviesbureau voor Risicomanagement (NAR)"
+      id="id-aff50befb8bb4a60be8aa2864d499c40"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorNEN"
+      id="id-2dd789a27c4b49f0ade5eccd7bbc6e0f"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorOMOP"
+      id="id-f7bbd25a95a74a7fb738ee0fb0292ddd"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorInnovatie nul13"
+      id="id-6fed57c53bbd4e3c9cac72719637ecd0"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorVecozo"
+      id="id-3654d006af304d0caf1b5f785e94b426"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorInforing BV"
+      id="id-7538f51c9988482a8c5df9420a649e07"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorSencon"
+      id="id-c4a0ada10e9f43adb6be7fc5e5da3d50"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorWolters Kluwer"
+      id="id-22b91696e9414c15bf5e61163623e7a5"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorConstrusoft"
+      id="id-85c613fc5a5546268605d63484dc2e8c"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorSpryng"
+      id="id-5a6a55f537424871b73102932deef176"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorTrackJack Europe"
+      id="id-207c4788c5d64b368b64058f148c8a51"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorNotubiz (Rijnwaarden)"
+      id="id-145c11499208408896361ecd5d7b2795"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="BusinessActorSDU"
+      id="id-fdbead73967f4813aed240a07b0b13af"
+      conceptType="BusinessActor"/>
 </archimate:ArchimateModel>

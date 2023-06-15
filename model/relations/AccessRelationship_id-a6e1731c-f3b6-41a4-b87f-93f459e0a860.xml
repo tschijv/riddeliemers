@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix Provisioning Services - PVS-RID"
+    id="id-a6e1731c-f3b6-41a4-b87f-93f459e0a860"
+    documentation="Data hosting (Ouders)">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-640c4a59-e2ea-4591-9913-63018c64b302.xml#id-640c4a59-e2ea-4591-9913-63018c64b302"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-4cd5367f-45e1-43cc-9a60-97526c9ec49a.xml#id-4cd5367f-45e1-43cc-9a60-97526c9ec49a"/>
+</archimate:AccessRelationship>

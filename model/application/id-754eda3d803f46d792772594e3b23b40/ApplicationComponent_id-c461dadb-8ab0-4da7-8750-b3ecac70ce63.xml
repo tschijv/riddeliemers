@@ -4,7 +4,7 @@
     id="id-c461dadb-8ab0-4da7-8750-b3ecac70ce63">
   <properties
       key="Applicatiesoort"
-      value="Ondersteunende software"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Cloud"
       value="WAAR"/>
@@ -23,4 +23,10 @@
   <properties
       key="Object ID"
       value="1464e284-65f6-4827-87b6-4658d39f1bb7"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T11:53:06.06"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-10-08T12:30:06.06"/>
 </archimate:ApplicationComponent>

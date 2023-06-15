@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTM tbv MGR"
+    id="id-32d4a34b-b790-4ea5-86ca-5507c0864e78"
+    documentation=" (Complete Tender Management)">
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="MGR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2022-11-21T12:14:30.30"/>
+  <properties
+      key="Specification"
+      value=" (Complete Tender Management)"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2022-11-21T12:14:30.30"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+</archimate:ApplicationComponent>

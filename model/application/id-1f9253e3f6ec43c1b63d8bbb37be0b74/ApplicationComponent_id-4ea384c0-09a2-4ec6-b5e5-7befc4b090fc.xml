@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sketchup"
+    id="id-4ea384c0-09a2-4ec6-b5e5-7befc4b090fc"
+    documentation="2D/3D tekenprogramma">
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T12:48:54.54"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Leverancier"
+      value="Construsoft"/>
+  <properties
+      key="Versie"
+      value="On-Prem"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T12:46:50.50"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Peter Witjes"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Cloud"
+      value="ONWAAR"/>
+  <properties
+      key="Specification"
+      value="2D/3D tekenprogramma"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+</archimate:ApplicationComponent>

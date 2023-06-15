@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aruba Clearpass Policy Manager - Aruba"
+    id="id-73da80cf-7c47-457d-93f9-e9122fe3fb29"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bddafdaf-e862-4592-9195-53fb947fc087.xml#id-bddafdaf-e862-4592-9195-53fb947fc087"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-796c2b1d-ccc2-4d87-99bb-1f94d77045d8.xml#id-796c2b1d-ccc2-4d87-99bb-1f94d77045d8"/>
+</archimate:AssociationRelationship>

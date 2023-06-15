@@ -4,7 +4,7 @@
     id="id-b3197aad-7a55-4e2d-a6af-bf4ed2dfcd5a">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Systeemsoftware"/>
   <properties
       key="Cloud"
       value="ONWAAR"/>
@@ -20,4 +20,25 @@
   <properties
       key="Object ID"
       value="82aea04f-7c13-4871-a1ea-77c7329355c9"/>
+  <properties
+      key="Technisch applicatiebeheerder 1"
+      value="Walter Hermsen"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-14T16:58:06.06"/>
+  <properties
+      key="Technisch applicatiebeheerder 2"
+      value="Hille Veenstra"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="RID de Liemers"/>
+  <properties
+      key="Applicatie hosting (Ouders)"
+      value="SV-APP92-P"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:00:57.57"/>
+  <properties
+      key="Leverancier"
+      value="Tweco-IT B.V."/>
 </archimate:ApplicationComponent>

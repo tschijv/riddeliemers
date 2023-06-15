@@ -4,7 +4,7 @@
     id="id-f317dcb8-a2c4-4328-94da-ad7148b758c1">
   <properties
       key="Applicatiesoort"
-      value="Basissoftware"/>
+      value="Ondersteunende Software"/>
   <properties
       key="Behandelaarsgroep"
       value="Technisch Applicatiebeheer"/>
@@ -32,4 +32,10 @@
   <properties
       key="Object ID"
       value="f864b181-6c89-4020-a22a-83a58b532114"/>
+  <properties
+      key="Aanmaakdatum"
+      value="2021-09-17T11:18:42.42"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-01T12:07:40.40"/>
 </archimate:SystemSoftware>

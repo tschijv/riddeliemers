@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Imro 2012 - GIskit"
+    id="id-4d419d46-bb9f-4553-82ee-683407552e78"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-435bcde5-f74e-4a54-b145-3c03206e3997.xml#id-435bcde5-f74e-4a54-b145-3c03206e3997"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f1022851-816d-4bf1-9585-0358f17f3e20.xml#id-f1022851-816d-4bf1-9585-0358f17f3e20"/>
+</archimate:AssociationRelationship>

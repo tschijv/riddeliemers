@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Greenpoint"
+    id="id-83082b2b-00b0-4565-9b03-9f0c742350a9"
+    documentation="Groenbeheer; inrichten bestaande bestekken, monitoring .....">
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID Groenbeheer; inrichten bestaande bestekken, monitoring kwaliteit en inrichten voor nieuwe bestekken monitoring kwaliteit; Monitoring kwaliteit aannemer"/>
+  <properties
+      key="Specification"
+      value="Groenbeheer; inrichten bestaande bestekken, monitoring ....."/>
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T13:04:09.09"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Functioneel applicatiebeheerder 1"
+      value="Dick Molema"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T13:14:46.46"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+  <properties
+      key="Leverancier"
+      value="Greenpoint"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+</archimate:ApplicationComponent>

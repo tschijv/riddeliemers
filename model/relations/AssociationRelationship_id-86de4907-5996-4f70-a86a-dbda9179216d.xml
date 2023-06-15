@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix Delivery Controller Services - SV-DDC03-P"
+    id="id-86de4907-5996-4f70-a86a-dbda9179216d"
+    documentation="Applicatie hosting (Ouders)"
+    directed="true">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-a47d61a9-7f3c-4564-853e-e865cee1584b.xml#id-a47d61a9-7f3c-4564-853e-e865cee1584b"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-441133f8-491c-4a19-b1cc-146d50891241.xml#id-441133f8-491c-4a19-b1cc-146d50891241"/>
+</archimate:AssociationRelationship>

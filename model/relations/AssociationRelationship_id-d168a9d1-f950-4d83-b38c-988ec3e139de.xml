@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ePayments - Ingenico Payment Services GmbH"
+    id="id-d168a9d1-f950-4d83-b38c-988ec3e139de"
+    documentation="Leverancier"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-838d8524-d181-480d-9c7c-aa38f4399953.xml#id-838d8524-d181-480d-9c7c-aa38f4399953"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7d1e9ad1-9d85-487f-ad92-9821f699c6ae.xml#id-7d1e9ad1-9d85-487f-ad92-9821f699c6ae"/>
+</archimate:AssociationRelationship>

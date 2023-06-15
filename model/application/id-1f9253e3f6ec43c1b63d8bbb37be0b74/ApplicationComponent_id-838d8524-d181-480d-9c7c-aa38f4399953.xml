@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ePayments"
+    id="id-838d8524-d181-480d-9c7c-aa38f4399953"
+    documentation="Online betaal platform">
+  <properties
+      key="Aanmaakdatum"
+      value="2023-05-30T14:49:14.14"/>
+  <properties
+      key="Wijzigingsdatum"
+      value="2023-05-30T14:50:38.38"/>
+  <properties
+      key="Leverancier"
+      value="Ingenico Payment Services GmbH"/>
+  <properties
+      key="Applicatiesoort"
+      value="Ondersteunende Software"/>
+  <properties
+      key="Single Sign On"
+      value="ONWAAR"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Klasse C"/>
+  <properties
+      key="Notities"
+      value="In beheer gemeente Zevenaar, NIET RID"/>
+  <properties
+      key="Cloud"
+      value="WAAR"/>
+  <properties
+      key="Specification"
+      value="Online betaal platform"/>
+  <properties
+      key="Toewijzingen - Locaties"
+      value="Zevenaar"/>
+</archimate:ApplicationComponent>
