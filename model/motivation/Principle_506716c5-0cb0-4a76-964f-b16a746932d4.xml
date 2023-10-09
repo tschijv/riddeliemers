@@ -1,0 +1,30 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Traceerbaarheid naar bron"
+    id="506716c5-0cb0-4a76-964f-b16a746932d4"
+    documentation="Gegevens in het datawarehouse zijn herleidbaar naar de originele gegevensbronnen">
+  <properties
+      key="Afgeleid van principe"
+      value="Gegevens bij de bron"/>
+  <properties
+      key="Soort principe"
+      value="Afgeleid-principe"/>
+  <properties
+      key="Implicatie"
+      value="Er wordt van elk gegeven geregistreerd uit welke bron deze afkomstig is. Het datawarehouse is zelf geen bron van gegevens."/>
+  <properties
+      key="Thema"
+      value="Applicatie-integratie, Gegevensbeheer"/>
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="6. Op orde brengen van het informatie- en gegevensbeheer"/>
+  <properties
+      key="Architectuurdomein"
+      value="Data"/>
+  <properties
+      key="Afgeleid van GEMMA principe"
+      value="GAP12 (Informeer bij de bron)"/>
+  <properties
+      key="Motivatie"
+      value="Het is belangrijk dat inzichtelijk kan worden gemaakt dat gegevens die gebruikt zijn voor rapportage herleidbaar zijn naar de originele gegevens in de basisadministratie. Hierdoor kunnen er geen twijfels ontstaan over de kwaliteit van de gegevens. Daarnaast is het ook vanuit wet- en regelgeving belangrijk om aan te kunnen geven waarop verantwoordingsrapportages zijn gebaseerd."/>
+</archimate:Principle>

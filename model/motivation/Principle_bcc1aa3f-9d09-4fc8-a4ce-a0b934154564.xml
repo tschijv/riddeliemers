@@ -1,0 +1,25 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens bij de bron"
+    id="bcc1aa3f-9d09-4fc8-a4ce-a0b934154564"
+    documentation="Controleer de kwaliteit en veiligheid van gegevens bij de bron.">
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="Algemeen"/>
+  <properties
+      key="Soort principe"/>
+  <properties
+      key="Implicatie"
+      value="Toegang tot gegevens wordt altijd geauthenticeerd en geautoriseerd, en vertrouwelijke gegevens worden inhoudelijk versleuteld en voorzien van een access control list. Gegevens worden uitgebreid gevalideerd voordat ze worden opgeslagen, en gebruikers worden bewust gemaakt van de consequenties van het verkeerd invullen van gegevens. Netwerkverkeer wordt bij binnenkomst in het rekencentrum gefilterd en gemonitord op vijandigheid, en wachtwoorden worden in niet-leesbare vorm over het netwerk getransporteerd. Applicaties voeren altijd een authenticatie en autorisatie uit van gebruikers of systemen die toegang willen krijgen tot functionaliteit of gegevens. Gegevenskwaliteitsproblemen worden opgelost in het bronsysteem, en er worden elektronische formulieren geboden aan klanten waarmee ze zelf hun gegevens kunnen invoeren/wijzigen. Van elk gegeven wordt geregistreerd uit welke bron deze afkomstig is, en het datawarehouse is zelf geen bron van gegevens."/>
+  <properties
+      key="Thema"/>
+  <properties
+      key="Motivatie"/>
+  <properties
+      key="Architectuurdomein"/>
+  <properties
+      key="Afgeleid van GEMMA principe"
+      value="Architectuurprincipe"/>
+  <properties
+      key="Afgeleid van principe"/>
+</archimate:Principle>

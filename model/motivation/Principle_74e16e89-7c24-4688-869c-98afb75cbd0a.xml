@@ -1,0 +1,30 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verminderd inloggen"
+    id="74e16e89-7c24-4688-869c-98afb75cbd0a"
+    documentation="Gebruikers worden niet geconfronteerd met overbodige authenticaties">
+  <properties
+      key="Afgeleid van GEMMA principe"
+      value="GAP16 (Streef naar eenvoud)"/>
+  <properties
+      key="Implicatie"
+      value="Gebruikers hebben bij voorkeur maar één account. Er zijn centrale authenticatievoorzieningen aanwezig die alle voor applicaties noodzakelijke authenticatiefunctionaliteit bieden. Applicaties voeren zelf geen authenticatie uit, maar vertrouwen op tokens die zijn gegenereerd door centrale authenticatievoorzieningen."/>
+  <properties
+      key="Motivatie"
+      value="Gebruikers vinden het lastig als ze voor elke applicatie opnieuw moeten inloggen. In veel gevallen is dat ook niet nodig en kan een initiële authenticatie voldoende zijn voor toegang tot allerlei applicaties. In een aantal gevallen is een extra authenticatie echter gewenst, bijvoorbeeld als de gebruiker toegang probeert te krijgen tot meer gevoelige gegevens of functionaliteit."/>
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="1. Werken aan een eigentijds en robuust ICT-fundament"/>
+  <properties
+      key="Afgeleid van principe"
+      value="Toegankelijkheid en veiligheid in balans"/>
+  <properties
+      key="Soort principe"
+      value="Afgeleid-principe"/>
+  <properties
+      key="Thema"
+      value="Identity- en accessmanagement"/>
+  <properties
+      key="Architectuurdomein"
+      value="Application"/>
+</archimate:Principle>

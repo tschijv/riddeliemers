@@ -1,0 +1,30 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard processen"
+    id="c1b16243-6853-480d-b4ae-13f55d50d9e3"
+    documentation="Processen zijn gestandaardiseerd">
+  <properties
+      key="Afgeleid van GEMMA principe"
+      value="GAP08 (Standaardiseer waar mogelijk)"/>
+  <properties
+      key="Motivatie"
+      value="Processen worden bij voorkeur zo efficiënt mogelijk uitgevoerd, zeker als de klant daar geen last van heeft. Standaard processen zijn herhaalbaar, voorspelbaar, schaalbaar en meer efficiënt. Door iedereen dezelfde standaard processen te laten hanteren wordt maximaal schaal- en synergievoordeel bereikt en kennis over een betere procesuitvoering gedeeld."/>
+  <properties
+      key="Soort principe"
+      value="Afgeleid-principe"/>
+  <properties
+      key="Afgeleid van principe"
+      value="Gestandaardiseerde werkwijzen"/>
+  <properties
+      key="Thema"
+      value="Business Process Management"/>
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="2. Harmoniseren en standaardiseren waar mogelijk, maatwerk waar nodig"/>
+  <properties
+      key="Architectuurdomein"
+      value="Business"/>
+  <properties
+      key="Implicatie"
+      value="Er zijn voor alle processen standaard procesbeschrijvingen. Voor ieder proces is er een proceseigenaar aangewezen die verantwoordelijk is voor de procesdefinitie en de kwaliteit van de procesuitvoering. Standaard processen worden geïmplementeerd bij alle bij het proces betrokken afdelingen. Processen zijn modulair opgebouwd waardoor procesdelen die niet altijd toepasbaar zijn niet verplicht hoeven te worden uitgevoerd."/>
+</archimate:Principle>

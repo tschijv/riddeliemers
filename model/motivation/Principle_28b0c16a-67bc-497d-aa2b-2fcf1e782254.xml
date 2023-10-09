@@ -1,0 +1,30 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestandaardiseerde koppelvlakken"
+    id="28b0c16a-67bc-497d-aa2b-2fcf1e782254"
+    documentation="Applicaties bieden gestandaardiseerde koppelvlakken">
+  <properties
+      key="Afgeleid van GEMMA principe"
+      value="GAP08 (Standaardiseer waar mogelijk) "/>
+  <properties
+      key="Soort principe"
+      value="Afgeleid-principe"/>
+  <properties
+      key="Implicatie"
+      value="Applicaties bieden gestandaardiseerde koppelvlakken op basis van overheid, open of de facto standaarden, waarbij de lijst van het Forum Standaardisatie leidend is. Gestandaardiseerde koppelvlakken worden bij voorkeur door de leveranciers van de te koppelen applicaties formeel ondersteund (gecertificeerd). Applicaties die geen standaard koppelvlak bieden met andere applicaties worden met elkaar verbonden via integratie-infrastructuur. Niet-standaard koppelvlakken worden zodanig gedefinieerd dat ze optimaal herbruikbaar zijn voor andere applicaties. Een standaard criterium bij de selectie van applicaties is het bieden van gestandaardiseerde koppelvlakken voor het uitwisselen van de noodzakelijke gegevens."/>
+  <properties
+      key="Thema"
+      value="Applicatie-integratie"/>
+  <properties
+      key="Motivatie"
+      value="Gebruikers verwachten willen een geïntegreerde informatievoorziening ervaren. Dit vraagt een verre mate van integratie van applicaties. Anderzijds is het belangrijk dat de informatievoorziening flexibel is en dat de impact van veranderingen zo beperkt mogelijk blijft. Door standaardisatie van koppelvlakken (zowel technisch als functioneel) ontstaat maximale flexibiliteit. Open standaarden zorgen ervoor dat leveranciersafhankelijkheden daarbij zoveel mogelijk worden voorkomen. Door functionaliteit en gegevens via gestandaardiseerde koppelvlakken aan te bieden kunnen deze ook relatief eenvoudig via alternatieve kanalen worden ontsloten (bijv. mobiel)."/>
+  <properties
+      key="Architectuurdomein"
+      value="Application"/>
+  <properties
+      key="Afgeleid van principe"
+      value="Gestandaardiseerde werkwijzen"/>
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="2. Harmoniseren en standaardiseren waar mogelijk, maatwerk waar nodig"/>
+</archimate:Principle>

@@ -1,0 +1,24 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestandaardiseerde werkwijzen"
+    id="6273d776-48eb-4e05-9d25-d190322f940c"
+    documentation="Hanteer gestandaardiseerde werkwijzen voor het inrichten van de informatievoorziening.">
+  <properties
+      key="Architectuurdomein"/>
+  <properties
+      key="Soort principe"
+      value="Architectuurprincipe"/>
+  <properties
+      key="Thema"
+      value="Algemeen"/>
+  <properties
+      key="Implicatie"/>
+  <properties
+      key="Afgeleid van GEMMA principe"/>
+  <properties
+      key="Afgeleid van principe"/>
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"/>
+  <properties
+      key="Motivatie"/>
+</archimate:Principle>

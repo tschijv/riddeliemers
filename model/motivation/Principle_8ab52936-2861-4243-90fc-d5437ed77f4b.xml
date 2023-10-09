@@ -1,0 +1,30 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risico-analyse is leidend"
+    id="8ab52936-2861-4243-90fc-d5437ed77f4b"
+    documentation="Beveiligingsmaatregelen zijn gebaseerd op het risicoprofiel">
+  <properties
+      key="Soort principe"
+      value="Afgeleid-principe"/>
+  <properties
+      key="Thema"
+      value="Informatiebeveiliging, Identity- en accessmanagement"/>
+  <properties
+      key="Implicatie"
+      value="Er wordt voor gegevens en/of applicaties een risico-analyse uitgevoerd om het risicoprofiel expliciet te maken. Gegevens zijn voorzien van een BIV-classificatie welke aangeeft welke mate van beschikbaarheid, integriteit en vertrouwelijkheid gewenst is. Applicaties met een hoog risicoprofiel zijn niet toegankelijk voor identiteiten waarin een laag vertrouwen is (zoals social accounts). De fijnmazigheid van rollen en autorisaties om toegang te krijgen binnen applicaties is afhankelijk van hun risicoprofiel. Op basis van een hoog risicoprofiel kan zowel voor toegang tot de applicatie als voor toegang binnen applicaties (step-up) sterke authenticatie verlangt worden."/>
+  <properties
+      key="Afgeleid van principe"
+      value="Toegankelijkheid en veiligheid in balans"/>
+  <properties
+      key="Motivatie"
+      value="De integriteit en vertrouwelijkheid van informatie moet worden bewaakt. De risicoclassificatie van informatie bepaalt welke maatregelen moeten worden genomen om de beschikbaarheid, integriteit en vertrouwelijkheid te bewaken. Het overmatig beveiligen van informatie kost onnodige inspanning en verhoogt de drempel voor gebruikers."/>
+  <properties
+      key="Architectuurdomein"
+      value="Data, Application, Technology"/>
+  <properties
+      key="Afgeleid van GEMMA principe"
+      value="GAP13 (Beheers risico's voortdurend) "/>
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="3. Verder verbeteren op informatiebeveiliging en privacy"/>
+</archimate:Principle>

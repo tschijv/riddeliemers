@@ -1,0 +1,24 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegankelijkheid en veiligheid in balans"
+    id="eb6f9dfd-ec1c-4bb5-91cd-00edead83af5"
+    documentation="Balanseer altijd de veiligheid met de toegankelijkheid van applicaties.">
+  <properties
+      key="Afgeleid van principe"/>
+  <properties
+      key="Afgeleid van GEMMA principe"/>
+  <properties
+      key="Implicatie"/>
+  <properties
+      key="Soort principe"
+      value="Architectuurprincipe"/>
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"/>
+  <properties
+      key="Motivatie"/>
+  <properties
+      key="Thema"
+      value="Algemeen"/>
+  <properties
+      key="Architectuurdomein"/>
+</archimate:Principle>

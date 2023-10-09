@@ -963,4 +963,16 @@
         xsi:type="archimate:Artifact"
         href="Artifact_id-d4231aaf-74c8-426d-82b6-26f4c5e10726.xml#id-d4231aaf-74c8-426d-82b6-26f4c5e10726"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-14450f57596840cd94322da4ee3a5687">
+    <bounds
+        x="328"
+        y="2630"
+        width="130"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_id-60a97bbb-7d5a-4e67-91a3-31ee28242cfe.xml#id-60a97bbb-7d5a-4e67-91a3-31ee28242cfe"/>
+  </children>
 </archimate:ArchimateDiagramModel>
