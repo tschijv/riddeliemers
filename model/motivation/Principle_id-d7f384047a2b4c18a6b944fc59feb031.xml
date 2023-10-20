@@ -1,0 +1,33 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expliciete bewaking"
+    id="id-d7f384047a2b4c18a6b944fc59feb031"
+    documentation="Alle gebeurtenissen die relevant zijn voor het bewaken van de serviceniveaus worden expliciet bewaakt">
+  <properties
+      key="Afgeleid van GEMMA principe"
+      value="GAP02 (Geef inzicht in de afhandeling van de dienst)"/>
+  <properties
+      key="Implicatie"
+      value="Alle fatale en kritische foutsituaties worden kenbaar gemaakt aan de monitoring omgeving en de gegevens die geleid hebben tot de foutsituatie worden gelogd voor foutanalyse. Er is bekend welke andere gebeurtenissen relevant zijn om te loggen en hierop zijn applicaties en de monitoring omgeving geconfigureerd. Er wordt informatie gelogd waarmee kan worden bewaakt of de performance binnen de afgesproken serviceniveaus blijft en of capaciteitsgrenzen worden bereikt."/>
+  <properties
+      key="Motivatie"
+      value="Verstoringen moeten zoveel mogelijk geautomatiseerd worden afgehandeld en gecorrigeerd, ondermeer om beschikbaarheid buiten kantooruren te kunnen garanderen. Daarnaast moet in het algemeen de beschikbaarheid, capaciteit en performance worden bewaakt en moet het mogelijk zijn om de oorzaak van verstoringen te kunnen analyseren. Hiertoe is het belangrijk dat applicaties de juiste informatie loggen om deze analyses uit te kunnen voeren. Zonder deze logging is de detectie en diagnose van problemen zeer tijdrovend of zelfs onmogelijk."/>
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="3.&#x9;Verder verbeteren van de informatiebeveiliging en privacy (IB&amp;P)"/>
+  <properties
+      key="Afgeleid van principe"
+      value="Gestandaardiseerde werkwijzen"/>
+  <properties
+      key="Soort principe"
+      value="Afgeleid-principe"/>
+  <properties
+      key="Thema"
+      value="Informatiebeveiliging"/>
+  <properties
+      key="Architectuurdomein"
+      value="Application, Technology"/>
+  <properties
+      key="Type"
+      value="principle"/>
+</archimate:Principle>

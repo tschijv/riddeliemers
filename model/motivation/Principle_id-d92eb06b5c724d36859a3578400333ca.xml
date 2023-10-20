@@ -1,0 +1,21 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eerst Saas, dan Paas en dan pas IaaS"
+    id="id-d92eb06b5c724d36859a3578400333ca"
+    documentation="Wanneer een dienst kan worden verworven als een SaaS oplossing, dan heeft dit de voorkeur boven het orkestreren van de oplossing als PaaSfunctie. Maar een PaaS-functie heeft weer de voorkeur boven een IaaS-component.">
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="1. Werken aan een eigentijds en robuust ICT-fundament"/>
+  <properties
+      key="Afgeleid van principe"
+      value="Cloud tenzij"/>
+  <properties
+      key="Soort principe"
+      value="Afgeleid-principe"/>
+  <properties
+      key="Thema"
+      value="Cloudstrategie"/>
+  <properties
+      key="Type"
+      value="principle"/>
+</archimate:Principle>

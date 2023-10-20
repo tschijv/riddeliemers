@@ -1,14 +1,14 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Standaard processen"
+    name="Gestandaardiseerde koppelvlakken"
     id="c1b16243-6853-480d-b4ae-13f55d50d9e3"
-    documentation="Processen zijn gestandaardiseerd">
+    documentation="Applicaties bieden gestandaardiseerde koppelvlakken">
   <properties
       key="Afgeleid van GEMMA principe"
-      value="GAP08 (Standaardiseer waar mogelijk)"/>
+      value="GAP08 (Standaardiseer waar mogelijk) "/>
   <properties
       key="Motivatie"
-      value="Processen worden bij voorkeur zo efficiënt mogelijk uitgevoerd, zeker als de klant daar geen last van heeft. Standaard processen zijn herhaalbaar, voorspelbaar, schaalbaar en meer efficiënt. Door iedereen dezelfde standaard processen te laten hanteren wordt maximaal schaal- en synergievoordeel bereikt en kennis over een betere procesuitvoering gedeeld."/>
+      value="Gebruikers verwachten willen een ge�ntegreerde informatievoorziening ervaren. Dit vraagt een verre mate van integratie van applicaties. Anderzijds is het belangrijk dat de informatievoorziening flexibel is en dat de impact van veranderingen zo beperkt mogelijk blijft. Door standaardisatie van koppelvlakken (zowel technisch als functioneel) ontstaat maximale flexibiliteit. Open standaarden zorgen ervoor dat leveranciersafhankelijkheden daarbij zoveel mogelijk worden voorkomen. Door functionaliteit en gegevens via gestandaardiseerde koppelvlakken aan te bieden kunnen deze ook relatief eenvoudig via alternatieve kanalen worden ontsloten (bijv. mobiel)."/>
   <properties
       key="Soort principe"
       value="Afgeleid-principe"/>
@@ -17,14 +17,17 @@
       value="Gestandaardiseerde werkwijzen"/>
   <properties
       key="Thema"
-      value="Business Process Management"/>
+      value="Applicatie-integratie"/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
-      value="2. Harmoniseren en standaardiseren waar mogelijk, maatwerk waar nodig"/>
+      value="2.&#x9;Harmoniseren en standaardiseren waar mogelijk, maatwerk waar nodig"/>
   <properties
       key="Architectuurdomein"
-      value="Business"/>
+      value="Application"/>
   <properties
       key="Implicatie"
-      value="Er zijn voor alle processen standaard procesbeschrijvingen. Voor ieder proces is er een proceseigenaar aangewezen die verantwoordelijk is voor de procesdefinitie en de kwaliteit van de procesuitvoering. Standaard processen worden geïmplementeerd bij alle bij het proces betrokken afdelingen. Processen zijn modulair opgebouwd waardoor procesdelen die niet altijd toepasbaar zijn niet verplicht hoeven te worden uitgevoerd."/>
+      value="Applicaties bieden gestandaardiseerde koppelvlakken op basis van overheid, open of de facto standaarden, waarbij de lijst van het Forum Standaardisatie leidend is. Gestandaardiseerde koppelvlakken worden bij voorkeur door de leveranciers van de te koppelen applicaties formeel ondersteund (gecertificeerd). Applicaties die geen standaard koppelvlak bieden met andere applicaties worden met elkaar verbonden via integratie-infrastructuur. Niet-standaard koppelvlakken worden zodanig gedefinieerd dat ze optimaal herbruikbaar zijn voor andere applicaties. Een standaard criterium bij de selectie van applicaties is het bieden van gestandaardiseerde koppelvlakken voor het uitwisselen van de noodzakelijke gegevens."/>
+  <properties
+      key="Type"
+      value="principle"/>
 </archimate:Principle>

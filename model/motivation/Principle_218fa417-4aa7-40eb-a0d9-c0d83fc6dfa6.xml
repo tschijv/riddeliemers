@@ -5,10 +5,10 @@
     documentation="De kwaliteit van gegevens wordt zo dicht mogelijk bij de bron gecontroleerd">
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
-      value="6. Op orde brengen van het informatie- en gegevensbeheer"/>
+      value="6.&#x9;Op orde brengen van het informatie- en gegevensbeheer"/>
   <properties
       key="Afgeleid van GEMMA principe"
-      value="GAP12 (Informeer bij de bron) "/>
+      value="GAP12 (Informeer bij de bron) "/>
   <properties
       key="Implicatie"
       value="Gegevens worden uitgebreid gevalideerd voordat ze worden opgeslagen. Gebruikers worden bewust gemaakt van de consequentie van het verkeerd invullen van gegevens. Gegevens hoeven na de uitgebreide validatie niet nogmaals gevalideerd te worden. Er worden elektronische formulieren geboden aan klanten waarmee ze zelf kun gegevens kunnen invoeren/wijzigen. Gegevens worden niet geschoond bij het laden van het datawarehouse. Gegevenskwaliteitsproblemen worden opgelost in het bronsysteem."/>
@@ -23,8 +23,11 @@
       value="Gegevens bij de bron"/>
   <properties
       key="Motivatie"
-      value="De kwaliteit van gegevens is in het algemeen erg belangrijk. Door bij invoer alle gegevens grondig te controleren is de kans het kleinst dat hier vervuiling in op treedt. Het is de bron zelf (bijv. de klant) die het beste en meest actuele beeld heeft van de gegevens. Als degene die de gegevens heeft ze ook levert dan worden onnodige tussenliggende lagen voorkomen. Hierdoor wordt de efficiëntie en betrouwbaarheid van de gegevens verhoogt omdat iedere schakel in de keten vertraging oplevert en een mogelijke bron van fouten is."/>
+      value="De kwaliteit van gegevens is in het algemeen erg belangrijk. Door bij invoer alle gegevens grondig te controleren is de kans het kleinst dat hier vervuiling in op treedt. Het is de bron zelf (bijv. de klant) die het beste en meest actuele beeld heeft van de gegevens. Als degene die de gegevens heeft ze ook levert dan worden onnodige tussenliggende lagen voorkomen. Hierdoor wordt de effici�ntie en betrouwbaarheid van de gegevens verhoogt omdat iedere schakel in de keten vertraging oplevert en een mogelijke bron van fouten is."/>
   <properties
       key="Thema"
       value="Gegevensbeheer"/>
+  <properties
+      key="Type"
+      value="principle"/>
 </archimate:Principle>

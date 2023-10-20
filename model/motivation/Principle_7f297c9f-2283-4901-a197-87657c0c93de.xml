@@ -1,30 +1,33 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Expliciete bewaking"
+    name="Traceerbaarheid naar bron"
     id="7f297c9f-2283-4901-a197-87657c0c93de"
-    documentation="Alle gebeurtenissen die relevant zijn voor het bewaken van de serviceniveaus worden expliciet bewaakt">
+    documentation="Gegevens in het datawarehouse zijn herleidbaar naar de originele gegevensbronnen">
   <properties
       key="Architectuurdomein"
-      value="Application, Technology"/>
+      value="Data"/>
   <properties
       key="Soort principe"
       value="Afgeleid-principe"/>
   <properties
       key="Afgeleid van GEMMA principe"
-      value="GAP02 (Geef inzicht in de afhandeling van de dienst)"/>
+      value="GAP12 (Informeer bij de bron)"/>
   <properties
       key="Implicatie"
-      value="Alle fatale en kritische foutsituaties worden kenbaar gemaakt aan de monitoring omgeving en de gegevens die geleid hebben tot de foutsituatie worden gelogd voor foutanalyse. Er is bekend welke andere gebeurtenissen relevant zijn om te loggen en hierop zijn applicaties en de monitoring omgeving geconfigureerd. Er wordt informatie gelogd waarmee kan worden bewaakt of de performance binnen de afgesproken serviceniveaus blijft en of capaciteitsgrenzen worden bereikt."/>
+      value="Er wordt van elk gegeven geregistreerd uit welke bron deze afkomstig is. Het datawarehouse is zelf geen bron van gegevens."/>
   <properties
       key="Motivatie"
-      value="Verstoringen moeten zoveel mogelijk geautomatiseerd worden afgehandeld en gecorrigeerd, ondermeer om beschikbaarheid buiten kantooruren te kunnen garanderen. Daarnaast moet in het algemeen de beschikbaarheid, capaciteit en performance worden bewaakt en moet het mogelijk zijn om de oorzaak van verstoringen te kunnen analyseren. Hiertoe is het belangrijk dat applicaties de juiste informatie loggen om deze analyses uit te kunnen voeren. Zonder deze logging is de detectie en diagnose van problemen zeer tijdrovend of zelfs onmogelijk."/>
+      value="Het is belangrijk dat inzichtelijk kan worden gemaakt dat gegevens die gebruikt zijn voor rapportage herleidbaar zijn naar de originele gegevens in de basisadministratie. Hierdoor kunnen er geen twijfels ontstaan over de kwaliteit van de gegevens. Daarnaast is het ook vanuit wet- en regelgeving belangrijk om aan te kunnen geven waarop verantwoordingsrapportages zijn gebaseerd."/>
   <properties
       key="Thema"
-      value="Informatiebeveiliging"/>
+      value="Applicatie-integratie, Gegevensbeheer"/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
-      value="3. Verder verbeteren van de informatiebeveiliging en privacy (IB&amp;P)"/>
+      value="6.&#x9;Op orde brengen van het informatie- en gegevensbeheer"/>
   <properties
       key="Afgeleid van principe"
-      value="Gestandaardiseerde werkwijzen"/>
+      value="Gegevens bij de bron"/>
+  <properties
+      key="Type"
+      value="principle"/>
 </archimate:Principle>

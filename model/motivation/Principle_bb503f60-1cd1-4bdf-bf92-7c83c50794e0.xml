@@ -1,30 +1,33 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Continue en pro-actief bewaken serviceniveau's"
+    name="Beveiliging bij bron"
     id="bb503f60-1cd1-4bdf-bf92-7c83c50794e0"
-    documentation="De serviceniveau's van IT-systemen worden continu en pro-actief bewaakt">
+    documentation="Gegevens worden bij de bron beveiligd">
   <properties
       key="Motivatie"
-      value="Verstoringen in IT-systemen zouden zo min mogelijk impact moeten hebben op gebruikers. Door verstoringen vroegtijdig te signaleren kan mogelijk worden ingegrepen voordat de gebruiker er iets van merkt. Bij voorkeur worden verstoringen voorkomen. Hiervoor zouden in ieder geval moeten worden bewaakt wanneer capaciteitsgrenzen worden overschreden, zodat tijdig extra capaciteit kan worden bijgeschakeld."/>
+      value="De integriteit en vertrouwelijkheid van informatie worden gewaarborgd door gegevens bij de bron te beveiligen, aangezien applicaties steeds vaker vanaf diverse locaties en apparaten worden gebruikt. Dit garandeert vertrouwelijkheid, ongeacht het toegangspad. Het controleren van gegevens bij invoer en het direct leveren door de bron verhoogt de effici�ntie en betrouwbaarheid, terwijl organisatiegrenzen vervagen en externe partijen meer toegang tot applicaties zoeken."/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
-      value="3. Verder verbeteren op informatiebeveiliging en privacy"/>
+      value="3.&#x9;Verder verbeteren op informatiebeveiliging en privacy"/>
   <properties
       key="Thema"
       value="Informatiebeveiliging"/>
   <properties
       key="Afgeleid van GEMMA principe"
-      value="GAP05 (Bied de dienst proactief aan)"/>
+      value="GAP20 (Zorg voor digitale weerbaarheid)"/>
   <properties
       key="Soort principe"
       value="Afgeleid-principe"/>
   <properties
       key="Afgeleid van principe"
-      value="Gestandaardiseerde werkwijzen"/>
+      value="Gegevens bij de bron"/>
   <properties
       key="Architectuurdomein"
-      value="Technology"/>
+      value="Data, Application"/>
   <properties
       key="Implicatie"
-      value="Er worden expliciete afspraken gemaakt over de serviceniveau’s die de operatie verwacht van de ICT-systemen. Er wordt periodiek gerapporteerd over de mate waarin de serviceniveau’s worden behaald. Er wordt continu gemonitord of ICT-systemen beschikbaar zijn, zodat verstoringen direct inzichtelijk zijn. Alle fatale en kritische foutsituaties worden kenbaar gemaakt aan de monitoring omgeving en de gegevens die geleid hebben tot de foutsituatie worden gelogd voor foutanalyse. De capaciteit die nodig is voor de ICT-systemen en de groei ervan is inzichtelijk en wordt ruim voordat grenzen worden bereikt verhoogd."/>
+      value="De toegang tot gegevens wordt altijd geauthenticeerd en geautoriseerd, en vertrouwelijke gegevens worden inhoudelijk versleuteld en voorzien van een access control list. Netwerkverkeer wordt bij binnenkomst in het rekencentrum gefilterd en gemonitord op vijandigheid, en wachtwoorden worden in niet-leesbare vorm over het netwerk getransporteerd. Applicaties voeren altijd een authenticatie en autorisatie uit van gebruikers of systemen die toegang willen krijgen tot functionaliteit of gegevens. Gegevenskwaliteitsproblemen worden opgelost in het bronsysteem."/>
+  <properties
+      key="Type"
+      value="principle"/>
 </archimate:Principle>

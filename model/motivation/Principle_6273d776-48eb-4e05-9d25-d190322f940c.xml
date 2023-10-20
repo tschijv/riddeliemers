@@ -1,24 +1,33 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestandaardiseerde werkwijzen"
+    name="Verminderd inloggen"
     id="6273d776-48eb-4e05-9d25-d190322f940c"
-    documentation="Hanteer gestandaardiseerde werkwijzen voor het inrichten van de informatievoorziening.">
+    documentation="Gebruikers worden niet geconfronteerd met overbodige authenticaties">
   <properties
-      key="Architectuurdomein"/>
+      key="Architectuurdomein"
+      value="Application"/>
   <properties
       key="Soort principe"
-      value="Architectuurprincipe"/>
+      value="Afgeleid-principe"/>
   <properties
       key="Thema"
-      value="Algemeen"/>
+      value="Identity- en accessmanagement"/>
   <properties
-      key="Implicatie"/>
+      key="Implicatie"
+      value="Gebruikers hebben bij voorkeur maar ��n account. Er zijn centrale authenticatievoorzieningen aanwezig die alle voor applicaties noodzakelijke authenticatiefunctionaliteit bieden. Applicaties voeren zelf geen authenticatie uit, maar vertrouwen op tokens die zijn gegenereerd door centrale authenticatievoorzieningen."/>
   <properties
-      key="Afgeleid van GEMMA principe"/>
+      key="Afgeleid van GEMMA principe"
+      value="GAP16 (Streef naar eenvoud)"/>
   <properties
-      key="Afgeleid van principe"/>
+      key="Afgeleid van principe"
+      value="Toegankelijkheid en veiligheid in balans"/>
   <properties
-      key="Raakvlak met speerpunt I&amp;A-visie"/>
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="1.&#x9;Werken aan een eigentijds en robuust ICT-fundament"/>
   <properties
-      key="Motivatie"/>
+      key="Motivatie"
+      value="Gebruikers vinden het lastig als ze voor elke applicatie opnieuw moeten inloggen. In veel gevallen is dat ook niet nodig en kan een initi�le authenticatie voldoende zijn voor toegang tot allerlei applicaties. In een aantal gevallen is een extra authenticatie echter gewenst, bijvoorbeeld als de gebruiker toegang probeert te krijgen tot meer gevoelige gegevens of functionaliteit."/>
+  <properties
+      key="Type"
+      value="principle"/>
 </archimate:Principle>

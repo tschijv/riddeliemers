@@ -23,8 +23,11 @@
       value="Data, Application, Technology"/>
   <properties
       key="Afgeleid van GEMMA principe"
-      value="GAP13 (Beheers risico's voortdurend) "/>
+      value="GAP13 (Beheers risico's voortdurend) "/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
-      value="3. Verder verbeteren op informatiebeveiliging en privacy"/>
+      value="3.&#x9;Verder verbeteren op informatiebeveiliging en privacy"/>
+  <properties
+      key="Type"
+      value="principle"/>
 </archimate:Principle>

@@ -1,25 +1,30 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beveiliging bij bron"
+    name="Eenmalige vastlegging"
     id="d3b39394-8220-48af-8092-c13a70bf800a"
-    documentation="Gegevens worden bij de bron beveiligd">
+    documentation="We leggen gegevens eenmalig vast en vragen op bij de bron.">
   <properties
-      key="Architectuurdomein"/>
+      key="Architectuurdomein"
+      value="Data"/>
   <properties
-      key="Afgeleid van principe"/>
-  <properties
-      key="Thema"/>
+      key="Thema"
+      value="Algemeen, Cloudstrategie"/>
   <properties
       key="Afgeleid van GEMMA principe"
+      value="Common Ground"/>
+  <properties
+      key="Soort principe"
       value="Architectuurprincipe"/>
   <properties
-      key="Soort principe"/>
-  <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
-      value="Algemeen"/>
+      value="6, 3"/>
   <properties
-      key="Motivatie"/>
+      key="Motivatie"
+      value="Onder de noemer Common Ground wordt ingezet op het uit elkaar halen &#xA;van applicaties en data hetgeen minder afhankelijkheid van vendoren betekent en het &#xA;voorkomt ook het onnodig dupliceren van data, zodat gewerkt kan worden met �one source &#xA;of truth�; Dit kan leiden tot effici�nter werken en meer tijd voor andere taken. Bovendien draagt het bij aan de nauwkeurigheid en betrouwbaarheid van de gegevens, aangezien de kans op fouten in het proces van gegevensverwerking kleiner wordt. Tegelijkertijd helpt het principe om de privacy van individuen te beschermen, omdat gegevens niet meerdere keren hoeven te worden verzameld en opgeslagen, wat bijdraagt aan de naleving van gegevensbeschermingswetten en -normen."/>
   <properties
       key="Implicatie"
-      value="Toegang tot gegevens wordt altijd geauthenticeerd en geautoriseerd, en vertrouwelijke gegevens worden inhoudelijk versleuteld en voorzien van een access control list. Gegevens worden uitgebreid gevalideerd voordat ze worden opgeslagen, en gebruikers worden bewust gemaakt van de consequenties van het verkeerd invullen van gegevens. Netwerkverkeer wordt bij binnenkomst in het rekencentrum gefilterd en gemonitord op vijandigheid, en wachtwoorden worden in niet-leesbare vorm over het netwerk getransporteerd. Applicaties voeren altijd een authenticatie en autorisatie uit van gebruikers of systemen die toegang willen krijgen tot functionaliteit of gegevens. Gegevenskwaliteitsproblemen worden opgelost in het bronsysteem, en er worden elektronische formulieren geboden aan klanten waarmee ze zelf hun gegevens kunnen invoeren/wijzigen. Van elk gegeven wordt geregistreerd uit welke bron deze afkomstig is, en het datawarehouse is zelf geen bron van gegevens."/>
+      value="Op het gebied van gegevensbeheer wordt er nauw samengewerkt door alle betrokken gemeentelijke organisaties op basis van datagedreven architectuur. Gegevens worden gescheiden van de applicaties en processen waarin ze gebruikt worden. Gegevens worden vanuit de bron toegankelijk gemaakt via een datawarehouse. De beschikbaarheid, integriteit en betrouwelijkheid van gegevens waarbogen is de taak van de bronhouder. "/>
+  <properties
+      key="Type"
+      value="principle"/>
 </archimate:Principle>

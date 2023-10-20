@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud tenzij"
+    id="id-5115325a538944a99664aecdebfd30e1"
+    documentation="Er wordt eerst gekeken of een service in de Cloud &#xA;gerealiseerd kan worden.">
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="1. Werken aan een eigentijds en robuust ICT-fundament"/>
+  <properties
+      key="Soort principe"
+      value="Architectuurprincipe"/>
+  <properties
+      key="Architectuurdomein"
+      value="Applicatie"/>
+  <properties
+      key="Type"
+      value="principle"/>
+</archimate:Principle>

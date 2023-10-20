@@ -1,30 +1,33 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hergebruik gegevens"
+    name="Rolgebaseerde autorisatie"
     id="a88705f8-0cd8-4459-8915-acc0399876f9"
-    documentation="Gegevens worden hergebruikt">
+    documentation="Toegang tot autorisatieobjecten is rolgebaseerd">
   <properties
       key="Thema"
-      value="Gegevensbeheer"/>
+      value="Governance, Identity- en accessmanagement"/>
   <properties
       key="Implicatie"
-      value="Klanten wordt niet gevraagd naar gegevens die de organisatie zelf al beschikbaar heeft of die eenvoudig toegankelijk zijn voor de organisatie. Reeds bekende gegevens worden vooringevuld in formulieren, waarbij klanten de mogelijkheid krijgen om aan te geven of deze gegevens kloppen. Er zijn kernregistraties ingericht voor gegevens die breed binnen de organisatie worden gebruikt. Er zijn duidelijke afspraken over gegevens die worden uitgewisseld met anderen en de standaarden die daarbij gehanteerd worden. Vermeende onjuistheden in gegevens worden teruggemeld aan de bronhouder van de gegevens. Iedere gegevensverzameling heeft een eigenaar die verantwoordelijk is voor beschikbaarheid, integriteit, vertrouwelijkheid, volledigheid en kwaliteit. Voor alle soorten gegevens is bekend welke applicatie deze gegevens beheert en daarmee de bron is voor afnemers. Gegevens zijn uniek identificeerbaar en voorzien van relevante contextinformatie en metadata. Verwijzen naar gegevens heeft de voorkeur boven kopiëren."/>
+      value="Er is centraal een aantal rollen benoemd, gedifferentieerd naar de functies, processen, afdelingen/opleidingen van gebruikers. Autorisaties worden zoveel mogelijk gebaseerd op rollen en niet op individuele gebruikers. Provisioning van accounts naar doelsystemen leidt niet automatisch tot toegang tot een systeem; hiertoe moet additioneel nog een autorisatie worden toegekend."/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
-      value="2. Harmoniseren en standaardiseren waar mogelijk, maatwerk waar nodig"/>
+      value="3.&#x9;Verder verbeteren op informatiebeveiliging en privacy"/>
   <properties
       key="Afgeleid van principe"
-      value="Gestandaardiseerde werkwijzen"/>
+      value="Toegankelijkheid en veiligheid in balans"/>
   <properties
       key="Soort principe"
       value="Afgeleid-principe"/>
   <properties
       key="Architectuurdomein"
-      value="Data"/>
+      value="Application, Technology"/>
   <properties
       key="Afgeleid van GEMMA principe"
-      value="GAP06 (Hergebruik voor kopen, voor maken)"/>
+      value="GAP20 (Zorg voor digitale weerbaarheid)"/>
   <properties
       key="Motivatie"
-      value="Gegevens zijn de basis voor processen en moeten gewoon beschikbaar zijn met een voldoende kwaliteitsniveau. Door gegevens op één plaats te beheren wordt het delen ervan veel eenvoudiger en worden mogelijke inconsistenties voorkomen. Binnen de Nederlandse overheid is afgesproken dat burgers niet wordt gevraagd om gegevens waar de overheid zelf al over beschikt."/>
+      value="Het hebben van een identiteit is niet voldoende om toegang te krijgen tot een systeem; er is ook een autorisatie noodzakelijk. Door autorisaties te baseren op de rol van de gebruiker hoeven autorisaties niet op individueel niveau te worden toegekend, waardoor autorisatiebeheer effici�nter kan plaats vinden. Hierdoor is de organisatie ook beter in staat om de rechtmatigheid van uitgegeven autorisaties te controleren."/>
+  <properties
+      key="Type"
+      value="principle"/>
 </archimate:Principle>

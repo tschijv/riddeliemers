@@ -1,30 +1,33 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verminderd inloggen"
+    name="Hergebruik gegevens"
     id="74e16e89-7c24-4688-869c-98afb75cbd0a"
-    documentation="Gebruikers worden niet geconfronteerd met overbodige authenticaties">
+    documentation="Gegevens worden hergebruikt">
   <properties
       key="Afgeleid van GEMMA principe"
-      value="GAP16 (Streef naar eenvoud)"/>
+      value="GAP06 (Hergebruik voor kopen, voor maken)"/>
   <properties
       key="Implicatie"
-      value="Gebruikers hebben bij voorkeur maar één account. Er zijn centrale authenticatievoorzieningen aanwezig die alle voor applicaties noodzakelijke authenticatiefunctionaliteit bieden. Applicaties voeren zelf geen authenticatie uit, maar vertrouwen op tokens die zijn gegenereerd door centrale authenticatievoorzieningen."/>
+      value="Klanten wordt niet gevraagd naar gegevens die de organisatie zelf al beschikbaar heeft of die eenvoudig toegankelijk zijn voor de organisatie. Reeds bekende gegevens worden vooringevuld in formulieren, waarbij klanten de mogelijkheid krijgen om aan te geven of deze gegevens kloppen. Er zijn kernregistraties ingericht voor gegevens die breed binnen de organisatie worden gebruikt. Er zijn duidelijke afspraken over gegevens die worden uitgewisseld met anderen en de standaarden die daarbij gehanteerd worden. Vermeende onjuistheden in gegevens worden teruggemeld aan de bronhouder van de gegevens. Iedere gegevensverzameling heeft een eigenaar die verantwoordelijk is voor beschikbaarheid, integriteit, vertrouwelijkheid, volledigheid en kwaliteit. Voor alle soorten gegevens is bekend welke applicatie deze gegevens beheert en daarmee de bron is voor afnemers. Gegevens zijn uniek identificeerbaar en voorzien van relevante contextinformatie en metadata. Verwijzen naar gegevens heeft de voorkeur boven kopi�ren."/>
   <properties
       key="Motivatie"
-      value="Gebruikers vinden het lastig als ze voor elke applicatie opnieuw moeten inloggen. In veel gevallen is dat ook niet nodig en kan een initiële authenticatie voldoende zijn voor toegang tot allerlei applicaties. In een aantal gevallen is een extra authenticatie echter gewenst, bijvoorbeeld als de gebruiker toegang probeert te krijgen tot meer gevoelige gegevens of functionaliteit."/>
+      value="Gegevens zijn de basis voor processen en moeten gewoon beschikbaar zijn met een voldoende kwaliteitsniveau. Door gegevens op ��n plaats te beheren wordt het delen ervan veel eenvoudiger en worden mogelijke inconsistenties voorkomen. Binnen de Nederlandse overheid is afgesproken dat burgers niet wordt gevraagd om gegevens waar de overheid zelf al over beschikt."/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
-      value="1. Werken aan een eigentijds en robuust ICT-fundament"/>
+      value="2.&#x9;Harmoniseren en standaardiseren waar mogelijk, maatwerk waar nodig"/>
   <properties
       key="Afgeleid van principe"
-      value="Toegankelijkheid en veiligheid in balans"/>
+      value="Gestandaardiseerde werkwijzen"/>
   <properties
       key="Soort principe"
       value="Afgeleid-principe"/>
   <properties
       key="Thema"
-      value="Identity- en accessmanagement"/>
+      value="Gegevensbeheer"/>
   <properties
       key="Architectuurdomein"
-      value="Application"/>
+      value="Data"/>
+  <properties
+      key="Type"
+      value="principle"/>
 </archimate:Principle>
