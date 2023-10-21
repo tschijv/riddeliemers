@@ -1,8 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" Werken onder Architectuur"
+    name="Werken onder Architectuur"
     id="id-ef17916bd7134000a3f3bc51a22514a4"
-    documentation="Iedere oplossing is onderworpen aan een architectuurproces &#xA;waarbij oplossingen, methoden en richting ge�valueerd worden tegen het bredere geheel &#xA;van diensten en capaciteiten van de organisatie">
+    documentation="Iedere oplossing is onderworpen aan een architectuurproces waarbij oplossingen, methoden en richting geëvalueerd worden tegen het bredere geheel van diensten en capaciteiten van de organisatie">
   <properties
       key="Afgeleid van principe"
       value="Gestandaardiseerde werkwijzen, Cloud tenzij"/>
