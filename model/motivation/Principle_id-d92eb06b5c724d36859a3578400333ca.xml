@@ -19,9 +19,6 @@
       key="Type"
       value="principle"/>
   <properties
-      key="Motivatie"
-      value="undefined"/>
-  <properties
-      key="Implicatie"
-      value="undefined"/>
+      key="Architectuurdomein"
+      value="Application"/>
 </archimate:Principle>

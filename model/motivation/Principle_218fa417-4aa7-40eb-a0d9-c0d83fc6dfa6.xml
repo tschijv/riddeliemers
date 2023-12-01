@@ -8,7 +8,7 @@
       value="6.&#x9;Op orde brengen van het informatie- en gegevensbeheer"/>
   <properties
       key="Afgeleid van GEMMA principe"
-      value="GAP12 (Informeer bij de bron) "/>
+      value="GAP12 (Informeer bij de bron)"/>
   <properties
       key="Implicatie"
       value="We kijken alle gegevens goed na voordat we ze opslaan. We laten mensen weten dat het belangrijk is om alles goed in te vullen. Na deze grondige controle hoeven we de gegevens niet nog een keer na te kijken. We geven onze klanten formulieren die ze zelf kunnen invullen of veranderen. We maken de gegevens niet schoon als we het opslaan in onze grote opslagplaats (datawarehouse). Als er iets mis is met de kwaliteit van de gegevens, lossen we dit op waar de gegevens vandaan komen (bronsysteem)."/>

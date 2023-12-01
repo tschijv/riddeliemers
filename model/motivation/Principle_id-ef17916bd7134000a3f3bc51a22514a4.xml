@@ -21,4 +21,7 @@
   <properties
       key="Implicatie"
       value="We werken samen aan een gezamenlijke Enterprise Architectuur voor de gemeentelijke ICT-samenwerking. Voor alle projecten die met digitale transformatie te maken hebben, werken we in een projectstartarchitectuur (PSA) de projectarchitectuur uit. Deze projectarchitectuur wordt door een architectuurboard beoordeeld ten opzichte van de Enterprise Architectuur."/>
+  <properties
+      key="Raakvlak met speerpunt I&amp;A-visie"
+      value="1. Werken aan een eigentijds en robuust ICT-fundament"/>
 </archimate:Principle>

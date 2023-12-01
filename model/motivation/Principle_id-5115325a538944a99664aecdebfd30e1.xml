@@ -15,10 +15,4 @@
   <properties
       key="Type"
       value="principle"/>
-  <properties
-      key="Motivatie"
-      value="undefined"/>
-  <properties
-      key="Implicatie"
-      value="undefined"/>
 </archimate:Principle>

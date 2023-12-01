@@ -5,7 +5,7 @@
     documentation="Onze applicaties bieden gestandaardiseerde koppelvlakken">
   <properties
       key="Afgeleid van GEMMA principe"
-      value="GAP08 (Standaardiseer waar mogelijk) "/>
+      value="GAP08 (Standaardiseer waar mogelijk)"/>
   <properties
       key="Motivatie"
       value="Wij willen dat gebruikers een naadloze informatievoorziening ervaren. Dit betekent dat onze applicaties goed met elkaar moeten kunnen samenwerken. Tegelijkertijd willen we dat veranderingen zo min mogelijk impact hebben. Door te zorgen voor standaardisatie van koppelvlakken (dit zijn de punten waarop applicaties met elkaar communiceren), maken we onze dienstverlening zo flexibel mogelijk. Het gebruik van open standaarden helpt ons om niet te veel afhankelijk te zijn van specifieke leveranciers. Door informatie en functies via deze gestandaardiseerde koppelvlakken aan te bieden, kunnen we deze ook makkelijk beschikbaar maken via andere kanalen, zoals mobiele apparaten."/>
