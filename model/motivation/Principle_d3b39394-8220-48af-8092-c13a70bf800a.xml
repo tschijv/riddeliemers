@@ -20,7 +20,7 @@
       value="6, 3"/>
   <properties
       key="Motivatie"
-      value="Onder het motto 'Common"/>
+      value="Onder het motto 'Common Ground' streven wij ernaar om applicaties en data los van elkaar te maken. Dit maakt ons minder afhankelijk van leveranciers en voorkomt dat we gegevens onnodig dubbel opslaan. Zo werken we met één betrouwbare bron. Dit maakt ons werk efficiënter en geeft ons meer tijd voor andere taken. Het helpt ook om de gegevens nauwkeurig en betrouwbaar te houden, omdat er minder kans is op fouten bij het verwerken van de gegevens. Tegelijkertijd beschermt dit principe de privacy van mensen, omdat we hun gegevens niet meerdere keren hoeven te verzamelen en op te slaan. Dit helpt ons om aan de regels voor gegevensbescherming te voldoen."/>
   <properties
       key="Implicatie"
       value="Op het gebied van gegevensbeheer werken alle betrokken gemeentelijke organisaties nauw samen, gebaseerd op een architectuur die uitgaat van data. De gegevens worden losgemaakt van de applicaties en processen waarin ze worden gebruikt. We maken deze toegankelijk via een datawarehouse, rechtstreeks vanuit de bron."/>

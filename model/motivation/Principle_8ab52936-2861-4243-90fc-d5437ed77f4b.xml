@@ -11,7 +11,7 @@
       value="Informatiebeveiliging, Identity- en accessmanagement"/>
   <properties
       key="Implicatie"
-      value="We voeren een risico-analyse uit voor gegevens en/of applicaties om duidelijk te maken hoe riskant ze zijn. We geven aan hoe belangrijk de veiligheid, betrouwbaarheid en privacy van de gegevens zijn. Applicaties met een hoog risico zijn niet toegankelijk voor accounts die we niet volledig vertrouwen (zoals social media accounts). Hoeveel toegang mensen krijgen binnen applicaties hangt af van hoe riskant ze zijn. Als een applicatie erg riskant is, kunnen we extra beveiliging vragen zowel voor toegang tot als binnen de applicatie."/>
+      value="We voeren een risico-analyse uit voor gegevens en/of applicaties om duidelijk te maken hoe riskant ze zijn. We bepalen hoe belangrijk de beschikbaarheid, integriteit en vertrouwelijkheid van gegevens is en leggen dit vast. Applicaties met een hoog risico zijn niet toegankelijk voor accounts die we niet volledig vertrouwen (zoals social media accounts). Hoeveel toegang mensen krijgen binnen applicaties hangt af van een risicoprofiel. Als een applicatie erg riskant is, kunnen we extra beveiliging vragen zowel voor toegang tot als binnen de applicatie."/>
   <properties
       key="Afgeleid van principe"
       value="Toegankelijkheid en veiligheid in balans"/>
