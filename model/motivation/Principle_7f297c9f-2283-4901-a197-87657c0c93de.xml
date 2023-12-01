@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Traceerbaarheid naar bron"
     id="7f297c9f-2283-4901-a197-87657c0c93de"
-    documentation="Gegevens in het datawarehouse zijn herleidbaar naar de originele gegevensbronnen">
+    documentation="Wij weten van alle gegevens waar ze vandaan komen.">
   <properties
       key="Architectuurdomein"
       value="Data"/>
@@ -14,10 +14,10 @@
       value="GAP12 (Informeer bij de bron)"/>
   <properties
       key="Implicatie"
-      value="Er wordt van elk gegeven geregistreerd uit welke bron deze afkomstig is. Het datawarehouse is zelf geen bron van gegevens."/>
+      value="Wij houden van elk gegeven bij uit welke bron het komt. Ons datawarehouse of een andere applicatie is zelf geen bron van gegevens."/>
   <properties
       key="Motivatie"
-      value="Het is belangrijk dat inzichtelijk kan worden gemaakt dat gegevens die gebruikt zijn voor rapportage herleidbaar zijn naar de originele gegevens in de basisadministratie. Hierdoor kunnen er geen twijfels ontstaan over de kwaliteit van de gegevens. Daarnaast is het ook vanuit wet- en regelgeving belangrijk om aan te kunnen geven waarop verantwoordingsrapportages zijn gebaseerd."/>
+      value="Het is belangrijk dat we kunnen laten zien dat de gegevens die we gebruiken voor rapportages terug te leiden zijn naar de originele gegevens in onze basisadministratie. Zo zorgen we ervoor dat er geen twijfels zijn over de kwaliteit van onze gegevens. Ook moeten we volgens de wet kunnen laten zien waarop onze rapportages gebaseerd zijn."/>
   <properties
       key="Thema"
       value="Applicatie-integratie, Gegevensbeheer"/>

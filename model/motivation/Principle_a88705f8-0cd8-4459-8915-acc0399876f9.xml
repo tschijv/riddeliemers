@@ -2,13 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rolgebaseerde autorisatie"
     id="a88705f8-0cd8-4459-8915-acc0399876f9"
-    documentation="Toegang tot autorisatieobjecten is rolgebaseerd">
+    documentation="Wij geven toegang tot autorisatieobjecten op basis van rollen">
   <properties
       key="Thema"
       value="Governance, Identity- en accessmanagement"/>
   <properties
       key="Implicatie"
-      value="Er is centraal een aantal rollen benoemd, gedifferentieerd naar de functies, processen, afdelingen/opleidingen van gebruikers. Autorisaties worden zoveel mogelijk gebaseerd op rollen en niet op individuele gebruikers. Provisioning van accounts naar doelsystemen leidt niet automatisch tot toegang tot een systeem; hiertoe moet additioneel nog een autorisatie worden toegekend."/>
+      value="We hebben centraal een aantal rollen benoemd, gebaseerd op functies, processen en afdelingen/opleidingen van gebruikers. We proberen zoveel mogelijk op basis van rollen en niet individuele gebruikers toestemming te geven. Het aanmaken van accounts voor doelsystemen betekent niet automatisch dat iemand toegang krijgt tot een systeem; hiervoor moet nog extra toestemming worden gegeven."/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
       value="3.&#x9;Verder verbeteren op informatiebeveiliging en privacy"/>
@@ -26,7 +26,7 @@
       value="GAP20 (Zorg voor digitale weerbaarheid)"/>
   <properties
       key="Motivatie"
-      value="Het hebben van een identiteit is niet voldoende om toegang te krijgen tot een systeem; er is ook een autorisatie noodzakelijk. Door autorisaties te baseren op de rol van de gebruiker hoeven autorisaties niet op individueel niveau te worden toegekend, waardoor autorisatiebeheer effici�nter kan plaats vinden. Hierdoor is de organisatie ook beter in staat om de rechtmatigheid van uitgegeven autorisaties te controleren."/>
+      value="Alleen een identiteit hebben is niet genoeg om toegang te krijgen tot een systeem; er is ook toestemming (autorisatie) nodig. Door deze toestemming te koppelen aan de rol van de gebruiker, hoeven we niet voor iedereen apart toestemming te geven. Dit maakt het beheren van toestemmingen makkelijker. Zo kunnen we ook beter controleren of de gegeven toestemmingen juist zijn."/>
   <properties
       key="Type"
       value="principle"/>

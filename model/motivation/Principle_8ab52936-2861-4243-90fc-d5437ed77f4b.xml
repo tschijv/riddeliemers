@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Risico-analyse is leidend"
     id="8ab52936-2861-4243-90fc-d5437ed77f4b"
-    documentation="Beveiligingsmaatregelen zijn gebaseerd op het risicoprofiel">
+    documentation="Onze beveiligingsmaatregelen zijn gebaseerd op het risicoprofiel.">
   <properties
       key="Soort principe"
       value="Afgeleid-principe"/>
@@ -11,13 +11,13 @@
       value="Informatiebeveiliging, Identity- en accessmanagement"/>
   <properties
       key="Implicatie"
-      value="Er wordt voor gegevens en/of applicaties een risico-analyse uitgevoerd om het risicoprofiel expliciet te maken. Gegevens zijn voorzien van een BIV-classificatie welke aangeeft welke mate van beschikbaarheid, integriteit en vertrouwelijkheid gewenst is. Applicaties met een hoog risicoprofiel zijn niet toegankelijk voor identiteiten waarin een laag vertrouwen is (zoals social accounts). De fijnmazigheid van rollen en autorisaties om toegang te krijgen binnen applicaties is afhankelijk van hun risicoprofiel. Op basis van een hoog risicoprofiel kan zowel voor toegang tot de applicatie als voor toegang binnen applicaties (step-up) sterke authenticatie verlangt worden."/>
+      value="We voeren een risico-analyse uit voor gegevens en/of applicaties om duidelijk te maken hoe riskant ze zijn. We geven aan hoe belangrijk de veiligheid, betrouwbaarheid en privacy van de gegevens zijn. Applicaties met een hoog risico zijn niet toegankelijk voor accounts die we niet volledig vertrouwen (zoals social media accounts). Hoeveel toegang mensen krijgen binnen applicaties hangt af van hoe riskant ze zijn. Als een applicatie erg riskant is, kunnen we extra beveiliging vragen zowel voor toegang tot als binnen de applicatie."/>
   <properties
       key="Afgeleid van principe"
       value="Toegankelijkheid en veiligheid in balans"/>
   <properties
       key="Motivatie"
-      value="De integriteit en vertrouwelijkheid van informatie moet worden bewaakt. De risicoclassificatie van informatie bepaalt welke maatregelen moeten worden genomen om de beschikbaarheid, integriteit en vertrouwelijkheid te bewaken. Het overmatig beveiligen van informatie kost onnodige inspanning en verhoogt de drempel voor gebruikers."/>
+      value="We moeten de veiligheid en privacy van informatie bewaken. Hoe riskant de informatie is, bepaalt welke stappen we nemen om deze veilig te houden. Te veel beveiliging kost onnodige moeite en maakt het moeilijker voor mensen om de informatie te gebruiken."/>
   <properties
       key="Architectuurdomein"
       value="Data, Application, Technology"/>

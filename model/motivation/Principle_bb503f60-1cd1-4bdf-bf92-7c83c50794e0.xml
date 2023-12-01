@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beveiliging bij bron"
     id="bb503f60-1cd1-4bdf-bf92-7c83c50794e0"
-    documentation="Gegevens worden bij de bron beveiligd">
+    documentation="We geven alleen toegang tot de gegevens die nodig zijn voor de taken die uitgevoerd moeten worden.">
   <properties
       key="Motivatie"
-      value="De integriteit en vertrouwelijkheid van informatie worden gewaarborgd door gegevens bij de bron te beveiligen, aangezien applicaties steeds vaker vanaf diverse locaties en apparaten worden gebruikt. Dit garandeert vertrouwelijkheid, ongeacht het toegangspad. Het controleren van gegevens bij invoer en het direct leveren door de bron verhoogt de effici�ntie en betrouwbaarheid, terwijl organisatiegrenzen vervagen en externe partijen meer toegang tot applicaties zoeken."/>
+      value="We zorgen voor de veiligheid en privacy van informatie door deze bij de bron te beschermen. Dit is belangrijk omdat we onze diensten steeds vaker vanaf verschillende plekken en met verschillende apparaten gebruiken. Op deze manier blijft informatie altijd veilig, ongeacht hoe er toegang toe wordt verkregen. Door gegevens te controleren wanneer ze worden ingevoerd en direct vanuit de bron te leveren, werken we efficiënter en betrouwbaarder. Dit is vooral belangrijk nu onze organisatie steeds meer samenwerkt met externe partijen."/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
       value="3.&#x9;Verder verbeteren op informatiebeveiliging en privacy"/>
@@ -26,7 +26,7 @@
       value="Data, Application"/>
   <properties
       key="Implicatie"
-      value="De toegang tot gegevens wordt altijd geauthenticeerd en geautoriseerd, en vertrouwelijke gegevens worden inhoudelijk versleuteld en voorzien van een access control list. Netwerkverkeer wordt bij binnenkomst in het rekencentrum gefilterd en gemonitord op vijandigheid, en wachtwoorden worden in niet-leesbare vorm over het netwerk getransporteerd. Applicaties voeren altijd een authenticatie en autorisatie uit van gebruikers of systemen die toegang willen krijgen tot functionaliteit of gegevens. Gegevenskwaliteitsproblemen worden opgelost in het bronsysteem."/>
+      value="We zorgen altijd dat toegang tot gegevens wordt"/>
   <properties
       key="Type"
       value="principle"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Standaard processen"
     id="506716c5-0cb0-4a76-964f-b16a746932d4"
-    documentation="Processen zijn gestandaardiseerd">
+    documentation="Onze processen zijn gestandaardiseerd">
   <properties
       key="Afgeleid van principe"
       value="Gestandaardiseerde werkwijzen"/>
@@ -11,7 +11,7 @@
       value="Afgeleid-principe"/>
   <properties
       key="Implicatie"
-      value="Er zijn voor alle processen standaard procesbeschrijvingen. Voor ieder proces is er een proceseigenaar aangewezen die verantwoordelijk is voor de procesdefinitie en de kwaliteit van de procesuitvoering. Standaard processen worden ge�mplementeerd bij alle bij het proces betrokken afdelingen. Processen zijn modulair opgebouwd waardoor procesdelen die niet altijd toepasbaar zijn niet verplicht hoeven te worden uitgevoerd."/>
+      value="We hebben voor alle processen standaard beschrijvingen. Voor elk proces is een proceseigenaar aangewezen, die zorgt dat het proces goed wordt uitgevoerd en dat de kwaliteit hoog blijft. Deze standaardprocessen worden door alle afdelingen die bij het proces betrokken zijn gebruikt. Onze processen zijn opgebouwd uit verschillende delen, zodat we niet altijd alles hoeven te doen als dat niet nodig is."/>
   <properties
       key="Thema"
       value="Business Process Management"/>
@@ -26,7 +26,7 @@
       value="GAP08 (Standaardiseer waar mogelijk)"/>
   <properties
       key="Motivatie"
-      value="Processen worden bij voorkeur zo effici�nt mogelijk uitgevoerd, zeker als de klant daar geen last van heeft. Standaard processen zijn herhaalbaar, voorspelbaar, schaalbaar en meer effici�nt. Door iedereen dezelfde standaard processen te laten hanteren wordt maximaal schaal- en synergievoordeel bereikt en kennis over een betere procesuitvoering gedeeld."/>
+      value="We voeren onze processen zo efficiënt mogelijk uit, vooral als dit geen negatieve invloed heeft op onze gebruikers. Standaard processen kunnen we makkelijk herhalen, voorspellen en uitbreiden. Ze helpen ons ook om beter te werken. Door iedereen dezelfde standaardprocessen te laten volgen, kunnen we het meeste halen uit onze gezamenlijke inspanningen en kennis delen over hoe we dingen beter kunnen doen."/>
   <properties
       key="Type"
       value="principle"/>

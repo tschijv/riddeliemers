@@ -2,13 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestandaardiseerde koppelvlakken"
     id="c1b16243-6853-480d-b4ae-13f55d50d9e3"
-    documentation="Applicaties bieden gestandaardiseerde koppelvlakken">
+    documentation="Onze applicaties bieden gestandaardiseerde koppelvlakken">
   <properties
       key="Afgeleid van GEMMA principe"
       value="GAP08 (Standaardiseer waar mogelijk) "/>
   <properties
       key="Motivatie"
-      value="Gebruikers verwachten willen een ge�ntegreerde informatievoorziening ervaren. Dit vraagt een verre mate van integratie van applicaties. Anderzijds is het belangrijk dat de informatievoorziening flexibel is en dat de impact van veranderingen zo beperkt mogelijk blijft. Door standaardisatie van koppelvlakken (zowel technisch als functioneel) ontstaat maximale flexibiliteit. Open standaarden zorgen ervoor dat leveranciersafhankelijkheden daarbij zoveel mogelijk worden voorkomen. Door functionaliteit en gegevens via gestandaardiseerde koppelvlakken aan te bieden kunnen deze ook relatief eenvoudig via alternatieve kanalen worden ontsloten (bijv. mobiel)."/>
+      value="Wij willen dat gebruikers een naadloze informatievoorziening ervaren. Dit betekent dat onze applicaties goed met elkaar moeten kunnen samenwerken. Tegelijkertijd willen we dat veranderingen zo min mogelijk impact hebben. Door te zorgen voor standaardisatie van koppelvlakken (dit zijn de punten waarop applicaties met elkaar communiceren), maken we onze dienstverlening zo flexibel mogelijk. Het gebruik van open standaarden helpt ons om niet te veel afhankelijk te zijn van specifieke leveranciers. Door informatie en functies via deze gestandaardiseerde koppelvlakken aan te bieden, kunnen we deze ook makkelijk beschikbaar maken via andere kanalen, zoals mobiele apparaten."/>
   <properties
       key="Soort principe"
       value="Afgeleid-principe"/>
@@ -26,7 +26,7 @@
       value="Application"/>
   <properties
       key="Implicatie"
-      value="Applicaties bieden gestandaardiseerde koppelvlakken op basis van overheid, open of de facto standaarden, waarbij de lijst van het Forum Standaardisatie leidend is. Gestandaardiseerde koppelvlakken worden bij voorkeur door de leveranciers van de te koppelen applicaties formeel ondersteund (gecertificeerd). Applicaties die geen standaard koppelvlak bieden met andere applicaties worden met elkaar verbonden via integratie-infrastructuur. Niet-standaard koppelvlakken worden zodanig gedefinieerd dat ze optimaal herbruikbaar zijn voor andere applicaties. Een standaard criterium bij de selectie van applicaties is het bieden van gestandaardiseerde koppelvlakken voor het uitwisselen van de noodzakelijke gegevens."/>
+      value="Onze applicaties bieden gestandaardiseerde koppelvlakken volgens erkende standaarden, waarbij we de lijst van het Forum Standaardisatie volgen. We geven de voorkeur aan leveranciers die deze standaarden officieel ondersteunen (gecertificeerd). Als applicaties geen standaard manier hebben om met andere applicaties te communiceren, verbinden we ze via integratie-infrastructuur. Niet-standaard koppelvlakken worden zo gedefinieerd dat ze optimaal herbruikbaar zijn voor andere applicaties. Bij het selecteren van nieuwe applicaties kijken we altijd of ze gestandaardiseerde koppelvlakken bieden voor het uitwisselen van de benodigde gegevens."/>
   <properties
       key="Type"
       value="principle"/>

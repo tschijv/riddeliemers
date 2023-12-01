@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werken onder Architectuur"
     id="id-ef17916bd7134000a3f3bc51a22514a4"
-    documentation="Iedere oplossing is onderworpen aan een architectuurproces waarbij oplossingen, methoden en richting geëvalueerd worden tegen het bredere geheel van diensten en capaciteiten van de organisatie">
+    documentation="Elke oplossing die we bedenken, gaat door een architectuurproces. Hierbij kijken we hoe deze oplossing past binnen het grotere geheel van onze diensten en mogelijkheden.">
   <properties
       key="Afgeleid van principe"
       value="Gestandaardiseerde werkwijzen, Cloud tenzij"/>
@@ -15,4 +15,10 @@
   <properties
       key="Type"
       value="principle"/>
+  <properties
+      key="Motivatie"
+      value="Door onder architectuur te werken, kunnen we onze processen en informatievoorziening systematisch en doordacht ontwerpen, ontwikkelen en beheren. Dit doen we op basis van een vooraf vastgestelde architectuur. Dit geeft ons een duidelijk overzicht en helpt ons om gericht te sturen op de ontwikkeling van onze organisatie in de richting die we willen. Zo kunnen we goed omgaan met uitdagingen zoals veranderingen in beleid, wetgeving, strategie, afspraken of standaarden. Dit helpt ons om onze doelen te bereiken en ervoor te zorgen dat onze applicaties goed samenwerken."/>
+  <properties
+      key="Implicatie"
+      value="We werken samen aan een gezamenlijke Enterprise Architectuur voor de gemeentelijke ICT-samenwerking. Voor alle projecten die met digitale transformatie te maken hebben, werken we in een projectstartarchitectuur (PSA) de projectarchitectuur uit. Deze projectarchitectuur wordt door een architectuurboard beoordeeld ten opzichte van de Enterprise Architectuur."/>
 </archimate:Principle>

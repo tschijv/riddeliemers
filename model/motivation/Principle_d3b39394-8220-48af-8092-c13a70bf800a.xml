@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Eenmalige vastlegging"
     id="d3b39394-8220-48af-8092-c13a70bf800a"
-    documentation="We leggen gegevens eenmalig vast en vragen op bij de bron.">
+    documentation="Wij leggen de gegevens vast bij de bron. Als we deze nodig hebben, halen we ze daar op.">
   <properties
       key="Architectuurdomein"
       value="Data"/>
@@ -20,10 +20,10 @@
       value="6, 3"/>
   <properties
       key="Motivatie"
-      value="Onder de noemer Common Ground wordt ingezet op het uit elkaar halen &#xA;van applicaties en data hetgeen minder afhankelijkheid van vendoren betekent en het &#xA;voorkomt ook het onnodig dupliceren van data, zodat gewerkt kan worden met �one source &#xA;of truth�; Dit kan leiden tot effici�nter werken en meer tijd voor andere taken. Bovendien draagt het bij aan de nauwkeurigheid en betrouwbaarheid van de gegevens, aangezien de kans op fouten in het proces van gegevensverwerking kleiner wordt. Tegelijkertijd helpt het principe om de privacy van individuen te beschermen, omdat gegevens niet meerdere keren hoeven te worden verzameld en opgeslagen, wat bijdraagt aan de naleving van gegevensbeschermingswetten en -normen."/>
+      value="Onder het motto 'Common"/>
   <properties
       key="Implicatie"
-      value="Op het gebied van gegevensbeheer wordt er nauw samengewerkt door alle betrokken gemeentelijke organisaties op basis van datagedreven architectuur. Gegevens worden gescheiden van de applicaties en processen waarin ze gebruikt worden. Gegevens worden vanuit de bron toegankelijk gemaakt via een datawarehouse. De beschikbaarheid, integriteit en betrouwelijkheid van gegevens waarbogen is de taak van de bronhouder. "/>
+      value="Op het gebied van gegevensbeheer werken alle betrokken gemeentelijke organisaties nauw samen, gebaseerd op een architectuur die uitgaat van data. De gegevens worden losgemaakt van de applicaties en processen waarin ze worden gebruikt. We maken deze toegankelijk via een datawarehouse, rechtstreeks vanuit de bron."/>
   <properties
       key="Type"
       value="principle"/>

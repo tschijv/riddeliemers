@@ -1,8 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datagedreven"
+    name="Data is toegankelijk"
     id="bcc1aa3f-9d09-4fc8-a4ce-a0b934154564"
-    documentation="Data staat centraal in het proces om tot inzichten en uitkomsten te komen">
+    documentation="Wij zorgen ervoor dat data toegankelijk is, zodat we hierop besluiten kunnen nemen.">
   <properties
       key="Soort principe"
       value="Afgeleid-principe"/>
@@ -11,7 +11,7 @@
       value="Cloudstrategie"/>
   <properties
       key="Motivatie"
-      value="Datagedreven werken houdt in dat de data centraal staat en dat applicaties &#xA;functionaliteit hebben die op die data werken om gewenste inzichten en uitkomsten te &#xA;geven. Dit staat diametraal op applicatie-centrisch werken, waarbij de functionaliteit van de &#xA;applicatie centraal staat en de data onderdeel van de applicatie is"/>
+      value="Werken met data betekent dat de data het belangrijkste is. We gebruiken programma's die ons helpen om de informatie uit de data te halen die we nodig hebben. Dit is anders dan wanneer we ons richten op wat een programma kan doen, en de data gewoon een onderdeel van dat programma is."/>
   <properties
       key="Architectuurdomein"
       value="Business"/>
@@ -21,4 +21,7 @@
   <properties
       key="Type"
       value="principle"/>
+  <properties
+      key="Implicatie"
+      value="Wij maken afspraken met de mensen die ons de data geven over hoe we bij die data kunnen komen, of het altijd beschikbaar is en of het klopt."/>
 </archimate:Principle>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verminderd inloggen"
     id="6273d776-48eb-4e05-9d25-d190322f940c"
-    documentation="Gebruikers worden niet geconfronteerd met overbodige authenticaties">
+    documentation="Wij zorgen ervoor dat gebruikers niet steeds opnieuw hoeven in te loggen.">
   <properties
       key="Architectuurdomein"
       value="Application"/>
@@ -14,7 +14,7 @@
       value="Identity- en accessmanagement"/>
   <properties
       key="Implicatie"
-      value="Gebruikers hebben bij voorkeur maar ��n account. Er zijn centrale authenticatievoorzieningen aanwezig die alle voor applicaties noodzakelijke authenticatiefunctionaliteit bieden. Applicaties voeren zelf geen authenticatie uit, maar vertrouwen op tokens die zijn gegenereerd door centrale authenticatievoorzieningen."/>
+      value="We gebruiken een systeem waarbij een gebruiker maar één keer hoeft in te loggen (SSO). Er zijn centrale plekken die zorgen voor de juiste controle van wie iemand is. Apps doen dit niet zelf, maar maken gebruik van deze centrale plekken."/>
   <properties
       key="Afgeleid van GEMMA principe"
       value="GAP16 (Streef naar eenvoud)"/>
@@ -26,7 +26,7 @@
       value="1.&#x9;Werken aan een eigentijds en robuust ICT-fundament"/>
   <properties
       key="Motivatie"
-      value="Gebruikers vinden het lastig als ze voor elke applicatie opnieuw moeten inloggen. In veel gevallen is dat ook niet nodig en kan een initi�le authenticatie voldoende zijn voor toegang tot allerlei applicaties. In een aantal gevallen is een extra authenticatie echter gewenst, bijvoorbeeld als de gebruiker toegang probeert te krijgen tot meer gevoelige gegevens of functionaliteit."/>
+      value="We weten dat het vervelend is om voor elke app opnieuw in te loggen. Vaak is dit ook niet nodig. Eén keer inloggen kan genoeg zijn om bij verschillende apps te komen. Soms is extra inloggen wel nodig, bijvoorbeeld als iemand bij gevoelige informatie wilt komen."/>
   <properties
       key="Type"
       value="principle"/>

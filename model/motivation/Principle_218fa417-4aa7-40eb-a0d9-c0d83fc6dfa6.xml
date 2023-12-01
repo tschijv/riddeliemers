@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Controle bij bron"
     id="218fa417-4aa7-40eb-a0d9-c0d83fc6dfa6"
-    documentation="De kwaliteit van gegevens wordt zo dicht mogelijk bij de bron gecontroleerd">
+    documentation="Wij controleren bij de bron of de gegevens kloppen.">
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
       value="6.&#x9;Op orde brengen van het informatie- en gegevensbeheer"/>
@@ -11,7 +11,7 @@
       value="GAP12 (Informeer bij de bron) "/>
   <properties
       key="Implicatie"
-      value="Gegevens worden uitgebreid gevalideerd voordat ze worden opgeslagen. Gebruikers worden bewust gemaakt van de consequentie van het verkeerd invullen van gegevens. Gegevens hoeven na de uitgebreide validatie niet nogmaals gevalideerd te worden. Er worden elektronische formulieren geboden aan klanten waarmee ze zelf kun gegevens kunnen invoeren/wijzigen. Gegevens worden niet geschoond bij het laden van het datawarehouse. Gegevenskwaliteitsproblemen worden opgelost in het bronsysteem."/>
+      value="We kijken alle gegevens goed na voordat we ze opslaan. We laten mensen weten dat het belangrijk is om alles goed in te vullen. Na deze grondige controle hoeven we de gegevens niet nog een keer na te kijken. We geven onze klanten formulieren die ze zelf kunnen invullen of veranderen. We maken de gegevens niet schoon als we het opslaan in onze grote opslagplaats (datawarehouse). Als er iets mis is met de kwaliteit van de gegevens, lossen we dit op waar de gegevens vandaan komen (bronsysteem)."/>
   <properties
       key="Soort principe"
       value="Afgeleid-principe"/>
@@ -23,7 +23,7 @@
       value="Gegevens bij de bron"/>
   <properties
       key="Motivatie"
-      value="De kwaliteit van gegevens is in het algemeen erg belangrijk. Door bij invoer alle gegevens grondig te controleren is de kans het kleinst dat hier vervuiling in op treedt. Het is de bron zelf (bijv. de klant) die het beste en meest actuele beeld heeft van de gegevens. Als degene die de gegevens heeft ze ook levert dan worden onnodige tussenliggende lagen voorkomen. Hierdoor wordt de effici�ntie en betrouwbaarheid van de gegevens verhoogt omdat iedere schakel in de keten vertraging oplevert en een mogelijke bron van fouten is."/>
+      value="Het is belangrijk dat gegevens goed zijn. Daarom kijken we alles goed na als we het binnenkrijgen. Zo zorgen we ervoor dat er geen fouten in komen. De persoon die ons de gegevens geeft (bijvoorbeeld een klant), weet het meest over die informatie. Als deze persoon ons de gegevens geeft, hoeven we niet nog meer mensen te vragen. Dit maakt het sneller en betrouwbaarder, omdat elke extra stap kan zorgen voor vertraging of fouten."/>
   <properties
       key="Thema"
       value="Gegevensbeheer"/>

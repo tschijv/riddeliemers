@@ -2,19 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toegankelijkheid en veiligheid in balans"
     id="28b0c16a-67bc-497d-aa2b-2fcf1e782254"
-    documentation="Balanseer altijd de veiligheid met de toegankelijkheid van applicaties.">
+    documentation="We zorgen altijd voor een evenwicht tussen de veiligheid en de toegankelijkheid van onze applicaties.">
   <properties
       key="Soort principe"
       value="Architectuurprincipe"/>
   <properties
       key="Implicatie"
-      value="Dit kan leiden tot een herziening van beveiligingsmaatregelen en ontwerppraktijken, extra kosten en middelen, en de noodzaak om medewerkers te trainen in het vinden van de juiste balans. Bovendien kan het gevolgen hebben voor samenwerking en gegevensuitwisseling tussen verschillende afdelingen of organisaties."/>
+      value="Dit kan betekenen dat we hoe we dingen beveiligen en ontwerpen moeten herzien. Het kan extra kosten met zich meebrengen en meer middelen nodig hebben. Ook kan het nodig zijn om onze medewerkers te leren hoe ze dit evenwicht kunnen vinden. Daarnaast kan het invloed hebben op hoe we samenwerken en informatie delen met andere afdelingen of organisaties."/>
   <properties
       key="Thema"
       value="Algemeen"/>
   <properties
       key="Motivatie"
-      value="In een tijd waarin cyberdreigingen en gegevenslekken steeds vaker voorkomen, is het cruciaal om de veiligheid van applicaties te waarborgen. Tegelijkertijd is het essentieel om ervoor te zorgen dat applicaties toegankelijk en gebruiksvriendelijk zijn, zodat medewerkers en andere belanghebbenden effici�nt kunnen werken en optimaal gebruik kunnen maken van de beschikbare technologie."/>
+      value="In deze tijd waarin online bedreigingen en datalekken steeds vaker voorkomen, is het voor ons belangrijk om onze applicaties veilig te houden. Maar we willen ook dat ze makkelijk te gebruiken zijn. Zo kunnen onze medewerkers en andere mensen die er belang bij hebben, goed werken en het beste uit de technologie halen. We zoeken dus naar een evenwicht."/>
   <properties
       key="Architectuurdomein"
       value="Application"/>

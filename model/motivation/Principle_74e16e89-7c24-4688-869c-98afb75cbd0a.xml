@@ -2,16 +2,16 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hergebruik gegevens"
     id="74e16e89-7c24-4688-869c-98afb75cbd0a"
-    documentation="Gegevens worden hergebruikt">
+    documentation="Wij hergebruiken gegevens">
   <properties
       key="Afgeleid van GEMMA principe"
       value="GAP06 (Hergebruik voor kopen, voor maken)"/>
   <properties
       key="Implicatie"
-      value="Klanten wordt niet gevraagd naar gegevens die de organisatie zelf al beschikbaar heeft of die eenvoudig toegankelijk zijn voor de organisatie. Reeds bekende gegevens worden vooringevuld in formulieren, waarbij klanten de mogelijkheid krijgen om aan te geven of deze gegevens kloppen. Er zijn kernregistraties ingericht voor gegevens die breed binnen de organisatie worden gebruikt. Er zijn duidelijke afspraken over gegevens die worden uitgewisseld met anderen en de standaarden die daarbij gehanteerd worden. Vermeende onjuistheden in gegevens worden teruggemeld aan de bronhouder van de gegevens. Iedere gegevensverzameling heeft een eigenaar die verantwoordelijk is voor beschikbaarheid, integriteit, vertrouwelijkheid, volledigheid en kwaliteit. Voor alle soorten gegevens is bekend welke applicatie deze gegevens beheert en daarmee de bron is voor afnemers. Gegevens zijn uniek identificeerbaar en voorzien van relevante contextinformatie en metadata. Verwijzen naar gegevens heeft de voorkeur boven kopi�ren."/>
+      value="We vragen gebruikers niet om gegevens die wij al hebben of makkelijk kunnen krijgen. Gegevens die we al kennen, vullen we alvast in op formulieren. Gebruikers kunnen dan aangeven of deze gegevens kloppen. We hebben belangrijke registraties voor gegevens die we veel gebruiken. We hebben duidelijke afspraken over het delen van gegevens met anderen en welke regels daarbij horen. Als we denken dat er iets niet klopt aan de gegevens, laten we dat weten aan de persoon die de gegevens heeft gegeven. Elke verzameling van gegevens heeft een eigenaar die verantwoordelijk is voor de datakwaliteit en informatiebeveiliging. Voor alle soorten gegevens weten we welke applicatie deze beheert en dus de bron is voor anderen. Gegevens kunnen uniek worden geïdentificeerd en zijn beschreven met extra context-informatie (metadata). We verwijzen liever naar gegevens dan dat we deze kopiëren."/>
   <properties
       key="Motivatie"
-      value="Gegevens zijn de basis voor processen en moeten gewoon beschikbaar zijn met een voldoende kwaliteitsniveau. Door gegevens op ��n plaats te beheren wordt het delen ervan veel eenvoudiger en worden mogelijke inconsistenties voorkomen. Binnen de Nederlandse overheid is afgesproken dat burgers niet wordt gevraagd om gegevens waar de overheid zelf al over beschikt."/>
+      value="Gegevens zijn de bouwstenen van onze processen en moeten altijd beschikbaar zijn met goede kwaliteit. Door gegevens op één plek te beheren, kunnen we ze makkelijker delen en voorkomen we fouten. We hebben afgesproken dat we burgers niet vragen om informatie die wij al hebben."/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
       value="2.&#x9;Harmoniseren en standaardiseren waar mogelijk, maatwerk waar nodig"/>
