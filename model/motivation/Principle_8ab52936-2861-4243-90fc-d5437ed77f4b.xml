@@ -30,4 +30,7 @@
   <properties
       key="Type"
       value="principle"/>
+  <properties
+      key="Raakvlak met datastrategie"
+      value="Ambitie 2: Datagedreven werken systematischer aanpakken. Rollen, werkprocessen en datakwaliteit:"/>
 </archimate:Principle>

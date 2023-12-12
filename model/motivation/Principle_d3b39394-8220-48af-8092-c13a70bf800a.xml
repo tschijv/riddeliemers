@@ -8,7 +8,7 @@
       value="Data"/>
   <properties
       key="Thema"
-      value="Algemeen, Cloudstrategie"/>
+      value="Algemeen"/>
   <properties
       key="Afgeleid van GEMMA principe"
       value="Common Ground"/>
@@ -17,7 +17,7 @@
       value="Architectuurprincipe"/>
   <properties
       key="Raakvlak met speerpunt I&amp;A-visie"
-      value="6, 3"/>
+      value="6. Op orde brengen van het informatie- en gegevensbeheer, 3.&#x9;Verder verbeteren op informatiebeveiliging en privacy, 2.&#x9; Harmoniseren en standaardiseren waar mogelijk, maatwerk waar nodig"/>
   <properties
       key="Motivatie"
       value="Onder het motto 'Common Ground' streven wij ernaar om applicaties en data los van elkaar te maken. Dit maakt ons minder afhankelijk van leveranciers en voorkomt dat we gegevens onnodig dubbel opslaan. Zo werken we met één betrouwbare bron. Dit maakt ons werk efficiënter en geeft ons meer tijd voor andere taken. Het helpt ook om de gegevens nauwkeurig en betrouwbaar te houden, omdat er minder kans is op fouten bij het verwerken van de gegevens. Tegelijkertijd beschermt dit principe de privacy van mensen, omdat we hun gegevens niet meerdere keren hoeven te verzamelen en op te slaan. Dit helpt ons om aan de regels voor gegevensbescherming te voldoen."/>
@@ -27,4 +27,7 @@
   <properties
       key="Type"
       value="principle"/>
+  <properties
+      key="Raakvlak met datastrategie"
+      value="Ambitie 1: Leren van en met data. "/>
 </archimate:Principle>

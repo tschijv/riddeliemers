@@ -15,4 +15,7 @@
   <properties
       key="Type"
       value="principle"/>
+  <properties
+      key="Thema"
+      value="Algemeen"/>
 </archimate:Principle>
